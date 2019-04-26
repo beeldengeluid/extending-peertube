@@ -13,3 +13,6 @@ CSS styling (Hyves anyone?)
 * https://wetube.moe/
 * https://peertube.live/
 * https://video.colibris-outilslibres.org/
+* https://diode.zone/
+* https://queertube.org/
+* https://video.rastapuls.com/
