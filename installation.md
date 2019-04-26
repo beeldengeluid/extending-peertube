@@ -14,7 +14,7 @@ For installation on localhost you either need a Virtual Machine or a desktop/lap
 
 As root user, install basic utility programs needed for the installation:
 
-```console
+```sh
 $ sudo apt curl sudo unzip vim
 ```
 
@@ -31,13 +31,13 @@ Next you have to install the following dependencies:
 
 First start with NodeJS (and npm) and Yarn:
 
-```console
+```sh
 $ sudo apt install nodejs npm -y
 ```
 
 For Yarn we need an extra source in the repositories list otherwise Ubuntu recommends you to install the `cmdtest` package (which contains a binary with the same name `yarn`).
 
-```console
+```sh
 $ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 $ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 $ sudo apt update
@@ -46,13 +46,13 @@ $ sudo apt install yarn
 
 Then continue with the rest:
 
-```console
+```sh
 $ sudo apt install nginx ffmpeg postgresql postgresql-contrib openssl g++ make redis-server git python-dev
 ```
 
 Now that dependencies are installed, before running PeerTube you should start PostgreSQL and Redis:
 
-```console
+```sh
 $ sudo systemctl start redis postgresql
 ```
 
@@ -62,7 +62,7 @@ Before starting the installation you have to decide on a domain name which you w
 
 Your chosen domain name then needs to be added to your local DNS. For this you add an entry as follows:
 
-```console
+```sh
 $ sudo vim /etc/hosts
 ```
 
@@ -76,26 +76,26 @@ https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/
 
 First install `certutil`:
 
-```console
+```sh
 $ sudo apt install libnss3-tools
 ```
 
 Then download the binary to /usr/local/bin/ and make it executable:
 
-```console
-sudo wget https://github.com/FiloSottile/mkcert/releases/download/v1.3.0/mkcert-v1.3.0-linux-amd64 -O /usr/local/bin/mkcert
-sudo chmod +x /usr/local/bin/mkcert
+```sh
+$ sudo wget https://github.com/FiloSottile/mkcert/releases/download/v1.3.0/mkcert-v1.3.0-linux-amd64 -O /usr/local/bin/mkcert
+$ sudo chmod +x /usr/local/bin/mkcert
 ```
 
 Now you can use it by generating a local Certificate Authority (CA):
 
-```console
+```sh
 $ mkcert -install
 ```
 
 And generate certificate for the localhost domain name:
 
-```console
+```sh
 $ mkcert peertube.yourcompany.com localhost 127.0.0.1 ::1
 ```
 
@@ -110,13 +110,13 @@ The following steps for installation of PeerTube (user, database, directories, i
 
 Create a `peertube` user with `/var/www/peertube` home:
 
-```console
+```sh
 $ sudo useradd -m -d /var/www/peertube -s /bin/bash -p peertube peertube
 ```
 
 Set its password:
 
-```console
+```sh
 $ sudo passwd peertube
 ```
 
@@ -124,14 +124,14 @@ $ sudo passwd peertube
 
 Create the production database and a peertube user inside PostgreSQL:
 
-```console
+```sh
 $ sudo -u postgres createuser -P peertube
 $ sudo -u postgres createdb -O peertube peertube_prod
 ```
 
 Then enable extensions PeerTube needs:
 
-```console
+```sh
 $ sudo -u postgres psql -c "CREATE EXTENSION pg_trgm;" peertube_prod
 $ sudo -u postgres psql -c "CREATE EXTENSION unaccent;" peertube_prod
 ```
@@ -140,26 +140,26 @@ $ sudo -u postgres psql -c "CREATE EXTENSION unaccent;" peertube_prod
 
 Fetch the latest tagged version of Peertube
 
-```console
+```sh
 $ VERSION=$(curl -s https://api.github.com/repos/chocobozzz/peertube/releases/latest | grep tag_name | cut -d '"' -f 4) && echo "Latest Peertube version is $VERSION"
 ```
 
 Open the peertube directory, create a few required directories
 
-```console
+```sh
 $ cd /var/www/peertube && sudo -u peertube mkdir config storage versions && cd versions
 ```
 
 Download the latest version of the Peertube client, unzip it and remove the zip
 
-```console
+```sh
 $ sudo -u peertube wget -q "https://github.com/Chocobozzz/PeerTube/releases/download/${VERSION}/peertube-${VERSION}.zip"
 $ sudo -u peertube unzip peertube-${VERSION}.zip && sudo -u peertube rm peertube-${VERSION}.zip
 ```
 
 Install Peertube:
 
-```console
+```sh
 $ cd ../ && sudo -u peertube ln -s versions/peertube-${VERSION} ./peertube-latest
 $ cd ./peertube-latest && sudo -H -u peertube yarn install --production --pure-lockfile
 ```
@@ -168,7 +168,7 @@ $ cd ./peertube-latest && sudo -H -u peertube yarn install --production --pure-l
 
 Copy example configuration:
 
-```console
+```sh
 $ cd /var/www/peertube && sudo -u peertube cp peertube-latest/config/production.yaml.example config/production.yaml
 ```
 
@@ -178,14 +178,14 @@ Then edit the `config/production.yaml` file according to your webserver configur
 
 Copy the nginx configuration template:
 
-```console
+```sh
 $ sudo cp /var/www/peertube/peertube-latest/support/nginx/peertube /etc/nginx/sites-available/peertube
 ```
 
 Then modify the webserver configuration file. Please pay attention to the `alias` keys of the static locations.
 It should correspond to the paths of your storage directories (set in the configuration file inside the `storage` key).
 
-```console
+```sh
 $ sudo vim /etc/nginx/sites-available/peertube
 ```
 
@@ -197,26 +197,26 @@ Change the domain name globally by using this command in vim:
 
 Update the paths to the SSL certificates to `/var/www/peertube.yourcompany.com+3.pem` and `/var/www/peertube.yourcompany.com+3-key.pem` and move the two `.pem` files with (assuming you generated them in your home directory with mkcert):
 
-```console
+```sh
 $ sudo mv ~/peertube.yourcompany.com+3.pem /var/www/peertube.yourcompany.com+3.pem
 $ sudo mv ~/peertube.yourcompany.com+3-key.pem /var/www/peertube.yourcompany.com+3-key.pem
 ```
 
 Activate the configuration file:
 
-```console
+```sh
 $ sudo ln -s /etc/nginx/sites-available/peertube /etc/nginx/sites-enabled/peertube
 ```
 
 Now you have the certificates you can reload nginx:
 
-```console
+```sh
 $ sudo systemctl reload nginx
 ```
 
 ## TCP/IP Tuning
 
-```console
+```sh
 $ sudo cp /var/www/peertube/peertube-latest/support/sysctl.d/30-peertube-tcp.conf /etc/sysctl.d/
 $ sudo sysctl -p /etc/sysctl.d/30-peertube-tcp.conf
 ```
@@ -229,31 +229,31 @@ links as we often encounter in a video server.
 
 If your OS uses systemd, copy the configuration template:
 
-```console
+```sh
 $ sudo cp /var/www/peertube/peertube-latest/support/systemd/peertube.service /etc/systemd/system/
 ```
 
 Update the service file:
 
-```console
+```sh
 $ sudo vim /etc/systemd/system/peertube.service
 ```
 
 Tell systemd to reload its config:
 
-```console
+```sh
 $ sudo systemctl daemon-reload
 ```
 
 If you want to start PeerTube on boot:
 
-```console
+```sh
 $ sudo systemctl enable peertube
 ```
 
 Run:
 
-```console
+```sh
 $ sudo systemctl start peertube
 $ sudo journalctl -feu peertube
 ```
@@ -262,7 +262,7 @@ $ sudo journalctl -feu peertube
 
 The administrator (root) password is automatically generated and can be found in the logs. You can set another password with:
 
-```console
+```sh
 $ cd /var/www/peertube/peertube-latest && NODE_CONFIG_DIR=/var/www/peertube/config NODE_ENV=production npm run reset-password -- -u root
 ```
 
