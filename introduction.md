@@ -73,7 +73,7 @@ Software:
 * NodeJS (Javascript)
 * Yarn (Dependency package manager)
 
-Join PeerTube!
+## Join PeerTube!
 
 [#JoinPeerTube](https://joinpeertube.org/)
 
