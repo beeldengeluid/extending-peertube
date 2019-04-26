@@ -29,4 +29,4 @@ Some basic understanding of UNIX/Linux and using the Command Line Interface coul
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+The content of this project is licensed under the [GNU Affero General Public License v3.0](LICENSE.md)
