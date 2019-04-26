@@ -270,5 +270,5 @@ $ cd /var/www/peertube/peertube-latest && NODE_CONFIG_DIR=/var/www/peertube/conf
 
 Now your instance is up you can:
  
- * Subscribe to the mailing list for PeerTube administrators: https://framalistes.org/sympa/subscribe/peertube-admin
+ * Subscribe to the mailing list for PeerTube administrators: <https://framalistes.org/sympa/subscribe/peertube-admin>
  * Check [available CLI tools](https://github.com/Chocobozzz/PeerTube/blob/develop/support/doc/tools.md)
