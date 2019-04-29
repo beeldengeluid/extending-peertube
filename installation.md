@@ -72,7 +72,7 @@ Just add `127.0.0.1 peertube.yourcompany.com` to the existing list of localhost 
 
 HTTPS is needed for the client connection to the PeerTube instance, so a valid certificate needs to be generated for localhost. For this you can use `mkcert` as a simple solution.
 
-https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/
+<https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/>
 
 First install `certutil`:
 

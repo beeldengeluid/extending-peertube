@@ -64,6 +64,12 @@ Install on any OS (except Windows):
 * macOS
 * YunoHost (Debian-based)
 
+Hardware:
+
+* RAM 1GB
+* CPU 1 core if you don't enable transcoding, 2 at least if you enable it (works with 1 but this is really slow)
+* Storage completely depends on how many videos your users will upload
+
 Software:
 
 * Nginx (Web server)
