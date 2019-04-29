@@ -4,7 +4,7 @@ This is the documentation repository for the exploration of the PeerTube platfor
 
 ## Getting Started
 
-* [Introduction](introduction.md)
+* [Introduction](introduction.md) - [PDF](pdf/PeerTube.pdf)
 * [Installation](installation.md)
 * Configuration (TODO)
 * Styling (TODO)
@@ -13,10 +13,10 @@ This is the documentation repository for the exploration of the PeerTube platfor
 
 Some basic understanding of UNIX/Linux and using the Command Line Interface could be helpful. For some further reading the following resources are recommended.
 
-* https://en.wikipedia.org/wiki/PeerTube
-* https://en.wikipedia.org/wiki/WebTorrent
-* https://en.wikipedia.org/wiki/WebRTC
-* https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License
+* <https://en.wikipedia.org/wiki/PeerTube>
+* <https://en.wikipedia.org/wiki/WebTorrent>
+* <https://en.wikipedia.org/wiki/WebRTC>
+* <https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License>
 
 ## Authors
 
