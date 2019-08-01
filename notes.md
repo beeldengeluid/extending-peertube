@@ -47,3 +47,13 @@ CSS styling (Hyves anyone?)
 * https://diode.zone/
 * https://queertube.org/
 * https://video.rastapuls.com/
+
+## Licenses
+
+* Attribution
+* Attribution - Share Alike
+* Attribution - No Derivatives
+* Attribution - Non Commercial
+* Attribution - Non Commercial - Share Alike
+* Attribution - Non Commercial - No Derivatives
+* Public Domain Dedication
