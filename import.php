@@ -58,26 +58,9 @@
 
 	$auth_header = 'Authorization: '.$array_token['token_type'].' '.$array_token['access_token'];
 
-	// Upload video
+	// Upload videos
 
 	$url = $api_url.'/videos/imports'; 
-
-	$array_video['name'] = 'Test2';
-	$array_video['channelId'] = 2;
-	$array_video['targetUrl'] = 'https://www.openbeelden.nl/files/56/56216.56205.BG_9541.ogv';
-	$array_video['language'] = 'nl';
-	$array_video['licence'] = '7';
-	$array_video['privacy'] = '1';
-	$array_video['commentsEnabled'] = '1';
-	$array_video['description'] = "Weeknummer 34-05\nBioscoopjournaals waarin Nederlandse onderwerpen van een bepaalde week worden gepresenteerd.\n\nVoorbereidingen voor carnaval in de dierenwereld: een paard imiteert Charlie Chaplin. -Div. shots als Charlie Chaplin vermomd paard; -div. titel(s)/tussentitel(s).\n\nPolygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)";
-
-	//$array_video['originallyPublishedAt'] = '1934-01-29';
-
-
-	// https://www.openbeelden.nl/files/11/53/1153654.1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.mp4; https://www.openbeelden.nl/files/11/53/1153656.1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.mp4; https://www.openbeelden.nl/files/11/53/1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.mp4; https://www.openbeelden.nl/files/11/53/1153658.1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.webm; https://www.openbeelden.nl/files/11/53/1153660.1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.ogv; https://www.openbeelden.nl/files/11/53/1153662.1153651.WEEKNUMMER483-HRE0001B08B_2810800_2962360.ogv; https://www.openbeelden.nl/files/11/53/1156397.1153651.WEEKNUMMER483_HRE0001B08B_2810800_2962360.m3u8; https://www.openbeelden.nl/images/1153894/Wereldconferentie_der_Kerken_openingsdienst_in_de_Nieuwe_Kerk_zitting_in_het_Concertgebouw_%281_15%29.png
-
-
-	// https://www.openbeelden.nl/files/56/56219.56205.BG_9541.mp4; https://www.openbeelden.nl/files/56/56213.56205.BG_9541.ogv; https://www.openbeelden.nl/files/56/56216.56205.BG_9541.ogv; https://www.openbeelden.nl/files/56/56225.56205.BG_9541.m3u8; https://www.openbeelden.nl/files/56/56222.56205.BG_9541.ts; https://www.openbeelden.nl/files/56/56209.56205.BG_9541.mpeg; https://www.openbeelden.nl/files/56/56205.BG_9541.mpg; https://www.openbeelden.nl/images/604258/Persoonlijke_kampioenschappen_beugelen_in_Stramproy_%280_41%29.png
 
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
@@ -85,16 +68,145 @@
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
 
-	// Loop items on same cURL handler
+	// Loop through CSV records
 
-	curl_setopt($ch, CURLOPT_POSTFIELDS, $array_video);
-	curl_setopt($ch, CURLOPT_HTTPHEADER, array($auth_header));
-	$json = curl_exec($ch);
-	
-	$array = json_decode($json, TRUE);
-	print_r($array);
+	function get_str($str) {
+		$str_array = explode(";", $str);
+		return trim($str_array[0]);
+	}
 
-	// End loop
+	$i = 0;
+
+	if (($handle = fopen("openbeelden_beng.tsv", "r")) !== FALSE) {
+		while (($data = fgetcsv($handle, 4096, "\t")) !== FALSE) {
+
+			if ($i > 200 && $i <= 300) {
+
+				$title = get_str($data[1]);
+				$header = get_str($data[2]);
+				$creator = get_str($data[3]);
+
+				$tags = explode(";", $data[4]);
+
+				$description = str_replace("; Newsreels in which Dutch subjects of a certain week are presented.","",$data[5]);
+
+				$date = $data[9];
+
+				$video = $data[12];
+				$video_array = explode(";", $video);
+
+				foreach ($video_array as $item) {
+					$item = trim($item);
+					if (substr($item, -3) == 'mp4') {
+						$video_link = $item;
+					}
+				}
+
+				$licence_link = get_str($data[20]);
+
+				$licence = "0";
+
+				if ($licence_link == 'https://creativecommons.org/licenses/by/3.0/nl/') {
+					$licence = "1";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/licenses/by-sa/3.0/nl/') {
+					$licence = "2";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/licenses/by-nd/3.0/nl/') {
+					$licence = "3";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/licenses/by-nc/3.0/nl/') {
+					$licence = "4";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/licenses/by-nc-sa/3.0/nl/') {
+					$licence = "5";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/publicdomain/mark/1.0/') {
+					$licence = "7";
+				}
+
+				if ($licence_link == 'https://creativecommons.org/publicdomain/zero/1.0/') {
+					$licence = "7";
+				}
+
+				/*
+
+				// Print data
+
+				echo '<h1>'.$title.'</h1>';
+				echo '<h3>'.$header.'</h3>';
+				echo nl2br($description);
+				echo '<br>';
+				echo '<br>';
+				echo $creator;
+				echo '<br>';
+				echo '<br>';
+				echo $date;
+				echo '<br>';
+				echo '<br>';
+				echo $tags;
+				echo '<br>';
+				echo '<br>';
+				echo $video_link;
+				echo '<br>';
+				echo '<br>';
+				echo $licence_link;
+
+				*/
+
+				$array_video = array();
+
+				$array_video['name'] = $title;
+				$array_video['channelId'] = 2;
+				$array_video['targetUrl'] = $video_link;
+				$array_video['language'] = 'nl';
+				if ($licence != "0") {
+					$array_video['licence'] = $licence;
+				}
+				$array_video['privacy'] = '1';
+
+				/*
+				TAGS: { min: 0, max: 5 }, // Number of total tags
+    		TAG: { min: 2, max: 30 }, // Length
+    		*/
+
+				$j = 0;
+				foreach ($tags as $tag) {
+					$tag = trim($tag);
+					if ($tag != "" && strlen($tag) > 32) {
+						continue;
+					}
+					$array_video['tags['.$j.']'] = $tag;
+					$j++;
+					if ($j == 5) {
+						break;
+					}
+				}
+
+				$array_video['commentsEnabled'] = '1';
+				$array_video['description'] = $header."\n\n".$description."\n\n".$creator;
+				$array_video['originallyPublishedAt'] = $date;
+
+				curl_setopt($ch, CURLOPT_POSTFIELDS, $array_video);
+				curl_setopt($ch, CURLOPT_HTTPHEADER, array($auth_header));
+				$json = curl_exec($ch);
+				
+				$array = json_decode($json, TRUE);
+				print_r($array);
+
+			}
+
+			$i++;
+
+		}
+	}
+
+	fclose($handle);
 
 	curl_close($ch);
 
