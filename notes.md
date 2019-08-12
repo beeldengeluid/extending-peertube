@@ -31,15 +31,11 @@
 * https://itsfoss.com/install-nodejs-ubuntu/
 * https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/
 
-Publication date and search on year will be added in a future release.
-
-* https://github.com/Chocobozzz/PeerTube/pull/1285
-
-Roadmap 2019
+## Roadmap 2019
 
 * https://github.com/Chocobozzz/PeerTube/projects/4
 
-CSS styling (Hyves anyone?)
+## CSS styling (Hyves anyone?)
 
 * https://wetube.moe/
 * https://peertube.live/
@@ -48,7 +44,9 @@ CSS styling (Hyves anyone?)
 * https://queertube.org/
 * https://video.rastapuls.com/
 
-## Licenses
+## (CC) Licenses
+
+* https://peertube.cpy.re/api/v1/videos/licences
 
 * Attribution
 * Attribution - Share Alike
