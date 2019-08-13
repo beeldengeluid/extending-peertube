@@ -53,18 +53,19 @@
 
 	$i = 1;
 
-	if (($handle = fopen('openbeelden.csv', 'r')) !== FALSE) {
+	if (($handle = fopen('natuurbeelden.csv', 'r')) !== FALSE) {
 		while (($data = fgetcsv($handle, 4096, '|')) !== FALSE) {
 
-			if ($i > 0 && $i <= 10) {
+			if ($i > 0 && $i <= 12) {
 
-				$title = $data[1];
-				$alternative = $data[2];
+				$title = trim($data[1]);
+				$alternative = trim($data[2]);
 				$tags = explode(";", $data[3]);
-				$description = $data[4];
-				$creator = $data[5];
-				$date = $data[6];
-				$licence_link = $data[8];
+				$description = trim($data[4]);
+				$abstract = trim($data[5]);
+				$creator = $data[6];
+				$date = $data[7];
+				$licence_link = $data[9];
 
 				switch ($licence_link) {
 					case 'https://creativecommons.org/licenses/by/3.0/nl/':
@@ -96,7 +97,7 @@
 						break;
 				}
 
-				$video = $data[9];
+				$video = $data[10];
 
 				// Print data
 
@@ -122,7 +123,7 @@
 				$array_video = array();
 
 				$array_video['name'] = $title;
-				$array_video['channelId'] = 2;
+				$array_video['channelId'] = 3;
 				$array_video['targetUrl'] = $video;
 				$array_video['language'] = 'nl';
 				if ($licence != '0') {
@@ -144,15 +145,34 @@
 				}
 
 				$array_video['commentsEnabled'] = '1';
-				$array_video['description'] = $alternative."\n\n".$description."\n\n".$creator;
+
+				$description_ext = '';
+
+				if ($alternative != '') {
+					$description_ext.= $alternative."\n\n";
+				}
+
+				if ($description != '') {
+					$description_ext.= $description."\n\n";
+				}
+
+				if ($abstract != '') {
+					$description_ext.= $abstract."\n\n";
+				}
+
+				if ($creator != '') {
+					$description_ext.= $creator;
+				}
+
+				$array_video['description'] = $description_ext;
 				//$array_video['originallyPublishedAt'] = $date;
 
 				curl_setopt($ch, CURLOPT_POSTFIELDS, $array_video);
 				curl_setopt($ch, CURLOPT_HTTPHEADER, array($auth_header));
 				$json = curl_exec($ch);
 				
-				//$array = json_decode($json, TRUE);
-				//print_r($array);
+				$array = json_decode($json, TRUE);
+				print_r($array);
 
 			}
 

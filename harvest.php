@@ -6,7 +6,7 @@
 	//ini_set('display_errors', 1);
 
 	
-	$fp = fopen('openbeelden.csv', 'w');
+	$fp = fopen('natuurbeelden.csv', 'w');
 	
 	function file_get_url($url) {
 
@@ -26,7 +26,7 @@
 
 		// Timestamp minus 24 hours
 
-		$yesterday = time() - (60*60*24);
+		$yesterday = time() - (7*60*60*24);
 
 		// Check GET request for resumption or set
 
@@ -46,17 +46,17 @@
 
 		} else {
 
-			if (!file_exists('cache/beeldengeluid.xml') || filectime('cache/beeldengeluid.xml') < $yesterday) {
+			if (!file_exists('cache/natuurbeelden.xml') || filectime('cache/natuurbeelden.xml') < $yesterday) {
 
 				// Update cached file
 				
-				if ($file = file_get_url('https://www.openbeelden.nl/feeds/oai/?verb=ListRecords&metadataPrefix=oai_oi&set=beeldengeluid')) {
-					file_put_contents('cache/beeldengeluid.xml', $file);
+				if ($file = file_get_url('https://www.openbeelden.nl/feeds/oai/?verb=ListRecords&metadataPrefix=oai_oi&set=stichting_natuurbeelden')) {
+					file_put_contents('cache/natuurbeelden.xml', $file);
 				};
 				
 			}
 
-			$xml = simplexml_load_file('cache/beeldengeluid.xml');
+			$xml = simplexml_load_file('cache/natuurbeelden.xml');
 
 		}	
 
@@ -81,7 +81,7 @@
 			$rows = $data->children($namespaces['oi']);
 
 			$array_film['identifier'] = $record->header->identifier;
-			$array_film['title'] = $rows->title[0];
+			$array_film['title'] = trim(preg_replace('/\s+/', ' ', $rows->title[0]));
 			$array_film['alternative'] = $rows->alternative[0];
 
 			$array_tags = array();
@@ -94,6 +94,7 @@
 
 			$array_film['tags'] = implode(';', $array_tags);
 			$array_film['description'] = $rows->description[0];
+			$array_film['abstract'] = $rows->abstract[0];
 			$array_film['creator'] = $rows->creator[0];
 			$array_film['date'] = $rows->date[0];
 			$array_film['attributionURL'] = $rows->attributionURL[0];
