@@ -139,7 +139,7 @@
 				$j = 0;
 				foreach ($tags as $tag) {
 					$tag = trim($tag);
-					if ($tag != '' || strlen($tag) > 32) {
+					if ($tag == '' || strlen($tag) > 32) {
 						continue;
 					}
 					$array_video['tags['.$j.']'] = $tag;
