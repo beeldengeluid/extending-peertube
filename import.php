@@ -49,6 +49,11 @@
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
 
+	$ch2 = curl_init();
+	curl_setopt($ch2, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch2, CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch2, CURLOPT_CUSTOMREQUEST, 'PUT');
+
 	// Loop through CSV records
 
 	$i = 1;
@@ -56,7 +61,7 @@
 	if (($handle = fopen('natuurbeelden.csv', 'r')) !== FALSE) {
 		while (($data = fgetcsv($handle, 4096, '|')) !== FALSE) {
 
-			if ($i > 0 && $i <= 12) {
+			if ($i > 24 && $i <= 36) {
 
 				$title = trim($data[1]);
 				$alternative = trim($data[2]);
@@ -174,6 +179,15 @@
 				$array = json_decode($json, TRUE);
 				print_r($array);
 
+				// Update originallyPublishedAt
+
+				$data['originallyPublishedAt'] = $date;
+
+				curl_setopt($ch2, CURLOPT_URL, $api_url.'/videos/'.$array['video']['id']);
+				curl_setopt($ch2, CURLOPT_POSTFIELDS, http_build_query($data));
+				curl_setopt($ch2, CURLOPT_HTTPHEADER, array($auth_header));
+				$json = curl_exec($ch2);
+
 			}
 
 			$i++;
@@ -184,5 +198,6 @@
 	fclose($handle);
 
 	curl_close($ch);
+	curl_close($ch2);
 
 ?>
