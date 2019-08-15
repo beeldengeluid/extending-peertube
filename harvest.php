@@ -109,21 +109,21 @@
 					$array_medium[] = $item[0];
 				}
 			}
-
-			//$array_film['file_webm'] = '';
-			//$array_film['file_ogv'] = '';
+			
 			$array_film['file_mp4'] = '';
+			$array_film['file_ogv'] = '';
+			//$array_film['file_webm'] = '';
 
 			foreach ($array_medium as $item) {
+				if (substr($item, -4) == '.mp4') {
+					$array_film['file_mp4'] = $item;
+				}
+				if (substr($item, -4) == '.ogv') {
+					$array_film['file_ogv'] = $item;
+				}
 				// if (substr($item, -5) == '.webm') {
 				// 	$array_film['file_webm'] = $item;
 				// }
-				// if (substr($item, -4) == '.ogv') {
-				// 	$array_film['file_ogv'] = $item;
-				// }
-				if (substr($item, -4) == '.mp4') {
-					$array_film['file_mp4'] = $item;
-				} 
 			}
 
 			fputcsv($fp, $array_film, '|');
