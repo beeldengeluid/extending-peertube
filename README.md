@@ -6,8 +6,7 @@ This is the documentation repository for the exploration of the PeerTube platfor
 
 * [Introduction](introduction.md) - [PDF](pdf/PeerTube.pdf)
 * [Installation](installation.md)
-* Configuration (TODO)
-* Styling (TODO)
+* [Configuration](configuration.md)
 
 ## Prerequisites
 
