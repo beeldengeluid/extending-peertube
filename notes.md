@@ -55,3 +55,12 @@
 * Attribution - Non Commercial - Share Alike
 * Attribution - Non Commercial - No Derivatives
 * Public Domain Dedication
+
+## Video Captions
+
+* video:https://framatube.org/videos/watch/9c9de5e8-0a1e-484a-b099-e80766180a6d
+* video API: https://framatube.org/api/v1/videos/9c9de5e8-0a1e-484a-b099-e80766180a6d
+* video caption API: https://framatube.org/api/v1/videos/9c9de5e8-0a1e-484a-b099-e80766180a6d
+/captions
+
+* https://schema.org/VideoObject

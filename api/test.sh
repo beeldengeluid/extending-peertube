@@ -62,7 +62,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 1040 < i <= 1041:
+		if 1042 < i <= 1043:
 
 			# Clean data
 
@@ -122,7 +122,8 @@ with open('openbeelden.csv', 'r') as csvfile:
 				'targetUrl': video,
 				'language': 'nl',
 				'privacy': '1',
-				'commentsEnabled': '1',
+				'commentsEnabled': 'false',
+				'downloadEnabled': 'false',
 				'description': description_ext,
 				'tags': tags
 			}
