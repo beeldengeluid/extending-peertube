@@ -21,12 +21,12 @@ client_secret = data['client_secret']
 # Get user token
 
 data = {
-  'client_id': client_id,
-  'client_secret': client_secret,
-  'grant_type': 'password',
-  'response_type': 'code',
-  'username': api_user,
-  'password': api_pass
+	'client_id': client_id,
+	'client_secret': client_secret,
+	'grant_type': 'password',
+	'response_type': 'code',
+	'username': api_user,
+	'password': api_pass
 }
 
 response = requests.post(api_url + '/users/token', data=data)
@@ -43,7 +43,7 @@ headers = {
 # Import Openbeelden videos
 
 def cap(text, length):
-    return text if len(text) <= length else text[0:length-3] + '...'
+	return text if len(text) <= length else text[0:length-3] + '...'
 
 licence_links = {
 	'https://creativecommons.org/licenses/by/3.0/nl/': '1',
@@ -58,11 +58,14 @@ licence_links = {
 
 i = 1
 
+file_delta = open('delta.csv', 'w')
+delta_writer = csv.writer(file_delta, delimiter='|')
+
 with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 1042 < i <= 1043:
+		if 0 < i <= 100:
 
 			# Clean data
 
@@ -89,10 +92,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 
 			title = cap(title, 120)
 
-			if licence_link in licence_links:
-				licence = licence_links[licence_link]
-			else:
-				licence = ''
+			licence = licence_links.get(licence_link, '')
 
 			tags = list(filter(lambda a: len(a) >= 2, tags))
 			tags = list(filter(lambda a: len(a) <= 30, tags))
@@ -114,29 +114,33 @@ with open('openbeelden.csv', 'r') as csvfile:
 			if creator:
 				description_ext += creator
 
-			# Import video
+			# Import video, use multipart/form-data request with 'files'
 
 			data = {
-				'name': title,
-				'channelId': channel_id,
-				'targetUrl': video,
-				'language': 'nl',
-				'privacy': '1',
-				'commentsEnabled': 'false',
-				'downloadEnabled': 'false',
-				'description': description_ext,
-				'tags': tags
+				'name': (None, title),
+				'channelId': (None, str(channel_id)),
+				'targetUrl': (None, video),
+				'language': (None, 'nl'),
+				'privacy': (None, '1'),
+				'commentsEnabled': (None, 'false'),
+				'downloadEnabled': (None, 'false'),
+				'description': (None, description_ext)
 			}
 
-			if licence:
-				data['licence'] = licence
+			# create indexed array for tags
 
-			response = requests.post(api_url + '/videos/imports', headers=headers, data=data)
+			for j in range(len(tags)):
+				data['tags[' + str(j) +']'] = (None, tags[j])
+
+			if licence:
+				data['licence'] = (None, licence)
+
+			response = requests.post(api_url + '/videos/imports', headers=headers, files=data)
 			data = response.json()
 
-			print json.dumps(data, indent=2)
+			# print json.dumps(data, indent=2)
 
-			if 'errors' not in data:
+			if response.status_code == requests.codes.ok:
 
 				uuid = data['video']['uuid']
 
@@ -148,5 +152,11 @@ with open('openbeelden.csv', 'r') as csvfile:
 
 				requests.put(api_url + '/videos/' + uuid, headers=headers, data=data)
 
+			else:
+
+				row.append(data)
+				delta_writer.writerow(row)
 
 		i += 1
+
+file_delta.close()
