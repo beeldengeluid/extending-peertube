@@ -15,7 +15,7 @@ For installation on localhost you either need a Virtual Machine or a desktop/lap
 As root user, install basic utility programs needed for the installation:
 
 ```sh
-$ sudo apt curl sudo unzip vim
+$ sudo apt curl unzip vim
 ```
 
 (On Ubuntu `sudo` is already pre-installed. If not, use the root account to install `sudo` first)
@@ -25,14 +25,15 @@ Next you have to install the following dependencies:
 * nginx
 * PostgreSQL >= 9.6
 * Redis >= 2.8.18
-* NodeJS >= 8.x
+* NodeJS >= 10.x
 * yarn >= 1.x
 * FFmpeg >= 3.x
 
 First start with NodeJS (and npm) and Yarn:
 
 ```sh
-$ sudo apt install nodejs npm -y
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+$ sudo apt install -y nodejs
 ```
 
 For Yarn we need an extra source in the repositories list otherwise Ubuntu recommends you to install the `cmdtest` package (which contains a binary with the same name `yarn`).
