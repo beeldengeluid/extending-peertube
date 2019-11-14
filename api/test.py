@@ -5,9 +5,8 @@ import requests, json
 # API vars
 
 api_url = 'https://peertube.beeldengeluid.nl/api/v1'
-api_user = 'nisv'
-api_pass = 'openbeelden'
-channel_id = 2
+api_user = 'root'
+api_pass = 'tazifosemigefuki'
 
 # Get client
 
@@ -38,28 +37,36 @@ headers = {
 	'Authorization': token_type + ' ' + access_token
 }
 
+response = requests.get(api_url + '/jobs/failed?count=1', headers=headers)
+data = response.json()
+
+print json.dumps(data, indent=2)
+
 # files = {
 #     'channelId': (None, '2'),
-#     'name': (None, 'Test'),
-#     'tags[0]': (None, 'tentoon'),
+#     'name': (None, 'TestYYY'),
+#     'commentsEnabled': (None, '0'),
+#     'downloadEnabled': (None, '0'),
 #     'targetUrl': (None, 'https://www.openbeelden.nl/files/11/52/1152271.1152266.WEEKNUMMER481-HRE0000CABE_2369000_2420000.mp4'),
 # }
 
-# response = requests.post('https://peertube.beeldengeluid.nl/api/v1/videos/imports', headers=headers, files=files)
+# response = requests.post(api_url + '/videos/imports', headers=headers, files=files)
 # data = response.json()
 
 # print json.dumps(data, indent=2)
 
-data = {
-    'channelId': channel_id,
-    'name': 'Test',
-    'tags[0]': 'tentoon',
-    'targetUrl': 'https://www.openbeelden.nl/files/11/52/1152271.1152266.WEEKNUMMER481-HRE0000CABE_2369000_2420000.mp4'
-}
+# data = {
+#     'channelId': '2',
+#     'name': 'TestDisabled2',
+#     'commentsEnabled': False,
+#     'downloadEnabled': False,
+#     'targetUrl': 'https://www.openbeelden.nl/files/11/52/1152271.1152266.WEEKNUMMER481-HRE0000CABE_2369000_2420000.mp4'
+# }
 
-response = requests.post(api_url + '/videos/imports', headers=headers, data=data)
-data = response.json()
+# response = requests.post(api_url + '/videos/imports', headers=headers, data=data)
+# data = response.json()
 
-print(response.status_code)
+# print(response.status_code)
 
-print json.dumps(data, indent=2)
+# print json.dumps(data, indent=2)
+

@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python3
 
 import requests
 import csv
@@ -58,7 +58,7 @@ licence_links = {
 
 i = 1
 
-file_delta = open('delta.csv', 'w')
+file_delta = open('delta.csv', 'w', newline='')
 delta_writer = csv.writer(file_delta, delimiter='|')
 
 with open('openbeelden.csv', 'r') as csvfile:
