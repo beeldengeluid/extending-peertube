@@ -15,6 +15,12 @@ Although PeerTube is technically capable to support the distribution of large pu
 * [Framasoft](https://framasoft.org/)
 * [NLnet Foundation](https://nlnet.nl/)
 
+## Funding
+
+This project was funded through the NGI0 Discovery Fund, a fund established by NLnet with financial support from the European Commission's Next Generation Internet programme, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 825322
+
+![NGI0](https://nlnet.nl/image/logos/NGI0_tag.png)
+
 ## License
 
 The content of this project is licensed under the [GNU Affero General Public License v3.0](LICENSE.md)
