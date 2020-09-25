@@ -8,12 +8,17 @@ Although PeerTube is technically capable to support the distribution of large pu
 2. implementing trustworthy open licensing metadata standards for video publication through PeerTube
 3. emphasizing the importance of accompanying subtitle files by recommending ways to generate them
 
+# PeerTube development
+
+Beeld & Geluid wil actively maintain this repository for project activities. For upstream development we will use our fork of PeerTube at <https://github.com/beeldengeluid/PeerTube>
+
 ## Acknowledgments
 
 * [PeerTube](https://joinpeertube.org/)
 * [PeerTube development](https://github.com/Chocobozzz/PeerTube)
 * [Framasoft](https://framasoft.org/)
 * [NLnet Foundation](https://nlnet.nl/)
+* [Beeld & Geluid](https://beeldengeluid.nl/)
 
 ## Funding
 
