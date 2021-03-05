@@ -8,8 +8,8 @@ import json
 
 api_url = 'https://peertube.beeldengeluid.nl/api/v1'
 api_user = 'nisv'
-api_pass = 'openbeelden'
-channel_id = 2
+api_pass = 'xxxxxxxxxxxx'
+channel_id = 3
 
 # Get client
 
@@ -65,7 +65,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 0 < i <= 100:
+		if 0 < i <= 50:
 
 			# Clean data
 
@@ -138,7 +138,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 			response = requests.post(api_url + '/videos/imports', headers=headers, files=data)
 			data = response.json()
 
-			# print json.dumps(data, indent=2)
+			print(json.dumps(data, indent=2))
 
 			if response.status_code == requests.codes.ok:
 
