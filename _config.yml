@@ -9,7 +9,7 @@
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
+baseurl:               '/extending-peertube'
 
 
 # General settings
@@ -20,16 +20,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Extending PeerTube
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This project aims to extend PeerTube to support the availability, accessibility, and discoverability of large-scale public media collections on the next generation internet.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Search and Discovery
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,13 +36,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+# logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Frank Sträter
+  email:               fstrater@beeldengeluid.nl
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -67,7 +66,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -105,7 +104,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar-peertube-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
