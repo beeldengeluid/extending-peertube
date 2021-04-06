@@ -8,7 +8,7 @@ import json
 
 api_url = 'https://peertube.beeldengeluid.nl/api/v1'
 api_user = 'nisv'
-api_pass = 'xxxxxxxxxxxx'
+api_pass = 'xxxxxxxxxxxxxx'
 channel_id = 3
 
 # Get client
@@ -58,18 +58,21 @@ licence_links = {
 
 i = 1
 
-file_delta = open('delta.csv', 'w', newline='')
+file_delta = open('delta.csv', 'a', newline='')
 delta_writer = csv.writer(file_delta, delimiter='|')
+
+file_rewritemap = open('rewritemap.txt', 'a')
 
 with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 0 < i <= 50:
+		if 10 < i <= 50:
 
 			# Clean data
 
-			id_old = row[0].strip()
+			uri = row[0].split(':');
+			old_id = uri[2];
 			title = row[1].strip()
 			alternative = row[2].strip()
 			tags = row[3].split(';');
@@ -144,6 +147,8 @@ with open('openbeelden.csv', 'r') as csvfile:
 
 				uuid = data['video']['uuid']
 
+				file_rewritemap.write(old_id + " " + uuid + "\r\n")
+
 				# Patch original publish date
 
 				data = {
@@ -159,4 +164,5 @@ with open('openbeelden.csv', 'r') as csvfile:
 
 		i += 1
 
+file_rewritemap.close()
 file_delta.close()
