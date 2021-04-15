@@ -6,7 +6,7 @@ import json
 
 # API vars
 
-api_url = 'https://peertube.beeldengeluid.nl/api/v1'
+api_url = 'https://blofeld.beeldengeluid.nl/api/v1'
 api_user = 'nisv'
 api_pass = 'xxxxxxxxxxxxxx'
 channel_id = 3
@@ -53,7 +53,7 @@ licence_links = {
 	'https://creativecommons.org/licenses/by-nc-sa/3.0/nl/': '5',
 	'https://creativecommons.org/licenses/by-nc-nd/3.0/nl/': '6',
 	'https://creativecommons.org/publicdomain/zero/1.0/': '7',
-	'https://creativecommons.org/publicdomain/mark/1.0/': '7',
+	'https://creativecommons.org/publicdomain/mark/1.0/': '7', # TODO: use CC plugin to add Public Domain license
 }
 
 i = 1
@@ -67,7 +67,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 10 < i <= 50:
+		if 0 < i <= 50:
 
 			# Clean data
 

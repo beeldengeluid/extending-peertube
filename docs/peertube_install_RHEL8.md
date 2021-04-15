@@ -10,8 +10,12 @@ sudo dnf module install nodejs:12
 sudo curl --silent --location https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.repo
 sudo dnf install yarn
 
+# https://azatb.com/2020/11/24/how-to-install-and-use-ffmpeg-in-centos-8-linux-hint/
+
 sudo dnf install epel-release
 sudo dnf install --nogpgcheck https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-8.noarch.rpm 
+sudo dnf install --nogpgcheck https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-8.noarch.rpm 
+sudo dnf config-manager –enable PowerTools
 
 sudo dnf install ffmpeg ffmpeg-devel
 
@@ -146,7 +150,7 @@ sudo systemctl stop nginx
 NOTE:
 
 - disable 'aio=threads' in /etc/nginx/conf.d/peertube.conf, because no multithreading on this server?
-- create fullchain certificate (fullchain.pem) from WILDCARD_beeldengeluid_nl.crt and Sectigo_PositiveSSL_bundle.crt
+- create fullchain certificate (fullchain.pem) from certificate and intermediate certificates
 - add fullchain.pem in /etc/pki/tls/certs/ and star_beeldengeluid_nl.key /etc/pki/tls/private/
 - add key and pem in /etc/nginx/conf.d/peertube.conf
 
