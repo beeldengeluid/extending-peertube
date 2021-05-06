@@ -48,10 +48,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
@@ -110,7 +106,7 @@ accent_color:          rgb(255, 140, 0)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(8,46,57)
+theme_color:           rgb(255, 140, 0)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
