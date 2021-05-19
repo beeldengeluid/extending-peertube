@@ -1,12 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This project aims to extend PeerTube to support the availability, accessibility, and discoverability of large-scale public media collections on the next generation internet.
 hide_description: true
-redirect_from:
-  - /download/
 ---
 
 # About
