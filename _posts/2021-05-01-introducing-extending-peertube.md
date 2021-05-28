@@ -1,21 +1,7 @@
 ---
 layout: post
 title: Introducing Extending Peertube
-image: /assets/img/blog/sunrise.jpg
-description: >
-  This project aims to extend PeerTube to support the availability, accessibility, and discoverability of large-scale public media collections on the next generation internet.
-sitemap: false
 ---
-
-"SUNRISE" by giu205 is licensed with [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).
-{:.figcaption}
-
-<!--more-->
-
-- Table of Contents
-{:toc .large-only}
-
-## Introduction
 
 This project aims to extend [PeerTube](https://joinpeertube.org/) to support the availability, accessibility, and discoverability of large-scale public media collections on the [next generation internet](https://www.ngi.eu/).
 

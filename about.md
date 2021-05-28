@@ -1,11 +1,8 @@
 ---
-layout: about
-description: >
-  This project aims to extend PeerTube to support the availability, accessibility, and discoverability of large-scale public media collections on the next generation internet.
-hide_description: true
+layout: page
+title: About
+sidebar_link: true
 ---
-
-# About
 
 This project aims to extend [PeerTube](https://joinpeertube.org/) to support the availability, accessibility, and discoverability of large-scale public media collections on the next generation internet.
 
