@@ -1,15 +1,9 @@
 ---
 layout: post
 title: PeerTube video licences
-image: /assets/img/blog/creative-commons.png
-description: >
-  This project will follow the steps in Creative Commons toolkit, but tries to implement a solution which also respects the design philosophy of PeerTube. 
-sitemap: false
 ---
 
 When publishing your video on a PeerTube instance you have a default choice of 7 licences (or no licence as number 0) under which you want to license your video.
-
-<!--more-->
 
 Depending on the supported language you have chosen as a user (as a publisher or as a viewer) you will see these licenses translated in that language in the interface of PeerTube.
 
