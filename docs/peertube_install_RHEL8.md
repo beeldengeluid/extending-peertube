@@ -1,34 +1,28 @@
-PeerTube installation on Redhat 8
----------------------------------
+PeerTube installation on RHEL 8
+-------------------------------
 
-- Node.js
-- Yarn
-- FFmpeg
+### Install non-standard packages Node.js, Yarn, FFmpeg
 
 ```
 sudo dnf module install nodejs:12
 sudo curl --silent --location https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.repo
 sudo dnf install yarn
 
-# https://azatb.com/2020/11/24/how-to-install-and-use-ffmpeg-in-centos-8-linux-hint/
-
+sudo subscription-manager repos --enable codeready-builder-for-rhel-8-x86_64-rpms
 sudo dnf install epel-release
 sudo dnf install --nogpgcheck https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-8.noarch.rpm 
-sudo dnf install --nogpgcheck https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-8.noarch.rpm 
-sudo dnf config-manager –enable PowerTools
+sudo dnf upgrade
 
-sudo dnf install ffmpeg ffmpeg-devel
-
-```
-
-- nginx
-- Postgres
-- Redis
-- oident
-- (misc)
+sudo dnf install ffmpeg
 
 ```
-sudo dnf install nginx postgresql postgresql-server postgresql-contrib oidentd openssl gcc-c++ make wget redis git
+
+### Install packages
+
+```
+sudo dnf install nginx postgresql postgresql-server postgresql-contrib oidentd openssl gcc-c++ make wget redis git certbot
+
+sudo ln -s /usr/bin/python3 /usr/bin/python
 
 sudo postgresql-setup initdb
 sudo systemctl enable postgresql.service
@@ -40,31 +34,26 @@ sudo systemctl start nginx.service
 sudo systemctl enable redis.service
 sudo systemctl start redis.service
 
-sudo systemctl enable oident.service
-sudo systemctl start oident.service
-
-sudo ln -s /usr/bin/python3 /usr/bin/python
+sudo systemctl enable oidentd.service
+sudo systemctl start oidentd.service
 
 ```
 
-### peertube user
+### PeerTube user
 
 ```
 sudo mkdir /var/www 
-sudo chmod 755 www
+sudo chmod 755 /var/www
 sudo useradd -m -d /var/www/peertube -s /bin/bash -p peertube peertube
 sudo passwd peertube
-sudo chmod 755 peertube
+sudo chmod 755 /var/www/peertube
 
 ```
-
-Note:
-
-- Missing /var/www folder? Check if RHEL doesn't add this in default setup
 
 ### Database
 
 ```
+cd /var/www/peertube
 sudo -u postgres createuser -P peertube
 sudo -u postgres createdb -O peertube -E UTF8 -T template0 peertube_prod
 
@@ -73,15 +62,14 @@ sudo -u postgres psql -c "CREATE EXTENSION unaccent;" peertube_prod
 
 ```
 
-### PeerTube
+### PeerTube install
 
 ```
-sudo -i
-
 VERSION=$(curl -s https://api.github.com/repos/chocobozzz/peertube/releases/latest | grep tag_name | cut -d '"' -f 4) && echo "Latest Peertube version is $VERSION"
 
 cd /var/www/peertube
 sudo -u peertube mkdir config storage versions
+sudo -u peertube chmod 750 config/
 cd /var/www/peertube/versions
 sudo -u peertube wget -q "https://github.com/Chocobozzz/PeerTube/releases/download/${VERSION}/peertube-${VERSION}.zip"
 sudo -u peertube unzip peertube-${VERSION}.zip && sudo -u peertube rm peertube-${VERSION}.zip
@@ -97,11 +85,9 @@ cd ./peertube-latest && sudo -H -u peertube yarn install --production --pure-loc
 ```
 cd /var/www/peertube
 sudo -u peertube cp peertube-latest/config/default.yaml config/default.yaml
-
-cd /var/www/peertube
 sudo -u peertube cp peertube-latest/config/production.yaml.example config/production.yaml
 
-vim config/production.yaml
+sudo vim config/production.yaml
 
 ```
 
@@ -134,8 +120,8 @@ NOTE:
 ### Webserver
 
 ```
-mkdir /etc/nginx/sites-available
-mkdir /etc/nginx/sites-enabled
+sudo mkdir /etc/nginx/sites-available
+sudo mkdir /etc/nginx/sites-enabled
 sudo cp /var/www/peertube/peertube-latest/support/nginx/peertube /etc/nginx/sites-available/peertube
 sudo ln -s /etc/nginx/sites-available/peertube /etc/nginx/sites-enabled/peertube
 sudo ln -s /etc/nginx/sites-enabled/peertube /etc/nginx/conf.d/peertube.conf
@@ -144,6 +130,8 @@ sudo sed -i 's/${WEBSERVER_HOST}/peertube.beeldengeluid.nl/g' /etc/nginx/sites-a
 sudo sed -i 's/${PEERTUBE_HOST}/127.0.0.1:9000/g' /etc/nginx/sites-available/peertube
 
 sudo systemctl stop nginx
+
+sudo vim /etc/nginx/sites-available/peertube
 
 ```
 
@@ -156,6 +144,14 @@ NOTE:
 
 ```
 sudo systemctl start nginx
+
+```
+
+### Firewall
+
+```
+sudo firewall-cmd --permanent --zone=public --add-port=80/tcp
+sudo firewall-cmd --permanent --zone=public --add-port=443/tcp
 
 ```
 
@@ -179,4 +175,3 @@ sudo systemctl start peertube
 sudo journalctl -feu peertube
 
 ```
-
