@@ -54,6 +54,7 @@ img {
   height: auto; // prevent max-width from squishing images with defined height
   margin: 0 0 1rem;
   max-width: 100%;
+  border: 1px solid $border-color;
 }
 
 table {

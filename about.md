@@ -34,4 +34,4 @@ This project was funded through the NGI0 Discovery Fund, a fund established by N
 
 ## License
 
-The content of this project is licensed under the [GNU Affero General Public License v3.0](LICENSE.md)
+Content of this project is licensed under the [GNU Affero General Public License v3.0](LICENSE.md)

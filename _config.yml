@@ -27,6 +27,22 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+collections:
+  posts:
+    title: Posts
+    output: true
+  screenshots:
+    title: Screenshots
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
+
 # Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
