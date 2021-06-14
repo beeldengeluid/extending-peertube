@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PeerTube video licences
+category: CC plugin
+comments: false
 ---
 
 When publishing your video on a PeerTube instance you have a default choice of 7 licences (or no licence as number 0) under which you want to license your video.
