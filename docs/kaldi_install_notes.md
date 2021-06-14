@@ -54,3 +54,9 @@ Now that you have a working Kaldi installation on a Docker image. You can start 
 In our example the files we intend to process are shared with the image via the shared directory `docker_share` in our home folder. In this folder the input files are stored in the directory `input` and the output files in `output`. 
 
 While in the docker image, change your working directory to /usr/local/opt/kaldi_nl
+
+and after replacing the input and output directories run the transformation by using the following command:
+
+```./decode_OH.sh /input-directory/* /output-directory/
+
+
