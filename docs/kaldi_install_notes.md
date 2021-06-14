@@ -49,4 +49,8 @@ Packages are added and removed by commenting them out using the '#' character. I
 
 Now that you have a working Kaldi installation on a Docker image. You can start a new image using the following command:
 
-`docker run -it --mount type=bind,source=/home/ubuntu/docker_share,target=/input proycon/lamachine:lamachine_1`
+`docker run -it --mount type=bind,source=/home/ubuntu/docker_share,target=/docker_share proycon/lamachine:lamachine_1`
+
+In our example the files we intend to process are shared with the image via the shared directory `docker_share` in our home folder. In this folder the input files are stored in the directory `input` and the output files in `output`. 
+
+While in the docker image, change your working directory to /usr/local/opt/kaldi_nl
