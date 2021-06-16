@@ -17,7 +17,7 @@ If we look at the existing 7 licenses in PeerTube, they correspond to the follow
 
 The CC0 license refers to the so-called 'Public Domain Dedication', which is a tool to enable authors and copyright owners who want to dedicate their works to the worldwide public domain.
 
-In the currently used licenses list for PeerTube sometimes this nuance (dedication) get lost in translation depending on the chosen interface language (like in French for instance, 'Domaine Public'). By leaving out the 'dedication' part, it's not clearly distinct from the 'Public Domain Mark', which is used for works that are free of known copyright around the world. These will typically be very old works.
+In the currently used licenses list for PeerTube sometimes this nuance (dedication) gets lost in translation depending on the chosen interface language (like in French for instance, 'Domaine Public'). By leaving out the 'dedication' part, it's not clearly distinct from the 'Public Domain Mark', which is used for works that are free of known copyright around the world. These will typically be very old works.
 
 [https://creativecommons.org/share-your-work/public-domain/](https://creativecommons.org/share-your-work/public-domain/)
 
