@@ -7,6 +7,8 @@ comments: false
 
 While enabling [Creative Commons licences for PeerTube videos](https://beeldengeluid.github.io/extending-peertube/2021-05-10-peertube-licences) in accordance with the [CC Platform Toolkit](https://creativecommons.org/platform/toolkit/), we want to make sure that the new functionality we develop operates well with the existing PeerTube code base, fits the PeerTube design and is easy to integrate for users who want to use this feature. PeerTube's [plugin architecture](https://docs.joinpeertube.org/contribute-plugins) lets us achieve these goals. In this post we'll walk through our experience of creating a PeerTube plugin to add Creative Commons licences to PeerTube videos.
 
+<!--more-->
+
 The [plugin we've developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
 
 1. Update the labels used for PeerTube licences
