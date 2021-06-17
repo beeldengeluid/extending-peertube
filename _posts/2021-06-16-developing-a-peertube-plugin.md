@@ -25,8 +25,6 @@ In this post we'll roughly follow the steps from the [Write a plugin/theme](http
 8. [Test your plugin](#test-your-plugin)
 9. [Publish your plugin on NPM](#publish-your-plugin-on-npm)
 
-While the plugin has reached version 1.0, we'll continue to add updates. You can access the source code in the state at time of publishing [here](https://github.com/beeldengeluid/peertube-plugin-creative-commons/tree/cb5b99d635c4fcf6e6bd30a11fc85f48a46d29c6).
-
 ## Find a name for your plugin
 
 PeerTube Plugin names:
