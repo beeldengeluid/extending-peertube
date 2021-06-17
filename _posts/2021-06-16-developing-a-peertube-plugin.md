@@ -5,17 +5,17 @@ category: CC plugin
 comments: false
 ---
 
-While enabling [Creative Commons licences for PeerTube videos](https://beeldengeluid.github.io/extending-peertube/2021-05-10-peertube-licences) in accordance with the [CC Platform Toolkit](https://creativecommons.org/platform/toolkit/), we want to make sure that the new functionality we develop operates well with the existing PeerTube code base, fits the PeerTube design and is easy to integrate for users who want to use this feature. PeerTube's [plugin architecture](https://docs.joinpeertube.org/contribute-plugins) lets us achieve these goals. In this post we'll walk through our experience of creating a PeerTube plugin to add Creative Commons licences to PeerTube videos.
+While enabling Creative Commons licences for PeerTube videos in accordance with the [CC Platform Toolkit](https://creativecommons.org/platform/toolkit/), we want to make sure that the new functionality we develop operates well with the existing PeerTube code base, fits the PeerTube design and is easy to integrate for users who want to use this feature. PeerTube's [plugin architecture](https://docs.joinpeertube.org/contribute-plugins) lets us achieve these goals. In this post we will walk through our experience of creating a PeerTube plugin to add Creative Commons licences to PeerTube videos.
 
 <!--more-->
 
-The [plugin we've developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
+The [plugin we have developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
 
 1. Update the labels used for PeerTube licences
 2. Display the appropirate CC licence icon linked to the respective CC licence deed
 3. Insert machine-readable metadata, to aid with search & discovery
 
-In this post we'll roughly follow the steps from the [Write a plugin/theme](https://docs.joinpeertube.org/contribute-plugins?id=write-a-plugintheme) guide, provided as part of the PeerTube documentation:
+In this post we will roughly follow the steps from the [Write a plugin/theme](https://docs.joinpeertube.org/contribute-plugins?id=write-a-plugintheme) guide, provided as part of the PeerTube documentation:
 
 1. [Find a name for your plugin](#find-a-name-for-your-plugin)
 2. [Clone the quickstart repository](#clone-the-quickstart-repository)
@@ -78,13 +78,15 @@ _Note: A live local environment is essential for testing your work during develo
 
 This is where the magic happens. It is also where the PeerTube docs come in handy, and the [introduction to the concepts](https://docs.joinpeertube.org/contribute-plugins?id=concepts) of hooks, static files, CSS, Server API and Client API is especially helpful review before jumping into plugin development.
 
-The [PeerTube Plugin Quickstart](https://framagit.org/framasoft/peertube/peertube-plugin-quickstart) is a bit bare-bones and we would have liked to find at least some hello world example code snippet sprinkled in there. Still, it gives us a nice structure and decent idea of where to start our implemention. Depending on your plugin ideas, you might also find helpful inspiration in Framasoft's [official plugins repository](https://framagit.org/framasoft/peertube/official-plugins).
+The [PeerTube Plugin Quickstart](https://framagit.org/framasoft/peertube/peertube-plugin-quickstart) is a bit bare-bones and we would have liked to find at least some example code snippet sprinkled in there. Still, it gives us a nice structure and decent idea of where to start our implemention. Depending on your plugin ideas, you might also find helpful inspiration in Framasoft's [official plugins repository](https://framagit.org/framasoft/peertube/official-plugins).
+
+_Note: in the beginning of June 2021 Framasoft/PeerTube provided an updated 'hello world' [example plugin](https://framagit.org/framasoft/peertube/official-plugins/-/tree/master/peertube-plugin-hello-world) as part of their v4 roadmap for 2021 for "Coordination with, support and contributions to external developments (clients, plugin, etc.)"_
 
 The following sections reflect on three different goals of the Creative Commons plugin: updating licence labels, displaying CC licence icons on video watch pages, inserting licence metadata on video watch pages.
 
 ### Updating licence labels
 
-We'd like to update the licences available on a PeerTube instance. Technically, PeerTube licences are constants, [which can be updated](https://docs.joinpeertube.org/contribute-plugins?id=update-video-constants) by using the `videoLicenceManager`.
+We would like to update the licences available on a PeerTube instance. Technically, PeerTube licences are constants, [which can be updated](https://docs.joinpeertube.org/contribute-plugins?id=update-video-constants) by using the `videoLicenceManager`.
 
 In our plugin's [`main.js`](https://github.com/beeldengeluid/peertube-plugin-creative-commons/blob/cb5b99d635c4fcf6e6bd30a11fc85f48a46d29c6/main.js) we first remove the 7 existing licences, then add 7 licences using their official CC labels, as well as an [8th licence](https://beeldengeluid.github.io/extending-peertube/2021-05-15-the-8th-license) for the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/):
 
@@ -292,8 +294,6 @@ Build PeerTube (`--light` to only build the english language):
 $ npm run build -- --light
 ```
 
-_On mac, you might run into an error `declare: -A: invalid option`, referenced in [this issue](https://github.com/Chocobozzz/PeerTube/issues/3859). I ended up fixing this by changing `#!/bin/bash` to `#!/usr/bin/env bash` in `scripts/build/client.sh`_
-
 Build the CLI:
 
 ```sh
@@ -318,8 +318,21 @@ Then, you can install or reinstall your local plugin/theme by running:
 $ node ./dist/server/tools/peertube.js plugins install --path /your/absolute/plugin-or-theme/path
 ```
 
-After this final step you should get a satisfying `Plugin installed` logged to your console. Reloading your local PeerTube instance should now reflect the changes you've made to your plugin code!
+After this final step you should get a satisfying `Plugin installed` logged to your console. Reloading your local PeerTube instance should now reflect the changes you have made to your plugin code!
 
 ## Publish your plugin on NPM
 
-TBC
+To publish your plugin, you first need an account on [NPM](https://www.npmjs.com/). Once you have an account with login credentials, you can set up your authentication for publishing. We used the modern way of using an authentication token, so we did not have to login each time.
+
+Go in your plugin/theme directory, and run:
+
+```sh
+$ npm publish
+```
+
+Every time you want to publish another version of your plugin/theme, just update the `version` key from the `package.json`
+and republish it on NPM. 
+
+We started with the lowest number for semantic versioning (0.0.1) for early production-ready testing of the plugin, but also to improve description, keywords, urls, etc. in package.json for a good representation of our publication. Only when we considered everything complete, we jumped to 1.0.0 as an official release and will start counting on from there for future updates. 
+
+PeerTube plugins and themes should be published on NPM so that PeerTube indexes take into account your plugin (after ~ 1 day). An official plugin index is available on [packages.joinpeertube.org](https://packages.joinpeertube.org/api/v1/plugins), which is used in the Admin interface of your PeerTube instance to search for, install and update your plugins and/or themes. 
