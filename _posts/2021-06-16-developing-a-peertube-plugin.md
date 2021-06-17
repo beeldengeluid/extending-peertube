@@ -8,27 +8,29 @@ comments: false
 While enabling [Creative Commons licences for PeerTube videos]({% post_url 2021-05-10-peertube-licences %}) in accordance with the [CC Platform Toolkit](https://creativecommons.org/platform/toolkit/), we want to make sure that the new functionality we develop operates well with the existing PeerTube code base, fits the PeerTube design and is easy to integrate for users who want to use this feature. PeerTube's [plugin architecture](https://docs.joinpeertube.org/contribute-plugins) lets us achieve these goals. In this post we'll walk through our experience of creating a PeerTube plugin to add Creative Commons licences to PeerTube videos.
 
 The [plugin we've developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
+
 1. Update the labels used for PeerTube licences
-1. Display the appropirate CC licence icon linked to the respective CC licence deed
-1. Insert machine-readable metadata, to aid with search & discovery
+2. Display the appropirate CC licence icon linked to the respective CC licence deed
+3. Insert machine-readable metadata, to aid with search & discovery
 
 In this post we'll roughly follow the steps from the [Write a plugin/theme](https://docs.joinpeertube.org/contribute-plugins?id=write-a-plugintheme) guide, provided as part of the PeerTube documentation:
 
 1. [Find a name for your plugin](#find-a-name-for-your-plugin)
-1. [Clone the quickstart repository](#clone-the-quickstart-repository)
-1. [Configure your repository](#configure-your-repository)
-1. [Update README.md](#update-readmemd)
-1. [Update package.json](#update-packagejson)
-1. [Write code](#write-code)
-1. [Build your plugin](#build-your-plugin)
-1. [Test your plugin](#test-your-plugin)
-1. [Publish your plugin on NPM](#publish-your-plugin-on-npm)
+2. [Clone the quickstart repository](#clone-the-quickstart-repository)
+3. [Configure your repository](#configure-your-repository)
+4. [Update README.md](#update-readmemd)
+5. [Update package.json](#update-packagejson)
+6. [Write code](#write-code)
+7. [Build your plugin](#build-your-plugin)
+8. [Test your plugin](#test-your-plugin)
+9. [Publish your plugin on NPM](#publish-your-plugin-on-npm)
 
 While the plugin has reached version 1.0, we'll continue to add updates. You can access the source code in the state at time of publishing [here](https://github.com/beeldengeluid/peertube-plugin-creative-commons/tree/cb5b99d635c4fcf6e6bd30a11fc85f48a46d29c6).
 
 ## Find a name for your plugin
 
 PeerTube Plugin names:
+
 - can only contain lowercase letters and the hyphen (`-`) sign
 - should start with the `peertube-plugin-` prefix
 
@@ -38,7 +40,7 @@ We went for `peertube-plugin-creative-commons`.
 
 We clone the PeerTube Plugin Quickstart boilerplate code into a folder with our plugin name:
 
-```bash
+```sh
 $ git clone https://framagit.org/framasoft/peertube/peertube-plugin-quickstart.git peertube-plugin-mysupername
 ```
 
@@ -46,7 +48,7 @@ $ git clone https://framagit.org/framasoft/peertube/peertube-plugin-quickstart.g
 
 Assuming we have already set up a repository to act as origin (e.g. `https://your-git-repo`), we set it as the remote URL of the repo we just cloned locally.
 
-```bash
+```sh
 $ cd peertube-plugin-mysupername
 $ git remote set-url origin https://your-git-repo
 ```
@@ -58,6 +60,7 @@ We update the `README.md` file to include information about our plugin. See the 
 ## Update package.json
 
 Update the following `package.json` fields:
+
    * `name`
    * `description`
    * `homepage`
@@ -221,9 +224,6 @@ An example of the resulting licence icon in action on [peertube.linuxrocks.onlin
 
 ![Screenshot CC license button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
 
-
-
-
 ### Inserting licence metadata on video watch pages
 
 Besides displaying a licence icon, we want to [add machine-readable metadata]({% post_url 2021-05-25-license-metadata %}), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
@@ -238,8 +238,6 @@ const account_page_link = document.querySelector('[title="Account page"]');
 
 and insert the appropriate metadata:
 ```js
-// Set CC-REL metadata
-
 for (let element of video_info) {
   element.setAttribute('xmlns:dct', 'http://purl.org/dc/terms/')
   element.setAttribute('xmlns:cc', 'https://creativecommons.org/ns#')
@@ -254,7 +252,6 @@ if (account_page_link) {
   account_page_link.setAttribute('rel', 'cc:attributionURL dct:creator')
   account_page_link.setAttribute('href', account_page_link.href)
 }
-
 ```
 
 ## Build your plugin
@@ -265,19 +262,19 @@ If you added client scripts, you'll need to build them using webpack.
 
 Install webpack:
 
-```
+```sh
 $ npm install
 ```
 
 Add/update your files in the `clientFiles` array of `webpack.config.js`:
 
-```
+```sh
 $ $EDITOR ./webpack.config.js
 ```
 
 Build your client files:
 
-```
+```sh
 $ npm run build
 ```
 
@@ -291,7 +288,7 @@ The [plugin guide](https://docs.joinpeertube.org/contribute-plugins?id=test-your
 
 Build PeerTube (`--light` to only build the english language):
 
-```
+```sh
 $ npm run build -- --light
 ```
 
@@ -299,25 +296,25 @@ _On mac, you might run into an error `declare: -A: invalid option`, referenced i
 
 Build the CLI:
 
-```
+```sh
 $ npm run setup:cli
 ```
 
 Run PeerTube (you can access to your instance on http://localhost:9000):
 
-```
+```sh
 $ NODE_ENV=test npm start
 ```
 
 Register the instance via the CLI:
 
-```
+```sh
 $ node ./dist/server/tools/peertube.js auth add -u 'http://localhost:9000' -U 'root' --password 'test'
 ```
 
 Then, you can install or reinstall your local plugin/theme by running:
 
-```
+```sh
 $ node ./dist/server/tools/peertube.js plugins install --path /your/absolute/plugin-or-theme/path
 ```
 
