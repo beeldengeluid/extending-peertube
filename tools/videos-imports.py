@@ -45,6 +45,9 @@ headers = {
 def cap(text, length):
 	return text if len(text) <= length else text[0:length-3] + '...'
 
+# NOTE: there are only 7 default licenses in PeerTube. For any number above that you need a plugin which adds more license options
+# https://github.com/beeldengeluid/peertube-plugin-creative-commons
+
 licence_links = {
 	'https://creativecommons.org/licenses/by/3.0/nl/': '1',
 	'https://creativecommons.org/licenses/by-sa/3.0/nl/': '2',
@@ -53,7 +56,7 @@ licence_links = {
 	'https://creativecommons.org/licenses/by-nc-sa/3.0/nl/': '5',
 	'https://creativecommons.org/licenses/by-nc-nd/3.0/nl/': '6',
 	'https://creativecommons.org/publicdomain/zero/1.0/': '7',
-	'https://creativecommons.org/publicdomain/mark/1.0/': '7', # TODO: use CC plugin to add Public Domain license
+	'https://creativecommons.org/publicdomain/mark/1.0/': '8' 
 }
 
 i = 1
@@ -127,7 +130,8 @@ with open('openbeelden.csv', 'r') as csvfile:
 				'privacy': (None, '1'),
 				'commentsEnabled': (None, 'false'),
 				'downloadEnabled': (None, 'false'),
-				'description': (None, description_ext)
+				'description': (None, description_ext),
+				'originallyPublishedAt': (None, date)
 			}
 
 			# create indexed array for tags
@@ -148,14 +152,6 @@ with open('openbeelden.csv', 'r') as csvfile:
 				uuid = data['video']['uuid']
 
 				file_rewritemap.write(old_id + " " + uuid + "\r\n")
-
-				# Patch original publish date
-
-				data = {
-					'originallyPublishedAt': date
-				}
-
-				requests.put(api_url + '/videos/' + uuid, headers=headers, data=data)
 
 			else:
 
