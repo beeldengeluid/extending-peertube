@@ -17,6 +17,11 @@ If you're installing on Github pages, you may also have to add
 `remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
 instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
+To start a local development server, run:
+```sh
+$ bundle exec jekyll serve
+```
+
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
 it with an `index.html` that uses the `index` layout:
 
