@@ -12,7 +12,7 @@ While enabling Creative Commons licences for PeerTube videos in accordance with 
 The [plugin we have developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
 
 1. Update the labels used for PeerTube licences
-2. Display the appropirate CC licence icon linked to the respective CC licence deed
+2. Display the appropirate CC licence button linked to the respective CC licence deed
 3. Insert machine-readable metadata, to aid with search & discovery
 
 In this post we will roughly follow the steps from the [Write a plugin/theme](https://docs.joinpeertube.org/contribute-plugins?id=write-a-plugintheme) guide, provided as part of the PeerTube documentation:
@@ -82,7 +82,7 @@ The [PeerTube Plugin Quickstart](https://framagit.org/framasoft/peertube/peertub
 
 _Note: in the beginning of June 2021 Framasoft/PeerTube provided an updated 'hello world' [example plugin](https://framagit.org/framasoft/peertube/official-plugins/-/tree/master/peertube-plugin-hello-world) as part of their v4 roadmap for 2021 for "Coordination with, support and contributions to external developments (clients, plugin, etc.)"_
 
-The following sections reflect on three different goals of the Creative Commons plugin: updating licence labels, displaying CC licence icons on video watch pages, inserting licence metadata on video watch pages.
+The following sections reflect on three different goals of the Creative Commons plugin: updating licence labels, displaying CC licence buttons on video watch pages, inserting licence metadata on video watch pages.
 
 ### Updating licence labels
 
@@ -116,9 +116,9 @@ async function register ({
 }
 ```
 
-### Displaying CC licence icons on video watch pages
+### Displaying CC licence buttons on video watch pages
 
-[Displaying a licence icon](https://beeldengeluid.github.io/extending-peertube/2021-05-20-license-link-button) linked to the appropriate licence deed happens on the client side. PeerTube plugins package their client side functionality in client scripts, each with their own scope, so they are only loaded when needed. Since we are interested in displaying licence information along with videos on their respecitive 'Video Watch' pages, we define a `video-watch-client-plugin.js` client script with the `video-watch` scope in our `package.json`:
+[Displaying a licence button](https://beeldengeluid.github.io/extending-peertube/2021-05-20-license-link-button) linked to the appropriate licence deed happens on the client side. PeerTube plugins package their client side functionality in client scripts, each with their own scope, so they are only loaded when needed. Since we are interested in displaying licence information along with videos on their respecitive 'Video Watch' pages, we define a `video-watch-client-plugin.js` client script with the `video-watch` scope in our `package.json`:
 
 ```js
 "clientScripts": [
@@ -193,7 +193,7 @@ registerHook({
 })
 ```
 
-To insert this info in the form of a licence icon, we construct a new element for it:
+To insert this info in the form of a licence button, we construct a new element for it:
 
 ```js
 const licence_span = document.createElement('span')
@@ -222,13 +222,13 @@ for (let element of video_info_date_views) {
 }
 ```
 
-An example of the resulting licence icon in action on [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
+An example of the resulting licence button in action on [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
 
 ![Screenshot CC license button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
 
 ### Inserting licence metadata on video watch pages
 
-Besides displaying a licence icon, we want to [add machine-readable metadata](https://beeldengeluid.github.io/extending-peertube/2021-05-25-license-metadata), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
+Besides displaying a licence button, we want to [add machine-readable metadata](https://beeldengeluid.github.io/extending-peertube/2021-05-25-license-metadata), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
 
 We select our target elements:
 
