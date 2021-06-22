@@ -2,11 +2,10 @@
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	//error_reporting(E_ALL);
-	//ini_set('display_errors', 1);
-
+	error_reporting(E_ALL);
+	ini_set('display_errors', 1);
 	
-	$fp = fopen('natuurbeelden.csv', 'w');
+	$fp = fopen('openbeelden.csv', 'w');
 	
 	function file_get_url($url) {
 
@@ -46,17 +45,17 @@
 
 		} else {
 
-			if (!file_exists('cache/natuurbeelden.xml') || filectime('cache/natuurbeelden.xml') < $yesterday) {
+			if (!file_exists('cache/openbeelden.xml') || filectime('cache/openbeelden.xml') < $yesterday) {
 
 				// Update cached file
 				
-				if ($file = file_get_url('https://www.openbeelden.nl/feeds/oai/?verb=ListRecords&metadataPrefix=oai_oi&set=stichting_natuurbeelden')) {
-					file_put_contents('cache/natuurbeelden.xml', $file);
+				if ($file = file_get_url('https://www.openbeelden.nl/feeds/oai/?verb=ListRecords&metadataPrefix=oai_oi&set=beeldengeluid')) {
+					file_put_contents('cache/openbeelden.xml', $file);
 				};
 				
 			}
 
-			$xml = simplexml_load_file('cache/natuurbeelden.xml');
+			$xml = simplexml_load_file('cache/openbeelden.xml');
 
 		}	
 

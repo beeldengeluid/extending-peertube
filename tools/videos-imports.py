@@ -3,13 +3,19 @@
 import requests
 import csv
 import json
+import configapi as cfg
 
-# API vars
+# API vars (from configapi.py)
 
-api_url = 'https://blofeld.beeldengeluid.nl/api/v1'
-api_user = 'nisv'
-api_pass = 'xxxxxxxxxxxxxx'
-channel_id = 3
+# api_url = 'https://peertube.beeldengeluid.nl/api/v1'
+# api_user = 'nisv'
+# api_pass = 'xxxxxxxxxxxx'
+# channel_id = 2
+
+api_url = cfg.api_url
+api_user = cfg.api_user
+api_pass = cfg.api_pass
+channel_id = cfg.channel_id
 
 # Get client
 
@@ -70,7 +76,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 0 < i <= 50:
+		if 1750 < i <= 2000:
 
 			# Clean data
 
@@ -85,10 +91,13 @@ with open('openbeelden.csv', 'r') as csvfile:
 			date = row[7].strip()
 			url_old = row[8].strip()
 			licence_link = row[9].strip()
-			video = row[10].strip()
+			video = row[11].strip() # ogv HD
 
 			if not title:
 				continue
+
+			if not video:
+				video = row[10].strip() # mp4 HD
 
 			if not video:
 				continue
@@ -143,20 +152,23 @@ with open('openbeelden.csv', 'r') as csvfile:
 				data['licence'] = (None, licence)
 
 			response = requests.post(api_url + '/videos/imports', headers=headers, files=data)
-			data = response.json()
-
-			print(json.dumps(data, indent=2))
 
 			if response.status_code == requests.codes.ok:
 
+				data = response.json()
 				uuid = data['video']['uuid']
 
 				file_rewritemap.write(old_id + " " + uuid + "\r\n")
 
+				# print(json.dumps(data, indent=2))
+
 			else:
 
-				row.append(data)
 				delta_writer.writerow(row)
+
+				# error = response.json()
+	
+				# print(json.dumps(error, indent=2))
 
 		i += 1
 
