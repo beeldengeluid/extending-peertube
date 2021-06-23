@@ -7,7 +7,7 @@ comments: false
 
 Part of the setup for [developing a PeerTube plugin](https://beeldengeluid.github.io/extending-peertube/cc%20plugin/2021/06/16/developing-a-peertube-plugin), is to install a PeerTube instance locally. The [contributing](https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md#develop) and [dependencies](https://github.com/Chocobozzz/PeerTube/blob/develop/support/doc/dependencies.md) docs explain how to clone the PeerTube repository, install dependencies and prepare the database. These resources also offer some OS specific tips. In this article we expand on some issues we ran into during installation on macOS, which is one of the operating systems we used for development.
 
-> ... the other ones being Ubuntu in VMware, Ubuntu on WSL2, Ubuntu and Fedora on bare metal with non-company hardware
+> ... the other ones being Ubuntu in VMware, Ubuntu on WSL2, Ubuntu and [Fedora](https://github.com/beeldengeluid/extending-peertube/issues/1) on bare metal
 
 <!--more-->
 
