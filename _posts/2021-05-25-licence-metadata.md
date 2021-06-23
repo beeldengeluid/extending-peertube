@@ -1,13 +1,13 @@
 ---
 layout: post
-title: License metadata
+title: Licence metadata
 category: CC plugin
 comments: false
 ---
 
-Adding a license button is an improvement for the display of the license and although you can already filter on license on a PeerTube instance, it would help if CC licensed content can be found outside the platform (search & discovery). For this there already exists the so-called Creative Commons Rights Expression Language ([CC REL](https://wiki.creativecommons.org/wiki/CC_REL)).
+Adding a licence button is an improvement for the display of the licence and although you can already filter on licence on a PeerTube instance, it would help if CC licensed content can be found outside the platform (search & discovery). For this there already exists the so-called Creative Commons Rights Expression Language ([CC REL](https://wiki.creativecommons.org/wiki/CC_REL)).
 
-> Creative Commons licenses are expressed in three different formats: the human readable license deed, the lawyer readable legal code, and the machine readable code. RDFa is one of the ways in which we've chosen to make our licenses machine readable. By using RDFa CC licensed objects can be discovered by search engines and auto-discovery mechanisms without the need for a human to hand-curate content directories or lists.
+> Creative Commons licences are expressed in three different formats: the human readable licence deed, the lawyer readable legal code, and the machine readable code. RDFa is one of the ways in which we've chosen to make our licences machine readable. By using RDFa CC licensed objects can be discovered by search engines and auto-discovery mechanisms without the need for a human to hand-curate content directories or lists.
 
 RDFa is a W3C Recommendation that adds a set of attribute-level extensions to HTML, XHTML and various XML-based document types for embedding rich metadata within Web documents.
 

@@ -88,7 +88,7 @@ The following sections reflect on three different goals of the Creative Commons 
 
 We would like to update the licences available on a PeerTube instance. Technically, PeerTube licences are constants, [which can be updated](https://docs.joinpeertube.org/contribute-plugins?id=update-video-constants) by using the `videoLicenceManager`.
 
-In our plugin's [`main.js`](https://github.com/beeldengeluid/peertube-plugin-creative-commons/blob/cb5b99d635c4fcf6e6bd30a11fc85f48a46d29c6/main.js) we first remove the 7 existing licences, then add 7 licences using their official CC labels, as well as an [8th licence](https://beeldengeluid.github.io/extending-peertube/2021-05-15-the-8th-license) for the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/):
+In our plugin's [`main.js`](https://github.com/beeldengeluid/peertube-plugin-creative-commons/blob/cb5b99d635c4fcf6e6bd30a11fc85f48a46d29c6/main.js) we first remove the 7 existing licences, then add 7 licences using their official CC labels, as well as an [8th licence](https://beeldengeluid.github.io/extending-peertube/2021-05-15-the-8th-licence) for the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/):
 
 ```js
 async function register ({
@@ -118,7 +118,7 @@ async function register ({
 
 ### Displaying CC licence buttons on video watch pages
 
-[Displaying a licence button](https://beeldengeluid.github.io/extending-peertube/2021-05-20-license-link-button) linked to the appropriate licence deed happens on the client side. PeerTube plugins package their client side functionality in client scripts, each with their own scope, so they are only loaded when needed. Since we are interested in displaying licence information along with videos on their respecitive 'Video Watch' pages, we define a `video-watch-client-plugin.js` client script with the `video-watch` scope in our `package.json`:
+[Displaying a licence button](https://beeldengeluid.github.io/extending-peertube/2021-05-20-licence-link-button) linked to the appropriate licence deed happens on the client side. PeerTube plugins package their client side functionality in client scripts, each with their own scope, so they are only loaded when needed. Since we are interested in displaying licence information along with videos on their respecitive 'Video Watch' pages, we define a `video-watch-client-plugin.js` client script with the `video-watch` scope in our `package.json`:
 
 ```js
 "clientScripts": [
@@ -224,11 +224,11 @@ for (let element of video_info_date_views) {
 
 An example of the resulting licence button in action on [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
 
-![Screenshot CC license button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
+![Screenshot CC licence button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
 
 ### Inserting licence metadata on video watch pages
 
-Besides displaying a licence button, we want to [add machine-readable metadata](https://beeldengeluid.github.io/extending-peertube/2021-05-25-license-metadata), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
+Besides displaying a licence button, we want to [add machine-readable metadata](https://beeldengeluid.github.io/extending-peertube/2021-05-25-licence-metadata), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
 
 We select our target elements:
 

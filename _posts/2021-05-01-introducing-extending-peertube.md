@@ -13,15 +13,15 @@ Although PeerTube is technically capable to support the distribution of large pu
 
 ## Video content migration
 
-We will test the improvements made to PeerTube and the auxiliary tools such as the content ingestion and redirection tools created within the project with a large real-world test corpus. Improvements to PeerTube are upstreamed, and a release version of all auxiliary tools is published online under an open source license. In order to facilitate further take up for similar use cases, we will deliver an online guide in an open format to help other interested parties.
+We will test the improvements made to PeerTube and the auxiliary tools such as the content ingestion and redirection tools created within the project with a large real-world test corpus. Improvements to PeerTube are upstreamed, and a release version of all auxiliary tools is published online under an open source licence. In order to facilitate further take up for similar use cases, we will deliver an online guide in an open format to help other interested parties.
 
 ## Open licensing
 
 Having a clear licensing model for legally sharing public media content through PeerTube, and also being able to clearly propagate the legal conditions attributed to a piece of content to search engines and the end users will add to the proposition of PeerTube as an alternative platform for (non-profit) organizations to host and distribute their public media collections.
 
-- Updated frontend display of the various Creative Commons standard licenses (visibility and search)
+- Updated frontend display of the various Creative Commons standard licences (visibility and search)
 - Implementation of the [CC-REL standard](https://www.w3.org/Submission/ccREL/) (machine-readable metadata format for discovery) and assist in the scraping of CC-REL data published through PeerTube instances, for the benefit of indexing, search, and retrieval of Creative Commons licensed videos.
-- Changes to the data model for Creative Commons license storage (license chooser and multilingual readability)
+- Changes to the data model for Creative Commons licence storage (licence chooser and multilingual readability)
 
 ## Subtitling
 
