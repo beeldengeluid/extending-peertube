@@ -76,7 +76,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 1750 < i <= 2000:
+		if 2750 < i <= 3000:
 
 			# Clean data
 
