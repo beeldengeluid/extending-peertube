@@ -12,7 +12,7 @@ While enabling Creative Commons licences for PeerTube videos in accordance with 
 The [plugin we have developed](https://github.com/beeldengeluid/peertube-plugin-creative-commons/) does three things:
 
 1. Update the labels used for PeerTube licences
-2. Display the appropirate CC licence button linked to the respective CC licence deed
+2. Display the appropriate CC licence button linked to the respective CC licence deed
 3. Insert machine-readable metadata, to aid with search & discovery
 
 In this post we will roughly follow the steps from the [Write a plugin/theme](https://docs.joinpeertube.org/contribute-plugins?id=write-a-plugintheme) guide, provided as part of the PeerTube documentation:
