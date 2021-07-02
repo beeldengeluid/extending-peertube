@@ -76,7 +76,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 2750 < i <= 3000:
+		if 7000 < i <= 7092:
 
 			# Clean data
 
@@ -91,13 +91,13 @@ with open('openbeelden.csv', 'r') as csvfile:
 			date = row[7].strip()
 			url_old = row[8].strip()
 			licence_link = row[9].strip()
-			video = row[11].strip() # ogv HD
+			video = row[10].strip() # mp4 HD
 
 			if not title:
 				continue
 
 			if not video:
-				video = row[10].strip() # mp4 HD
+				video = row[11].strip() # ogv HD
 
 			if not video:
 				continue
@@ -138,7 +138,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 				'language': (None, 'nl'),
 				'privacy': (None, '1'),
 				'commentsEnabled': (None, 'false'),
-				'downloadEnabled': (None, 'false'),
+				'downloadEnabled': (None, 'true'),
 				'description': (None, description_ext),
 				'originallyPublishedAt': (None, date)
 			}
