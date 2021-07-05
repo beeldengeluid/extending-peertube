@@ -93,14 +93,8 @@ with open('openbeelden.csv', 'r') as csvfile:
 			licence_link = row[9].strip()
 			video = row[10].strip() # mp4 HD
 
-			if not title:
-				continue
-
 			if not video:
 				video = row[11].strip() # ogv HD
-
-			if not video:
-				continue
 
 			# Transform data
 			# https://github.com/Chocobozzz/PeerTube/blob/develop/server/initializers/constants.ts

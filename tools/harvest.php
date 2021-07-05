@@ -108,6 +108,12 @@
 					$array_medium[] = $item[0];
 				}
 			}
+
+			if (empty($array_medium)) {
+				foreach ($rows->medium as $item) {
+					$array_medium[] = $item[0];
+				}
+			}
 			
 			$array_film['file_mp4'] = '';
 			$array_film['file_ogv'] = '';
