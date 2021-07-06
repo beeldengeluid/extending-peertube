@@ -70,7 +70,7 @@ i = 1
 file_delta = open('delta.csv', 'a', newline='')
 delta_writer = csv.writer(file_delta, delimiter='|')
 
-file_rewritemap = open('rewritemap.txt', 'a')
+file_rewritemap = open('rewritemap.conf', 'a')
 
 with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
@@ -152,7 +152,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 				data = response.json()
 				uuid = data['video']['uuid']
 
-				file_rewritemap.write(old_id + " " + uuid + "\r\n")
+				file_rewritemap.write(old_id + " " + uuid + ";\r\n")
 
 				# print(json.dumps(data, indent=2))
 
