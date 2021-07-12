@@ -3,6 +3,7 @@
 import requests
 import csv
 import json
+import time
 import configapi as cfg
 
 # API vars (from configapi.py)
@@ -76,93 +77,93 @@ with open('openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 
-		if 7000 < i <= 7092:
+		time.sleep(2)
 
-			# Clean data
+		# Clean data
 
-			uri = row[0].split(':');
-			old_id = uri[2];
-			title = row[1].strip()
-			alternative = row[2].strip()
-			tags = row[3].split(';');
-			description = row[4].strip()
-			abstract = row[5].strip()
-			creator = row[6].strip()
-			date = row[7].strip()
-			url_old = row[8].strip()
-			licence_link = row[9].strip()
-			video = row[10].strip() # mp4 HD
+		uri = row[0].split(':');
+		old_id = uri[2];
+		title = row[1].strip()
+		alternative = row[2].strip()
+		tags = row[3].split(';');
+		description = row[4].strip()
+		abstract = row[5].strip()
+		creator = row[6].strip()
+		date = row[7].strip()
+		url_old = row[8].strip()
+		licence_link = row[9].strip()
+		video = row[10].strip() # mp4 HD
 
-			if not video:
-				video = row[11].strip() # ogv HD
+		if not video:
+			video = row[11].strip() # ogv HD
 
-			# Transform data
-			# https://github.com/Chocobozzz/PeerTube/blob/develop/server/initializers/constants.ts
+		# Transform data
+		# https://github.com/Chocobozzz/PeerTube/blob/develop/server/initializers/constants.ts
 
-			title = cap(title, 120)
+		title = cap(title, 120)
 
-			licence = licence_links.get(licence_link, '')
+		licence = licence_links.get(licence_link, '')
 
-			tags = list(filter(lambda a: len(a) >= 2, tags))
-			tags = list(filter(lambda a: len(a) <= 30, tags))
-			tags = tags[:5]
+		tags = list(filter(lambda a: len(a) >= 2, tags))
+		tags = list(filter(lambda a: len(a) <= 30, tags))
+		tags = tags[:5]
 
-			description_ext = ''
+		description_ext = ''
 
-			if alternative:
-				description_ext += alternative + '\n\n'
+		if alternative:
+			description_ext += alternative + '\n\n'
 
-			if description:
-				description_ext += description + '\n\n'
+		if description:
+			description_ext += description + '\n\n'
 
-			if abstract:
-				description_ext += abstract + '\n\n'
+		if abstract:
+			description_ext += abstract + '\n\n'
 
-			description_ext = cap(description_ext, 9800)
+		description_ext = cap(description_ext, 9800)
 
-			if creator:
-				description_ext += creator
+		if creator:
+			description_ext += creator
 
-			# Import video, use multipart/form-data request with 'files'
+		# Import video, use multipart/form-data request with 'files'
 
-			data = {
-				'name': (None, title),
-				'channelId': (None, str(channel_id)),
-				'targetUrl': (None, video),
-				'language': (None, 'nl'),
-				'privacy': (None, '1'),
-				'commentsEnabled': (None, 'false'),
-				'downloadEnabled': (None, 'true'),
-				'description': (None, description_ext),
-				'originallyPublishedAt': (None, date)
-			}
+		data = {
+			'name': (None, title),
+			'channelId': (None, str(channel_id)),
+			'targetUrl': (None, video),
+			'language': (None, 'nl'),
+			'privacy': (None, '1'),
+			'commentsEnabled': (None, 'false'),
+			'downloadEnabled': (None, 'true'),
+			'description': (None, description_ext),
+			'originallyPublishedAt': (None, date)
+		}
 
-			# create indexed array for tags
+		# create indexed array for tags
 
-			for j in range(len(tags)):
-				data['tags[' + str(j) +']'] = (None, tags[j])
+		for j in range(len(tags)):
+			data['tags[' + str(j) +']'] = (None, tags[j])
 
-			if licence:
-				data['licence'] = (None, licence)
+		if licence:
+			data['licence'] = (None, licence)
 
-			response = requests.post(api_url + '/videos/imports', headers=headers, files=data)
+		response = requests.post(api_url + '/videos/imports', headers=headers, files=data)
 
-			if response.status_code == requests.codes.ok:
+		if response.status_code == requests.codes.ok:
 
-				data = response.json()
-				uuid = data['video']['uuid']
+			data = response.json()
+			uuid = data['video']['uuid']
 
-				file_rewritemap.write(old_id + " " + uuid + ";\r\n")
+			file_rewritemap.write(old_id + " " + uuid + ";\r\n")
 
-				# print(json.dumps(data, indent=2))
+			# print(json.dumps(data, indent=2))
 
-			else:
+		else:
 
-				delta_writer.writerow(row)
+			delta_writer.writerow(row)
 
-				# error = response.json()
-	
-				# print(json.dumps(error, indent=2))
+			# error = response.json()
+
+			# print(json.dumps(error, indent=2))
 
 		i += 1
 
