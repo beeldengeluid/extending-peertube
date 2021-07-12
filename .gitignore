@@ -2,6 +2,7 @@ tools/cache/*
 tools/__pycache__
 tools/*.csv
 tools/configapi.py
+tools/harvest.php
 
 _site
 
