@@ -104,6 +104,7 @@ with open('openbeelden.csv', 'r') as csvfile:
 
 		licence = licence_links.get(licence_link, '')
 
+		tags = list(dict.fromkeys(tags))
 		tags = list(filter(lambda a: len(a) >= 2, tags))
 		tags = list(filter(lambda a: len(a) <= 30, tags))
 		tags = tags[:5]
