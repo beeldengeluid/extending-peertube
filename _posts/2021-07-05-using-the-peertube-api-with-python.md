@@ -36,7 +36,7 @@ Authenticating via OAuth requires the following steps:
 
 * Have an activated account
 * Generate an access token for that account at `/api/v1/users/token`.
-* Make requests with the *Authorization: Bearer <token>* header
+* Make requests with the _Authorization: Bearer <token>_ header
 
 This is how we implement these steps. First we define our activated account (api_pass is the password of the account):
 
