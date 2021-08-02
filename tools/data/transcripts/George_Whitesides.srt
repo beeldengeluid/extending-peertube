@@ -1,0 +1,2876 @@
+1
+00:00:00,28 --> 00:00:05,27
+George thanks so much for willing to do this interview and I don't want to embarrass you
+
+2
+00:00:05,28 --> 00:00:10,00
+but I know you're clearly one of the most distinguished and successful scientists
+
+3
+00:00:10,01 --> 00:00:14,86
+and did you also always know you wanted to be a scientist.
+
+4
+00:00:14,86 --> 00:00:21,3
+I was originally going to be a mathematician and it turns out I didn't have the brains to do that I was
+
+5
+00:00:21,43 --> 00:00:21,88
+cured
+
+6
+00:00:22,11 --> 00:00:29,78
+and I was really good at washing dishes so I become a chemist How early did you know wanted to be a mathematician
+
+7
+00:00:30,61 --> 00:00:37,45
+Oh that was part of the sort of adolescent feeling that the closer you got to mathematics the better off you were so
+
+8
+00:00:37,55 --> 00:00:39,9
+there were mathematicians and there were physicists
+
+9
+00:00:40,2 --> 00:00:44,75
+and then somewhere down the road there were the rest of us it was OK were there
+
+10
+00:00:44,76 --> 00:00:51,27
+scientists in your family my father was a chemical engineer so my first introduction to Science as it were was
+
+11
+00:00:51,28 --> 00:00:56,28
+pouring coal tar through a little hole to measure the viscosity of coal tar black
+
+12
+00:00:56,64 --> 00:01:03,13
+and I was a technician he was a chemical engineer who made concrete repair compounds so  was he happy that in the end you
+
+13
+00:01:03,14 --> 00:01:05,23
+became a chemist
+
+14
+00:01:05,23 --> 00:01:11,68
+I came from the Midwest in the Midwest what real men do is they go into business or they go into the army
+
+15
+00:01:12,23 --> 00:01:17,42
+and as a absolute worst thing just before you go into the street you go in teaching at university
+
+16
+00:01:18,13 --> 00:01:24,12
+but it was sort of OK because I was at MIT and there were engineers at MIT it wasn't bad.
+
+17
+00:01:24,12 --> 00:01:30,87
+Are you who yourself surprised by kind of the way your career has developed to be honest I've never thought about it
+
+18
+00:01:30,88 --> 00:01:35,51
+but I'm happy with the way my career has developed because I've reached my geriatric whatever
+
+19
+00:01:35,84 --> 00:01:42,99
+and I wake up in the morning I love it it's great stuff what what what are you looking forward to every day.
+
+20
+00:01:42,99 --> 00:01:48,3
+It's a combination of things what what's interesting about science is that you have the opportunity to do things that
+
+21
+00:01:48,31 --> 00:01:52,81
+are important to people and you have the opportunity of following your curiosity and it's fun
+
+22
+00:01:52,85 --> 00:01:59,98
+and you can actually make a living doing it when working you and so as a chemist I mean I would kind of not know.
+
+23
+00:02:00,01 --> 00:02:04,13
+A better person to ask about the nature of molecules I have to think about I think it was Feynman
+
+24
+00:02:04,14 --> 00:02:07,86
+who said that supposed that all science disappeared
+
+25
+00:02:07,92 --> 00:02:15,65
+and there was like one bit of knowledge that we could transfer to future generations he would do was say something like
+
+26
+00:02:15,79 --> 00:02:19,43
+All matter is made out of very small particles
+
+27
+00:02:19,48 --> 00:02:29,25
+that that perhaps is the best clue to give Do you agree with that. the thing about chemistry is that's chemistry that's
+
+28
+00:02:29,26 --> 00:02:35,18
+chemistry everything you see is chemistry so that if you really want something that has the characteristic that
+
+29
+00:02:35,19 --> 00:02:43,41
+is universal it's molecules and how you construct reality based on atoms. now there is a little business of the mind
+
+30
+00:02:43,87 --> 00:02:48,13
+and what happens in between matter and mind is a different story but that's molecules too
+
+31
+00:02:48,17 --> 00:02:54,86
+but going to to the matter this moment or something so what do we learn of the fact that things are made out of little
+
+32
+00:02:54,87 --> 00:03:01,24
+building blocks what does that tell us. it tells us about the enormous variety that one can get from a pretty limited
+
+33
+00:03:01,25 --> 00:03:05,11
+set of things. the periodic table is a pretty substantial list
+
+34
+00:03:05,38 --> 00:03:11,5
+but most of them don't show up very much I mean the number of occasions during the day in which you see Prometheum or
+
+35
+00:03:11,51 --> 00:03:17,24
+something like that it's a very small Yes On the other hand if you just imagine the variety that comes out of carbon
+
+36
+00:03:17,25 --> 00:03:22,56
+and hydrogen nitrogen oxygen it's what we call life and that's truly phenomenal
+
+37
+00:03:22,94 --> 00:03:31,96
+and so the idea of the the almost almost infinite variability of forms of matter and function
+
+38
+00:03:32,00 --> 00:03:37,86
+and use that you can get by taking a pretty simple collection of starting materials I think is one of the most
+
+39
+00:03:37,87 --> 00:03:45,12
+remarkable things that I know. if you think about that variety you know we might naturally think about all the
+
+40
+00:03:45,13 --> 00:03:52,36
+materials we find you know rocks and lifeforms that we explore that we discover.
+
+41
+00:03:52,36 --> 00:03:59,35
+But I guess we're also now in a phase where we kind of kind of starts to build things that haven't existed before.
+
+42
+00:04:00,38 --> 00:04:03,6
+You can build many things that haven't existed before
+
+43
+00:04:03,61 --> 00:04:11,75
+and for which there has been no imaginable use. I mean a perfectly good example is a silicon and transistors
+
+44
+00:04:11,79 --> 00:04:14,75
+and the Internet but you take a perfectly ordinary
+
+45
+00:04:14,76 --> 00:04:20,27
+and fairly commonly available element which usually in nature occurs in a slightly different form
+
+46
+00:04:20,28 --> 00:04:24,17
+but is nonetheless silicon and you take it and you clean it up
+
+47
+00:04:24,48 --> 00:04:27,69
+and then you write lines in it in interesting ways
+
+48
+00:04:27,97 --> 00:04:33,83
+and all of a sudden it starts doing computation for you how on earth does that happen and of course we understand it
+
+49
+00:04:33,98 --> 00:04:39,75
+but that's a combination of just the particles we were talking about but also electrons
+
+50
+00:04:39,76 --> 00:04:42,81
+and then this other intangible stuff called information
+
+51
+00:04:43,22 --> 00:04:51,54
+and it's the mixing of the three that produces such interesting and remarkable results. do you feel that it's the.
+
+52
+00:04:51,54 --> 00:04:59,81
+Purpose that kind of led to the material or did the material led to this kind of unexpected
+
+53
+00:04:59,81 --> 00:05:10,05
+Useful purposes. there's a very interesting book that's appeared recently called The Idea Factory which is the.
+
+54
+00:05:10,05 --> 00:05:13,21
+A history there are many history of Bell Labs but this is
+
+55
+00:05:13,25 --> 00:05:20,95
+one history of Bell labs many histories of Bell Labs go along the following narrative that is they say brilliant
+
+56
+00:05:20,96 --> 00:05:27,94
+physicist unconstrained by reality produced condensed matter physics and the Internet transistors
+
+57
+00:05:28,01 --> 00:05:32,39
+and the Internet and all the rest of that laser wonderful example all the terrific yes
+
+58
+00:05:32,84 --> 00:05:33,96
+and it's a good story 
+
+59
+00:05:34,12 --> 00:05:41,19
+but according to the guy who is running Bell Labs at that point it is unrelated to reality because in fact Shannon
+
+60
+00:05:41,2 --> 00:05:45,18
+and try for and Bardeen and the rest of them were all brilliant physicists that's not the issue
+
+61
+00:05:45,38 --> 00:05:49,66
+but they were basically making a more efficient and profitable telephone system
+
+62
+00:05:50,19 --> 00:05:56,73
+and so you know the thing about utility it was all focused on improving telecommunications
+
+63
+00:05:56,77 --> 00:05:59,98
+but there was a function yes people wanted to talk to their
+
+64
+00:06:00,01 --> 00:06:02,47
+brokers in New York or whatever that might be
+
+65
+00:06:02,79 --> 00:06:09,34
+and so since that function couldn't be accomplished by anything that existed they had to make up something new
+
+66
+00:06:09,35 --> 00:06:12,68
+and they tried other things and ended up inventing reinventing the world
+
+67
+00:06:12,85 --> 00:06:19,38
+but it was the desire to do something new not the desire to invent per se that I think made it happen so this is a
+
+68
+00:06:19,39 --> 00:06:26,66
+great lab that makes all these products which is called Nature right and evolution so can you say something how.
+
+69
+00:06:26,66 --> 00:06:33,53
+How does nature operates and how does technology operate where are the differences or perhaps similarities.
+
+70
+00:06:33,53 --> 00:06:41,74
+In a sense there's a similarity because if you believe Darwin and I'm a great admirer of Mr Darwin.
+
+71
+00:06:41,74 --> 00:06:48,71
+Nature operates by the idea of fitness what does fitness mean you get into wonderful arguments about what fitness
+
+72
+00:06:48,72 --> 00:06:55,15
+means but it basically ends up with the idea that whatever processes got us here got us here rather than porpoises
+
+73
+00:06:55,16 --> 00:06:57,16
+or snails or something that kind
+
+74
+00:06:57,77 --> 00:07:05,18
+and part of the reason we got here is that we are able to invent things that do not otherwise exist to accomplish
+
+75
+00:07:05,19 --> 00:07:13,46
+purposes some good some bad which other creatures haven't been able to do so well so what got us here was the ability our
+
+76
+00:07:13,47 --> 00:07:20,65
+ability the ability of our particular evolutionary experiment to do something us as human beings
+
+77
+00:07:21,05 --> 00:07:26,89
+and the interesting thing about that of course is that if you say that what accounts what counts is experimentation
+
+78
+00:07:26,95 --> 00:07:27,97
+and new ideas
+
+79
+00:07:27,98 --> 00:07:33,92
+and adaptability we're probably not the only thing that's ever going to be able to do that so there will be other kinds of
+
+80
+00:07:33,93 --> 00:07:40,53
+adaptation evolution and so if one looks into the future and ask are we necessarily the end of the line
+
+81
+00:07:40,54 --> 00:07:44,4
+and the best thing that will ever happen I don't think there's much evidence that that's true
+
+82
+00:07:44,66 --> 00:07:47,11
+but you're making the point that if you look at our technology
+
+83
+00:07:47,12 --> 00:07:51,96
+and how develop it that in some sense it's evolution that brought us to that point. it's evolution
+
+84
+00:07:51,97 --> 00:07:58,62
+but it's evolution in a funny sense because you can make an argument that one of the golden eras of science was the
+
+85
+00:07:58,63 --> 00:07:59,88
+period between.
+
+86
+00:08:00,1 --> 00:08:00,69
+The fifty's
+
+87
+00:08:00,7 --> 00:08:06,77
+and now there's an enormous amount of stuff that happened a lot of it happened because of World War two I mean the
+
+88
+00:08:06,93 --> 00:08:14,18
+the inventiveness that went into winning the war or not losing the war produced enormous benefits at the same time
+
+89
+00:08:14,52 --> 00:08:17,88
+and you know many of the things that happened earlier can be associated with good
+
+90
+00:08:17,89 --> 00:08:25,89
+and bad motives Yes So it's a question of how we use things in the argument is that science is is agnostic about this
+
+91
+00:08:25,9 --> 00:08:28,38
+and amoral I'm not sure any of that's necessarily true
+
+92
+00:08:28,39 --> 00:08:34,37
+but there are good and bad uses for most of technology so you say it was some kind of selection mechanism operative
+
+93
+00:08:34,42 --> 00:08:40,65
+operating the point too because we were really fighting for survival and what will we do with nuclear X. Where 
+
+94
+00:08:40,66 --> 00:08:41,68
+X Is power 
+
+95
+00:08:41,69 --> 00:08:42,34
+X is weapons
+
+96
+00:08:42,35 --> 00:08:47,44
+and X is who knows what it's going to be if you think particular let's first focus on what the more kind of material
+
+97
+00:08:47,45 --> 00:09:01,02
+science part if you look at the. Coming of new materials now. what we know and what is still out there to explore.
+
+98
+00:09:01,02 --> 00:09:08,22
+I think it's safe to say that the vast majority of forms of matter we haven't discovered yet.
+
+99
+00:09:08,22 --> 00:09:09,76
+How do you see this process going
+
+100
+00:09:09,77 --> 00:09:16,23
+and how do we find our ways in this kind of infinity of possibilities Well the question is what do we want to do
+
+101
+00:09:16,73 --> 00:09:20,35
+because it's the function that drives invention Yes
+
+102
+00:09:20,39 --> 00:09:27,8
+and one characteristic which is not always clear from the outside is that invention has a kind of ramp quality about
+
+103
+00:09:27,81 --> 00:09:34,55
+it that is coming up with an idea can be fairly easy there are lots of good ideas demonstrating an application is a little
+
+104
+00:09:34,56 --> 00:09:40,42
+bit more challenging whereas you have to knew something know something but the actual process of taking the idea
+
+105
+00:09:40,43 --> 00:09:43,35
+and taking it all the way to what we call a product
+
+106
+00:09:43,36 --> 00:09:48,24
+but even more so to a market where lots of people want it is very expensive
+
+107
+00:09:48,25 --> 00:09:56,62
+and very difficult in fact so that at the end science becomes technology if people want the function that it provides
+
+108
+00:09:56,8 --> 00:09:59,73
+Now what function do we want. right. and.
+
+109
+00:10:00,23 --> 00:10:04,96
+I think you can make an argument for example that the functions are probably the same in some sense that they always
+
+110
+00:10:04,97 --> 00:10:12,2
+were we want to be fed we want to have our children raised in reasonable ways we want to be safe we want to communicate
+
+111
+00:10:12,21 --> 00:10:16,69
+we want to be amused and each one of those will be served in different ways
+
+112
+00:10:17,01 --> 00:10:24,76
+but one of the interesting changes now is I think we've become accustomed the idea that information is probably as
+
+113
+00:10:24,77 --> 00:10:31,59
+important as things and we are growing accustomed the idea that machines may be as capable
+
+114
+00:10:31,6 --> 00:10:37,62
+or more capable than we in certain tasks and so you put together us,
+
+115
+00:10:37,62 --> 00:10:41,44
+Other parts of life machines and information
+
+116
+00:10:41,62 --> 00:10:46,23
+and you start having a world which actually doesn't look very much like the world of just one hundred years ago
+
+117
+00:10:46,79 --> 00:10:53,99
+and you feel that it is this combination of factors that will become a driving force for exploration you know Will
+
+118
+00:10:54,00 --> 00:11:00,02
+machines for instance help us explore maybe the machines can only do the exploration
+
+119
+00:11:00,03 --> 00:11:01,97
+but of course what they learn we can use
+
+120
+00:11:02,38 --> 00:11:09,55
+but we do we want to go and land ourselves on Pluto certainly not in the near term we have a problem so you mentioned
+
+121
+00:11:09,66 --> 00:11:16,62
+also kind of the whole I mean biology the life sciences are our own bodies are part of that kind of nexus of how do you
+
+122
+00:11:16,63 --> 00:11:23,55
+see from your point of view and I think as a chemist you're like perfectly positioned the material world and
+
+123
+00:11:23,56 --> 00:11:31,16
+and life and how are these two worlds interacting at this moment and what will bring the future.
+
+124
+00:11:31,16 --> 00:11:38,72
+Well that question is I think one of the more interesting questions around right now because there is a fundamentally
+
+125
+00:11:38,73 --> 00:11:41,59
+interesting issue there which is.
+
+126
+00:11:41,59 --> 00:11:46,47
+There is matter and there is life and are they different or is life just matter
+
+127
+00:11:46,97 --> 00:11:50,96
+and I have a prejudice in this which is.
+
+128
+00:11:50,96 --> 00:11:55,94
+Hypothesis let's say and that is we have matter like this which is stationary
+
+129
+00:11:56,93 --> 00:11:59,98
+and then we have matter of a different sort and.
+
+130
+00:12:00,22 --> 00:12:04,82
+The example I like is a flame which is matter but it's doing something
+
+131
+00:12:04,83 --> 00:12:12,9
+and it only really exists because it's doing something it's generating energy and you mix you mix methane and air
+
+132
+00:12:12,91 --> 00:12:15,91
+and you let it burn and you get a flame.
+
+133
+00:12:15,91 --> 00:12:23,89
+What's life and one argument is that life is a very complicated sort of flame you mix glucose for breakfast
+
+134
+00:12:24,18 --> 00:12:28,62
+or in my case caffeine with air and you burn it
+
+135
+00:12:28,78 --> 00:12:34,97
+and by a very complicated process you end up with a behavior which is not giving off heat and light
+
+136
+00:12:35,12 --> 00:12:41,13
+but it's giving off Beethoven and this conversation that we're having Yes And is that is that all there is
+
+137
+00:12:41,14 --> 00:12:43,64
+or is there something else there that we don't understand
+
+138
+00:12:43,94 --> 00:12:51,59
+and I think that's the great question Is there something we say emergent something that is not anticipated by existing
+
+139
+00:12:51,6 --> 00:12:54,65
+science that distinguishes life from everything else
+
+140
+00:12:54,74 --> 00:13:01,67
+or is it simply a marvelously balanced by some set of processes that we don't understand set of molecular processes
+
+141
+00:13:02,02 --> 00:13:07,67
+I could imagine that you know again  from the chemical point of view you might be perhaps biased to think the latter
+
+142
+00:13:07,85 --> 00:13:14,44
+that you think that it's just a very complicated process I don't know that just is the right word because you know it
+
+143
+00:13:14,45 --> 00:13:20,85
+just is a way of being a little bit dismissive. what to me is so interesting is the idea that if you can have
+
+144
+00:13:20,89 --> 00:13:24,09
+static matter you can have dynamic matter you can have living matter
+
+145
+00:13:24,1 --> 00:13:29,54
+and you can have thinking matter then this whole process leads you to the idea of how on earth
+
+146
+00:13:29,55 --> 00:13:35,02
+and why on earth would you arrive at something that was dynamic in the sense of being alive anymore
+
+147
+00:13:35,03 --> 00:13:40,42
+or even more so being dynamic and thinking intelligent intelligent matter
+
+148
+00:13:40,94 --> 00:13:47,65
+but the importance of the question I think is that if you can have intelligent matter based on hearts and blood
+
+149
+00:13:47,66 --> 00:13:53,39
+and whatever then there's no reason why you couldn't have intelligent matter of a number of different sorts if you if
+
+150
+00:13:53,4 --> 00:13:59,67
+you think and perhaps more kind of a gray scale or you have various. Kind of gradations in which life.
+
+151
+00:14:00,27 --> 00:14:01,16
+Matter is alive
+
+152
+00:14:01,17 --> 00:14:09,9
+or intelligent. might these questions be answered soon in terms of real objects appearing perhaps produced in laboratories that
+
+153
+00:14:09,91 --> 00:14:18,51
+are kind of exploring that intermediate area. there are I think two questions there. one question is.
+
+154
+00:14:18,51 --> 00:14:24,07
+Is there are there examples in which that line is already blurred Yes And I think there are many of them
+
+155
+00:14:24,11 --> 00:14:31,46
+and it one that I think is worth thinking about is simply a frozen egg. A human egg.
+
+156
+00:14:31,46 --> 00:14:36,98
+There's no chemistry going on it's doing absolutely nothing there is nothing in that that would suggest it's any
+
+157
+00:14:36,99 --> 00:14:43,01
+different from a rock but you warm it up and all of a sudden it's able to do something different
+
+158
+00:14:43,53 --> 00:14:50,3
+and you see in the same in the sense the same thing at the thought perspective because a human egg
+
+159
+00:14:50,36 --> 00:14:57,42
+when fertilized isn't thinking there's nothing to think with and when the baby's born it's not thinking much
+
+160
+00:14:57,58 --> 00:15:00,86
+and there's thought going on but it's probably certainly not self-aware
+
+161
+00:15:00,98 --> 00:15:04,08
+and then you end up with all of the semantic problems that you
+
+162
+00:15:04,09 --> 00:15:10,79
+and I have in trying to understand what thinking is about it's a continuum both of these are continua. so what that says
+
+163
+00:15:10,8 --> 00:15:18,17
+to me is that you can go from something that is not alive to something that's alive and from something that is not thinking to
+
+164
+00:15:18,18 --> 00:15:20,55
+something that is thinking in a continuous way
+
+165
+00:15:20,93 --> 00:15:28,63
+and the thing about continua is that they usually go on yes so we are not the end point of that curve where not the
+
+166
+00:15:28,64 --> 00:15:33,91
+end point of the curve that's right and so you say isn't it dismissive to think that we're just a flame
+
+167
+00:15:33,92 --> 00:15:39,26
+and the answer is no absolutely not because what you want is more complicated flames right 
+
+168
+00:15:39,27 --> 00:15:44,97
+and that gives me a great deal of optimism that whatever we are a thousand years from now is not going to be what we
+
+169
+00:15:44,98 --> 00:15:47,12
+are right now. so I could imagine there are
+
+170
+00:15:47,13 --> 00:15:54,25
+least two kinds we can kind of have objects which are more kind of in between life and.
+
+171
+00:15:54,25 --> 00:15:59,66
+dead matter but we can also think of that these things will start to kind of enhances.
+
+172
+00:16:00,16 --> 00:16:08,19
+Is that something that you see happening soon. well is a self driving car fundamentally different in its function from a
+
+173
+00:16:08,2 --> 00:16:15,22
+cab with a really bored taxi driver I mean the word taxi driver is it's almost certainly safe
+
+174
+00:16:15,65 --> 00:16:20,99
+but the board taxi driver is probably not thinking about a lot including driving the car yes
+
+175
+00:16:21,04 --> 00:16:28,68
+and whatever set of systems is driving the car in and in the vehicle that's unmanned is something quite different
+
+176
+00:16:28,97 --> 00:16:37,43
+but it they're both sort of operating on a low key so yeah why not why can't we have many variations on complexity
+
+177
+00:16:37,44 --> 00:16:44,93
+and why can't we more interestingly begin to combine them. are you envisioning seriously that you know artificial
+
+178
+00:16:44,94 --> 00:16:51,37
+intelligence or deep learning processes will start to kind of change not only our lives
+
+179
+00:16:51,38 --> 00:16:59,72
+but perhaps also the way we kind of do science and discover things. but isn't it already happening because after all the.
+
+180
+00:16:59,72 --> 00:17:05,81
+We have had our the pleasure of having our younger son home with us and.
+
+181
+00:17:05,81 --> 00:17:13,74
+It's very clear that he is thinking about things in a way that's fundamentally different from the way that I've ever
+
+182
+00:17:13,75 --> 00:17:18,25
+thought about things I mean the Internet has rewired his brain let's assume for the better
+
+183
+00:17:18,43 --> 00:17:20,01
+but I don't know that to be true
+
+184
+00:17:20,8 --> 00:17:28,66
+but it has to do with the fact that for him the idea of all information is available you just assume it of course all
+
+185
+00:17:28,67 --> 00:17:31,14
+information is available now what you do with it
+
+186
+00:17:31,21 --> 00:17:42,15
+and how your intuition works it works along different veins so it seems almost guaranteed that this process of us as
+
+187
+00:17:42,33 --> 00:17:47,87
+adaptable creatures adapting to an environment which now has all this other stuff going on which wasn't there before
+
+188
+00:17:47,92 --> 00:17:53,13
+you know it has to happen it's af if there's some new competitor come along or some the temperature is changed
+
+189
+00:17:53,14 --> 00:17:59,98
+or whatever has happened. and so evolution is kicking in again. evolution is kicking in. well how do you feel as.
+
+190
+00:18:00,01 --> 00:18:05,7
+Particularly I think you mention the Internet and the way we're communicating it's not only operating at the individual
+
+191
+00:18:05,71 --> 00:18:13,74
+level but also the kind of amount of connectivity the way we are connecting to other people and other 
+
+192
+00:18:13,74 --> 00:18:16,01
+But it's really all that it's it's really it's amazing
+
+193
+00:18:16,02 --> 00:18:23,25
+and well Does that give a different perspective on what it means to be a human being you feel.
+
+194
+00:18:23,25 --> 00:18:29,91
+What's a human being. well instead of just looking at us as individuals that in some sense we should now look really as a
+
+195
+00:18:30,51 --> 00:18:33,62
+as more as a collective.
+
+196
+00:18:33,62 --> 00:18:35,43
+Process. what I think you can argue
+
+197
+00:18:35,78 --> 00:18:40,41
+and we will see how it works out is that the Internet has rewired the brains of our children
+
+198
+00:18:40,42 --> 00:18:45,05
+and grandchildren in such a fashion that they are part of a collective as opposed to being isolated
+
+199
+00:18:45,58 --> 00:18:49,95
+and there are good features and bad features but the integration is very much a work in progress
+
+200
+00:18:50,37 --> 00:18:55,36
+and what will come of something in which not only is all information available
+
+201
+00:18:55,37 --> 00:18:58,95
+but all opinions are available as we are beginning to see yes plus
+
+202
+00:18:58,96 --> 00:19:06,34
+or minus with who knows what wild oscillation in the system as we begin to shake down in trying to understand what it is a
+
+203
+00:19:06,35 --> 00:19:11,53
+collective intelligence is like but a collective intelligence could be a next step
+
+204
+00:19:11,54 --> 00:19:16,38
+and it would certainly be very different from what we're doing now. if you kind of try to have a kind of a broader
+
+205
+00:19:16,39 --> 00:19:17,04
+perspective
+
+206
+00:19:17,05 --> 00:19:22,05
+and you see this kind of development or technology which you just said you know is really speeding up the last say fifty
+
+207
+00:19:22,06 --> 00:19:24,02
+years.
+
+208
+00:19:24,02 --> 00:19:30,35
+Do you have the feeling that we're kind of entering a new age in terms of technology what the role of technology will
+
+209
+00:19:30,36 --> 00:19:37,23
+be. Something like perhaps comparable to when we had like the Industrial Revolution or something.
+
+210
+00:19:37,23 --> 00:19:45,71
+I think the answer to that is absolutely yes. the question that I struggle with is what's the form going to be what's the
+
+211
+00:19:45,72 --> 00:19:51,96
+characteristic What's the characteristic because if we have enough matter of this sort to do many things
+
+212
+00:19:52,33 --> 00:19:59,68
+but we're just beginning to explore the intersection of this with this with information yes you end up with a very
+
+213
+00:19:59,69 --> 00:19:59,98
+different.
+
+214
+00:20:00,01 --> 00:20:03,38
+Kind of picture and it's not clear that I
+
+215
+00:20:03,39 --> 00:20:08,11
+or even you will live long enough to have a sense for what direction this is going
+
+216
+00:20:08,15 --> 00:20:13,22
+but I think the direction is going to be different. if you're speculating now I think clearly you know machines
+
+217
+00:20:13,23 --> 00:20:17,55
+and technology are becoming more and more important.
+
+218
+00:20:17,55 --> 00:20:19,61
+In the end will it be about us the story
+
+219
+00:20:19,62 --> 00:20:25,26
+or are we just kind of an intermediate phase that kind of passes the torch to perhaps the smart machine
+
+220
+00:20:25,27 --> 00:20:28,26
+or something else. we know there is the argument
+
+221
+00:20:28,27 --> 00:20:35,96
+and I think you may have heard about this from Martin Reese that we're just a little glimpse in between a period in
+
+222
+00:20:35,97 --> 00:20:38,17
+which you don't have sentients on the one hand
+
+223
+00:20:38,45 --> 00:20:42,84
+and then you have the real thing which lasts for a very long time and is based in silicon
+
+224
+00:20:42,85 --> 00:20:47,07
+or does something else I don't think it's easy to see the answer to that
+
+225
+00:20:47,11 --> 00:20:53,46
+but it certainly is true that you can understand that there are things that the Internet.
+
+226
+00:20:53,46 --> 00:20:59,86
+Can do that we can never do because I've spent a lifetime learning stuff a very brief lifetime learning stuff I die
+
+227
+00:20:59,87 --> 00:21:04,27
+it's gone but that won't happen with with other forms of memory
+
+228
+00:21:04,28 --> 00:21:09,55
+and intelligence they will be there forever. well your scientific achievements will definitely live on
+
+229
+00:21:09,56 --> 00:21:16,94
+and be carried on so aren't we in science in some sense also part of a much longer chain.
+
+230
+00:21:16,94 --> 00:21:22,64
+We are I know that we all like to have the idea that there is some residue
+
+231
+00:21:22,81 --> 00:21:29,64
+There isn't you know what happens is you understand stuff it's incorporated into things
+
+232
+00:21:29,65 --> 00:21:34,12
+and then immediately is taken for granted so it's not that we don't contribute
+
+233
+00:21:34,48 --> 00:21:40,04
+but there isn't much residue. it's the flame. it's that's right you turn it off it's gone but while it's there it's hot
+
+234
+00:21:40,05 --> 00:21:49,79
+and it's useful. talking about machines you know you think that in the future there will be more machines around us for instance
+
+235
+00:21:49,8 --> 00:21:58,45
+robots. Well you know there's an interesting word that you just use which is machine yes is a.
+
+236
+00:21:58,45 --> 00:21:59,98
+Structure that thinks as clearly
+
+237
+00:22:00,25 --> 00:22:00,99
+As we do
+
+238
+00:22:01,03 --> 00:22:06,55
+and can do things that we can't do allthough it operates on different principles aren't we dismissing it a little bit to
+
+239
+00:22:06,56 --> 00:22:14,93
+call it a machine. my lawn mower is a machine. I'm thinking about something rather different yes anyway robots.
+
+240
+00:22:14,93 --> 00:22:24,87
+Robots were developed of course originally to replace people in tasks that were not doable or difficult
+
+241
+00:22:24,88 --> 00:22:31,75
+or unpleasant than lifting body panels into an automobile assembly line or working in a mine or things of that sort
+
+242
+00:22:32,62 --> 00:22:34,28
+and that's worked really very well
+
+243
+00:22:34,67 --> 00:22:40,13
+and there are a series of what our machines which have the unpleasant characteristic that if you happen to be standing
+
+244
+00:22:40,14 --> 00:22:42,21
+too close to one of them when it swings its arms
+
+245
+00:22:42,22 --> 00:22:48,95
+it simply cuts you in half and doesn't notice. so one of the things is beginning to happen now is the development of
+
+246
+00:22:48,96 --> 00:22:58,63
+what's known in the trade as collaborative robotics meaning robots by which I mean very broadly almost anything that's
+
+247
+00:22:58,64 --> 00:23:03,31
+a machine that interacts in a dynamic way with its environment.
+
+248
+00:23:03,31 --> 00:23:07,26
+Robots that are designed and do work cooperatively
+
+249
+00:23:07,27 --> 00:23:16,78
+and safely with people. it's a very important kind of distinction because with cooperative robotics one can imagine.
+
+250
+00:23:16,78 --> 00:23:24,49
+The step in which on the one hand we already have us thinking together with machines computers I think all the time
+
+251
+00:23:24,5 --> 00:23:30,35
+we're very happy with that and if we can now add to this something in which we interact with machines
+
+252
+00:23:30,58 --> 00:23:37,21
+and maybe even machines that look like us although I don't think that's necessary as a part of this then you fuse the
+
+253
+00:23:37,22 --> 00:23:40,5
+two together with the with the corporeal self
+
+254
+00:23:40,51 --> 00:23:47,3
+and the information thinking self in ways that you can't tell the difference then all of a sudden we've done something
+
+255
+00:23:47,31 --> 00:23:55,58
+which is really remarkable which is depending upon your point of view creating a living or thinking pure competitor
+
+256
+00:23:55,9 --> 00:23:59,98
+or cooperative species and how we make that out will.
+
+257
+00:24:00,01 --> 00:24:06,66
+Depend upon how things go I can't answer the question. are you in any way worried that.
+
+258
+00:24:06,66 --> 00:24:12,37
+These cooporative new species will kind of dominate us or take over. in the short term no
+
+259
+00:24:12,8 --> 00:24:14,55
+and we have a wonderful example
+
+260
+00:24:15,16 --> 00:24:20,41
+when people bring up the issue of aren't robots taking jobs yes of course robots are taking jobs
+
+261
+00:24:20,85 --> 00:24:23,15
+but in the nineteen thirty's.
+
+262
+00:24:23,16 --> 00:24:29,41
+There was a very important class of robots introduced not called a robot but it was a washing machine
+
+263
+00:24:29,42 --> 00:24:35,76
+and a dishwasher Yes And what these did was to take fifty percent of the population otherwise known as women who were
+
+264
+00:24:35,77 --> 00:24:40,63
+spending their time basically washing things get rid of all that and allow them to go on
+
+265
+00:24:40,64 --> 00:24:49,37
+and do all the other things that people yes women men do so liberating liberating what it did was to create
+
+266
+00:24:49,41 --> 00:24:56,08
+opportunities to do more interesting things and so if we assume that what will happen with.
+
+267
+00:24:56,08 --> 00:25:03,14
+Advanced information systems artificial intelligence robotics whatever it might be if we assume that that will take
+
+268
+00:25:03,15 --> 00:25:05,68
+over some of the less interesting jobs
+
+269
+00:25:06,00 --> 00:25:14,02
+and there are many of those then the question is will we be clever enough to have other things that need to be done in
+
+270
+00:25:14,03 --> 00:25:15,51
+which this yes can work
+
+271
+00:25:15,95 --> 00:25:23,86
+and the answer to that of course in a kind of I don't know ethical sense is yes because picture number seventy percent of
+
+272
+00:25:23,87 --> 00:25:30,35
+the world's population still lives if not in poverty in difficult circumstances
+
+273
+00:25:30,64 --> 00:25:38,5
+and one could go about basically improving the standard of living. health housing education for everybody
+
+274
+00:25:38,89 --> 00:25:44,41
+or we could do something else and we'll probably try both.
+
+275
+00:25:44,41 --> 00:25:48,24
+I just want to also kind of come back to evolution 
+
+276
+00:25:48,28 --> 00:25:54,98
+and as you said you know now at this point we are at this phase where technology enters and becomes part of it
+
+277
+00:25:54,99 --> 00:26:03,33
+but if you trace back in the other direction we talked about the kind of. Mysterious properties of.
+
+278
+00:26:03,33 --> 00:26:09,41
+Matter that has come alive I know you also think about the origin of life. right.
+
+279
+00:26:09,41 --> 00:26:15,52
+Because that's somehow the essential question that might be the point where we go from one one phase to the other
+
+280
+00:26:15,84 --> 00:26:18,7
+what are your thoughts about that.
+
+281
+00:26:18,7 --> 00:26:25,63
+To me the origin of life is the most interesting question I know in science right now I mean absolutely the origin of the
+
+282
+00:26:25,64 --> 00:26:28,29
+universe in space and time these are wonderful questions
+
+283
+00:26:28,8 --> 00:26:35,21
+but we don't actually have very much contact with the origin of the universe so it is not an everyday event for me yes on the
+
+284
+00:26:35,22 --> 00:26:41,56
+other hand you and your colleagues are everyday events and where could they have come from. I have no idea
+
+285
+00:26:42,14 --> 00:26:46,94
+and the characteristic of a good scientific problem is you don't know the answer before you start yes
+
+286
+00:26:46,98 --> 00:26:50,26
+but it's all well and good to say that you have a flame
+
+287
+00:26:50,88 --> 00:26:58,61
+but how a flame becomes the remarkable set of things that represent it is represented by life is not at all obvious
+
+288
+00:26:58,92 --> 00:27:05,48
+and there are two parts to this question there's a there's a part which is Darwinian evolution so once you have a cell
+
+289
+00:27:05,49 --> 00:27:11,38
+how does the cell become over many many many generations how does it become Beethoven in a vague way we understand how
+
+290
+00:27:11,39 --> 00:27:17,57
+that could happen how how do you take random sludge being a radiated by a U.V.
+
+291
+00:27:17,58 --> 00:27:24,4
+Rich sun and boiled by volcanoes and things like that and have that turn out to be the first cell I have no clue
+
+292
+00:27:24,86 --> 00:27:30,61
+and so what's wonderful about it is that I have a feeling there that at least in the detail we don't understand what's
+
+293
+00:27:30,62 --> 00:27:32,21
+going on at all but
+
+294
+00:27:32,5 --> 00:27:39,26
+but and the but is interesting what it does say is that it's possible to take things that seem totally disorganized
+
+295
+00:27:39,59 --> 00:27:40,54
+but have energy
+
+296
+00:27:40,73 --> 00:27:46,7
+and have them by some process bootstrap themselves into something that is totally different in terms of its characteristic
+
+297
+00:27:46,71 --> 00:27:51,03
+Yes we don't understand really how that happens in very vague terms yes
+
+298
+00:27:51,04 --> 00:27:57,14
+but how does it really happen I don't know. I mean if you wonder about the origin of the universe itself it was
+
+299
+00:27:57,18 --> 00:27:59,69
+intellectually of course very stimulating question and.
+
+300
+00:28:00,08 --> 00:28:05,53
+The same is true for asking what happened four billion years ago on planet Earth
+
+301
+00:28:06,16 --> 00:28:11,82
+but I could imagine that if you that the question of the origin of life is also quite relevant.
+
+302
+00:28:11,82 --> 00:28:17,69
+Now studying complicated processes etc something it's not only it's something that you could possibly replicate
+
+303
+00:28:17,7 --> 00:28:22,81
+or could show processes that we weren't aware of. perhaps
+
+304
+00:28:23,02 --> 00:28:31,93
+but that implies that if we're going to do it now it implies that we sort of know how it happened because if you look
+
+305
+00:28:31,94 --> 00:28:38,24
+at what seems to be required to make the simplest cell it is so complicated that it doesn't seem likely to have
+
+306
+00:28:38,25 --> 00:28:44,4
+happened by accident there has to have been some direction in terms of going downhill in energy
+
+307
+00:28:44,41 --> 00:28:46,58
+or something we don't know what that might be
+
+308
+00:28:46,92 --> 00:28:52,39
+and I don't think we know what that is there's a real difference in the opinion of the community that thinks about this
+
+309
+00:28:52,4 --> 00:28:59,06
+and I happen to think we don't have a clue there are people who think we're almost there we can go from pond scum to
+
+310
+00:28:59,07 --> 00:29:03,36
+the first cell Yes And then there are people who think that once you've got to the first cell you don't have to worry
+
+311
+00:29:03,37 --> 00:29:10,23
+about the rest of it you just assume it yeah yeah well how do you think that in the end we will settle that question what what kind
+
+312
+00:29:10,24 --> 00:29:18,67
+of do you at least see a pathway of investigation getting to the answers Yes I think there are pathways of investigation so from
+
+313
+00:29:18,71 --> 00:29:26,57
+the kind of approach that we take not knowing how to do it we ask the question of how do you take reactions
+
+314
+00:29:26,58 --> 00:29:31,33
+and how would reactions begin to interact with one other cooperatively how would they self assemble
+
+315
+00:29:31,97 --> 00:29:38,34
+and if you could do that if you could find out principles which would suggest that then you might be able to think that
+
+316
+00:29:38,38 --> 00:29:46,28
+maybe in this environment that set of things might have been and have become a group not of five separate reactions
+
+317
+00:29:46,29 --> 00:29:49,87
+but five reactions that are somehow working together and talking to one another
+
+318
+00:29:50,45 --> 00:29:55,62
+but what I just said how the reactions talk to one another we know how it happens in life now
+
+319
+00:29:55,82 --> 00:29:59,98
+but we don't have any idea how it could have happened to the life then and so it's a wonderful problem.
+
+320
+00:30:00,54 --> 00:30:06,26
+George we're talking about origin of life. I just want to make a little detour what you feel about life in the
+
+321
+00:30:06,27 --> 00:30:09,07
+universe. Are we
+
+322
+00:30:09,07 --> 00:30:18,22
+Alone. we don't know. yes. I mean the issue there is that if you're in the model I'm in which says I can't see how it
+
+323
+00:30:18,23 --> 00:30:26,72
+happens if it happens by accident it's so improbable that I have no way to get my arms around it but of course.
+
+324
+00:30:26,72 --> 00:30:32,72
+You know the sort of number as you hold your arm at arm's length and look at the size of a quarter
+
+325
+00:30:33,08 --> 00:30:40,36
+and in any direction that's a billion galaxies included in that and the billion galaxies has ten billion suns
+
+326
+00:30:40,37 --> 00:30:42,2
+and most of the Suns have planets
+
+327
+00:30:42,48 --> 00:30:48,1
+and they're experimenting all the time with everything I have no idea how to think about what's going on several years
+
+328
+00:30:48,11 --> 00:30:49,07
+of years over billions
+
+329
+00:30:49,08 --> 00:30:56,09
+and billions of years so there's lots of room for things to happen if I had to bet I would say that it's one of two
+
+330
+00:30:56,1 --> 00:31:00,46
+possibilities either there's only one or it happens all the time everywhere
+
+331
+00:31:00,54 --> 00:31:07,96
+and I don't know what the answer is. You think we can find out if we find out somehow the origin of life will it also tell
+
+332
+00:31:07,97 --> 00:31:10,68
+us something about.
+
+333
+00:31:10,68 --> 00:31:14,06
+what could have happened. can happen at other
+
+334
+00:31:14,07 --> 00:31:20,64
+other planets. I think it will answer everything if we have an idea that it it actually is not so hard you
+
+335
+00:31:20,65 --> 00:31:25,6
+know maybe you have to have the right conditions then with all those experiments it's bound to happen over and over
+
+336
+00:31:25,61 --> 00:31:26,17
+and over again
+
+337
+00:31:26,49 --> 00:31:33,01
+but there are probably events that are very rare I don't think we have any idea how often the universe firms forms
+
+338
+00:31:33,05 --> 00:31:34,37
+how often does nothing
+
+339
+00:31:34,38 --> 00:31:41,29
+burp into something how often does lifeless burp into life I don't know how to estimate that kind of number
+
+340
+00:31:41,3 --> 00:31:50,15
+I like that word. The Big Burp. the burp yeah the Big Bang it's the same B but it's another idea.
+
+341
+00:31:50,15 --> 00:31:54,12
+But you know the issue of evolution is also interesting in another sense
+
+342
+00:31:54,85 --> 00:31:59,37
+when Darwin thought about evolution he was thinking about finches and.
+
+343
+00:32:00,01 --> 00:32:07,00
+And the Galapagos finches and he was thinking about predators and prey
+
+344
+00:32:07,01 --> 00:32:12,77
+and surviving in competition with other competitors at the beginning if you think about the beginning there were no
+
+345
+00:32:12,78 --> 00:32:16,69
+competitors and the first cell had no living competitors but as it was
+
+346
+00:32:17,67 --> 00:32:22,01
+and probably what it had to do more than fight off competitors
+
+347
+00:32:22,02 --> 00:32:27,17
+and breed fast it had to fight off the consequences of meteor strikes and volcanoes
+
+348
+00:32:27,18 --> 00:32:34,5
+and things of this sort so that it may well be that what at the beginning was Darwinian evolution was actually
+
+349
+00:32:34,51 --> 00:32:38,17
+robustness the ability to survive dramatic change
+
+350
+00:32:38,53 --> 00:32:45,34
+and then that evolved into the ability to run faster than either what you wanted to eat or what ate you
+
+351
+00:32:45,77 --> 00:32:54,55
+and now the question is for the future yes what is going to be the vector for for for evolution what will we be
+
+352
+00:32:54,56 --> 00:33:02,12
+running toward or running away from and I think it will be very interesting if we both run away from
+
+353
+00:33:02,13 --> 00:33:05,31
+and towards something which we have created.
+
+354
+00:33:05,31 --> 00:33:10,06
+That's an interesting idea so we are one of the very few species that likes to be both predator
+
+355
+00:33:10,07 --> 00:33:17,95
+and prey for ourselves. so you're also telling us that we are kind of we are struggling with many of the issues that we created
+
+356
+00:33:17,96 --> 00:33:24,03
+ourselves many of the issues we create ourselves. what are the things that you worry about. what do I worry about I don't
+
+357
+00:33:24,04 --> 00:33:26,92
+know I don't worry about much because there isn't that much you can do
+
+358
+00:33:27,68 --> 00:33:33,43
+but the kinds of things that I think in a personal sense one worries about is.
+
+359
+00:33:33,43 --> 00:33:36,71
+Every one has a vector mine happens to be children. I care about children
+
+360
+00:33:37,69 --> 00:33:47,17
+and so as a child you are basically raised in our society to do work and ideally work that makes a difference
+
+361
+00:33:47,18 --> 00:33:54,06
+and meaningful work whatever meaningful is. If we find that we've handed everything over to.
+
+362
+00:33:54,06 --> 00:33:59,98
+Some other form of machinery then we've got to figure out what what people do.
+
+363
+00:34:00,01 --> 00:34:04,12
+What do people do to fill the day and that I think is a little worrisome
+
+364
+00:34:04,47 --> 00:34:08,18
+because I am not sure even now in Western Europe
+
+365
+00:34:08,19 --> 00:34:13,81
+and in the United States we have the constituentive problem that there are more people than there are good jobs for
+
+366
+00:34:13,82 --> 00:34:17,73
+people and when that happens everyone becomes mischievous
+
+367
+00:34:18,06 --> 00:34:23,27
+and mischievousness amplified with nuclear weapons leads to real trouble.
+
+368
+00:34:23,27 --> 00:34:31,53
+What do you see as the role of science and particular also technology in this I mean you could argue again you know technology is
+
+369
+00:34:31,66 --> 00:34:36,00
+operating on both sides of the equation in some sense you know it's creating lots of problems
+
+370
+00:34:36,01 --> 00:34:43,17
+but often it's also seen as one of the few solutions of these problems. there's no shortage of problems I mean just think for a
+
+371
+00:34:43,18 --> 00:34:49,1
+moment we have the environment and the environment everyone is interested in energy and everyone is
+
+372
+00:34:49,11 --> 00:34:51,6
+interested in CO2 we all recognize it's a problem
+
+373
+00:34:51,64 --> 00:34:56,56
+and we really don't have a good way of solving it. probably the best way is going to be.
+
+374
+00:34:56,56 --> 00:35:02,9
+The most acceptable way will be to reduce energy usage yes the other way of course is to reduce people
+
+375
+00:35:03,75 --> 00:35:07,91
+and the most benign way of solving both of those problems is probably education
+
+376
+00:35:07,92 --> 00:35:11,35
+and education isn't very popular so I don't know whether we've got that
+
+377
+00:35:12,1 --> 00:35:20,15
+but there's that kind of issue we are creating we as human beings are creating a social construct that didn't exist
+
+378
+00:35:20,16 --> 00:35:25,93
+ever before in history called the Mega city so fifty million or more people living in a small space
+
+379
+00:35:26,42 --> 00:35:33,37
+and we have no idea how these things operate but they have to operate well for for the people 
+
+380
+00:35:33,47 --> 00:35:40,15
+and I think about this as being a purely chemical materials problem you have energy coming in you have food coming in
+
+381
+00:35:40,16 --> 00:35:47,15
+you have waste going out you think about stuff spreading both information and epidemics you have to do things with the
+
+382
+00:35:47,16 --> 00:35:51,65
+individual components but that will be done by a distributed system I mean it's a wonderful problem
+
+383
+00:35:52,38 --> 00:35:58,75
+and then you have. And you see technology in some sense as having opportunities to that. I think that will
+
+384
+00:35:58,76 --> 00:35:59,98
+happen. will happen yes.
+
+385
+00:36:00,17 --> 00:36:05,07
+One has in I think a very interesting construct in Europe called Ludvigshafen
+
+386
+00:36:05,78 --> 00:36:08,23
+and Ludvigshafen is the home of BASF.
+
+387
+00:36:08,24 --> 00:36:12,92
+Which is one of the few you know real chemical companies standing
+
+388
+00:36:13,28 --> 00:36:20,45
+and it's an enormous plot of land which is basically one factory and a mega city is almost the same thing
+
+389
+00:36:20,51 --> 00:36:25,83
+they are the same basic kind of constructs. stuff comes in energy is used stuff goes out
+
+390
+00:36:26,22 --> 00:36:34,13
+but we know how to run Ludvigshafen because we created it. yes. we don't have any idea how to construct a megacity because
+
+391
+00:36:34,14 --> 00:36:41,29
+it created itself. there's a very interesting question I think if you look at the usual definitions of life you know
+
+392
+00:36:41,91 --> 00:36:53,98
+self-aware energy using dissipating food in stuff out self replicating would you say that the city was alive.
+
+393
+00:36:53,98 --> 00:36:59,91
+I would. yeah. I mean it seems to me to have many of the right characteristics. so that's. we've talked about the
+
+394
+00:36:59,92 --> 00:37:00,37
+Internet
+
+395
+00:37:00,47 --> 00:37:07,55
+but it may be that cities fall in the same category. anyway there's the population of the world that is still poor
+
+396
+00:37:07,56 --> 00:37:14,24
+and hungry. I mean an enormous number of problems there. there's the basic question of how we deal with the detritus from
+
+397
+00:37:14,25 --> 00:37:18,77
+the past there's there's just an enormous number of problems how do you ease the pain
+
+398
+00:37:18,78 --> 00:37:24,12
+and suffering of dying because we're all going to die. how do you do this. so there's no shortage of problems the
+
+399
+00:37:24,13 --> 00:37:32,24
+question is how do you provide the education the interest the resources so that people are engaged in solving these
+
+400
+00:37:32,25 --> 00:37:39,55
+problems which will be what we call jobs as opposed to watching their handheld devices which is not a job
+
+401
+00:37:39,71 --> 00:37:42,69
+or making things even worse. right. Well I don't know if it's going to make it worse
+
+402
+00:37:42,7 --> 00:37:48,87
+but it's a little bit of drawing a blank card. is this. We were talking George about the problems in the world and I
+
+403
+00:37:48,88 --> 00:37:56,13
+want to ask you is that motivating your own research if you go into the lab are you thinking about.
+
+404
+00:37:56,13 --> 00:37:59,98
+Adressing some of these big challenges. it is a major motivation.
+
+405
+00:38:00,54 --> 00:38:08,85
+And my argument for it is that my salary and the salary of my students is paid for by people who deliver the mail
+
+406
+00:38:08,86 --> 00:38:10,94
+and pump gasoline and things like that
+
+407
+00:38:11,45 --> 00:38:18,3
+and the process you can follow the money. the process is that they produce money they in corporations produce money
+
+408
+00:38:18,88 --> 00:38:22,86
+which they give to the government which we all give to the government not because we're good people
+
+409
+00:38:22,87 --> 00:38:24,85
+but because we go to jail if we don't
+
+410
+00:38:25,46 --> 00:38:30,97
+but in the back of our mind is the idea that something comes out of it the government spends it for security
+
+411
+00:38:30,98 --> 00:38:31,67
+and education
+
+412
+00:38:31,68 --> 00:38:38,09
+and good things of that kind then the government of course has no way of actually doing anything with money because it
+
+413
+00:38:38,31 --> 00:38:46,83
+just is sort of a bag man so the government takes the money and gives it to a tiny fraction of it to universities
+
+414
+00:38:46,84 --> 00:38:52,35
+and sometimes to corporations on the theory that this makes for better outcomes
+
+415
+00:38:53,28 --> 00:39:02,84
+and then the universities have no way of doing anything either so whatever they come up with knowledge or invention
+
+416
+00:39:02,85 --> 00:39:09,8
+or whatever it might be has to be handed to another entity which is generally called a company to do something with. yes
+
+417
+00:39:09,84 --> 00:39:15,96
+and all of a sudden that produces something which society recognizes the person who put up the money recognizes as
+
+418
+00:39:15,97 --> 00:39:22,3
+a benefit but if you don't go through that it becomes self-referential it becomes.
+
+419
+00:39:22,3 --> 00:39:29,00
+Academics saying that we deserve to be supported because basically we're stunningly beautiful
+
+420
+00:39:29,47 --> 00:39:35,39
+and actually we're not we are just like everybody else and so the world is full of problems
+
+421
+00:39:35,4 --> 00:39:40,87
+and both from the point of view of helping to pay the bill you get the money you should give something in return
+
+422
+00:39:41,08 --> 00:39:47,34
+and also because it is so immensely stimulating to work on a problem that you have no idea how to solve we should do it
+
+423
+00:39:47,76 --> 00:39:55,02
+what are particular problems that motivate you. the one that we work on is we're very interested in health care for the
+
+424
+00:39:55,03 --> 00:39:59,98
+developing world and in much of Africa some parts of
+
+425
+00:40:00,01 --> 00:40:07,41
+South America Western China there are lots of places where things have gone wrong actually in much of the Middle East
+
+426
+00:40:07,42 --> 00:40:13,21
+now for different reasons. their people have very little access to health care they have very little access to hospitals
+
+427
+00:40:13,25 --> 00:40:18,12
+they can't do what we do in the United States which is we feel sick we go to the emergency room
+
+428
+00:40:18,36 --> 00:40:24,77
+and all of a sudden all the panoply of stuff is available. so how do you how do you provide help
+
+429
+00:40:24,98 --> 00:40:33,99
+and my argument at least in part as a chemist that you can't fix it if you can't measure it so that if you want your
+
+430
+00:40:34,00 --> 00:40:38,41
+physician you want to help you have to know help at what and that's diagnostics
+
+431
+00:40:39,08 --> 00:40:43,36
+and so. it's knowledge of the body. knowledge of the body and knowledge of the disease or the injury
+
+432
+00:40:43,37 --> 00:40:51,45
+or whatever it might be so the question is how do you provide information in a way that's accessible to people who
+
+433
+00:40:51,46 --> 00:40:54,58
+do not have front end hospitals working with them
+
+434
+00:40:54,91 --> 00:41:01,56
+and it's a very interesting problem because it actually super imposes almost on problems in animal health and the
+
+435
+00:41:01,57 --> 00:41:05,95
+problems in environmental monitoring and the problem of the city and other things
+
+436
+00:41:06,67 --> 00:41:16,16
+and what one asks as I would say more an engineer than a scientist in this regard is taking everything that you know
+
+437
+00:41:16,55 --> 00:41:22,25
+can you come up with stuff that helps to fix this problem in a way that's affordable
+
+438
+00:41:22,26 --> 00:41:27,42
+and easy enough that anyone can use it and it's simple and you can't really screw it up yes
+
+439
+00:41:27,56 --> 00:41:30,34
+and I think the answer is yes but it is not straightforward
+
+440
+00:41:30,88 --> 00:41:40,7
+but on the other hand probably it will involve some very kind of high advanced technology and investigations right I mean
+
+441
+00:41:40,71 --> 00:41:45,43
+it's you're not doing basic stuff here. you're really exploring. I think the answer is yes
+
+442
+00:41:45,44 --> 00:41:52,77
+and no. the actual work that we do is to make diagnostic systems that are based on little pieces of paper
+
+443
+00:41:53,34 --> 00:41:59,87
+and this. the origin of this idea was that we were looking for some way of making. Systems that.
+
+444
+00:42:00,01 --> 00:42:07,77
+Pump blood around and things of this kind in which we could adapt something that existed before for that purpose
+
+445
+00:42:07,78 --> 00:42:10,61
+and what we settled on was making comic books
+
+446
+00:42:11,2 --> 00:42:18,31
+but I was making comic books if you've ever seen a rotary press you know it generates enough pieces that big
+
+447
+00:42:18,32 --> 00:42:22,08
+or enough area if you think about this way to cover the surface of the earth
+
+448
+00:42:22,13 --> 00:42:28,09
+and you want to run in thirty miles an hour in a you know a sixty foot web it's amazing so that technology was there. 
+
+449
+00:42:28,13 --> 00:42:36,72
+all we had to do is in a sense think of how to use it and that part is is actually trying to make things low end
+
+450
+00:42:36,76 --> 00:42:42,19
+and as simple as possible and simple is not easy. a transistor is simple but it's not easy
+
+451
+00:42:43,00 --> 00:42:52,66
+and then the high end part of it is that the assumption is everywhere that healthcare now will not be ever again just
+
+452
+00:42:52,7 --> 00:42:55,29
+patient and doctor
+
+453
+00:42:55,47 --> 00:43:02,89
+but rather patient doctor archival patient based database epidemiology that covers you know good fraction of the world
+
+454
+00:43:03,03 --> 00:43:08,02
+history of all diseases of that sort we're not there yet. A huge dataset. Huge data sets
+
+455
+00:43:08,31 --> 00:43:14,75
+and so that's the highest end so putting these things together is what in the sense is interesting how do you take
+
+456
+00:43:14,76 --> 00:43:19,41
+something which is designed at the level of individuals to be as simple as they can be
+
+457
+00:43:19,65 --> 00:43:27,4
+but at the level of collectives is more sophisticated than we can really imagine. thinking about also the collective So
+
+458
+00:43:27,41 --> 00:43:35,38
+the kind of immensity of data for you know perhaps everybody's life history and medical history.
+
+459
+00:43:35,38 --> 00:43:36,66
+It's kind of interesting that somehow
+
+460
+00:43:36,67 --> 00:43:42,31
+analyzing this is really a collective thing. it's no longer we somehow do this as a species as a
+
+461
+00:43:42,32 --> 00:43:43,91
+planet.
+
+462
+00:43:43,91 --> 00:43:52,39
+But you know even there you see it very much just looking around any room. you can tell if you walk into a room pretty
+
+463
+00:43:52,4 --> 00:43:59,67
+much even not a doctor who's healthy and who's not and and the big things are weight.
+
+464
+00:44:00,88 --> 00:44:07,2
+Exercise you can tell that by how people move not smoking and you can tell that by watching them
+
+465
+00:44:07,21 --> 00:44:13,34
+when they smile their face either breaks up in normal crinkles or in plaques and.
+
+466
+00:44:13,34 --> 00:44:16,26
+You know they have to look basically slept
+
+467
+00:44:16,27 --> 00:44:20,71
+and they get to get enough rest it's not all that complicated now lots of other things happen
+
+468
+00:44:20,72 --> 00:44:26,65
+when stuff begins to go wrong but we have a model in the United States in Europe in Japan
+
+469
+00:44:26,66 --> 00:44:29,22
+and many places of high end end of life medicine
+
+470
+00:44:29,79 --> 00:44:36,65
+and it comes from this basic idea that life is invaluable so we will spend any amount of money to keep you alive
+
+471
+00:44:36,66 --> 00:44:41,28
+do anything that is necessary. anything that's necessary this doesn't make sense to me
+
+472
+00:44:41,61 --> 00:44:48,29
+but if you take that point of view then you tend to focus on people who are already sick rather than the obvious which
+
+473
+00:44:48,3 --> 00:44:49,59
+is keeping people healthy
+
+474
+00:44:50,31 --> 00:45:00,31
+and you know my idea is that drop off the edge of the cliff rather than slowly sink into the swamp like a baby 
+
+475
+00:45:00,32 --> 00:45:03,38
+hippopotamus in La Brea
+
+476
+00:45:03,38 --> 00:45:09,53
+George are you fundamentally optimistic about where the world is heading where our life heading I'm fundamentally
+
+477
+00:45:09,54 --> 00:45:13,72
+immensely optimistic but I don't know optimistic about what
+
+478
+00:45:14,12 --> 00:45:20,75
+because I don't know how it's going to come out. do you know why what motivates your optimism.
+
+479
+00:45:20,75 --> 00:45:26,65
+I think as a species we have tended to get better
+
+480
+00:45:27,58 --> 00:45:33,98
+and life is not as miserable I spend very little time worrying about whether I'm going to be set upon by robbers
+
+481
+00:45:34,29 --> 00:45:42,07
+whether I'm going to make it past my thirtieth birthday you know these kinds of things are not probable. It was not that
+
+482
+00:45:42,08 --> 00:45:49,88
+long ago. it wasn't that long ago that it's one hundred years ago that all of this was unknown. children died of perfectly
+
+483
+00:45:50,12 --> 00:45:59,58
+we regard perfectly preventable disease. what's happened a little bit is that is the genie out of the bottle problem
+
+484
+00:45:59,65 --> 00:45:59,97
+we've.
+
+485
+00:46:00,16 --> 00:46:07,7
+Released the Internet we have nuclear weapons we have the ability to do things which we use for good
+
+486
+00:46:08,00 --> 00:46:10,92
+but which if we're dumb we will use the wrong way
+
+487
+00:46:11,38 --> 00:46:17,51
+and so the question is a little bit Are we smart enough to keep the car on the right side of the road
+
+488
+00:46:17,52 --> 00:46:24,31
+or do we insist on driving in the wrong way. I found interesting there was an article I read by John van Neumann I think
+
+489
+00:46:24,59 --> 00:46:29,54
+from the mid fifty's with the title Can we survive technology.
+
+490
+00:46:29,54 --> 00:46:36,92
+And his conclusion was that it's like basic human qualities that help us answer that question just decency careful
+
+491
+00:46:36,93 --> 00:46:38,82
+deliberation are you agreeing with that yeah
+
+492
+00:46:39,58 --> 00:46:48,81
+and the argument that comes into technology and comes into science which I actually quite profoundly disagree with is that
+
+493
+00:46:48,82 --> 00:46:52,92
+it is a subject which is distinct from ethics
+
+494
+00:46:52,93 --> 00:46:59,32
+and human values. Ethics and human values do not help you solve problems in quantum mechanics on the other hand
+
+495
+00:46:59,36 --> 00:47:03,31
+without ethics and human values you don't know what problems to solve or how to solve them
+
+496
+00:47:03,32 --> 00:47:10,81
+or what to do with the answers once you have them so one of my major problems with education now at least at the
+
+497
+00:47:11,63 --> 00:47:20,81
+gradular level is that we teach students what to do with enormous skill but we don't teach them why to do it
+
+498
+00:47:21,68 --> 00:47:24,91
+and is that the right thing to do and I think not for them
+
+499
+00:47:25,00 --> 00:47:34,48
+and not for society you think that we need these kind of moral and ethical dimensions to literally to survive.
+
+500
+00:47:34,48 --> 00:47:44,29
+I think we need them to survive in a more direct way I think as a student if I were going into a field science would be
+
+501
+00:47:44,3 --> 00:47:49,67
+one because it is so interesting and actually has the potential for impact on society
+
+502
+00:47:50,18 --> 00:47:55,31
+but I would like to have the feeling that I'm doing it because it's important not because it's career advancing
+
+503
+00:47:55,79 --> 00:47:59,98
+and that's something you can do in science it's not necessarily something.
+
+504
+00:48:00,01 --> 00:48:03,45
+You can do if you are in other professions some other professions
+
+505
+00:48:03,86 --> 00:48:11,22
+and to minimize that potential pleasure of doing something that is not only interesting and technically challenging
+
+506
+00:48:11,23 --> 00:48:18,3
+but also helps other people seems to me like a worthwhile thing to do. Are you worried that you know.
+
+507
+00:48:18,3 --> 00:48:28,26
+Our technologies and our insights become so advanced that they basically are understandable to many we talked about.
+
+508
+00:48:28,26 --> 00:48:33,12
+the quantum and quantum mechanics and you know many people have not a clue what is this is
+
+509
+00:48:33,13 --> 00:48:40,92
+and this might yet be driving our technology. Well yes but I don't do you have a clue of how the Internet works
+
+510
+00:48:40,93 --> 00:48:49,69
+and I don't know nor do I I mean I know how a transistor works sort of yes but do I really know and one of my.
+
+511
+00:48:49,69 --> 00:48:54,87
+One of my annoyances in life is that I spend a fair amount of time on airplanes
+
+512
+00:48:54,88 --> 00:49:03,24
+and on the sides of airplanes are these things called Wings and the wings hold the airplane up how they do so.
+
+513
+00:49:03,24 --> 00:49:05,47
+I have never quite believed that it works out
+
+514
+00:49:05,48 --> 00:49:11,02
+and yet it goes up. that's right it's a miracle it's right it's astonishing to me
+
+515
+00:49:11,23 --> 00:49:12,91
+Yes And you know
+
+516
+00:49:12,92 --> 00:49:19,56
+when you start talking about the more sort of homey things like watching a baby develop It's unbelievable how does this
+
+517
+00:49:19,57 --> 00:49:23,57
+happen no it's not technology but if you say that technology
+
+518
+00:49:23,58 --> 00:49:30,13
+and life are just parts of the same different chapters of the same book then there should be common principles.
+
+519
+00:49:30,13 --> 00:49:33,07
+George you talked about the wonder of seeing an airplane go up
+
+520
+00:49:33,14 --> 00:49:42,14
+or a baby develop right is that sense of wonder important for you just as a scientist. what I live for I mean curiosity
+
+521
+00:49:42,15 --> 00:49:49,17
+is a phenomenally useful characteristic for a human being to have because you're never bored because you can never
+
+522
+00:49:49,18 --> 00:49:50,79
+understand the world around you completely
+
+523
+00:49:50,8 --> 00:49:54,14
+and so there's always something interesting going on. so you're motivated by that 
+
+524
+00:49:54,15 --> 00:49:59,98
+what you don't know. motivated I'm amused and interested and then some
+
+525
+00:50:00,15 --> 00:50:05,23
+Small parts of that become motivation and some even smaller parts become problems to work on so
+
+526
+00:50:05,42 --> 00:50:10,39
+but you know if you look at anything and say how does that happen you can never answer the question
+
+527
+00:50:10,44 --> 00:50:16,78
+and so it's an endlessly interesting business. You have some kind of intuitive image about how much we don't now know how
+
+528
+00:50:16,79 --> 00:50:21,04
+much is out there in terms of things to be discovered and explored
+
+529
+00:50:21,05 --> 00:50:28,66
+but there's also there's a certain humility that comes from looking at something recognizing that you
+
+530
+00:50:28,67 --> 00:50:34,34
+understand finally how it works and then coming back a week later and recognizing that you were completely wrong
+
+531
+00:50:34,7 --> 00:50:37,81
+and you have it totally off base does and that happens over and over
+
+532
+00:50:37,82 --> 00:50:43,26
+and over again is that true were there moments in your your own career that you were totally wrong Yeah
+
+533
+00:50:43,52 --> 00:50:49,41
+and well I mean potentially every moment any time every day any time I say that I understand it I know I'm wrong it's
+
+534
+00:50:49,42 --> 00:50:51,66
+just a question of how long it's going to take to find it out
+
+535
+00:50:51,67 --> 00:50:56,77
+and what the nature of the wrongnesses is. is that fundamental to science that you're always going to have are is always
+
+536
+00:50:56,78 --> 00:50:57,55
+kind of moving
+
+537
+00:50:57,56 --> 00:51:05,67
+it has to be because how. the wonderful thing about quantum mechanics in particular is that it describes a world
+
+538
+00:51:05,68 --> 00:51:10,58
+that we can't really understand. let's assume it's right yes which I don't do one hundred percent know
+
+539
+00:51:10,59 --> 00:51:13,23
+but let's assume it's right and how do I understand it
+
+540
+00:51:13,63 --> 00:51:20,18
+and it's things like interference for example I used to think this was OK you know interference was OK because it was
+
+541
+00:51:20,68 --> 00:51:25,27
+it was something that happened with electrons whatever an electron was or a photon or things like that
+
+542
+00:51:25,87 --> 00:51:29,52
+but now I find that Mr Zeilinger can take.
+
+543
+00:51:29,52 --> 00:51:35,83
+Atoms and molecules actually big molecules Yes and run them through two slits
+
+544
+00:51:35,84 --> 00:51:42,24
+and it does whatever happens. It behaved like an electron. like an electron Yes I have no idea how to incorporate
+
+545
+00:51:42,25 --> 00:51:44,31
+that idea in my universe
+
+546
+00:51:44,35 --> 00:51:50,28
+and I think I always think quantum mechanics you know whatever the amount of introspection I think you would never come
+
+547
+00:51:50,29 --> 00:51:56,29
+up with that right. it is something we were taught by nature and we were very difficult students
+
+548
+00:51:56,51 --> 00:51:59,98
+and it took a long time for us to appreciate it. and then these arguments
+
+549
+00:52:00,05 --> 00:52:05,87
+that say that perhaps spacetime is quantized.
+
+550
+00:52:05,87 --> 00:52:06,89
+I mean I have the words
+
+551
+00:52:07,26 --> 00:52:15,94
+but if you say to me time is quantized then that raises the question of what's going on in between the moment. the bits of time
+
+552
+00:52:15,95 --> 00:52:19,17
+ah yes and how do I describe that and it's clearly not an understandable
+
+553
+00:52:19,18 --> 00:52:21,67
+notion now it may be that I phrased it wrong
+
+554
+00:52:21,68 --> 00:52:26,35
+and it's something different if you think about it in a more sophisticated way than I can you can get your grip your
+
+555
+00:52:26,36 --> 00:52:27,87
+mind around it get a grip on it
+
+556
+00:52:28,2 --> 00:52:35,24
+but I can't. Are you surprised how far we came in terms of understanding the world around us I mean it's seems to be
+
+557
+00:52:35,25 --> 00:52:36,53
+absolutely spectacular
+
+558
+00:52:36,54 --> 00:52:45,39
+and there seem to be no signs like forbidden for human beings. Well yes I amazed because of course.
+
+559
+00:52:45,39 --> 00:52:49,9
+It's always relative to what
+
+560
+00:52:50,38 --> 00:52:57,64
+and if you say that there's some gigantic examination that we are involved in and there's a score of zero
+
+561
+00:52:57,9 --> 00:53:02,14
+and we're clearly not a zero and then there's a score of one hundred in terms of understanding
+
+562
+00:53:02,15 --> 00:53:06,58
+and I don't know now whether we're at five or ninety five in any of these areas
+
+563
+00:53:06,59 --> 00:53:12,46
+and one of the things about chemistry is that actually the basics of putting together molecules
+
+564
+00:53:12,47 --> 00:53:21,31
+and matter we understand to an extent we can use it as a tool box as well design. what to do is a different issue yes.
+
+565
+00:53:21,31 --> 00:53:25,76
+When you start talking. There is this question of basically you are the designer and what to make right
+
+566
+00:53:25,77 --> 00:53:29,24
+and I design where you have the materials that's right you understand the materials
+
+567
+00:53:29,28 --> 00:53:36,74
+but then if you take the next step and say that the problems now are megacities and public health and the poor
+
+568
+00:53:36,75 --> 00:53:43,38
+and the environment all of those are problems in which you're dealing with collections of things you're dealing with
+
+569
+00:53:43,39 --> 00:53:44,11
+systems
+
+570
+00:53:44,37 --> 00:53:51,57
+and the solutions for an individual part of a system are not necessarily the right solutions for the system you know so
+
+571
+00:53:51,58 --> 00:53:57,55
+we may have to redesign with a totally set of differ different set of design rules which are the systems rules as
+
+572
+00:53:57,56 --> 00:53:59,77
+opposed to the individual component rules.
+
+573
+00:54:00,07 --> 00:54:01,39
+And that opens the whole book again
+
+574
+00:54:01,59 --> 00:54:06,92
+but That's going back to our beginning of our conversation were you said we are a sort of grade of building blocks that you can make
+
+575
+00:54:07,14 --> 00:54:12,11
+anything out of it but if the building blocks have the characteristic that you make something
+
+576
+00:54:12,12 --> 00:54:14,92
+and it turns out to be exactly what you wanted to be
+
+577
+00:54:14,93 --> 00:54:20,42
+but exactly the wrong thing for what turns out to be the problem which you didn't understand at the beginning yes yes
+
+578
+00:54:20,91 --> 00:54:27,98
+you can stay amused doing that. that's right. George if you. Go to.
+
+579
+00:54:27,98 --> 00:54:35,12
+Part of the series is also that we kind of describing the various kind of I would say kind of personalities that we find in
+
+580
+00:54:35,13 --> 00:54:45,68
+science because we might study the same phenomena but there's a great diversity also in the personal approach and.
+
+581
+00:54:45,68 --> 00:54:50,34
+I'm looking here at this animal that's on the on the table tell me what it is
+
+582
+00:54:50,55 --> 00:54:56,59
+and why is it there. this is a wart hog and my wife brought this model back from someplace from Zambia
+
+583
+00:54:56,6 --> 00:54:59,95
+or wherever she was and I'm very fond of it
+
+584
+00:55:00,73 --> 00:55:08,69
+and one reason for being fond of it is that I do believe that in the idea of totems A totem is an animal that you think
+
+585
+00:55:08,7 --> 00:55:17,81
+might embody some of your best characteristics and so I have two and one of these totems is a.
+
+586
+00:55:17,81 --> 00:55:23,12
+Rhinoceros and the reason I like rhinoceroses is it's not a particularly bright animal
+
+587
+00:55:23,16 --> 00:55:28,71
+and it solves problems by going through the problems. Concrete wall you go through the concrete wall you don't go around
+
+588
+00:55:28,72 --> 00:55:32,16
+the concrete wall and I feel an emotional kinship with that
+
+589
+00:55:32,87 --> 00:55:40,86
+and then these are so beautiful these animals they are you know not maybe to you and to me but to their mothers
+
+590
+00:55:40,9 --> 00:55:42,12
+they are so beautiful
+
+591
+00:55:42,47 --> 00:55:50,43
+and so I feel I fit in that category too so I'm I'm I'm for both of these animals. if you look around and you look at your
+
+592
+00:55:50,44 --> 00:55:55,05
+colleagues do you see other animals in the natural I do I do I do I do
+
+593
+00:55:55,06 --> 00:55:59,98
+and they run all the way from the most glorious of creatures to others.
+
+594
+00:56:00,91 --> 00:56:11,75
+One it would be impolite to make that that two column yes two column Excel spreadsheet but it's there.
+
+595
+00:56:11,75 --> 00:56:19,41
+An issue which is an interesting one about which we haven't talked is the division between science and engineering
+
+596
+00:56:19,45 --> 00:56:23,98
+or more properly I think the fact that that's not all there is.
+
+597
+00:56:23,98 --> 00:56:28,25
+So the argument there's an argument now in the United States that science
+
+598
+00:56:28,26 --> 00:56:32,16
+and engineering are just slightly different colored versions of the same thing
+
+599
+00:56:32,21 --> 00:56:39,33
+and I think that's not correct because scientists really like to understand things even if it's not necessarily useful yes
+
+600
+00:56:39,37 --> 00:56:46,11
+and engineers have this wonderful enthusiasm for taking something that basically exists in some ways
+
+601
+00:56:46,45 --> 00:56:51,26
+and making it better yes I mean it is a different point of view but there's a third part of it
+
+602
+00:56:51,34 --> 00:56:59,35
+and maybe even a fourth part. the third part is invention and people who are inventors are the ones who go from not
+
+603
+00:57:00,18 --> 00:57:06,64
+and to one hundred or one to ten but from zero to one. give an example of a canonical example of an invention
+
+604
+00:57:07,19 --> 00:57:12,85
+and a canonical example of an invention is probably a transistor because there was no such thing before
+
+605
+00:57:13,12 --> 00:57:16,89
+and it came into being for a different reason but a stool
+
+606
+00:57:17,1 --> 00:57:24,27
+or a fire I mean these were. a wheel was invented by someone you know an invention is not necessarily a flash of
+
+607
+00:57:24,31 --> 00:57:27,92
+lightning it may be a process that gets you somewhere
+
+608
+00:57:28,19 --> 00:57:35,39
+but it nonetheless creates an idea a concept of how the world could be that wasn't there before yes
+
+609
+00:57:35,43 --> 00:57:41,52
+and so we need to be a little bit careful not to say that you can be a scientist or you can be an engineer
+
+610
+00:57:42,02 --> 00:57:45,39
+but that's all there is. perhaps a difference between inventing something
+
+611
+00:57:45,4 --> 00:57:52,44
+and discovering something. the two are related Well in one case you look at the world
+
+612
+00:57:52,53 --> 00:57:56,41
+and you see what's there that you don't understand and you abstract an idea from it
+
+613
+00:57:56,42 --> 00:57:59,29
+and that's the charm of much of the.
+
+614
+00:58:00,01 --> 00:58:02,31
+Interface between the physical sciences
+
+615
+00:58:02,32 --> 00:58:07,75
+and the biological sciences. life offers so many interesting opportunities to do that
+
+616
+00:58:08,71 --> 00:58:15,36
+but the you know the other is sometimes you just are curious you say Could this be done counterfactual thinking is
+
+617
+00:58:15,37 --> 00:58:21,89
+actually I think very useful in science as if you get up in the morning and you say the sun rises in the east
+
+618
+00:58:22,64 --> 00:58:27,66
+and you realise that what you're really saying is that every day I've looked at it the sun rose in the east
+
+619
+00:58:27,7 --> 00:58:34,31
+but what would happen if the sun rose in the West and you are sometimes led into pathways that are quite interesting
+
+620
+00:58:34,32 --> 00:58:41,61
+and sometimes you're led to go nuts. right you know yeah. both work. yes what about the other disciplines you know In particular
+
+621
+00:58:41,62 --> 00:58:43,24
+if you think about invention
+
+622
+00:58:43,25 --> 00:58:51,47
+of something creativity I also naturally think about the arts. you think about the arts Yes And they of course operate
+
+623
+00:58:51,66 --> 00:58:53,08
+in a somewhat different way
+
+624
+00:58:53,09 --> 00:59:00,97
+but with the same kind of process if you look at the Arts which is so far as I can see a human construct it's a
+
+625
+00:59:00,98 --> 00:59:05,56
+construct of sought and you ask how that happens and what do they come up with
+
+626
+00:59:05,57 --> 00:59:08,85
+and how does that work it's astonishing
+
+627
+00:59:09,18 --> 00:59:16,95
+and it you know part of that which is actually fairly interesting is that if you read as a child as I did science
+
+628
+00:59:16,96 --> 00:59:19,45
+fiction.
+
+629
+00:59:19,45 --> 00:59:26,86
+It's easy to look back and say well all they did was think about spaceships and the Internet
+
+630
+00:59:27,02 --> 00:59:28,96
+and life on other planets
+
+631
+00:59:29,49 --> 00:59:34,09
+but what you have to realise is they thought about all this before none of these ideas were there. I mean they
+
+632
+00:59:34,1 --> 00:59:40,29
+created. even nuclear arms. which come into being yes and it was an astonishing act of creation
+
+633
+00:59:40,57 --> 00:59:44,81
+and in the same way people create of course societies and they create personalities
+
+634
+00:59:45,33 --> 00:59:53,39
+and the people who do this know things that we haven't gotten a grip on in some way that is this is also about 
+
+635
+00:59:53,43 --> 00:59:59,78
+the power of our imagination. how important is that imagination in driving this I mean and how do you.
+
+636
+01:00:00,01 --> 01:00:05,06
+Kind of explain this that we can see things imagine things that aren't there yet I don't think we know
+
+637
+01:00:05,95 --> 01:00:12,94
+and one of the interesting notion was about for example machine intelligence is that.
+
+638
+01:00:12,94 --> 01:00:24,39
+It is showing us things that we have not previously appreciated the interesting baby example was Alpha go the program
+
+639
+01:00:25,2 --> 01:00:31,92
+that had the characteristic that it actually defeated the world's champion Go that's not so interesting
+
+640
+01:00:31,96 --> 01:00:34,92
+but what was interesting to me was that there were apparently one
+
+641
+01:00:34,93 --> 01:00:44,12
+or two games in which the program made moves which the human player apparently would not have made now that's creation
+
+642
+01:00:44,22 --> 01:00:49,94
+and it is creation in a very defined universe with a tight set of rules but that's OK
+
+643
+01:00:49,95 --> 01:00:58,04
+and that we know that that will change. I found it interesting that actually this defeat of human beings by a machine
+
+644
+01:00:58,47 --> 01:01:05,37
+actually lead to a lot more interest in Go because particularly with this element that this might be an incredible.
+
+645
+01:01:05,37 --> 01:01:07,12
+enriching process 
+
+646
+01:01:07,13 --> 01:01:16,99
+for understanding the game. one of the things that crops up in in science fiction is the notion of systems that can make
+
+647
+01:01:17,00 --> 01:01:18,17
+very rapid decisions
+
+648
+01:01:19,17 --> 01:01:27,51
+and if you look at an area which is tended to be one which stimulated great creativity in the sense which is war fair
+
+649
+01:01:27,63 --> 01:01:34,18
+and you find exactly that's going on because those systems make decisions in ways and at distances
+
+650
+01:01:34,19 --> 01:01:40,08
+and in wavelengths we can't begin to really get a good grip on yes so it's happening
+
+651
+01:01:40,09 --> 01:01:47,72
+and everywhere around you look you in your group has a drone drones didn't exist ten years ago yes
+
+652
+01:01:47,73 --> 01:01:51,7
+and now drones are everywhere now our little eyes you know flying around
+
+653
+01:01:51,71 --> 01:01:58,38
+and looking for us in interesting directions so the opportunities for change are absolutely everywhere if you're
+
+654
+01:01:58,39 --> 01:02:03,78
+curious about. You know can I make a bookcase fly yes I can make a bookcase fly.
+
+655
+01:02:03,78 --> 01:02:11,07
+We talked about artificial intelligence could you also talk about artificial imagination.
+
+656
+01:02:11,07 --> 01:02:15,51
+That's a question to which the answer has to be yes but whether you
+
+657
+01:02:15,52 --> 01:02:23,88
+and I can talk about it I don't know magination is the ability to imagine worlds that don't exist that's not enough
+
+658
+01:02:23,92 --> 01:02:26,7
+because it has to be an interesting world that doesn't exist
+
+659
+01:02:26,71 --> 01:02:32,65
+or a world that doesn't exist according to rules that people have not taken for granted yes
+
+660
+01:02:32,77 --> 01:02:40,08
+and it is counterfactual I think it's basically a notion of imagining what cannot be assuming it to be asking how you
+
+661
+01:02:40,09 --> 01:02:44,76
+get there and then asking what happens once you've gone there so there is perhaps a process
+
+662
+01:02:45,01 --> 01:02:52,54
+but it's not something which everyone necessarily does in a way that has an influence on those around them. George we
+
+663
+01:02:52,55 --> 01:02:54,61
+talked about the evolution of life
+
+664
+01:02:54,65 --> 01:03:01,31
+and you know from its very mysterious beginning through great complexity to the emergence of intelligent
+
+665
+01:03:01,32 --> 01:03:02,98
+life.
+
+666
+01:03:02,98 --> 01:03:10,68
+And now we're in this phase where certainly you know human beings but also you know very smart programs and machines
+
+667
+01:03:10,69 --> 01:03:15,89
+and computers are kind of linked together.
+
+668
+01:03:15,89 --> 01:03:22,8
+How do you see this I mean if you just take a almost like a planetary perspective.
+
+669
+01:03:22,8 --> 01:03:25,00
+That looks almost like the planet is coming alive
+
+670
+01:03:25,04 --> 01:03:33,1
+and becoming an intelligence by itself yes I mean if you threw out the issue of replication why not why not have a
+
+671
+01:03:33,11 --> 01:03:40,49
+planetary intelligence that consist of everything one of the more interesting technological things that's come along in
+
+672
+01:03:40,5 --> 01:03:46,67
+the last period of time has been the ability to read signals from the brain
+
+673
+01:03:46,68 --> 01:03:52,28
+and use those to cause intentional motions you know to run a robotic arm
+
+674
+01:03:52,29 --> 01:03:54,85
+or something like that it's pretty primitive at this point
+
+675
+01:03:55,38 --> 01:03:59,95
+but what it connecting our minds to sort of say the mind of the robot the mind.
+
+676
+01:04:00,01 --> 01:04:07,03
+The mind of robot yes and it's at the action it's a level not of thought but at the level of.
+
+677
+01:04:07,03 --> 01:04:10,1
+Action and mechanics but it's a step
+
+678
+01:04:10,37 --> 01:04:15,43
+and it's really interesting step to a world in which you don't have to have physical connections
+
+679
+01:04:15,44 --> 01:04:23,47
+to have things happen now you say that well there's no way of going from that to.
+
+680
+01:04:23,47 --> 01:04:32,05
+Something which is more to do with thinking on the other hand having tried Oculus Rift I can't tell the difference
+
+681
+01:04:32,06 --> 01:04:36,34
+between that world and the real world it's a virtual reality it's a virtual reality world
+
+682
+01:04:36,8 --> 01:04:43,25
+and so you put all of this together and all of a sudden you begin to imagine moving things at a distance
+
+683
+01:04:43,31 --> 01:04:51,51
+and looking through the eyes of those who are not you at these things in wavelengths that you can't imagine you will
+
+684
+01:04:51,52 --> 01:04:52,62
+build memories from that
+
+685
+01:04:52,71 --> 01:04:59,2
+and you will construct your own reality from that so I don't know that I necessarily have to think what you're thinking
+
+686
+01:04:59,31 --> 01:05:04,72
+but if I experience what you're experiencing it may have the same effect and I'm shaping your brain
+
+687
+01:05:04,73 --> 01:05:09,58
+and you're shaping my Yeah you're welcome to go at mine.
+
+688
+01:05:09,58 --> 01:05:14,99
+If you take even more a kind of a wider perspective think of it you know of the cosmos
+
+689
+01:05:15,00 --> 01:05:20,93
+and in the title of the series is the mind of the universe.
+
+690
+01:05:20,93 --> 01:05:27,5
+Is that a grandiose overstatement of what we are doing here on planet Earth.
+
+691
+01:05:27,5 --> 01:05:35,29
+Well we've got a problem when one goes long distances we think because of the issues of speed of light
+
+692
+01:05:35,76 --> 01:05:42,04
+but on Earth that's not such much of a problem really we we are a little limited
+
+693
+01:05:42,05 --> 01:05:47,86
+but not that much limited so is there any reason to think we couldn't have global connectivity we have global
+
+694
+01:05:47,87 --> 01:05:52,74
+connectivity you know it's just a question of having it adapt and evolve
+
+695
+01:05:53,49 --> 01:06:02,01
+and what it evolves into what are the what will be the evolutionary pressures on a system in which. There are no.
+
+696
+01:06:02,01 --> 01:06:08,51
+Competitors and because very. again it's only one. Like the first cell. that's right
+
+697
+01:06:08,62 --> 01:06:15,26
+but of course there was only one cell at the beginning and it evolved its own predators. yes. that makes me a little uneasy
+
+698
+01:06:15,74 --> 01:06:22,64
+this is outside of my lifetime but it's not necessarily outside of lifetimes twenty generations from now. yes
+
+699
+01:06:23,07 --> 01:06:31,46
+and in fact you can argue I suppose that hacking is a little first you know it's one finch throwing a stone at another
+
+700
+01:06:31,47 --> 01:06:34,09
+finch or something of that kind.
+
+701
+01:06:34,09 --> 01:06:43,23
+Going back again to the beginning of your life you told you were as a child interested in math and science.
+
+702
+01:06:43,23 --> 01:06:47,47
+Kind of looking back everything you've seen.
+
+703
+01:06:47,47 --> 01:06:52,45
+Are you amazed by just what what happened what you've seen in terms of science and research
+
+704
+01:06:52,46 --> 01:06:55,95
+and technology. you have to be amazed of course one is amazed
+
+705
+01:06:55,99 --> 01:07:02,26
+and one is amazed every day but there's a little bit of a problem in that kind of question because I would have been
+
+706
+01:07:02,27 --> 01:07:09,13
+amazed by almost anything as children don't know anything so everything is amazing I mean if you ask what's the best
+
+707
+01:07:09,3 --> 01:07:10,00
+scientist
+
+708
+01:07:10,01 --> 01:07:14,77
+and everyone who thinks about it would agree the best scientist in the world is a two year old yes who invents all these
+
+709
+01:07:14,78 --> 01:07:17,41
+Newtonian physics balls falling down
+
+710
+01:07:17,42 --> 01:07:23,36
+and all the rest of it while inventing language while doing all the rest is just truly phenomenal that's what they do
+
+711
+01:07:23,37 --> 01:07:28,42
+because they're really interested yes because if they don't get it right they fall down so it's
+
+712
+01:07:28,43 --> 01:07:31,33
+downhill from there it's downhill from there in a certain sense
+
+713
+01:07:31,96 --> 01:07:36,01
+but you know I think one would be equally amazed by just going out
+
+714
+01:07:36,02 --> 01:07:42,24
+and looking at the world yes that what you get in science is the ability to intervene
+
+715
+01:07:42,78 --> 01:07:50,93
+and that makes to me a world of difference I just think it's so much fun to figure out I think that my work that way
+
+716
+01:07:50,94 --> 01:07:55,65
+well if it works that way maybe if I poke here something will come out over there and I poke here
+
+717
+01:07:55,66 --> 01:07:56,82
+and it doesn't it comes out over here
+
+718
+01:07:57,01 --> 01:08:02,93
+and that you know that really gets you up in the morning thank you for sharing some of that fun with us it's been a
+
+719
+01:08:02,94 --> 01:08:04,04
+real pleasure thank you.
+

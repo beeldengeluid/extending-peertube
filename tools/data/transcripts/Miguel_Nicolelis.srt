@@ -1,0 +1,3236 @@
+1
+00:00:00,00 --> 00:00:03,33
+Speaker 1: Well, can digital machines emulate human behavior?
+
+2
+00:00:03,33 --> 00:00:11,46
+Speaker 2: No, not a chance, not ever, never, actually.
+
+3
+00:00:11,46 --> 00:00:12,28
+Speaker 1: And why is that?
+
+4
+00:00:12,28 --> 00:00:20,91
+Speaker 2: Well, because we are not machines, and our brains do not work through algorithms,
+
+5
+00:00:20,91 --> 00:00:28,91
+and we don't work in binary logic. So we have components of our minds that are analog, very important components.
+
+6
+00:00:29,64 --> 00:00:36,81
+And we all know that digital processes, they can approximate, but they cannot emulate analog processes,
+
+7
+00:00:36,81 --> 00:00:45,8
+particularly processes like the ones that take place in our minds.
+
+8
+00:00:46,63 --> 00:00:55,07
+The brain is a very complex system and is formed by 100 billion elements connected to each other,
+
+9
+00:00:55,07 --> 00:00:58,95
+which are continuously adapting to the statistics of their outside world.
+
+10
+00:00:59,5 --> 00:01:02,84
+And this adaptation, that we call plasticity, makes it impossible for a digital machine that needs code to run.
+
+11
+00:01:02,84 --> 00:01:11,26
+So there is no software and hardware in the brain, that's the other thing.
+
+12
+00:01:11,26 --> 00:01:12,36
+Speaker 1: It's like an organic computer.
+
+13
+00:01:12,36 --> 00:01:19,75
+Speaker 2: Yeah, it's an organic computer, the brain computes with the organic tissue that it has,
+
+14
+00:01:20,35 --> 00:01:29,31
+and that kind of computation is not reducible to an algorithm. So there is no singularity coming for the human race.
+
+15
+00:01:29,31 --> 00:01:35,63
+There are other problems that computers can bring to the human race, but not replacing our minds.
+
+16
+00:01:35,63 --> 00:01:38,12
+Speaker 1: Because it would deny us evolution of the brain.
+
+17
+00:01:38,12 --> 00:01:40,02
+Speaker 2: Absolutely,
+
+18
+00:01:40,02 --> 00:01:50,31
+a brain is a system that is a product of an evolutionary process that involved millions of random steps that cannot be
+
+19
+00:01:50,31 --> 00:01:57,42
+simulated in a laboratory or in a machine. And my concern is not that digital computers will reproduce the brain.
+
+20
+00:01:58,02 --> 00:02:07,22
+My main concern is that because the brain is so adaptable, so plastic, and it absorbs everything that is relevant,
+
+21
+00:02:07,22 --> 00:02:13,1
+that gives the brain an evolutionary advantage and a survival advantage, that we may,
+
+22
+00:02:13,25 --> 00:02:16,65
+because we are continuously exposed to computers, digital machines,
+
+23
+00:02:16,65 --> 00:02:25,45
+and now this exposure is becoming almost overwhelming, that we may start reducing our human condition to mimic machines.
+
+24
+00:02:26,12 --> 00:02:31,72
+And what is going to be rewarded out there is behaviors that are similar to machines.
+
+25
+00:02:31,73 --> 00:02:37,56
+And so the brain would simulate machines and behave like machines, produce behaviors like machines,
+
+26
+00:02:37,99 --> 00:02:43,28
+eliminating the most important things that define our human condition.
+
+27
+00:02:43,28 --> 00:02:50,11
+Speaker 1: Yep, I understand that, and when you look at the brain, when did your fascination for the brain start?
+
+28
+00:02:50,11 --> 00:02:56,08
+Speaker 2: Actually, my fascination started when I read a science fiction book by Isaac Asimov
+
+29
+00:02:56,08 --> 00:02:58,94
+when I was in high school here in Brazil.
+
+30
+00:02:59,15 --> 00:03:04,08
+And it was a kind of boring book, because I like Isaac Asimov for the science fiction books.
+
+31
+00:03:04,08 --> 00:03:10,21
+But then I found his book, The Brain, and it was one of a few books that he wrote that is not really science fiction,
+
+32
+00:03:10,44 --> 00:03:17,21
+and it was a description. And in that book, there was no dynamics, there was no physiology, there was mainly anatomy.
+
+33
+00:03:17,42 --> 00:03:24,02
+But I realized that I was, for the first time, introduced to the thing that really creates everything.
+
+34
+00:03:24,51 --> 00:03:28,97
+And then when I went to medical school, I started working with computers, microcomputers.
+
+35
+00:03:28,97 --> 00:03:31,92
+They were just coming out in the 80s here in Brazil.
+
+36
+00:03:32,52 --> 00:03:38,79
+And I thought, for a moment, okay, I'm going to work on applications, on computers in medicine, because I liked,
+
+37
+00:03:38,93 --> 00:03:40,07
+very much, that.
+
+38
+00:03:40,07 --> 00:03:43,77
+And then I thought, well, but the ultimate computing device is the brain,
+
+39
+00:03:44,33 --> 00:03:50,35
+and at that time I didn't really know much about either computers or the brain.
+
+40
+00:03:50,87 --> 00:03:57,11
+But I decided that I wanted to understand the brain first, and that was 35 years ago.
+
+41
+00:03:57,44 --> 00:04:00,15
+I'm still trying to understand the brain first.
+
+42
+00:04:00,15 --> 00:04:20,2
+Speaker 1: Yeah, because first, you are fascinated by brain, you are investigating the brain, but then the next step,
+
+43
+00:04:20,2 --> 00:04:20,21
+also, you start to understand the brain.
+
+44
+00:04:20,21 --> 00:04:20,21
+Speaker 2: Yeah, well, when I came to neuroscience in 82, 83, again, there was no dynamics,
+
+45
+00:04:20,21 --> 00:04:24,57
+there was no time in the brain. Most of the descriptions were very static.
+
+46
+00:04:24,57 --> 00:04:32,82
+We talk of maps, columns, areas, subareas, secrets, but there was no flow, there was no changing.
+
+47
+00:04:33,71 --> 00:04:41,34
+Plasticity was reported in 83 by, now one of my heroes and my good friend, Jon Kaas, and his colleague, Mike Merzenich,
+
+48
+00:04:41,34 --> 00:04:43,63
+two papers that were rejected everywhere,
+
+49
+00:04:44,04 --> 00:04:47,92
+and they only got published in a new journal because people didn't want to see it.
+
+50
+00:04:47,92 --> 00:04:56,41
+Proof that the adult brain was changing, it was adapting to lesions in the periphery, that's how they showed it.
+
+51
+00:04:56,69 --> 00:05:06,5
+And I wasn't aware of this paper until 85, but when I saw the paper, two papers, actually, I start wondering,
+
+52
+00:05:06,5 --> 00:05:10,2
+this is totally different that what I have been reading.
+
+53
+00:05:11,94 --> 00:05:16,82
+And that's when I went for my PhD here in Brazil, after medical school.
+
+54
+00:05:16,83 --> 00:05:23,99
+And I realized that what I wanted to look into the brain was the dynamics of the brain, because I had a hint.
+
+55
+00:05:23,99 --> 00:05:31,47
+It was very faint, it was not a very concrete thing, that there was much more to plasticity than just what Jon
+
+56
+00:05:31,95 --> 00:05:33,49
+and Mike had reported.
+
+57
+00:05:33,8 --> 00:05:39,94
+It turned out that plasticity is pretty much what matters in the brain, it's the central concept of the brain.
+
+58
+00:05:39,94 --> 00:05:44,37
+So I'm absolutely shocked that these guys have not won a Nobel Prize yet.
+
+59
+00:05:44,93 --> 00:05:49,44
+People have won Noble Prizes lately for minute, tiny things.
+
+60
+00:05:49,44 --> 00:05:53,64
+These guys discovered the essence of what the brain is about.
+
+61
+00:05:53,64 --> 00:05:58,64
+Speaker 1: And when you look, because when you start to understand the brain,
+
+62
+00:05:58,64 --> 00:06:05,31
+I suppose you can also understand the immense possibilities when you combine brains, when you think in brains.
+
+63
+00:06:05,31 --> 00:06:09,97
+How does that work with you, because you're one of few experts?
+
+64
+00:06:09,97 --> 00:06:18,19
+Speaker 2: Well, when I went to the US, I met another phenomenal guy, John Chapin, and we had the same idea.
+
+65
+00:06:18,2 --> 00:06:24,49
+We were one of the few people in the world at that time, today it's common ground, but at that time, in fact, people,
+
+66
+00:06:25,1 --> 00:06:28,64
+when they heard what we wanted to do, record from multiple neurons,
+
+67
+00:06:28,64 --> 00:06:33,95
+multiple brain cells simultaneously in behaving animals so we could look at the dynamics of the circuit.
+
+68
+00:06:34,56 --> 00:06:39,44
+Some of our colleagues, more senior colleagues thought that we were nuts, that we were crazy,
+
+69
+00:06:39,44 --> 00:06:44,94
+that there was no point in moving from recording the electrical signals of one neuron to many neurons.
+
+70
+00:06:45,23 --> 00:06:51,67
+So John and I had a lot of opposition, and our careers were on the fringe at that time.
+
+71
+00:06:51,79 --> 00:06:59,45
+And he was already an established guy, but even so, he was young, and I was just a nobody coming from Brazil,
+
+72
+00:06:59,45 --> 00:07:00,11
+a postdoc.
+
+73
+00:07:00,11 --> 00:07:08,36
+But it turned out that what we discussed in the early 90s in the studies that we published then, I think,
+
+74
+00:07:08,36 --> 00:07:14,1
+are now pretty much at the center of neuroscience, at the edge.
+
+75
+00:07:15,88 --> 00:07:20,39
+And in, almost, desperation, in 97, we had many papers published, but people are now really paying attention to them.
+
+76
+00:07:20,63 --> 00:07:22,33
+We discussed, one day,
+
+77
+00:07:22,48 --> 00:07:28,83
+that we needed a new preparation to convince our colleagues that this thing that we were talking about,
+
+78
+00:07:28,83 --> 00:07:33,99
+population coding, was much more relevant than anything that had been done before, in terms of single neurons.
+
+79
+00:07:34,41 --> 00:07:38,73
+And that's when we came up with the idea of brain-machine interfaces, of linking brains to devices.
+
+80
+00:07:38,73 --> 00:07:46,39
+It was a preparation, an experimental paradigm that we created to test the notion that to control a device,
+
+81
+00:07:46,94 --> 00:07:55,9
+either a real limb, a leg or arm, or an artificial device, the brain requires lots of neurons, not a single cell,
+
+82
+00:07:55,92 --> 00:07:57,34
+and we proved that quantitatively.
+
+83
+00:07:57,88 --> 00:08:03,4
+When you let the animals use only one neuron to control complex device, nothing happened.
+
+84
+00:08:04,00 --> 00:08:07,53
+But when you get a population of cells working together,
+
+85
+00:08:07,53 --> 00:08:11,22
+they were able to use just the brain activity to control devices.
+
+86
+00:08:11,22 --> 00:08:15,46
+Speaker 1: Yeah, and you did that with rats?
+
+87
+00:08:15,46 --> 00:08:15,6
+Speaker 2: We did with rats first.
+
+88
+00:08:15,62 --> 00:08:21,66
+And a year later we did, that was the first paper and pretty much interfaces in modern age, with the constitute,
+
+89
+00:08:21,66 --> 00:08:21,87
+define the term.
+
+90
+00:08:21,97 --> 00:08:28,75
+I publish a paper in Nature in 2000 that actually started with a description of this goal that you see here.
+
+91
+00:08:29,29 --> 00:08:37,15
+To explain what a population code means because this was a goal scored in which eight players touched the ball without
+
+92
+00:08:37,15 --> 00:08:39,12
+any Italian being able to touch it.
+
+93
+00:08:39,57 --> 00:08:45,67
+And none of the individual players knew the outcome of the play until Carlos Oberto kicked the ball
+
+94
+00:08:46,32 --> 00:08:49,27
+and the goal was scored, so that's what I was trying.
+
+95
+00:08:49,27 --> 00:08:53,82
+The message, the metaphor, was to explain that none of the individual neurons knows what is going on.
+
+96
+00:08:53,82 --> 00:08:57,69
+It's the population, it's the team, that knows the outcome.
+
+97
+00:08:58,45 --> 00:09:03,26
+So I started a paper and in the middle of the paper I said, well, what John and I have proposed a year ago,
+
+98
+00:09:03,38 --> 00:09:07,97
+we call it brain machine interface, and the term was created in there.
+
+99
+00:09:07,97 --> 00:09:12,84
+A year later we did it on monkeys, in our monkeys, and in Rhesus monkeys.
+
+100
+00:09:13,12 --> 00:09:19,73
+In 2004 we did a first human demonstration of this concept in an interoperative procedure in Parkinson patients just
+
+101
+00:09:19,73 --> 00:09:25,22
+for a few minutes. It was the first human demonstration that everything we had seen in monkeys was applicable.
+
+102
+00:09:25,22 --> 00:09:27,35
+Speaker 1: And what was it that you saw then?
+
+103
+00:09:27,35 --> 00:09:29,73
+Speaker 2: Well we saw this symphony, this neural symphony.
+
+104
+00:09:29,95 --> 00:09:36,97
+The dynamic properties that we saw in rats and monkeys were there in humans. It was the same thing.
+
+105
+00:09:37,1 --> 00:09:45,26
+And the same mathematical computational approach that we used to link the brain with a device would work in humans.
+
+106
+00:09:45,59 --> 00:09:54,25
+And so that is when we realized that we had something gigantic and that it was not just a basic science apparatus
+
+107
+00:09:54,25 --> 00:09:54,46
+or paradigm.
+
+108
+00:09:54,77 --> 00:09:59,81
+We had touched something that could have clinical relevance
+
+109
+00:09:59,81 --> 00:10:04,66
+and it could advance neuroscience to realms that we never thought about before.
+
+110
+00:10:04,66 --> 00:10:08,37
+Speaker 1: And what, when you look beyond 2016-2017, where are we headed for?
+
+111
+00:10:08,37 --> 00:10:14,58
+Speaker 2: I don't think anybody can answer that.
+
+112
+00:10:14,86 --> 00:10:19,25
+Nobody can answer that question honestly because every day things are changing,
+
+113
+00:10:19,26 --> 00:10:24,28
+but it's a completely different neuroscience. It's a completely different brain research.
+
+114
+00:10:24,28 --> 00:10:30,83
+If you look at the Brain Initiative in the United States, that I'm not part of, never got invited to be,
+
+115
+00:10:31,4 --> 00:10:34,41
+everything that initiative's about is what John and I did.
+
+116
+00:10:34,41 --> 00:10:41,13
+It's about recording more and more neurons, studying only circuits, paying attention about dynamics, elasticity,
+
+117
+00:10:41,56 --> 00:10:45,17
+creating technology to visualize thousands, millions of neurons.
+
+118
+00:10:45,56 --> 00:10:51,49
+However the emphasis is mainly on technology and I think the emphasis should be in the questions.
+
+119
+00:10:51,91 --> 00:10:57,83
+It should be in the real science. Curiosity should be the emphasis I think.
+
+120
+00:10:57,99 --> 00:11:01,06
+But as you know technology in the US has become a monster,
+
+121
+00:11:01,22 --> 00:11:06,54
+almost a religion to the point that some people predict that we will be replaced by technology.
+
+122
+00:11:06,79 --> 00:11:14,91
+Which is against the idea that no derivative of a biological system can be more complex than the biological system that
+
+123
+00:11:14,91 --> 00:11:15,87
+created that derivative.
+
+124
+00:11:16,17 --> 00:11:23,28
+Technology is just a projection of our mind, it can never be more complex than the mind who created this technology.
+
+125
+00:11:23,28 --> 00:11:29,11
+Speaker 1: When you look at the framework, okay I can understand that you don't want to be a part of it I can imagine.
+
+126
+00:11:29,11 --> 00:11:29,81
+Speaker 2: Yeah.
+
+127
+00:11:29,81 --> 00:11:36,73
+Speaker 1: But you, yourself, are developing in the neuroscience, big steps. Can you explain?
+
+128
+00:11:36,73 --> 00:11:43,97
+Speaker 2: Well, sure, we first started with pretty much an interface concept right.
+
+129
+00:11:43,97 --> 00:11:50,81
+We discovered that we could link brains of rats, monkeys and humans to a upper limb robotic device.
+
+130
+00:11:50,81 --> 00:11:57,1
+There was a physical robot. A seven degree of freedom industrial robot and it worked. That was the first thing.
+
+131
+00:11:57,1 --> 00:12:02,64
+But then we said why it need to be upper limb? Why could it be lower limb? Nobody went for it.
+
+132
+00:12:02,74 --> 00:12:07,8
+We are the only lab, one of the few labs in the world, perhaps two or three labs in the world that said okay.
+
+133
+00:12:08,00 --> 00:12:16,16
+Let's try for legs and it works. And then we say why it has to be a robot? Why can it not be a virtual device?
+
+134
+00:12:16,16 --> 00:12:24,13
+Can a brain incorporate a virtual device as if it were a part of the subject's body? A real flesh and bone.
+
+135
+00:12:24,13 --> 00:12:24,49
+And it worked.
+
+136
+00:12:24,84 --> 00:12:34,09
+We put an avatar of limbs and legs or arms and the monkeys treated that after a while as if there were a third
+
+137
+00:12:34,09 --> 00:12:40,72
+or a fourth so we had monkeys with four limbs. Two biological and two virtual, same thing with legs.
+
+138
+00:12:41,22 --> 00:12:47,28
+Then we said well the actuator doesn't need to be next to the monkey. So we put an actuator in Japan.
+
+139
+00:12:47,28 --> 00:12:52,66
+A robot in Japan and we had a monkey in the United States controlling across the globe.
+
+140
+00:12:52,66 --> 00:13:01,61
+And, lo and behold, the monkey assimilated the legs of the robot as if there were his own legs.
+
+141
+00:13:01,98 --> 00:13:05,03
+And you could stop the treadmill when the monkey was walking at Duke.
+
+142
+00:13:05,65 --> 00:13:12,52
+And he would still keep imagining movements for the robot to work in Japan as long as it give reward.
+
+143
+00:13:12,52 --> 00:13:16,25
+You know, monkeys are like us, they need a bribe to work.
+
+144
+00:13:16,62 --> 00:13:22,41
+And as long as it keep giving them juice or grapes they will do that.
+
+145
+00:13:22,65 --> 00:13:27,52
+So then we went further and said why does it need to be just one brain?
+
+146
+00:13:27,79 --> 00:13:35,69
+Could we have multiple brains collaborating mentally to achieve this movement? So that's what we call a brain act.
+
+147
+00:13:35,69 --> 00:13:43,13
+And we just published a year ago showing the three monkeys that don't even know that they are next to each other
+
+148
+00:13:43,13 --> 00:13:45,18
+because in different rooms they don't know the existence of the other guys.
+
+149
+00:13:45,47 --> 00:13:49,1
+They can mentally collaborate to make a virtual arm,
+
+150
+00:13:49,1 --> 00:13:55,67
+make certain movements that inform the monkeys how they should do it.
+
+151
+00:13:55,78 --> 00:14:12,07
+And so if you give monkey one the job of controlling the x and y dimensions of the movement,
+
+152
+00:14:12,07 --> 00:14:12,8
+this is a 3D movement so x, y, and z.
+
+153
+00:14:12,81 --> 00:14:12,96
+Monkey one does x and y, monkey two does y and z and monkey three does the x and z.
+
+154
+00:14:12,96 --> 00:14:17,82
+You need at least two monkeys to get a 3D out of this, but if you get a third guy it looks much better,
+
+155
+00:14:17,83 --> 00:14:22,68
+the results much better and they can get all reward very quickly and at the same time.
+
+156
+00:14:22,69 --> 00:14:30,95
+Well, the monkeys get together, they synchronize their brains and they work as if they were part of a single brain.
+
+157
+00:14:30,95 --> 00:14:36,2
+And this experiment, I think our colleagues have not seen it, they thought it was just, some of them,
+
+158
+00:14:36,3 --> 00:14:40,97
+thought it was just a trick, just some kind of a Hollywood kind of thing. It's not.
+
+159
+00:14:41,23 --> 00:14:48,26
+We actually used that to show how a single brain may synchronize to operate. Because there's a big mystery.
+
+160
+00:14:48,27 --> 00:14:54,74
+How multiple areas of your brain actually come together, at the precise moment in time, to do a job.
+
+161
+00:14:54,96 --> 00:15:01,2
+To make my arms move, to make me speak, to make me reason. Nobody knows. Nobody knows how this synchronization happens.
+
+162
+00:15:01,47 --> 00:15:09,65
+Well, it turns out that if you put multiple brains separately and you give a common feedback to them, they synchronize.
+
+163
+00:15:09,66 --> 00:15:20,09
+So I think we found a very profound rule of when millions of people watching TV, the same TV show around the country,
+
+164
+00:15:20,3 --> 00:15:22,98
+around the globe and they all synchronize.
+
+165
+00:15:24,61 --> 00:15:30,84
+And when your in a stadium, seeing the same match, the fans, they all synchronize.
+
+166
+00:15:30,84 --> 00:15:36,87
+So I think we found what is going on, what happens when multiple individuals are recruited to be part of a structure.
+
+167
+00:15:37,26 --> 00:15:43,49
+And that's the reason why I'm calling this the structure being that multiple ants working together, bees
+
+168
+00:15:43,49 --> 00:15:52,54
+or birds flying together in a flock, fish swimming together to many humans in a movie theater or a stadium.
+
+169
+00:15:52,64 --> 00:16:04,27
+I'm calling these our organic computer because it's a synchronized device that is computing In a domain analog,
+
+170
+00:16:04,27 --> 00:16:05,97
+that digital computers cannot get there.
+
+171
+00:16:06,71 --> 00:16:12,36
+So that's how we have evolved of this, and of course, five years ago,
+
+172
+00:16:12,37 --> 00:16:15,48
+we decided okay there's clinical relevance of this thing.
+
+173
+00:16:15,68 --> 00:16:21,38
+And we make people benefit from brain machine interfaces by restoring mobility to them.
+
+174
+00:16:21,4 --> 00:16:28,18
+That's the reason you see this lab here, that's why we came to Brazil and decided to this for the World Cup first,
+
+175
+00:16:28,19 --> 00:16:29,68
+but the project has continued.
+
+176
+00:16:29,68 --> 00:16:37,71
+And our biggest discovery with brain machine I think in a decade is that if apparently through exposed chronically,
+
+177
+00:16:37,86 --> 00:16:45,3
+to a user of a brain machine interface or paradigm in which you are controlling with your mind something
+
+178
+00:16:45,3 --> 00:16:47,37
+and you're getting rich visual and tactile feedback.
+
+179
+00:16:48,06 --> 00:16:55,44
+You start getting for a paralyzed person with a lesion in the spinal cord, you might start getting recovery of motor
+
+180
+00:16:55,44 --> 00:17:01,77
+and tactile behaviors below the level of the lesion, which has never been demonstrated with other techniques.
+
+181
+00:17:02,18 --> 00:17:09,69
+So these are chronic patients, many years after the accident and yet in almost 80% of them, after two years,
+
+182
+00:17:10,03 --> 00:17:14,29
+we are seeing that they are recovering control of muscles in the legs.
+
+183
+00:17:14,57 --> 00:17:18,54
+They now can feel their bodies below the level of the lesion.
+
+184
+00:17:19,02 --> 00:17:22,61
+I think is related to the training that they were exposed to.
+
+185
+00:17:22,61 --> 00:17:30,7
+Yeah what I'm saying is we did create an exoskeleton, a robotic vest controlled by brain activity.
+
+186
+00:17:30,7 --> 00:17:35,74
+And we instrumented this exoskeleton to deliver feedback back to the subject.
+
+187
+00:17:35,86 --> 00:17:39,16
+So the subject, every time he steps on the ground,
+
+188
+00:17:39,16 --> 00:17:42,77
+there are sensors in the surface of the foot to the exo that detect the pressure of the contact.
+
+189
+00:17:45,73 --> 00:17:51,33
+That pressure signal is then delivered to the skin on the arm of the patients because it's one of the few parts of the
+
+190
+00:17:51,33 --> 00:17:54,35
+body where they originally had tactile sensation.
+
+191
+00:17:54,99 --> 00:18:04,72
+And by adapting the parameters of the speed and the magnitude of this pressure wave on the skin,
+
+192
+00:18:04,72 --> 00:18:05,69
+we induced the phenomena of phantom limb sensation.
+
+193
+00:18:05,91 --> 00:18:10,18
+So we fooled the brain of these guys to feel through their arms their legs.
+
+194
+00:18:10,74 --> 00:18:14,26
+So they report to use they're walking with their own legs and they are touching the ground
+
+195
+00:18:14,26 --> 00:18:16,18
+and they can even tell you what the ground is.
+
+196
+00:18:16,38 --> 00:18:23,06
+They can tell when the ground is grass or the ground is sand or if it's hot asphalt,
+
+197
+00:18:23,06 --> 00:18:31,16
+so the street floors they can distinguish with this system. But then we only wanted originally to restore mobility.
+
+198
+00:18:31,16 --> 00:18:35,42
+Put them in a device link the device to their brains and get them to walk again.
+
+199
+00:18:35,44 --> 00:18:41,56
+That was original game, but we always did the neurological examination as a routine,
+
+200
+00:18:41,95 --> 00:18:44,59
+and we didn't expect to see any change.
+
+201
+00:18:44,72 --> 00:18:50,24
+Well six months, a month after the World Cup, six months after the training started we started,
+
+202
+00:18:50,24 --> 00:18:57,2
+we start seeing that these guys were having motor contractions of muscles below the level the lesion.
+
+203
+00:18:57,42 --> 00:19:07,09
+And seven of these guys had a complete clinical lesion, which means after ten years, that you shouldn't see anything.
+
+204
+00:19:07,09 --> 00:19:10,18
+You shouldn't see motor contractions, voluntary motor contractions and muscles,
+
+205
+00:19:10,7 --> 00:19:15,02
+they should not have tactile feelings and they should not have visceral feelings.
+
+206
+00:19:15,93 --> 00:19:21,55
+So they couldn't feel, for instance, the women could not feel when their period days of the month are.
+
+207
+00:19:22,04 --> 00:19:27,73
+Well, we're still getting reports from the two women in the project, look, I can feel one of my periods coming.
+
+208
+00:19:28,05 --> 00:19:32,85
+I actually can feel that I need to go to the bathroom now, I can control my bladder now,
+
+209
+00:19:32,92 --> 00:19:40,2
+several of them start telling us. And then when we did a motor test, we measure quantitatively the contraction force.
+
+210
+00:19:40,42 --> 00:19:44,08
+All the sudden we had a woman with 20 newtons of force,
+
+211
+00:19:44,08 --> 00:19:48,13
+which is the little kind of force that you need to make to start moving.
+
+212
+00:19:48,13 --> 00:19:51,15
+And we start looking at individual muscles and we could detect the contractions.
+
+213
+00:19:52,05 --> 00:19:54,31
+So we redid the classification, it's called ASIA.
+
+214
+00:19:54,46 --> 00:19:58,16
+ASIA is the American Spinal Cord Injury classification standard,
+
+215
+00:19:58,16 --> 00:20:03,22
+gold standard of classifying patients all over the world.
+
+216
+00:20:03,23 --> 00:20:09,49
+These guys were, seven of them were ASIA A, which means complete paralysis, and one was ASIA B,
+
+217
+00:20:09,84 --> 00:20:11,25
+which is sort of intermediate.
+
+218
+00:20:11,85 --> 00:20:21,12
+Well, in six months 50% of them were promoted to ASIA C, which is partial spinal cord injury. Two years later.
+
+219
+00:20:21,12 --> 00:20:21,77
+Speaker 1: We're now talking?
+
+220
+00:20:21,77 --> 00:20:25,09
+Speaker 2: Yeah, we're now talking about guys that can.
+
+221
+00:20:25,09 --> 00:20:26,65
+Speaker 1: 2017, 2016, 2015?
+
+222
+00:20:26,65 --> 00:20:29,81
+Speaker 2: Yeah, we started training them in November 2013.
+
+223
+00:20:30,85 --> 00:20:35,85
+So six months after the training started, one month after the world cup, after we lost to the Dutch,
+
+224
+00:20:36,2 --> 00:20:43,69
+and I shouldn't say that on camera and lose my passport but it was something in the food to sick.
+
+225
+00:20:44,37 --> 00:20:53,06
+But in any event, one month after the World Cup ended and we had done our demo, which was seen by 1.2 billion people,
+
+226
+00:20:53,37 --> 00:20:55,08
+we re-did the neurological test.
+
+227
+00:20:55,45 --> 00:21:01,13
+And lo and behold, half of the patients had muscle contractions that they could control,
+
+228
+00:21:01,13 --> 00:21:05,24
+they could actually generate movements that visual, you can see the movements.
+
+229
+00:21:05,39 --> 00:21:12,97
+And when you put them upright they could simulate walking, and we keep doing it, we keep doing the training.
+
+230
+00:21:13,42 --> 00:21:17,45
+Now this December we completed two years of training.
+
+231
+00:21:17,57 --> 00:21:24,79
+We redid the neurological exam, and now 78% of the patients have recovered movement.
+
+232
+00:21:24,79 --> 00:21:31,95
+So, six out of eight have muscle control below the level, it's not complete,
+
+233
+00:21:32,36 --> 00:21:34,46
+but it's something that has never been seen.
+
+234
+00:21:34,58 --> 00:21:41,42
+So, the hypothesis that we have based on studies that were forgotten in the 60s and 70s,
+
+235
+00:21:41,42 --> 00:21:48,62
+an Australian Pathologists had done a lot of autopsies in Australian spinal cord injury patients that died of natural
+
+236
+00:21:49,06 --> 00:21:49,9
+causes.
+
+237
+00:21:50,06 --> 00:21:57,83
+And he realized that in about 60% of the patients there are classified clinically as being complete paralyzed,
+
+238
+00:21:58,79 --> 00:22:07,92
+there is at least 2 to 20% of fibers of nerves in the spinal cord that is still connected.
+
+239
+00:22:08,07 --> 00:22:10,11
+They're not totally destroyed but they're quiet very likely, they went blank.
+
+240
+00:22:10,41 --> 00:22:16,56
+I think our training, now when I read this paper, my hypothesis is that the training,
+
+241
+00:22:16,56 --> 00:22:23,22
+the intensive training that we did with brain interface of the patients, turned on neurons again in the brain
+
+242
+00:22:23,22 --> 00:22:28,56
+and these neurons they start sending messages down to the spinal cord to these axons they required.
+
+243
+00:22:28,72 --> 00:22:31,48
+But it's still there so it's plasticity, it's what John Carls and Mike Merzenik predicted.
+
+244
+00:22:31,48 --> 00:22:39,05
+Speaker 1: So what would that mean when you think through that and look at future? What are the possibilities?
+
+245
+00:22:39,05 --> 00:22:44,31
+Speaker 2: The possibilities are tremendous because there are 25 million people in this condition,
+
+246
+00:22:44,31 --> 00:22:47,12
+spinal cord injury paralysis in the world.
+
+247
+00:22:47,33 --> 00:22:53,44
+Imagine now if a large percentage of them can recover some movement, some control, because for instance,
+
+248
+00:22:53,77 --> 00:22:57,42
+one of our patients, one of the women in the group.
+
+249
+00:22:57,42 --> 00:23:05,07
+Since now she had perineal sensation, she decided to become pregnant and she actually could feel the delivery.
+
+250
+00:23:05,99 --> 00:23:12,37
+She had bladder control, so she went to work, two of our patients got jobs because now they could get out of the house,
+
+251
+00:23:12,37 --> 00:23:18,85
+they didn't need to wear diapers anymore. We don't think about it, we had one patient that was hypertense.
+
+252
+00:23:19,62 --> 00:23:25,22
+He's normal tense now, because the cardiovascular system performs better when we are upright.
+
+253
+00:23:25,22 --> 00:23:27,03
+And since he's one house a day,
+
+254
+00:23:27,03 --> 00:23:33,24
+two days a week is enough for the kind of vascular system to recover the blood vessels to open up,
+
+255
+00:23:33,49 --> 00:23:40,08
+so his blood pressure went down. So being up and walking is a major behavior for we humans.
+
+256
+00:23:40,47 --> 00:23:47,71
+And this guy's lost weight, and some of them were overweight because of being in a wheelchair too long, a decade or so.
+
+257
+00:23:47,71 --> 00:23:51,37
+Speaker 1: And when you look further, because it's very important, I understand that, and it's major breakthrough.
+
+258
+00:23:51,56 --> 00:23:58,74
+But then you look further, when you are able to understand the brain, connect brains, What holds the future for us?
+
+259
+00:23:58,74 --> 00:24:08,64
+Speaker 2: There are many things. I mean, you saw the prototype of our brainette for humans.
+
+260
+00:24:08,93 --> 00:24:16,37
+So we are about to get a patient, a naive patient who hasn't been trained yet in our paradigm.
+
+261
+00:24:16,6 --> 00:24:23,16
+Which takes some weeks, but we want to reduce this training time. Because the beginner, the training is very difficult.
+
+262
+00:24:23,16 --> 00:24:26,39
+The patient has to really concentrate and in the beginning is a little frustrating,
+
+263
+00:24:26,39 --> 00:24:30,01
+because the brain has forgotten what is to walk.
+
+264
+00:24:30,01 --> 00:24:33,74
+Actually the brain has forgotten what is the concept of having lower limbs.
+
+265
+00:24:34,45 --> 00:24:40,32
+So to virtual reality training we need to re-introduce to the brain the concept, yeah, you have legs.
+
+266
+00:24:40,59 --> 00:24:48,51
+This body has legs and they move, and we do that by having the patient try to control a avatar of himself, or herself,
+
+267
+00:24:48,78 --> 00:24:53,29
+walking on virtual space, and it takes many weeks for the patients to get this done.
+
+268
+00:24:53,71 --> 00:24:59,55
+Well, we are going to start linking the brain of this patient, in non invasive way, with EEG, as you saw,
+
+269
+00:24:59,96 --> 00:25:03,06
+with a physical therapist that is really well trained in that task.
+
+270
+00:25:03,36 --> 00:25:07,66
+A normal person would now, I wouldn't say normal, but a person that can walk by herself.
+
+271
+00:25:08,63 --> 00:25:11,34
+And we are going to link the brains.
+
+272
+00:25:11,34 --> 00:25:17,75
+And in the beginning of the training 90% or 95% of the signal comes from the healthy physical therapist.
+
+273
+00:25:18,19 --> 00:25:22,43
+And 5 or 10% comes from the patient who has a spinal cord injury.
+
+274
+00:25:22,43 --> 00:25:26,99
+So he's going to, his brain's going to, get rewarded faster.
+
+275
+00:25:27,01 --> 00:25:29,61
+And he's going to have the impression that he's controlling the device.
+
+276
+00:25:29,88 --> 00:25:34,29
+And I think that motivation, the context, is a driving force for plasticity.
+
+277
+00:25:34,83 --> 00:25:38,99
+My prediction is that we are going to accelerate the learning curve, because we are going to accelerate plasticity.
+
+278
+00:25:38,99 --> 00:25:43,16
+So the brain map is going to have a very practical, clinical application almost instantaneously.
+
+279
+00:25:43,16 --> 00:25:43,37
+Speaker 1: But then also you can use it for different things.
+
+280
+00:25:43,37 --> 00:25:45,38
+You can start steering things in the world just by thinking.
+
+281
+00:25:45,38 --> 00:25:57,46
+Speaker 2: Yes, the problem is that a non-invasive technology that we use, EEG, the one that you just put in this,
+
+282
+00:25:57,46 --> 00:26:05,6
+doesn't have the same resolution in the same information content, it's not as rich in information.
+
+283
+00:26:05,75 --> 00:26:08,23
+We have to play so much magical tricks to get information out of the signal.
+
+284
+00:26:08,23 --> 00:26:10,24
+So, it's not as rich as implanting things in the head.
+
+285
+00:26:10,55 --> 00:26:15,8
+I'm not suggesting that we implant people in the head just so they play video games, but yes,
+
+286
+00:26:15,8 --> 00:26:22,02
+it's proof of concept the mental collaboration If we get better non-invasive techniques that become portable.
+
+287
+00:26:22,27 --> 00:26:29,47
+I mean, EEG now is wireless, as you saw, you can have wireless broadcasting.
+
+288
+00:26:29,71 --> 00:26:36,55
+We have a paper coming this week, although that uses invasive technology in monkeys.
+
+289
+00:26:36,55 --> 00:26:41,2
+Showing that monkeys can learn to drive wheelchairs in an open space in our lab mentally.
+
+290
+00:26:42,2 --> 00:26:45,76
+So you see a monkey sitting on the wheelchair and she is driving,
+
+291
+00:26:45,76 --> 00:26:49,58
+or he's driving the wheelchair to the pod where we are delivering grapes.
+
+292
+00:26:50,37 --> 00:26:58,52
+But every movement of the wheelchair is coming from the mind of the monkey, via a wireless link.
+
+293
+00:26:58,52 --> 00:27:03,24
+So it's 500 neurons firing wirelessly, broadcasting the signal wirelessly,
+
+294
+00:27:03,24 --> 00:27:07,02
+so the motors of the wheelchair turn around and go to the pod.
+
+295
+00:27:07,02 --> 00:27:09,6
+Speaker 1: But then in that space you can also connect several brains together.
+
+296
+00:27:09,6 --> 00:27:14,57
+Speaker 2: Yes, we already have an experiment in the lab where two monkeys are collaborating,
+
+297
+00:27:15,04 --> 00:27:20,54
+each monkey has its own wheelchair. And they only get rewarded if both of them get to the pod.
+
+298
+00:27:20,8 --> 00:27:28,29
+So the faster monkey helps the slower monkey to get themselves together at the pod at the same time.
+
+299
+00:27:28,45 --> 00:27:31,85
+So we are already showing the brain working between two monkeys.
+
+300
+00:27:31,85 --> 00:27:33,05
+Speaker 1: Yeah, but not between humans?
+
+301
+00:27:33,05 --> 00:27:37,33
+Speaker 2: No in humans we are using for clinical rehab at this point.
+
+302
+00:27:37,63 --> 00:27:43,76
+But yes, it's conceivable that if we improve the bandwidth
+
+303
+00:27:43,76 --> 00:27:48,89
+and we improve methods to extract information from the brain, in a non invasive way,
+
+304
+00:27:49,36 --> 00:27:53,68
+you could have over the Internet millions of people collaborating on a common task.
+
+305
+00:27:53,68 --> 00:28:04,86
+Speaker 1: So how does the future of your neuroscientific work looks like and the effects of it?
+
+306
+00:28:04,86 --> 00:28:10,8
+Speaker 2: That's a very good question. I think in one direction we are going to increase the clinical applications.
+
+307
+00:28:11,3 --> 00:28:17,45
+Because what we saw for spinal chord injury, I think, may be applicable to stroke victims.
+
+308
+00:28:17,66 --> 00:28:21,52
+It may be applicable to other neurological disorders that require plasticity.
+
+309
+00:28:21,52 --> 00:28:28,26
+And in fact, I have a theory that I'm about to publish and I'm going to put in my new book, that most neurologic
+
+310
+00:28:28,26 --> 00:28:36,97
+and psychiatric disorders, independently of their etiology, or the cause of this disease, let's say Parkinson's Disease.
+
+311
+00:28:37,49 --> 00:28:43,67
+We know that you develop Parkinson's if the cells that contain a particular chemical, dopamine, start dying, okay?
+
+312
+00:28:44,11 --> 00:28:47,93
+But once they start dying, what we discovered in animals, and then in humans,
+
+313
+00:28:48,28 --> 00:28:56,77
+is that the lack of dopamine produces like a epileptic seizure, a low level chronic seizure that explains the tremor
+
+314
+00:28:56,77 --> 00:28:59,07
+and the difficulty to move.
+
+315
+00:28:59,22 --> 00:29:05,91
+Well we discovered if we put a microchip in the spinal cord and send electric pulses at the right frequency,
+
+316
+00:29:05,91 --> 00:29:10,41
+tiny electrical pulses that are very high frequency, we disrupt the seizure and the animals
+
+317
+00:29:10,41 --> 00:29:12,29
+and the patients seem to get better.
+
+318
+00:29:12,72 --> 00:29:19,51
+So I think this kind of concept that neurological disorders are disorders of neural timing, how they fire together.
+
+319
+00:29:19,63 --> 00:29:22,64
+If they fire too much, it's not good together.
+
+320
+00:29:22,64 --> 00:29:28,43
+So I think that I'm going to, in one part of my work, increase the scope.
+
+321
+00:29:28,43 --> 00:29:31,71
+Use the brain machine interfaces to treat neurological disorders.
+
+322
+00:29:31,71 --> 00:29:38,08
+That's one, from a basic science point of view, I have two other branches.
+
+323
+00:29:38,09 --> 00:29:44,99
+One is to push very hard to understand the kind of computation that the brain does that is different from digital
+
+324
+00:29:44,99 --> 00:29:45,55
+machines.
+
+325
+00:29:46,00 --> 00:29:47,58
+So I'm building models,
+
+326
+00:29:47,58 --> 00:29:53,95
+analog models of the brain to particularly study more detailed interaction of the brain magnetic fields.
+
+327
+00:29:54,32 --> 00:30:00,95
+With the neurons and see if this analog digital interaction, what I like to say,
+
+328
+00:30:00,95 --> 00:30:09,5
+a recursive analog digital interaction, explains why the brain is different from a digital machine as one line of work.
+
+329
+00:30:09,51 --> 00:30:16,38
+And the other is to continue to push the envelope on trying to see how large secrets in behaving animals operate.
+
+330
+00:30:16,38 --> 00:30:22,1
+So, our lab is has now the world record in number of neurons recorded simultaneously.
+
+331
+00:30:22,81 --> 00:30:25,93
+We getting close to 2,000 neurons now,
+
+332
+00:30:26,24 --> 00:30:33,61
+but I think we need to increase this to about a 100,000 to a million to start getting close to a picture.
+
+333
+00:30:33,73 --> 00:30:39,89
+It's like when you do a camera, a movie, and you have just a few pixels of the image, you cannot see it very well.
+
+334
+00:30:39,89 --> 00:30:45,33
+But if you increase the number of pixels, you start seeing the granularity, you start seeing more
+
+335
+00:30:45,33 --> 00:30:51,15
+and more of the image, but you're not necessarily need to have all of the pixels of the photograph, or the movie,
+
+336
+00:30:51,54 --> 00:30:53,08
+to see what is going on.
+
+337
+00:30:53,32 --> 00:30:59,19
+So I think if we cross the barrier of a million neurons recording simultaneously,
+
+338
+00:30:59,19 --> 00:31:03,17
+we're going to see a lot of the movie that goes on in the brain.
+
+339
+00:31:03,17 --> 00:31:04,51
+Speaker 1: Recording simultaneously?
+
+340
+00:31:04,51 --> 00:31:08,84
+Speaker 2: Recording simultaneously. Yeah, exactly. That's what I mean.
+
+341
+00:31:08,84 --> 00:31:10,51
+Speaker 1: Yeah and the.
+
+342
+00:31:10,51 --> 00:31:11,17
+Speaker 1: [INAUDIBLE]
+
+343
+00:31:11,17 --> 00:31:25,62
+Speaker 1: Can you take me through steps in this lab we filmed?
+
+344
+00:31:25,62 --> 00:31:26,53
+Speaker 2: Sure, what you're filming, in reality,
+
+345
+00:31:26,71 --> 00:31:33,81
+is a simulation of the five different steps that our patients undergo when they do the training.
+
+346
+00:31:33,81 --> 00:31:45,67
+Okay so first, as I said, we need to reinsert in the brain the concept of having legs. So that's basically what we do.
+
+347
+00:31:45,67 --> 00:31:52,31
+We put them in a virtual reality environment that you're going to see in a moment.
+
+348
+00:31:52,34 --> 00:31:57,03
+And the patients start interacting with the avatar. We started just with the global concept of walking.
+
+349
+00:31:57,03 --> 00:32:02,59
+But now we are actually simulating control of the specific muscles of walking,
+
+350
+00:32:02,84 --> 00:32:06,31
+which we never thought these patients would be able to do with their brains.
+
+351
+00:32:06,31 --> 00:32:11,1
+They're getting specializing control individual legs with one side of the brain,
+
+352
+00:32:11,1 --> 00:32:15,85
+for instance the right side controlling the left leg, left side controlling the right leg.
+
+353
+00:32:16,02 --> 00:32:23,02
+But we discovered that we can do physical therapy by simulating muscle contractions on the video.
+
+354
+00:32:23,02 --> 00:32:29,83
+So they see a muscle of the leg contracting, and we develop the ability to contract individual muscles,
+
+355
+00:32:29,93 --> 00:32:34,28
+which is we never thought that would happen. So that's the first step, is the virtual reality.
+
+356
+00:32:34,53 --> 00:32:39,85
+Then they go to that robotic device, the robot standing on the treadmill.
+
+357
+00:32:40,61 --> 00:32:43,5
+To learn what is to be inside of a robot,
+
+358
+00:32:43,68 --> 00:32:50,76
+because you should not underestimate how different it is to be encased in a robotic device.
+
+359
+00:32:50,76 --> 00:32:54,22
+It's a complete different feeling of what you are.
+
+360
+00:32:54,22 --> 00:32:56,69
+And since we are providing tactile feedback,
+
+361
+00:32:56,69 --> 00:33:01,32
+they are getting tactile feedback from their legs inside of a stand-alone robot.
+
+362
+00:33:01,93 --> 00:33:07,45
+So that takes several months of feeling at ease, normal.
+
+363
+00:33:07,46 --> 00:33:17,46
+So then we have an intermediate step, where they go and stay in this system that we call zero gravity, zero G.
+
+364
+00:33:17,46 --> 00:33:23,45
+Where they are upright without a robot and they are practicing with just to be upright.
+
+365
+00:33:23,78 --> 00:33:29,84
+And trying to move with some orthosis that we fabricate and we give to them to practice,
+
+366
+00:33:30,14 --> 00:33:32,00
+because they're going to be in an exoskeleton.
+
+367
+00:33:32,66 --> 00:33:39,77
+We have another step that is just a mix of virtual reality and a stand-alone robot.
+
+368
+00:33:39,96 --> 00:33:44,92
+And finally, they get into the exoskeleton, just at the end of the process.
+
+369
+00:33:45,51 --> 00:33:49,17
+And it takes a few months for them to get to that point.
+
+370
+00:33:49,17 --> 00:33:50,21
+And in the exoskeleton,
+
+371
+00:33:50,63 --> 00:33:58,26
+they now are using everything they've learned in the previous steps to use the brain activity to control, to trigger,
+
+372
+00:33:58,26 --> 00:34:02,45
+the movements of the exoskeleton. Now they can trigger individual legs.
+
+373
+00:34:02,45 --> 00:34:07,15
+And they are getting the feedback from the feet as they walk on the ground.
+
+374
+00:34:07,15 --> 00:34:13,42
+And sometimes they walk on the ground just looking at a mirror to see their bodies walking upright,
+
+375
+00:34:13,6 --> 00:34:17,75
+because that helps shape the brain's image of the body.
+
+376
+00:34:17,94 --> 00:34:25,1
+Sometimes they have goggles because they walk in a virtual reality environment, even though they are in a exoskeleton.
+
+377
+00:34:25,21 --> 00:34:32,32
+And sometimes they are just walking, doing about 50-some steps back and forth in this laboratory space.
+
+378
+00:34:32,32 --> 00:34:34,15
+Speaker 1: By thinking, by using their brain.
+
+379
+00:34:34,15 --> 00:34:40,98
+Speaker 2: By thinking, yes. And that's exactly what we did. This is the third prototype that we have.
+
+380
+00:34:41,36 --> 00:34:44,28
+The first prototype was used during the demo of the World Cup.
+
+381
+00:34:44,71 --> 00:34:52,19
+But of course, we had to struggle with FIFA, because FIFA never gave us the conditions to actually do what we wanted,
+
+382
+00:34:52,19 --> 00:34:54,01
+and I don't need to go into the details.
+
+383
+00:34:54,19 --> 00:34:58,47
+But from a three minute demo we are down to 29 seconds,
+
+384
+00:34:58,98 --> 00:35:02,85
+which is almost virtually impossible to do a robotic demonstration.
+
+385
+00:35:02,97 --> 00:35:08,88
+But what's important in that is that Juliano Pinto, the guy who actually delivered the opening kick of the World Cup,
+
+386
+00:35:08,88 --> 00:35:14,61
+he trained on the pitch, on the grass for days, and he delivered 57 kicks.
+
+387
+00:35:14,61 --> 00:35:15,73
+Speaker 1: In the exoskeleton-
+
+388
+00:35:15,73 --> 00:35:25,49
+Speaker 2: In the exoskeleton, he had 57 attempts and he got 56 correct. Which show that we're in the right direction.
+
+389
+00:35:25,7 --> 00:35:32,91
+That people can get used to these devices, and they can actually start performing at a very high level of accuracy.
+
+390
+00:35:33,41 --> 00:35:37,41
+And of course, we just started slow, just with walking straight.
+
+391
+00:35:37,97 --> 00:35:46,85
+Now we are going to think about, we are already planning turns and other movements that the patients want to have.
+
+392
+00:35:46,95 --> 00:35:48,64
+But we are learning very quickly now.
+
+393
+00:35:48,67 --> 00:35:54,56
+So the beginning was very difficult, because some of these patients that you saw were in a wheelchair for a decade.
+
+394
+00:35:54,97 --> 00:36:04,41
+With no hope of nothing. And I can show you some of the movies that they have of the movements that they can make now.
+
+395
+00:36:04,51 --> 00:36:05,21
+You would be shocked what a paralyzed-
+
+396
+00:36:05,21 --> 00:36:05,82
+Speaker 1: By using their brains.
+
+397
+00:36:05,82 --> 00:36:09,16
+Speaker 2: No, no I'm talking about their own movements without the exo.
+
+398
+00:36:09,61 --> 00:36:14,84
+When you put them up now in the zero G again, and in the beginning you put them up and say move,
+
+399
+00:36:14,84 --> 00:36:17,69
+and nothing would happen. They would stand and nothing would happen.
+
+400
+00:36:17,92 --> 00:36:24,61
+Now you put them in here, and some of these patients can actually, you see them doing this with their own legs.
+
+401
+00:36:25,03 --> 00:36:33,72
+Suggesting that we reconnected the brain to the spinal cord. Not reconnected anatomically.
+
+402
+00:36:33,72 --> 00:36:38,31
+Anatomically, there were some nerves that survived there probably. We reconnected it functionally.
+
+403
+00:36:38,49 --> 00:36:41,55
+The brain can send a message, and the message is getting to the muscles somehow.
+
+404
+00:36:41,55 --> 00:36:45,3
+Speaker 1: Yeah, and when you look outside the lab to the world, I'd really like the way that you,
+
+405
+00:36:45,3 --> 00:36:57,78
+how you look at the world and materialize your knowledge and your love for the brain and painting and writing
+
+406
+00:36:57,78 --> 00:36:58,15
+and looking at software. How do you see that?
+
+407
+00:36:58,15 --> 00:37:01,24
+Speaker 2: Yeah, well this is something that happened the last five years or so.
+
+408
+00:37:01,24 --> 00:37:08,99
+What I taught in all my six years, my study of neuroscience was too limited to what most neuroscientists do.
+
+409
+00:37:09,35 --> 00:37:14,89
+Electrical signals of the brain, computational strategies and behavior.
+
+410
+00:37:14,9 --> 00:37:21,78
+And then I start thinking deeply with the help of my good friend, Ronald Cicurel, a retired mathematician
+
+411
+00:37:21,78 --> 00:37:23,35
+and now a philosopher in Switzerland.
+
+412
+00:37:24,29 --> 00:37:32,3
+And I just came to a realization one day in Montreal when I visit him, while we do our work together and walking.
+
+413
+00:37:32,3 --> 00:37:39,23
+That actually, when we talk about the brain we should not be limited to the kind of neurophysiological,
+
+414
+00:37:39,23 --> 00:37:43,49
+neuroanatomical, or neurolingual that neuroscientist talk about.
+
+415
+00:37:43,49 --> 00:37:51,83
+Certainly I realized that the brain is the center of the human cosmology. The brain is the true creator of everything.
+
+416
+00:37:51,83 --> 00:37:59,96
+And I start thinking about the whole universe as just raw information, like an empty canvas.
+
+417
+00:37:59,96 --> 00:38:06,95
+And the brain as the true painter, the human brain. So I don't know if there are other brains out there.
+
+418
+00:38:06,95 --> 00:38:15,03
+But everything that we have, the history of the planets, the history of the cosmos, the history of the human race,
+
+419
+00:38:15,26 --> 00:38:23,27
+the theory of evolution, everything that we have conceived since the first human came out of the trees
+
+420
+00:38:23,27 --> 00:38:24,51
+and started walking.
+
+421
+00:38:24,7 --> 00:38:28,97
+If you could somehow sum the amount of information
+
+422
+00:38:28,97 --> 00:38:37,37
+and knowledge processed by every single human brain that ever existed or exists, or will exist, that's the universe.
+
+423
+00:38:37,37 --> 00:38:43,48
+That's the human universe. And I start thinking about a changing viewpoint.
+
+424
+00:38:44,06 --> 00:38:46,85
+So first, we thought the Earth was the center of the universe.
+
+425
+00:38:46,86 --> 00:38:51,27
+Then we thought it was the sun, and then we thought it was the Milky Way.
+
+426
+00:38:51,49 --> 00:38:55,19
+But then we thought, no, no the center of the universe is the big bang where everything came.
+
+427
+00:38:55,28 --> 00:38:58,17
+Of course there was something like the big bang, there must have been.
+
+428
+00:38:58,17 --> 00:39:04,00
+I actually started thinking that the center of the universe, at least for our reference, is our mind,
+
+429
+00:39:04,42 --> 00:39:11,5
+is the human brain. And I start thinking about everything around us as information, as raw information.
+
+430
+00:39:12,08 --> 00:39:18,24
+And information that, to get any meaning, to get any description, needs a brain.
+
+431
+00:39:18,24 --> 00:39:21,54
+And it so happens that the only one that we know is the human brain.
+
+432
+00:39:21,94 --> 00:39:31,55
+So I have a theoretical experiment we've run on that if some other intelligent lifeform would come in contact with us,
+
+433
+00:39:31,85 --> 00:39:34,05
+and we actually could talk or communicate somehow.
+
+434
+00:39:34,38 --> 00:39:35,38
+That lifeform,
+
+435
+00:39:35,38 --> 00:39:43,86
+assuming he had a brain that evolved through completely different laws of evolution in a different environment,
+
+436
+00:39:43,86 --> 00:39:48,94
+would tell us a story of the cosmos that is not necessarily ours.
+
+437
+00:39:48,94 --> 00:39:53,4
+And a complete different cosmology would be confronted with ours.
+
+438
+00:39:53,97 --> 00:39:58,39
+So I actually think the neuroscience in this century may give us hope.
+
+439
+00:39:59,1 --> 00:40:03,24
+To bring humanity, the human condition to the center of our lives.
+
+440
+00:40:03,66 --> 00:40:10,7
+In a position, not in a position but to balance another movement that exist in the world right now.
+
+441
+00:40:10,7 --> 00:40:14,6
+That seems to say that technology may be able to solve everything.
+
+442
+00:40:15,02 --> 00:40:22,3
+That technology may be able to educate our kids, take care of the elderly. Run our air ports, run our universities.
+
+443
+00:40:22,7 --> 00:40:32,76
+Run our knowledge gathering and eventually some loonies say, may replace us. And I think this is crazy, this is insane.
+
+444
+00:40:33,18 --> 00:40:39,23
+Technology is projection of a much more complex thing called a brain.
+
+445
+00:40:39,49 --> 00:40:45,77
+When we create a machine like this or create a car, a plane, a computer, or a robot.
+
+446
+00:40:46,2 --> 00:40:56,8
+We are just projecting our abstraction to a tangible device that is infinitively less complicated than the creator.
+
+447
+00:40:56,91 --> 00:40:59,97
+So the creator is the mind, the human mind.
+
+448
+00:41:00,11 --> 00:41:03,77
+And that's the reason I start thinking and I'm not talking about philosophy.
+
+449
+00:41:03,77 --> 00:41:07,61
+I'm not a philosopher, I know nothing about philosophy.
+
+450
+00:41:07,61 --> 00:41:12,6
+I'm talking about as a neuroscientist trying to use what I know about the brain to actually say that the brain has a
+
+451
+00:41:12,6 --> 00:41:17,69
+point of view. The brain is not a passive decoder of the environment.
+
+452
+00:41:17,69 --> 00:41:23,1
+The brain shaped through evolution, was shaped through evolution by an environment, by our genes, by mutations
+
+453
+00:41:23,1 --> 00:41:33,17
+and everything. But as we are born and we grow in the early phases of our lives, we start developing a model of reality.
+
+454
+00:41:33,23 --> 00:41:46,12
+And an interpretation of reality, and we start painting this empty canvas and we give a meaning to it
+
+455
+00:41:46,12 --> 00:41:46,66
+and we create a story. And we create history too.
+
+456
+00:41:46,75 --> 00:41:55,26
+And that's a much more profound in my opinion view of the brain and the role of neuroscience then we taught before.
+
+457
+00:41:55,3 --> 00:42:03,37
+And it changes I think the balance. If we believe in this, the human condition becomes a much more precious.
+
+458
+00:42:03,44 --> 00:42:08,38
+A single life becomes much more precious than we thought before.
+
+459
+00:42:08,59 --> 00:42:17,12
+Because, the epic of a single life first of all, can not be reproduced ever and it will never happen again.
+
+460
+00:42:17,28 --> 00:42:20,54
+It's like a book that will never be written again
+
+461
+00:42:20,94 --> 00:42:30,7
+and I think it gives us a little more recognition as human beings than currently I see the world going on.
+
+462
+00:42:31,17 --> 00:42:35,96
+And if I can just to finish, if you read the Iliad or the Odyssey,
+
+463
+00:42:36,67 --> 00:42:43,28
+which are considered the pinnacle of human condition, a description of the human condition.
+
+464
+00:42:43,29 --> 00:42:51,33
+When a soldier, a Greek soldier would die in Troy in a battle, Homer describes who he was.
+
+465
+00:42:51,33 --> 00:42:54,2
+Who are the parents, who are the children that he's leaving?
+
+466
+00:42:54,2 --> 00:42:58,73
+What is the whole history of that individual that will never be recovered?
+
+467
+00:42:58,73 --> 00:43:06,05
+So, compare that to the news of a death in the newspaper today which is just a number, nothing.
+
+468
+00:43:06,38 --> 00:43:16,37
+Homer, God forbid, 3,000 years ago knew better what the human condition is than we probably know now.
+
+469
+00:43:16,72 --> 00:43:25,94
+We are losing that and I think that process of losing it is part of our brains thinking that it is really nice
+
+470
+00:43:25,94 --> 00:43:34,22
+and good. And is worth it to mimic computers instead of maintaining our integrity. Our human condition integrity.
+
+471
+00:43:34,22 --> 00:43:44,19
+Speaker 1: So in your neuroscientific field with several neuroscientists working, are you unique at this?
+
+472
+00:43:44,19 --> 00:43:44,82
+Speaker 2: No.
+
+473
+00:43:44,82 --> 00:43:45,65
+Speaker 1: In looking at-
+
+474
+00:43:45,65 --> 00:43:48,26
+Speaker 2: In terms of the way I look at the brain?
+
+475
+00:43:48,26 --> 00:43:48,48
+Speaker 1: Yeah.
+
+476
+00:43:48,48 --> 00:43:50,61
+Speaker 2: No, no, I think there are many people.
+
+477
+00:43:50,61 --> 00:43:51,61
+Speaker 1: Yeah.
+
+478
+00:43:51,61 --> 00:43:54,31
+Speaker 2: Of course there are nuances.
+
+479
+00:43:54,35 --> 00:44:04,29
+It's a big field and the brain is very complicated and there are subtleties from a neurophysiological point of view.
+
+480
+00:44:04,29 --> 00:44:09,92
+For instance, people believe that we should go deeper into the molecularly structure of the brain.
+
+481
+00:44:09,93 --> 00:44:14,69
+I find this fine from an intellectual point of view of course studying individual synapses and everything.
+
+482
+00:44:15,17 --> 00:44:19,54
+I just don't think any of this will allow us to explain how the system works.
+
+483
+00:44:19,54 --> 00:44:25,8
+The system is truly non-linear and if you start studying just a molecule,
+
+484
+00:44:25,92 --> 00:44:28,94
+you're not going to be able to track it back to the system.
+
+485
+00:44:28,94 --> 00:44:31,85
+It's gonna be impossible, the number of non-linearities that you have to face.
+
+486
+00:44:32,42 --> 00:44:36,59
+So but there are many people that are realizing what we are discussing just now.
+
+487
+00:44:36,59 --> 00:44:41,63
+It's not just I would say honestly, there is not a mainstream yet.
+
+488
+00:44:41,8 --> 00:44:45,55
+But neither was population coding 30 years ago when I started.
+
+489
+00:44:46,55 --> 00:44:53,63
+People gave me no hope of having a career in studying populations of neurons, and here I am.
+
+490
+00:44:54,03 --> 00:44:59,34
+So I'm used to the idea that you may start with notions and concepts that are not mainstream,
+
+491
+00:44:59,67 --> 00:45:04,21
+and you need to demonstrate that they're worth. That's part of what science is about.
+
+492
+00:45:04,21 --> 00:45:09,42
+The problem is science is becoming extremely conservative. And it's very difficult to break through with new ideas.
+
+493
+00:45:09,49 --> 00:45:14,91
+It's much more difficult than when I started, when I was a kid but we're stubborn.
+
+494
+00:45:14,91 --> 00:45:21,24
+Speaker 1: Yeah, what are you standing in for? Your ratio works standing in five years.
+
+495
+00:45:21,24 --> 00:45:23,03
+What is the future of your neuroscientific field?
+
+496
+00:45:23,03 --> 00:45:27,12
+Speaker 2: Well I think as you can see here, this is going very quickly.
+
+497
+00:45:27,33 --> 00:45:31,82
+The clinical applications I think are going to grow tremendously.
+
+498
+00:45:31,82 --> 00:45:36,29
+I think that basic science is going to evolve in the sense that we are going to.
+
+499
+00:45:36,29 --> 00:45:40,97
+I mean we are accelerating the curve of the number of neurons that we can record simultaneously.
+
+500
+00:45:40,97 --> 00:45:47,92
+It used to be a very flat, straight line. It took us 30 year to get to 1,000, 2,000.
+
+501
+00:45:47,92 --> 00:45:54,64
+But now things are accelerating cuz we are learning better ways to do this.
+
+502
+00:45:54,9 --> 00:46:00,33
+My ambition to the end of my life is to be able to actually formulate this theory.
+
+503
+00:46:00,33 --> 00:46:08,03
+A comprehensive theory of the mind of the brain, the way we talk just a minute ago.
+
+504
+00:46:08,55 --> 00:46:13,43
+And that's what I'm doing right now. I'm spending a lot of time writing and reading.
+
+505
+00:46:13,43 --> 00:46:17,02
+I'm reading literature on communication, Marshall Mcluhan for instance,
+
+506
+00:46:17,02 --> 00:46:24,41
+I became fascinated by what he used to say in the 60s and 70s about the media being the message.
+
+507
+00:46:24,85 --> 00:46:29,38
+And how communication has changed our nature.
+
+508
+00:46:29,39 --> 00:46:38,83
+And from the moving from the oral tradition of poetry of the Greeks, to written manuscripts, then to the print,
+
+509
+00:46:39,21 --> 00:46:46,54
+to the radio, telegraph, telegraph, to the radio, TV, Internet. I think that actually he got it.
+
+510
+00:46:46,54 --> 00:46:50,57
+He didn't know anything about the brain, but some of his writings in the 60s
+
+511
+00:46:50,9 --> 00:46:56,45
+and 70s actually got how relevant communication is to synchronized brains.
+
+512
+00:46:56,45 --> 00:47:02,52
+Speaker 1: I understand that and the human brain net, is that going to be a fact?
+
+513
+00:47:02,52 --> 00:47:08,81
+Speaker 2: Well, we're doing as a clinical application that's what we are doing right now
+
+514
+00:47:08,81 --> 00:47:10,8
+and I want to see how that goes first.
+
+515
+00:47:11,13 --> 00:47:15,99
+I want to see if it is advantageous to the patients because that's a very concrete
+
+516
+00:47:15,99 --> 00:47:18,25
+and tangible problem to improve training.
+
+517
+00:47:18,46 --> 00:47:25,9
+But suppose you have a phasic patient, a patient that suffered stroke that destroyed the left side of the brain,
+
+518
+00:47:25,9 --> 00:47:30,52
+the cortex and he cannot talk. But the right hemisphere is there.
+
+519
+00:47:30,84 --> 00:47:34,18
+And there's some language capability left on the right hemisphere.
+
+520
+00:47:34,63 --> 00:47:38,05
+Suppose you can connect this guy with someone else who can speak.
+
+521
+00:47:38,59 --> 00:47:44,42
+And you can synthesize voice by having a brain net, working with that stroke patient.
+
+522
+00:47:44,42 --> 00:47:50,31
+Maybe you can improve the training on the right hemisphere, by plasticity because we know it happens,
+
+523
+00:47:50,31 --> 00:47:51,63
+even in an adult patient.
+
+524
+00:47:51,89 --> 00:47:55,83
+If you didn't have any lesion on this side, just this,
+
+525
+00:47:55,83 --> 00:48:04,25
+you may try to improve the language skills of the right hemisphere. So that's another thing that I want to start soon.
+
+526
+00:48:04,25 --> 00:48:10,53
+Because they are ten times more stroke victims in the world than spinal chord injury victims.
+
+527
+00:48:10,54 --> 00:48:16,72
+So you're talking about a quarter of a billion people in the world with stroke consequences.
+
+528
+00:48:16,72 --> 00:48:24,36
+Speaker 1: So when you develop what you are doing in the way that you can see that more
+
+529
+00:48:24,36 --> 00:48:32,93
+and more you can have parts of the brain that people for some reason compute or it's almost dead,
+
+530
+00:48:32,93 --> 00:48:34,11
+you can reactivate it by somebody else?
+
+531
+00:48:34,11 --> 00:48:39,48
+Speaker 2: Exactly, either by combining the brains with someone else. Suppose you're sibling.
+
+532
+00:48:40,36 --> 00:48:47,18
+Your wife or your daughter or your son help you in the training. And eventually, it becomes a surrogate.
+
+533
+00:48:47,18 --> 00:48:51,06
+Now you can talk through this combination or you can communicate.
+
+534
+00:48:51,06 --> 00:48:56,22
+Because there are lots of patients also that become totally detached from the world.
+
+535
+00:48:56,5 --> 00:49:00,03
+They're concious, their brains are working, and so they are absolutely conscious.
+
+536
+00:49:00,03 --> 00:49:09,07
+But for instance, all the muscles, Lou Gehrig's disease or ALS, all the muscles of the body are paralyzed.
+
+537
+00:49:09,07 --> 00:49:10,7
+So they cannot blink, they cannot talk, they cannot breathe, but they're conscious and their brain is fine.
+
+538
+00:49:10,7 --> 00:49:16,91
+Their central part of the brain is totally fine. And these patients can barely communicate.
+
+539
+00:49:18,16 --> 00:49:21,47
+There is a brain machine interface for those patients that my friend in Germany took
+
+540
+00:49:21,64 --> 00:49:26,78
+and use brain bomb were created by the same time that we were doing experiments with rats.
+
+541
+00:49:26,78 --> 00:49:33,53
+We didn't even know each other at that time. That works, but it's phenomenal. In news he's a hero for this community.
+
+542
+00:49:33,53 --> 00:49:41,81
+But it can be improved, and then things can be better, faster. So I think that's where we can go.
+
+543
+00:49:41,81 --> 00:49:47,14
+Speaker 1: When you look at the brain, the importance of creativity, of intuition.
+
+544
+00:49:47,14 --> 00:49:54,54
+Speaker 2: Yeah, and that's one of my concerns. Computers are not creative, computers don't generate knowledge, we do.
+
+545
+00:49:55,04 --> 00:49:58,79
+We get raw information and combine it in ways that cannot be predicted.
+
+546
+00:49:59,06 --> 00:50:01,93
+And that's the reason, as we talked before, I like painting.
+
+547
+00:50:02,33 --> 00:50:07,78
+Because painters, I loved when they asked Picasso what the painting meant,
+
+548
+00:50:08,22 --> 00:50:13,98
+one of the particular paintings that he had that day. And Picasso said, well, if I knew I would not have painted.
+
+549
+00:50:14,24 --> 00:50:20,81
+And this is it, this is deeper than probably he meant for me as a neuroscientist because it's true.
+
+550
+00:50:21,24 --> 00:50:27,58
+I think his painting is more of an analog description of what we're thinking and what we're feeling.
+
+551
+00:50:27,58 --> 00:50:34,61
+This is a projection to the outside world of some internal state of the mind
+
+552
+00:50:34,95 --> 00:50:39,46
+and that's why I think this transition that we discussed.
+
+553
+00:50:39,52 --> 00:50:44,89
+The impressionist and in modern art, it was an explosion of form, form disappeared.
+
+554
+00:50:44,89 --> 00:50:54,16
+While the old guys tended to be very careful about reproducing every corner, every shadow of a scene, of a person,
+
+555
+00:50:54,59 --> 00:51:02,75
+modern art removed the concept of shape from painting and sculpturing because it didn't matter anymore.
+
+556
+00:51:03,25 --> 00:51:07,05
+That was a completely different expression, surrealism, cubism.
+
+557
+00:51:07,05 --> 00:51:16,38
+This is totally linked to the mind view of the brain in the sense of trying to project what is inside rather than
+
+558
+00:51:16,38 --> 00:51:19,18
+taking a shot of what is out there.
+
+559
+00:51:19,54 --> 00:51:24,8
+In photography of course, good these guys are business, the guys who painted everything.
+
+560
+00:51:25,12 --> 00:51:34,18
+As poor amateurs like to still paint this thing. But art, you talk about creativity, art.
+
+561
+00:51:34,21 --> 00:51:41,37
+My concern is that if we become just computers, art will disappear. Computers don't do art. They tried to mimic.
+
+562
+00:51:41,37 --> 00:51:49,93
+They can compose artificial music, they can do some text, but they don't carry the human condition in those letters
+
+563
+00:51:49,93 --> 00:51:51,86
+and those brushes, no?
+
+564
+00:51:52,11 --> 00:51:58,32
+We do, and I fear that a complete total allegiance
+
+565
+00:51:58,32 --> 00:52:06,51
+and reliance on technology may destroy the human capability of being creative. Of doing art, of doing the unexpected.
+
+566
+00:52:06,51 --> 00:52:12,12
+Speaker 1: And a conscious way of brains working together like in soccer or-
+
+567
+00:52:12,12 --> 00:52:18,12
+Speaker 2: Well, when you saw the soccer fans in the stadium, I think they are.
+
+568
+00:52:18,45 --> 00:52:24,13
+I created this metaphor and this operational definition of an organic computer.
+
+569
+00:52:24,13 --> 00:52:30,95
+An organic computer is basically multiple brains that get synchronized in nature by whatever signal.
+
+570
+00:52:31,00 --> 00:52:33,29
+Visual, tactile, auditory.
+
+571
+00:52:33,29 --> 00:52:41,45
+That makes them operate as a whole so the flock of birds is my best metaphor or school of fish.
+
+572
+00:52:41,64 --> 00:52:43,55
+The flock, if you look at the flock,
+
+573
+00:52:43,55 --> 00:52:52,85
+it's very interesting because you're minimizing the chances of reaching individual to be attacked by a predator.
+
+574
+00:52:52,85 --> 00:52:59,6
+But the birds change position in the flock. Sometimes they have to go to the front and break the air, they get tired.
+
+575
+00:52:59,6 --> 00:53:07,2
+They move to the internal center of the flock where they are most protected cuz they're tired.
+
+576
+00:53:07,22 --> 00:53:11,06
+But there are birds that have to fly on the edge, and at the edge they are more vulnerable.
+
+577
+00:53:11,07 --> 00:53:12,52
+But they are always rotating.
+
+578
+00:53:12,52 --> 00:53:19,86
+So there's dynamics in this thing that it seems to be minimizing the chances of being caught.
+
+579
+00:53:19,98 --> 00:53:25,23
+If you're flying by yourself, a falcon may get you. An eagle may get you much easier.
+
+580
+00:53:25,61 --> 00:53:29,62
+And as a flock, they are able to get to a source of food,
+
+581
+00:53:29,84 --> 00:53:40,17
+and they may get there easier than just individual birds looking, so birds and fish have memory like we do.
+
+582
+00:53:40,17 --> 00:53:43,25
+Speaker 1: So tell me about your other brain projects in Natal.
+
+583
+00:53:43,25 --> 00:53:46,59
+Speaker 2: Well, Natal is a completely different thing.
+
+584
+00:53:46,59 --> 00:53:52,6
+It's a parallel track on my life, that it started in 2002, end of 2002, beginning of 2003,
+
+585
+00:53:52,6 --> 00:53:54,95
+when President Lula was elected here in Brazil.
+
+586
+00:53:55,17 --> 00:53:59,84
+I was already for a long time in the United States, 14 years already in the United States,
+
+587
+00:54:00,01 --> 00:54:06,71
+I saw an opportunity to actually return to Brazil and do something.
+
+588
+00:54:06,71 --> 00:54:14,53
+Not just to do science in Brazil, but to use science as a completely different thing. As a agent of social development.
+
+589
+00:54:14,99 --> 00:54:21,51
+In a part of Brazil that is well known for Brazilians as being the most underdeveloped part of the country,
+
+590
+00:54:21,79 --> 00:54:26,97
+in the northeast of the country. And I wanted to prove that human talent is everywhere.
+
+591
+00:54:27,2 --> 00:54:36,02
+That you could go and just drop from a parachute in a place and you start creating scientific infrastructure.
+
+592
+00:54:36,02 --> 00:54:41,99
+And you invest in high level education. In a way, that will transform the social reality of the community.
+
+593
+00:54:41,99 --> 00:54:49,95
+So I chose a small town in the outskirts of the capital of the human artist state and the capital is Natal.
+
+594
+00:54:50,23 --> 00:54:56,74
+But the city's actually named Macaiba. And so it's the name of a palm tree that is typical division.
+
+595
+00:54:56,74 --> 00:55:05,05
+And you have 65 inhabitants and the worst human and development indexes in the state
+
+596
+00:55:05,05 --> 00:55:07,36
+and so we're going to launch here in one of the worst in the country.
+
+597
+00:55:07,9 --> 00:55:14,24
+And what we did was to go there and to create in parallel to an institute to do neuroscience, like any institute.
+
+598
+00:55:14,79 --> 00:55:21,96
+To use the knowledge we have as there are scientist who design an education program that actually starts in the
+
+599
+00:55:21,96 --> 00:55:26,43
+prenatal care of the mothers of our future students.
+
+600
+00:55:26,43 --> 00:55:34,93
+So because human mortality, women mortality rate was very high, particularly pregnant women mortality rate.
+
+601
+00:55:35,01 --> 00:55:38,66
+So at that time about 90 women per 100,000 deliveries would die.
+
+602
+00:55:39,61 --> 00:55:44,73
+So very high, 20, 30 times higher than you should have normally.
+
+603
+00:55:46,95 --> 00:55:56,39
+We create a clinic, a women's clinic, to oversee the prenatal care of all the women in the region.
+
+604
+00:55:56,77 --> 00:56:02,71
+And to give an idea, we start from nothing. Now we are doing 12,000 appointments a year.
+
+605
+00:56:03,21 --> 00:56:06,51
+And we had already 60,000 appointments since we started.
+
+606
+00:56:06,72 --> 00:56:12,24
+Which means that pretty much every woman in that city that got pregnant in the last six,
+
+607
+00:56:12,24 --> 00:56:15,33
+seven years had gone through our prenatal care system.
+
+608
+00:56:15,33 --> 00:56:21,23
+It's all free of charge, it's all public, and it's the best prenatal care you can get that medicine can offer.
+
+609
+00:56:21,75 --> 00:56:28,91
+Because as neuroscientists we knew then if you don't provide the best possible prenatal care,
+
+610
+00:56:28,91 --> 00:56:33,6
+any problems that a child will have during pregnancy cannot be fixed.
+
+611
+00:56:33,64 --> 00:56:36,03
+It's very difficult, it's almost impossible right now.
+
+612
+00:56:36,03 --> 00:56:40,13
+Any learning disability or any other malformation of the brain it will not be corrected.
+
+613
+00:56:40,47 --> 00:56:48,17
+So how could you have a neuroscience based education program that doesn't offer these students a chance to be born with
+
+614
+00:56:48,17 --> 00:56:54,37
+the highest possible neurobiological protection to achieve happiness.
+
+615
+00:56:54,43 --> 00:56:57,21
+Because that's my definition of education is the pathway to happiness.
+
+616
+00:56:57,68 --> 00:57:00,81
+So we created this education program that starts in prenatal care
+
+617
+00:57:00,82 --> 00:57:08,21
+and then we start enrolling 1500 kids a year to three schools that we created.
+
+618
+00:57:08,21 --> 00:57:15,18
+Two in that state and one in another state, in Viyella. Where the kids go in one part of the day to public school.
+
+619
+00:57:15,68 --> 00:57:25,96
+Which in Brazil is not full time. It's just four, five hours a day.,
+
+620
+00:57:19,56 --> 00:57:25,96
+But on the other period of the day they would come to our schools.,
+
+621
+00:57:23,3 --> 00:57:29,75
+In our schools in Macahiba, Natal, [INAUDIBLE] Zaire are all lab science oriented.
+
+622
+00:57:29,75 --> 00:57:32,22
+Even to learn portuguese you learn in a lab.
+
+623
+00:57:33,07 --> 00:57:39,95
+We basically make these guys, these students from that time from 10 to 15 years old.
+
+624
+00:57:40,36 --> 00:57:47,31
+When we open our new school in the campus, of the brain, that we were building is a 100 hectares campus in that region.
+
+625
+00:57:47,31 --> 00:57:52,05
+It's taking us seven years to finish that. The school is going to be from zero to 17.
+
+626
+00:57:52,92 --> 00:57:59,71
+So from the moment they are born, they can go to the nursery, to the moment they finish high school,
+
+627
+00:57:59,71 --> 00:58:02,93
+they are going to be in our school, if they want.
+
+628
+00:58:02,93 --> 00:58:10,03
+Then, we are going to have an undergrad program in the campus for kids that want to pursue a scientific career.
+
+629
+00:58:10,59 --> 00:58:14,74
+Master's, PhD, and postdoctoral training.
+
+630
+00:58:14,74 --> 00:58:17,89
+So we're going to have a program that means that a kid can be there for 30 years, if they want.
+
+631
+00:58:17,89 --> 00:58:27,33
+But in the case of this science education program that we created on the opposite period of the day from public school
+
+632
+00:58:27,33 --> 00:58:29,99
+these kids became Protagonists in their own education.
+
+633
+00:58:31,58 --> 00:58:35,87
+They basically got involved in learning as a pleasant experience.
+
+634
+00:58:35,87 --> 00:58:41,3
+And they develop an ethics of learning that we never saw in the region,
+
+635
+00:58:41,3 --> 00:58:46,84
+in the most parts of Brazil because they don't go to our schools because they have to, they go because they want to.
+
+636
+00:58:46,84 --> 00:58:53,03
+And that school became a school not only for science but for developing citizens.
+
+637
+00:58:53,05 --> 00:58:55,38
+Citizens they are fully aware of their rights.
+
+638
+00:58:55,58 --> 00:58:59,62
+Fully aware of their responsiblity in society and fully aware that science
+
+639
+00:58:59,62 --> 00:59:04,35
+and knowledge can be the passports for their happiness, for their further education.
+
+640
+00:59:05,75 --> 00:59:11,7
+And this thing multiplied to a point that we have already 11,000 kids that have gone through this schooling system.
+
+641
+00:59:11,91 --> 00:59:18,56
+And for the first time in the place history, Macahiba, in the neighborhoods next to it,
+
+642
+00:59:18,56 --> 00:59:22,35
+these kids are gaining access to the best universities in Brazil.
+
+643
+00:59:22,35 --> 00:59:28,71
+In their vision, public universities where they could never make it cuz they never could pass the admissions exam.
+
+644
+00:59:28,71 --> 00:59:32,49
+Even though our schools don't have exams, we don't do tests. We don't believe in tests.
+
+645
+00:59:32,49 --> 00:59:36,28
+We don't believe in the Anglo-Saxon punitive way of teaching.
+
+646
+00:59:36,28 --> 00:59:43,31
+We believe in the Finnish way, without knowing we have replicated a Finnish approach to a location in Brazil.
+
+647
+00:59:43,31 --> 00:59:49,9
+Without knowing until very recently that we're very similar parallels with one caveat that the Finnish have not learned
+
+648
+00:59:49,9 --> 00:59:57,08
+yet. We do the education since the prenatal care. So and now the women, our partners too.
+
+649
+00:59:57,08 --> 01:00:04,7
+We created a community that is very supportive of everything we do because different from universities in the world
+
+650
+01:00:04,7 --> 01:00:08,35
+that really are this beautiful paradises of knowledge
+
+651
+01:00:08,35 --> 01:00:11,29
+but the surrounding parts of the university have nothing to do with the university
+
+652
+01:00:11,29 --> 01:00:18,38
+and have no idea what is going on inside the doors. I see that particularly in United States and even here in Brazil.
+
+653
+01:00:18,38 --> 01:00:24,89
+We create a campus that has no walls. It's totally powerless to the community.
+
+654
+01:00:25,34 --> 01:00:28,19
+And the community has learned the value of science.
+
+655
+01:00:28,19 --> 01:00:32,33
+Because science is not for paper, books, applications, acquisition, knowledge.
+
+656
+01:00:32,34 --> 01:00:38,79
+Science in Matal, in Macahiba, we demonstrate that science can also be an agent of social and economic transformation.
+
+657
+01:00:39,59 --> 01:00:46,26
+Because in addition to promoting education in women's health, we have created a whole cascade of jobs,
+
+658
+01:00:46,26 --> 01:00:54,56
+an entire production line of suppliers, people that make construction work because we are building a campus.
+
+659
+01:00:54,69 --> 01:01:02,02
+So it is very nice to see the fathers of our children building this campus, they work for the construction company,
+
+660
+01:01:02,02 --> 01:01:10,93
+that has built. And the first build, they're gigantic buildings. They're 12000 square meter research institute.
+
+661
+01:01:10,93 --> 01:01:13,57
+And then there are 12000 square meter school.
+
+662
+01:01:13,57 --> 01:01:25,73
+Speaker 1: Very good, quite impressive. I think when I hear you, I think dreaming It's very important.
+
+663
+01:01:25,73 --> 01:01:25,76
+Speaker 2: Yeah.
+
+664
+01:01:25,76 --> 01:01:25,79
+Speaker 1: For science.
+
+665
+01:01:25,79 --> 01:01:27,03
+Speaker 2: The soup title of my new book about the Natal, Macahiba project is how to be a utopia.
+
+666
+01:01:27,36 --> 01:01:39,44
+A scientific social utopia because in our days utopia has become almost like a curse word, a negative word.
+
+667
+01:01:39,59 --> 01:01:42,4
+And I disagree frontally with that.
+
+668
+01:01:42,45 --> 01:01:47,37
+I think we have to have utopias and dreams, even if we don't fulfill them completely.
+
+669
+01:01:47,37 --> 01:01:52,75
+It's very important to be engaged in one, because of the process makes us want to get out of our house
+
+670
+01:01:52,75 --> 01:01:59,41
+and go out here in this pretty tough cruel world and actually do something complete.
+
+671
+01:01:59,75 --> 01:02:06,7
+And in Natal, I think that's what happened. We had Brazilians coming from all over the country.
+
+672
+01:02:06,76 --> 01:02:14,46
+Teachers, scientists, physicians, administrators, technicians who believed in the utopia
+
+673
+01:02:14,93 --> 01:02:20,85
+and now they can put their hands on these walls and they can see these kids getting to the university.
+
+674
+01:02:20,85 --> 01:02:23,25
+And so, it's a very rewarding experience.
+
+675
+01:02:23,46 --> 01:02:29,57
+In fact, it's one of the things that when I go to Natal, I feel the real meaning of science.
+
+676
+01:02:30,00 --> 01:02:38,56
+When I look and hear these patients and I go to Natal, I actually feel it was worth it, these 35 years of work.
+
+677
+01:02:38,56 --> 01:02:39,87
+Neuroscience you also need dreaming, I suppose.
+
+678
+01:02:40,03 --> 01:02:44,46
+Absolutely, yeah, we need dreaming for a variety of reasons but in neuroscience, yes.
+
+679
+01:02:46,06 --> 01:02:49,93
+I think if you equate, as we discussed before, if we equate neuroscience
+
+680
+01:02:49,93 --> 01:02:55,34
+or any science just with technology development, you're missing the most important part of it.
+
+681
+01:02:55,34 --> 01:03:01,88
+It's this dream, it's this creativity, it's trying to answer questions that nobody has ever asked
+
+682
+01:03:01,88 --> 01:03:04,4
+or nobody ever had an answer for.
+
+683
+01:03:04,42 --> 01:03:11,26
+So the first time that John and I recorded 26 neurals simultaneously in a little rat, in our labs,
+
+684
+01:03:11,26 --> 01:03:12,68
+in the middle of the night.
+
+685
+01:03:12,8 --> 01:03:13,34
+First,
+
+686
+01:03:13,34 --> 01:03:18,8
+he told me that there was a good thing we could share a lawyer for our divorces because we're there five in the morning
+
+687
+01:03:18,8 --> 01:03:23,59
+recording a rat brain. And our wives will never believe that we're actually doing it.
+
+688
+01:03:23,59 --> 01:03:30,86
+But the second thing we thought, both of us in Philadelphia in 91 was this is going to change everything
+
+689
+01:03:31,37 --> 01:03:36,01
+and nobody knew. But we knew, we were the first one to see those 26 neurons fine together.
+
+690
+01:03:36,44 --> 01:03:43,37
+And it may sound little but for us that was the universe, that was the thing that changed our lives.
+
+691
+01:03:43,37 --> 01:03:49,35
+Speaker 1: You were talking about technology being, people that only believe in technology for a solution.
+
+692
+01:03:49,35 --> 01:03:52,34
+And that sends off thinking of Silicon Valley.
+
+693
+01:03:52,34 --> 01:03:56,19
+Speaker 2: Well yeah, I think those guys are living in a bubble.
+
+694
+01:03:56,19 --> 01:03:58,83
+They're very interesting things that they have created
+
+695
+01:03:58,83 --> 01:04:03,09
+and they're very interesting things that have changed the world that have created
+
+696
+01:04:03,09 --> 01:04:08,55
+but they're not the gods of the universe. That they think they are And a lot of hopeless and arrogance there too.
+
+697
+01:04:08,55 --> 01:04:13,15
+There's a very, a lot of talent people and a lot of gifted people.
+
+698
+01:04:13,15 --> 01:04:15,68
+But you just need to go to San Francisco
+
+699
+01:04:15,68 --> 01:04:20,92
+and ask the opinions of the people who live in San Francisco before this thing explodes, Silicon Valley,
+
+700
+01:04:21,35 --> 01:04:23,36
+and what is going on there.
+
+701
+01:04:23,58 --> 01:04:28,52
+Because a lot of people there believe that technology will solve all our problems, and that's not true.
+
+702
+01:04:28,88 --> 01:04:34,63
+Our problems will be solved by the good old-fashioned way of humans interacting
+
+703
+01:04:34,63 --> 01:04:36,98
+and trying to find a consensus to live together.
+
+704
+01:04:36,98 --> 01:04:42,11
+Through democracy, through political engagement, through social engagement,
+
+705
+01:04:42,11 --> 01:04:46,63
+through recognizing that the knowledge of the body is more With the same opportunities
+
+706
+01:04:46,63 --> 01:04:50,17
+and work to increase the opportunities to everybody.
+
+707
+01:04:50,28 --> 01:04:58,81
+And try to look for a way so everybody can seek happiness and achieve a good amount of it, not perhaps everything,
+
+708
+01:04:58,81 --> 01:05:02,48
+but a good amount, everybody makes life decent for everybody.
+
+709
+01:05:03,1 --> 01:05:10,2
+And to believe that we're going to solve all of the problems of the universe through Facebook, Twitter, or to robots,
+
+710
+01:05:10,2 --> 01:05:11,77
+or artificial intelligence is iudicrous.
+
+711
+01:05:12,47 --> 01:05:23,25
+Is in fact, in my opinion, a new wave of where you have to reduce human value,
+
+712
+01:05:23,25 --> 01:05:24,47
+you have to devalue the human contribution.
+
+713
+01:05:24,78 --> 01:05:32,52
+Because then, if you deduce human cost of labor, you increase profits to infinity as a very well-known equation.
+
+714
+01:05:33,56 --> 01:05:37,47
+You cannot eliminate human value, it is obvious.
+
+715
+01:05:37,54 --> 01:05:47,97
+But so in some senses, in a very main sense, some of the prophecies that is gurus like Kurzweil
+
+716
+01:05:47,97 --> 01:05:57,00
+and others have made that we are going to be replaced are not only foolish and not based on any scientific data.
+
+717
+01:05:57,00 --> 01:06:03,72
+They're dangerous in my opinion, they actually confront us with the fact that there has to be an answer to that,
+
+718
+01:06:03,72 --> 01:06:05,93
+and the answer is that we are humans.
+
+719
+01:06:06,21 --> 01:06:17,26
+And our most value, most precious capabilities are not out there for a digital computer to replace.
+
+720
+01:06:17,26 --> 01:06:19,2
+Speaker 1: It's neglecting the value of the brain.
+
+721
+01:06:19,2 --> 01:06:22,74
+Speaker 2: It's neglecting the value of the human species, in my opinion.
+
+722
+01:06:22,74 --> 01:06:31,13
+Millions and millions, billions of years of evolution they took us from a piece of rock,
+
+723
+01:06:31,13 --> 01:06:39,91
+or star dust to a thinking creative, non-conformist human brain.
+
+724
+01:06:40,23 --> 01:07:00,11
+And it's destroying the fabric of humanity in my opinion. So, we need to be aware of it and confirm these guys.
+
+725
+01:07:00,11 --> 01:07:00,54
+Speaker 1: [INAUDIBLE] I think.
+
+726
+01:07:00,54 --> 01:07:00,8
+Speaker 2: Yeah.
+
+727
+01:07:00,8 --> 01:07:04,41
+Speaker 3: Maybe it's a bit off track, but most of the time when you interview brain specialists. It's very brainy.
+
+728
+01:07:04,41 --> 01:07:04,65
+Speaker 2: Yeah.
+
+729
+01:07:04,65 --> 01:07:07,14
+Speaker 3: That when we look around here, all the metaphors, so to speak, or what we see,
+
+730
+01:07:07,14 --> 01:07:11,93
+is actually very cooperate-able, very with the body, very connected to movement.
+
+731
+01:07:11,93 --> 01:07:31,73
+And so, it's not, even when you say the brain is the center of the universe, it's so much acted out through all these-
+
+732
+01:07:31,73 --> 01:07:33,71
+Speaker 2: Yeah, well that's the difference of a technician and a scientist.
+
+733
+01:07:34,83 --> 01:07:39,19
+My professor here in Brazil, which was the father of neuroscience in Brazil, Cesar Te Maria.
+
+734
+01:07:39,48 --> 01:07:42,94
+Always told me, there's a big difference between a technician and a scientist.
+
+735
+01:07:42,94 --> 01:07:46,41
+A technician builds gizmos and runs things like a robot.
+
+736
+01:07:46,95 --> 01:07:54,05
+A scientist thinks like a human, and thinks about science in broader terms than just a specific field
+
+737
+01:07:54,05 --> 01:07:59,02
+or a specific area of his or her work.
+
+738
+01:07:59,13 --> 01:08:07,23
+I think we scientists almost need, by default, to have a very profound and deep intellectual background
+
+739
+01:08:07,23 --> 01:08:14,4
+and we need to think about the consequences of what we do. The legacy of what we do and the way our science is used.
+
+740
+01:08:14,4 --> 01:08:18,29
+We didn't talk about this, but there's a very near danger of weaponizing the brain.
+
+741
+01:08:18,8 --> 01:08:22,55
+And I'm totally opposed to it because this is the last frontier.
+
+742
+01:08:23,00 --> 01:08:30,13
+And I don't want to see what I did, what I created, called brain meshing interfaces, being used to harm or kill people.
+
+743
+01:08:31,17 --> 01:08:31,65
+So-
+
+744
+01:08:31,65 --> 01:08:32,13
+Speaker 1: [INAUDIBLE]
+
+745
+01:08:32,13 --> 01:08:36,61
+Speaker 2: Well, you can imagine this is happening now in some places,
+
+746
+01:08:36,61 --> 01:08:41,11
+particularly in the United States where Department of Defense is thinking about using brain machine interfaces to
+
+747
+01:08:41,11 --> 01:08:44,55
+create weapons. That humans can control just by thinking.
+
+748
+01:08:45,05 --> 01:08:54,38
+And I firmly oppose this and I think that neuroscientists speak out against this kind of use of this research.
+
+749
+01:08:54,38 --> 01:09:05,21
+Speaker 1: It's a good question. Or a good statement you're saying, because that is true.
+
+750
+01:09:05,21 --> 01:09:05,46
+The moment you cross the border of knowledge again-
+
+751
+01:09:05,46 --> 01:09:07,73
+Speaker 2: Yes. And our only hope is society.
+
+752
+01:09:08,24 --> 01:09:13,52
+Because we scientists push the envelope to discover what is possible, but is society's duty
+
+753
+01:09:13,52 --> 01:09:18,81
+and right to regulate what can be done with this knowledge around the world.
+
+754
+01:09:18,81 --> 01:09:30,17
+Speaker 1: When you say the human brain interface concept, you said? That's more than connecting therapist and patient?
+
+755
+01:09:30,17 --> 01:09:38,95
+Speaker 2: Yeah, what people are thinking there is totally, I mean, it's totally for me unethical.
+
+756
+01:09:38,95 --> 01:09:40,32
+Speaker 1: What are they thinking of?
+
+757
+01:09:40,32 --> 01:09:40,62
+Speaker 2: Well,
+
+758
+01:09:40,62 --> 01:09:45,92
+they're thinking about implanting soldiers with electrodes to record brain activity we can use to control guns
+
+759
+01:09:45,92 --> 01:09:51,55
+or weapons or whatever. I don't know the details because I refuse to even listen to the details.
+
+760
+01:09:51,55 --> 01:09:58,79
+But this is a debate that has to be done among scientists and society not only among neuroscientists yes.
+
+761
+01:09:58,79 --> 01:10:07,47
+Speaker 1: You mean, you create an exoskeleton, but you put it inside.
+
+762
+01:10:07,47 --> 01:10:15,63
+Speaker 2: No no, you get signals from the brain to control a machine gun or a missile launcher device, god knows what,
+
+763
+01:10:15,63 --> 01:10:17,51
+I don't know, or an exoskeleton for a soldier to go to war.
+
+764
+01:10:17,73 --> 01:10:26,68
+And that's not what I had in mind when I created this technology. This is what I had in mind.,
+
+765
+01:10:23,47 --> 01:10:26,93
+Speaker 1: Cuz when you envision, not this part, but [CROSSTALK] but
+
+766
+01:10:26,93 --> 01:10:38,62
+when you envision a world where this brain nets with work, how far can it go?
+
+767
+01:10:38,62 --> 01:10:44,08
+Speaker 2: Well, at this point I told you I don't have, it's just superstitions and hints,
+
+768
+01:10:44,08 --> 01:10:50,38
+and gut feeling to describe it. I cannot tell you precisely what it could go.
+
+769
+01:10:50,66 --> 01:10:57,34
+I think about as I told you, potential applications that can be beneficial to mankind,
+
+770
+01:10:57,83 --> 01:11:00,67
+and to people that are suffering from disorders or diseases.
+
+771
+01:11:00,96 --> 01:11:05,97
+But I don't even think of sci-fi scenarios that are harmful.
+
+772
+01:11:05,97 --> 01:11:06,64
+Speaker 1: [INAUDIBLE]
+
+773
+01:11:06,64 --> 01:11:10,82
+Speaker 2: Well, I think that if we could communicate better.
+
+774
+01:11:11,01 --> 01:11:14,36
+If we could find a way of communication that is more natural
+
+775
+01:11:14,36 --> 01:11:19,16
+and better perhaps we will figure it out that we all the same,
+
+776
+01:11:19,16 --> 01:11:23,85
+that we have the same fears no matter where you came from, we have same aspirations, we have same desires,
+
+777
+01:11:23,85 --> 01:11:24,87
+we are all human by the way.
+
+778
+01:11:25,31 --> 01:11:31,01
+And I look at things like the refugee crisis in Europe,
+
+779
+01:11:32,04 --> 01:11:40,82
+perhaps by brain to brain communicating we realize that we are all coming from the same place and, by the way,
+
+780
+01:11:40,83 --> 01:11:51,41
+the place was Africa. And so, race prejudice, prejudice based on economic differences, on religion.
+
+781
+01:11:52,04 --> 01:11:59,77
+All these things would disappear if we could somehow convince people that what goes through in our brains is the same
+
+782
+01:11:59,77 --> 01:12:04,57
+thing, it's the same stuff. And what our brains produce is the same.
+
+783
+01:12:04,57 --> 01:12:08,58
+Speaker 1: So, when you look in the future brain communication will be more and more elaborate?
+
+784
+01:12:08,58 --> 01:12:14,31
+Speaker 2: I hope it could become more and more elaborate.
+
+785
+01:12:14,31 --> 01:12:22,52
+In fact, if you read Arthur Clarke's 3001, the last book of his series that is titled 2001.
+
+786
+01:12:22,52 --> 01:12:29,83
+He starts the book with something called brain caps in 3001 and people communicate by brain caps in 3001.
+
+787
+01:12:29,83 --> 01:12:41,35
+He would be happy to know that we're a thousand years early in getting some of the stuff to work.
+
+788
+01:12:42,86 --> 01:12:54,27
+Of course, what he described I don't think will ever happen,
+
+789
+01:12:54,27 --> 01:12:56,2
+but it's interesting to see that neuroscience can even compete with science fiction.
+
+790
+01:12:56,2 --> 01:13:01,35
+Speaker 3: Elaborating on that last one, the film Avatar came out in 2008 and it seems now 2015 we're already on that-
+
+791
+01:13:01,35 --> 01:13:04,23
+Speaker 2: I always wanted to ask Cameron where he got the idea. Because he claims he had a dream.
+
+792
+01:13:04,23 --> 01:13:11,29
+We had published many scientific papers before he had that dream I think.
+
+793
+01:13:13,11 --> 01:13:13,85
+So,
+
+794
+01:13:13,85 --> 01:13:15,89
+I always wonder where he got that idea of having a guy in a machine controlling an avatar because this was out there.
+
+795
+01:13:15,89 --> 01:13:22,38
+I would be very, very curious to ask him where he really got the idea.
+
+796
+01:13:22,38 --> 01:13:22,47
+Speaker 1: And he-
+
+797
+01:13:22,47 --> 01:13:24,36
+Speaker 2: That's the director of the film, you know? Cameron.
+
+798
+01:13:24,36 --> 01:13:28,06
+Speaker 3: But as far as the technical aspect is concern-
+
+799
+01:13:28,06 --> 01:13:34,76
+Speaker 2: No, there are many things there that are not possible of course and he just made it up.
+
+800
+01:13:35,18 --> 01:13:38,63
+Which is the advantage od science fiction to us, we cannot make it up.
+
+801
+01:13:38,63 --> 01:13:45,22
+Speaker 1: Yeah, but when you really work, collaborate on what you are doing and what other neuroscientists are doing,
+
+802
+01:13:45,22 --> 01:13:54,56
+we work on the frontier of knowledge in that sense. It's unimaginable what is possible when it works-
+
+803
+01:13:54,56 --> 01:13:58,9
+Speaker 2: Yeah, as I tell all my students always, imagination is always the limit here.
+
+804
+01:13:58,9 --> 01:13:59,9
+Speaker 1: Yeah.
+
+805
+01:13:59,9 --> 01:14:05,79
+Speaker 2: And in this labs we're not here to do the mundane and the incremental things,
+
+806
+01:14:05,79 --> 01:14:08,79
+we are here to push the limit of neuroscience.
+
+807
+01:14:08,79 --> 01:14:15,1
+Speaker 1: So, the imagination is the only limit when you look at the possibilities.
+
+808
+01:14:15,1 --> 01:14:19,08
+Speaker 2: Yes, but of course, the time scale is not tomorrow.
+
+809
+01:14:19,08 --> 01:14:29,48
+But I like to work with people that likes the deal, the deal of thinking far ahead and trying to make it happen.
+

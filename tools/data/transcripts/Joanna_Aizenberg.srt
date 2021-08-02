@@ -1,0 +1,2048 @@
+1
+00:00:00,00 --> 00:00:06,37
+Speaker 1: So what makes it so unique in your eyes, what you are doing with your team?
+
+2
+00:00:06,37 --> 00:00:21,03
+Speaker 2: The idea is to be open, I think open for looking for interesting solutions in nature and the approach,
+
+3
+00:00:21,03 --> 00:00:28,56
+probably quite unique still from my group, but I think it becoming more and more popular, is,
+
+4
+00:00:28,56 --> 00:00:31,76
+we have two directions of how we look at nature.
+
+5
+00:00:32,03 --> 00:00:38,46
+One is, let's say there's an interesting creature doing something amazing,
+
+6
+00:00:38,46 --> 00:00:46,06
+and we are trying to learn the- what is happening and maybe apply it.
+
+7
+00:00:46,62 --> 00:00:50,04
+That's one approach, and apply it maybe to different things.
+
+8
+00:00:50,05 --> 00:01:00,63
+But even more interesting, it's just emerging now, is that instead of looking for one creature that tells us something,
+
+9
+00:01:00,9 --> 00:01:05,1
+what if we take lessons from completely different organisms?
+
+10
+00:01:05,71 --> 00:01:11,16
+They have nothing in common, they have different environments, but one can teach something,
+
+11
+00:01:11,16 --> 00:01:14,11
+but it's not enough for certain purpose.
+
+12
+00:01:14,34 --> 00:01:18,08
+Together with yet another organism, you can learn something else,
+
+13
+00:01:18,46 --> 00:01:27,37
+and combining lessons from completely different organisms that evolve their things for their specific needs,
+
+14
+00:01:27,37 --> 00:01:29,43
+then to solve a certain problem.
+
+15
+00:01:29,44 --> 00:01:38,02
+So that's a really interesting approach, is really take small lessons from different, from plants,
+
+16
+00:01:38,27 --> 00:01:47,35
+from brittle stars because I have research where I combine lessons from this creature with this,
+
+17
+00:01:47,69 --> 00:01:53,39
+so they have nothing in common. That one taught us something, this one taught us something.
+
+18
+00:01:53,76 --> 00:02:01,96
+Combining them together, we produce a new technology that would never appear if we wouldn't combine these two lessons.
+
+19
+00:02:01,96 --> 00:02:06,1
+So the idea of combining different creatures-
+
+20
+00:02:06,1 --> 00:02:16,96
+Speaker 1: What will [inaudible 00:02:07] combined from the two?	So can you explain what did you learn of these two?
+
+21
+00:02:16,96 --> 00:02:25,72
+Speaker 2: So you probably know who are starfish and sea urchins.
+
+22
+00:02:26,28 --> 00:02:34,84
+So this is the closest relative of both, so it's also you see his five folds in his ray of the body,
+
+23
+00:02:34,99 --> 00:02:42,25
+just like a starfish, but it's called brittle star. Its arms are called brittles, it's very fast.
+
+24
+00:02:42,68 --> 00:02:52,9
+You see it's black, and it's already dead of course, but during the day, it's black and during the night, it is white.
+
+25
+00:02:52,9 --> 00:03:04,02
+And the way it changes color is by introducing inside the, its skeleton,
+
+26
+00:03:04,02 --> 00:03:10,75
+black pigment that covers the lens just like some glasses that change color when there's too much light.
+
+27
+00:03:11,17 --> 00:03:19,38
+This is what this organism does, and makes light reception dynamic depending how much light outside,
+
+28
+00:03:19,39 --> 00:03:29,82
+so that's the lesson from here. This one has structural color, so this blue is structural color.
+
+29
+00:03:30,02 --> 00:03:34,51
+Structural color means that it's not chemical color.
+
+30
+00:03:34,83 --> 00:03:41,09
+It's not coming from pigment, it's coming from arrangement of peaches.
+
+31
+00:03:41,09 --> 00:03:47,34
+It's coming purely from distances between peaches in this structure.
+
+32
+00:03:47,56 --> 00:03:54,6
+So depending how close they are, it would be the blue or green, so it has almost nothing to do with the material.
+
+33
+00:03:54,61 --> 00:04:03,49
+I can get blue color in any material by just making it in their regular array. Now this color is not dynamic.
+
+34
+00:04:03,49 --> 00:04:14,28
+It's not changing in any way, so we can combine the idea of how liquid here changes color of this organism,
+
+35
+00:04:14,28 --> 00:04:24,23
+and introduce this liquid as an active element into structures that would make very similar to that butterfly.
+
+36
+00:04:25,61 --> 00:04:37,48
+Result of that is that we put together new technology where the color can change as a function of infiltration of a
+
+37
+00:04:37,56 --> 00:04:43,1
+liquid, but then we use this for very interesting applications.
+
+38
+00:04:43,1 --> 00:04:51,33
+We're looking how that concept was liquid, suddenly changes color in different ways,
+
+39
+00:04:51,33 --> 00:04:54,88
+and I will probably show you a couple of those things in the lab.
+
+40
+00:04:54,88 --> 00:05:08,88
+We can use that as sensor, we can use it for encryption because, there's certain messages can be written there,
+
+41
+00:05:08,88 --> 00:05:12,65
+and you will never see them. We actually have a butterfly with tattoo.
+
+42
+00:05:13,6 --> 00:05:25,61
+The tattoo is coming out, only one you expose to a liquid and that gives us a way to have hidden messages.
+
+43
+00:05:25,61 --> 00:05:30,69
+Logos that would appear only when you expose it to right liquid.
+
+44
+00:05:31,69 --> 00:05:38,48
+So the oral idea of dynamic materials is in this particular case, by combining these strategies,
+
+45
+00:05:38,48 --> 00:05:46,34
+but we have many more examples of one organism teaches something, and the other one teaches a little bit more,
+
+46
+00:05:46,34 --> 00:05:46,88
+and together, it's interesting.
+
+47
+00:05:46,88 --> 00:05:49,01
+Speaker 1: And you apply it to materials in a way?
+
+48
+00:05:49,01 --> 00:05:58,02
+Speaker 2: Yes, so we're making now, and we're actually making, I actually have a lot of them,
+
+49
+00:05:58,23 --> 00:06:06,97
+but most of them are in design school because I use them for teaching, but we'll see some of them in my lab,
+
+50
+00:06:06,97 --> 00:06:13,85
+where you will see it looks exactly like this beautiful blue color, but it's actually material that we make,
+
+51
+00:06:13,85 --> 00:06:15,94
+but compared to this.
+
+52
+00:06:17,09 --> 00:06:28,53
+As simple as, imagine a shot glass that has beautiful color, and depending on what you drink,
+
+53
+00:06:28,91 --> 00:06:32,84
+it will give you different messages that you don't know really existed.
+
+54
+00:06:32,84 --> 00:06:38,79
+So simple way to make it beautiful, but in fact, we can use it.
+
+55
+00:06:39,26 --> 00:06:52,12
+In particular, we're working with department of transportation to design it into a sensor for detection of oil quality,
+
+56
+00:06:52,13 --> 00:07:02,1
+so in North Dakota, they're pulling out a lot of oil. There is no pipe line, and they're transporting it by rail.
+
+57
+00:07:02,1 --> 00:07:05,12
+And within the last couple of years,
+
+58
+00:07:05,12 --> 00:07:12,94
+there were a lot of explosions because oil was not properly labeled by what type of oil that is.
+
+59
+00:07:13,45 --> 00:07:23,08
+So to have a very simple detector that has beautiful color and depending on the quality of oil,
+
+60
+00:07:23,49 --> 00:07:30,21
+this oil would either infiltrate it or not, and therefore the color will change in certain ways.
+
+61
+00:07:30,21 --> 00:07:47,36
+As a very simple, you don't need to use fancy equipment, it's almost pregnancy tests or pH paper..
+
+62
+00:07:39,07 --> 00:07:47,11
+You put it in oil and you know what quality it is in which container you need to pack it so ..
+
+63
+00:07:47,36 --> 00:07:53,92
+Speaker 1: So you learn from nature, from animals or plants, or organisms?
+
+64
+00:07:53,92 --> 00:07:54,31
+Speaker 2: Yup.
+
+65
+00:07:54,31 --> 00:07:59,15
+Speaker 1: You learn from their characteristics or from their, what their, if you go deeper into,
+
+66
+00:07:59,15 --> 00:08:00,54
+what biologies normally do.
+
+67
+00:08:00,54 --> 00:08:10,8
+Speaker 2: That's right, so I don't call it by a mimicry, because I'm not mimicking nature, it is by inspired science.
+
+68
+00:08:10,91 --> 00:08:18,38
+So I use it as an inspiration, and things that I make are not necessarily even used the same way nature used it,
+
+69
+00:08:18,72 --> 00:08:21,48
+often for completely different application.
+
+70
+00:08:21,48 --> 00:08:27,01
+It's just certain design principles that nature has evolved,
+
+71
+00:08:27,01 --> 00:08:33,62
+become very interesting approaches that one can use for smart materials design.
+
+72
+00:08:33,62 --> 00:08:44,09
+So it is not mimicking nature, it is taking lessons inspired by nature, and think where we can use these beyond,
+
+73
+00:08:44,9 --> 00:08:47,47
+well beyond what nature is doing.
+
+74
+00:08:48,07 --> 00:08:57,1
+And also, we can't, at this moment, mimic the entire complexity of natural system, and probably I don't want to.
+
+75
+00:08:57,1 --> 00:09:06,77
+So the butterfly and this sea urchins, they need to multiply, they need to do all kinds of things.
+
+76
+00:09:06,78 --> 00:09:13,66
+If I'm making a device, let's say, to detect quality of oil, I don't need all of these features.
+
+77
+00:09:13,66 --> 00:09:16,38
+So being able to extract from nature.
+
+78
+00:09:16,38 --> 00:09:23,3
+So to take these principles, and simplify them sometimes,
+
+79
+00:09:23,3 --> 00:09:30,61
+or reformulate them in such a way that it can be used somewhere else. This is what we actually do.
+
+80
+00:09:30,61 --> 00:09:41,12
+Speaker 1: In a way, evolution already chose the best way of having organisms.
+
+81
+00:09:41,12 --> 00:09:51,65
+Speaker 2: I may not agree with that, I'm not sure that evolution always makes the best choice.
+
+82
+00:09:51,65 --> 00:10:01,01
+In a sense that there is always local pressures, local environmental conditions and often,
+
+83
+00:10:03,16 --> 00:10:12,59
+nature has the materials stuck with certain choices that is very expensive to change.
+
+84
+00:10:13,06 --> 00:10:21,98
+And then, within that range, so I would say that, my logical solutions are often sub-optimal. Not optimal.
+
+85
+00:10:21,98 --> 00:10:30,06
+We have our ideas, why? In particular, published in a number of papers.
+
+86
+00:10:30,87 --> 00:10:40,14
+So if we look, we got this paper that was actually describing how this organism changes color, but it's a skeleton,
+
+87
+00:10:40,14 --> 00:10:48,47
+so nature often does something we do not do yet, which is designing one material for multiple purposes.
+
+88
+00:10:48,47 --> 00:10:58,01
+So, often natural design might not be best for each of the purposes it has to serve,
+
+89
+00:10:58,01 --> 00:11:01,13
+but it does it very well for multiple things.
+
+90
+00:11:01,14 --> 00:11:06,74
+For example, if I design lenses, and these are lenses on top of a skeleton,
+
+91
+00:11:06,74 --> 00:11:12,33
+maybe I'll design lenses in a different way, and better than these in a different material,
+
+92
+00:11:12,33 --> 00:11:15,59
+but the same material is supposed to be a skeleton.
+
+93
+00:11:16,06 --> 00:11:21,47
+So it's not just optically perfect, it has to be structurally perfect.
+
+94
+00:11:22,1 --> 00:11:29,33
+So neither of them are probably perfect, but to think about one material that can do both things well enough,
+
+95
+00:11:30,08 --> 00:11:34,23
+then evolution finds the best solution for that.
+
+96
+00:11:34,24 --> 00:11:41,36
+And sometimes we'll look at this optimization, there are so many parameters you need to optimize for,
+
+97
+00:11:41,36 --> 00:11:49,24
+maybe there are some that we don't even know about, and then what we can say, flaws of evolution.
+
+98
+00:11:49,39 --> 00:11:57,77
+It's not perfect, it could be done better. Maybe not, because the material is supposed to do many other things.
+
+99
+00:11:57,78 --> 00:12:07,29
+For example, multiply, dissolve at certain moment, and then our regular approaches of why not to make it out glass,
+
+100
+00:12:07,29 --> 00:12:14,36
+why not to make it out of metal, will not be applicable, and therefore not used in nature.
+
+101
+00:12:14,36 --> 00:12:20,82
+So multi-functionality is a very interesting approach.
+
+102
+00:12:20,82 --> 00:12:26,7
+Speaker 1: So what you are doing is creating next nature in a way.
+
+103
+00:12:26,7 --> 00:12:29,87
+Speaker 2: I don't know, but I would say that.
+
+104
+00:12:30,26 --> 00:12:36,85
+I would just say that maybe there are creatures that already have these features,
+
+105
+00:12:36,86 --> 00:12:48,3
+but what we are trying to do is combine unrelated lessons from different organisms together to solve an interesting
+
+106
+00:12:48,3 --> 00:12:49,41
+societal problem,
+
+107
+00:12:49,41 --> 00:12:58,08
+some interesting technical problem to create a new material that can do something that our current materials can't do.
+
+108
+00:12:59,34 --> 00:13:06,62
+So it is not next nature, but I would say it's next generation of advanced materials.
+
+109
+00:13:07,29 --> 00:13:16,82
+Materials that respond to environment, so why can't we have our buildings that either breathe,
+
+110
+00:13:16,82 --> 00:13:26,11
+or shut the wettability depending whether it's the rain outside or not.
+
+111
+00:13:26,11 --> 00:13:39,22
+Why can't we have our entire windows that would, in a smart way, which means in response to temperature outside,
+
+112
+00:13:39,52 --> 00:13:44,78
+to light outside, change the performance to let the light through or not.
+
+113
+00:13:44,78 --> 00:13:58,61
+There is so many things that if we consider general lessons from nature that we haven't yet, understood very well,
+
+114
+00:13:58,7 --> 00:14:06,21
+which is responsiveness, which is adaptive nature and ability to reconfigure, adjust.
+
+115
+00:14:07,95 --> 00:14:16,45
+If we would have materials of that kind, that would be a really interesting move for technology.
+
+116
+00:14:16,45 --> 00:14:20,68
+Speaker 1: What's the thing where you are now the most proud of if you apply to material?
+
+117
+00:14:20,68 --> 00:14:25,46
+Speaker 2: That's a tough question.
+
+118
+00:14:25,46 --> 00:14:31,04
+I have a very big group, and in a way, each of these projects is my baby,
+
+119
+00:14:31,32 --> 00:14:37,34
+so you don't ask which baby you don't like most out of your kids.
+
+120
+00:14:38,00 --> 00:14:46,39
+Each of them, in some ways, satisfies different parts of what is important to me.
+
+121
+00:14:47,48 --> 00:14:54,53
+If you would ask what is the most interesting science, it's one part of that.
+
+122
+00:14:54,72 --> 00:15:06,72
+I don't even often, in this case, as question, is it going to be useful, is just to uncover interesting mechanisms
+
+123
+00:15:06,72 --> 00:15:10,81
+and ideas and what nature does in interesting ways.
+
+124
+00:15:10,81 --> 00:15:14,79
+And there are a couple of things where we are proud of in this direction.
+
+125
+00:15:16,24 --> 00:15:21,09
+For example, to understand the structure of this plant.
+
+126
+00:15:21,5 --> 00:15:31,2
+So to understand that the organism was able to create a fiber-optical network, and a beautiful skeleton of glass,
+
+127
+00:15:31,66 --> 00:15:43,5
+and fully explain how this is structurally, and from materials point of view, is design and is architecture.
+
+128
+00:15:43,5 --> 00:15:52,91
+That's, I'm proud of. I also like, in this direction, ability to grow pretty much any crystal I want.
+
+129
+00:15:52,91 --> 00:16:04,88
+We may look at some of them in the microscope later on just to grow flowers that are just size of human hair
+
+130
+00:16:04,88 --> 00:16:09,38
+or smaller that, but in any shape or form.
+
+131
+00:16:09,81 --> 00:16:16,51
+So that to understand them, the lengths, I am so well that we can do it, so I am very proud of that part.
+
+132
+00:16:16,98 --> 00:16:28,45
+Now the other side though, is that is we do not just science purpose, but coming not from science
+
+133
+00:16:28,45 --> 00:16:34,55
+and then thinking where one can use it, but to do it the other way around, starting with a problem
+
+134
+00:16:34,55 --> 00:16:36,77
+and think how one can solve it.
+
+135
+00:16:36,77 --> 00:16:48,51
+So these are more technology or application oriented studies and there, and the ones that I'm most proud of, probably,
+
+136
+00:16:48,51 --> 00:17:00,52
+are the two developments that have happened in my group in the last five, six years. And these are two technologies.
+
+137
+00:17:00,99 --> 00:17:14,32
+One is based on inspiration coming from pitcher plant where we really developed completely new family of materials that
+
+138
+00:17:14,32 --> 00:17:17,99
+can be designed in a very simple way at this moment.
+
+139
+00:17:17,99 --> 00:17:30,63
+We can make it in metal, polymer and glass, and any material but the material that would repel, what you want to repel,
+
+140
+00:17:30,63 --> 00:17:33,14
+it would repel ice, it would repel barnacles and mussels.
+
+141
+00:17:33,14 --> 00:17:43,51
+It would repel blood, it would repel bacteria, and to create the family of [inaudible 00:17:41] materials.
+
+142
+00:17:43,51 --> 00:17:55,49
+Very proud of this work, and I'm very proud of work of where we can use self-assembled materials and structural color,
+
+143
+00:17:55,49 --> 00:18:04,48
+actually, as sensors, as a way to detect and reveal how materials are exposed to environment,
+
+144
+00:18:04,48 --> 00:18:10,9
+so these are two that are related to applications there.
+
+145
+00:18:11,44 --> 00:18:17,87
+The overall idea for that came from, we want to solve a problem, of let's say, fouling.
+
+146
+00:18:18,11 --> 00:18:23,00
+What should we do, which organism should we look at to help us do it.
+
+147
+00:18:23,02 --> 00:18:33,59
+So not from the organisms to application, but rather from application to organisms and natural system that can help.
+
+148
+00:18:33,59 --> 00:18:48,45
+Speaker 1: And when you look at it, we can create- there is an endless future of possibilities in your science.
+
+149
+00:18:48,45 --> 00:18:54,2
+It's like, a whole new world's opening by looking at biology in this way,
+
+150
+00:18:54,72 --> 00:19:00,23
+and then thinking about characteristics that can be used in other materials.
+
+151
+00:19:00,23 --> 00:19:06,85
+Speaker 2: I agree. The, I hope that there would be more and more studies of this kind.
+
+152
+00:19:06,85 --> 00:19:13,64
+It's just a good example of that is our recent paper, actually published this year in nature,
+
+153
+00:19:14,73 --> 00:19:26,6
+was on making the most efficient ethics changes, the most efficient water collection systems,
+
+154
+00:19:26,6 --> 00:19:33,51
+and the way we designed it was combining lessons from three different natural systems,
+
+155
+00:19:34,12 --> 00:19:43,98
+where we were looking on how to optimize three parameters, all of them orthogonal to each other, very different,
+
+156
+00:19:44,91 --> 00:19:49,45
+and combining these three organisms gave us the best solution.
+
+157
+00:19:49,46 --> 00:19:59,75
+Nothing in technology works as well as that, so we combine lessons from desert beetle, from cactus
+
+158
+00:19:59,75 --> 00:20:08,85
+and from pitcher plant and we're able to put together something interesting that neither of them alone will teach us.
+
+159
+00:20:09,38 --> 00:20:12,8
+Now how many of these capabilities? I'm sure it's endless.
+
+160
+00:20:12,8 --> 00:20:14,29
+There's so many organisms,
+
+161
+00:20:14,29 --> 00:20:24,57
+and there are so many things about organisms that nobody has studied yet in endless combination of something that
+
+162
+00:20:24,57 --> 00:20:28,21
+nature evolved here, because it was important for this organism,
+
+163
+00:20:28,21 --> 00:20:36,04
+and somewhere else because it was important for another organism, together it gives unusual,
+
+164
+00:20:36,05 --> 00:20:42,38
+unexpected solution that nobody can easily come up with that concept,
+
+165
+00:20:42,7 --> 00:20:54,69
+so it's not generally obvious.	We are not trying to go and to try to do the obvious science, it's uneven,
+
+166
+00:20:56,51 --> 00:21:02,87
+untraditional, unorthodox combinations that we're trying to do.
+
+167
+00:21:02,87 --> 00:21:06,33
+Speaker 1: And where did it all start for you?
+
+168
+00:21:06,33 --> 00:21:14,42
+When did your passion for looking at nature, looking at it, where did it start?
+
+169
+00:21:14,42 --> 00:21:18,52
+Speaker 2: I can't even remember, I think it was always there.
+
+170
+00:21:19,73 --> 00:21:33,32
+I guess in some ways, there's a little bit of unpleasant beginning of all that when I was a child,
+
+171
+00:21:33,32 --> 00:21:35,06
+when I was two years old.
+
+172
+00:21:35,06 --> 00:21:48,79
+It all started when I went to kindergarten, and my nurse in the kindergarten by mistake,
+
+173
+00:21:49,18 --> 00:21:57,18
+gave me triple dose of vaccine for anti-polio vaccine, at that time, vaccine was alive
+
+174
+00:21:57,93 --> 00:22:10,45
+and I actually was paralyzed for a number of years.
+
+175
+00:22:10,98 --> 00:22:22,14
+So when I was paralyzed, I was in the sanatorium, on the black sea and was exposed to shells, to waves,
+
+176
+00:22:22,47 --> 00:22:25,64
+to black sea at that time.
+
+177
+00:22:25,64 --> 00:22:35,56
+They were unpleasant times, but at the same time, it was the time when all the kids were running around and playing
+
+178
+00:22:35,56 --> 00:22:46,04
+and I was in a chair and that was the beginning of looking, observing nature and loving it, really.
+
+179
+00:22:46,54 --> 00:22:55,92
+Then in school, I guess that, so I was, winner of all the mathematical Olympias,
+
+180
+00:22:55,92 --> 00:23:01,91
+so science was always something I wanted to do.
+
+181
+00:23:01,91 --> 00:23:14,8
+It was never a question of which science, but I guess that my parents, who were very influential for me,
+
+182
+00:23:14,81 --> 00:23:22,48
+we constantly had discussions and some fights between them, whether I would follow my dad's steps or my mom's steps,
+
+183
+00:23:24,65 --> 00:23:27,15
+and I decided to combine both.
+
+184
+00:23:28,19 --> 00:23:34,65
+My mom was a medical doctor, specifically interested in infectious diseases,
+
+185
+00:23:34,65 --> 00:23:46,98
+and I do now a lot of work in making materials from medical devices that prevent infections that prevent bacteria to
+
+186
+00:23:46,98 --> 00:23:51,63
+form, and my dad is a structural engineers.
+
+187
+00:23:51,63 --> 00:24:00,21
+He always wanted me to be an engineer, and this combination is actually really interesting, and I guess that's,
+
+188
+00:24:00,21 --> 00:24:10,78
+as I mentioned, I can track it back a time when I was three or four years old.
+
+189
+00:24:10,78 --> 00:24:15,99
+Speaker 1: Yeah, and then looking at the shells when you were in this chair,
+
+190
+00:24:15,99 --> 00:24:22,82
+in what way- that was the only thing you could, do of course. You could see the sea, you could smell the sea.
+
+191
+00:24:22,82 --> 00:24:25,54
+Speaker 2: That's right. I'm sorry.
+
+192
+00:24:25,54 --> 00:24:39,74
+What always interested me, and it's something that probably, I keep doing it 'til now, is pattern information.
+
+193
+00:24:39,74 --> 00:24:50,18
+It's not only seashells, let's say, but the, how waves leave interesting signs on the sand.
+
+194
+00:24:50,66 --> 00:25:02,81
+So these rhombii in the patterns left behind by the waves on the sand was my obsession for a very long time.
+
+195
+00:25:02,82 --> 00:25:11,04
+So since I was most interested in mathematics as a student in school,
+
+196
+00:25:11,06 --> 00:25:21,94
+I actually thought that I would be applied mathematician, but then I was convinced that by doing physical chemistry,
+
+197
+00:25:21,94 --> 00:25:28,51
+I could still do a lot of mathematics, but I can also do physics, chemistry, and biology,
+
+198
+00:25:28,51 --> 00:25:39,69
+and it was quite a convincing augment to get to the Moscow university to the chemistry department.
+
+199
+00:25:40,2 --> 00:25:51,15
+So it's patterned information, how different features form and many things in my research, in particular,
+
+200
+00:25:51,15 --> 00:25:59,84
+patterns in these photonic crystals, or patterns on this sponge, if you see, probably,
+
+201
+00:25:59,84 --> 00:26:02,92
+that the patterns on this sponge are extremely-
+
+202
+00:26:02,92 --> 00:26:03,9
+Speaker 1: Can you get it a bit closer for the camera?
+
+203
+00:26:03,9 --> 00:26:16,19
+Speaker 2: So if you look at that, it's not living anymore, but it's a natural sponge, it's fully, this skeleton of it,
+
+204
+00:26:16,19 --> 00:26:25,64
+it's fully made of glass, just like we make our buildings and our windows, but I hope, you see,
+
+205
+00:26:26,07 --> 00:26:32,31
+that in addition to just beautiful glass architecture, it is still irregular.
+
+206
+00:26:32,86 --> 00:26:43,21
+It has something like a chessboard structure, so there's one window and another one is closed, and it's, again,
+
+207
+00:26:43,72 --> 00:26:44,46
+pattern.
+
+208
+00:26:44,47 --> 00:26:55,00
+I was interested when I started to look at that, how this symmetry, that can arise from a living organism,
+
+209
+00:26:55,01 --> 00:27:01,08
+how can it form a skeleton with such an incredible regularity.
+
+210
+00:27:01,09 --> 00:27:07,75
+If you look here, there are also diagonal elements running through the sponge,
+
+211
+00:27:08,31 --> 00:27:13,62
+and they're running exactly every four square. Every four square.
+
+212
+00:27:13,96 --> 00:27:25,98
+Every second square, it has a dark square, so there's an incredible regularity, so the origin of these features,
+
+213
+00:27:25,98 --> 00:27:40,52
+the origin of this order, is all within the, our status of how patterns, how interesting assembly works.
+
+214
+00:27:40,52 --> 00:27:47,2
+Speaker 1: And what did you do with the information you got from this sponge? What did you apply with it?
+
+215
+00:27:47,2 --> 00:27:49,2
+Did it allure you or what?
+
+216
+00:27:49,2 --> 00:28:02,27
+Speaker 2: So this is, there's a couple of things that we are trying to do, hopefully, is to,
+
+217
+00:28:02,27 --> 00:28:03,58
+what we do is we simplify this sponge design, so these are 3D printed,
+
+218
+00:28:03,58 --> 00:28:13,37
+and this one has all the structural elements this sponge has. This one has a little bit less, this one.
+
+219
+00:28:13,56 --> 00:28:25,4
+So we make different types of this structure to understand why nature ended up with this specific architecture to make
+
+220
+00:28:25,4 --> 00:28:29,84
+the most mechanically strong material.
+
+221
+00:28:30,39 --> 00:28:42,61
+So the lessons that we learn from that is how to make most mechanically strong glass that one can arrange from very
+
+222
+00:28:42,61 --> 00:28:44,27
+small scale to very large scale.
+
+223
+00:28:44,73 --> 00:28:57,33
+So then this sponge, in fact, I gave couple of lectures describing that if you look at this from every level,
+
+224
+00:28:57,4 --> 00:29:12,82
+I can probably teach entire class of civil engineering, and everything we use in the design, laminated materials
+
+225
+00:29:16,08 --> 00:29:23,18
+or fiber-enforced materials or cemented structures, everything.
+
+226
+00:29:23,18 --> 00:29:30,86
+Every element that we use now is actually already used by this sponge. So it's a lot of interesting things.
+
+227
+00:29:30,86 --> 00:29:37,32
+Whether it's additional features, in particular, hierarchy, how nature makes it from mammoth scale,
+
+228
+00:29:37,32 --> 00:29:45,1
+up to this macroscopic scale to avoid corns that the sponge has in the sea.
+
+229
+00:29:45,57 --> 00:29:51,83
+So there is a lot of interesting lessons, but again, there's lesson in multi-functionality.
+
+230
+00:29:53,06 --> 00:30:05,6
+This is a skeleton, but it's also, in our opinion, designed to control and optimize three functions, at least.
+
+231
+00:30:05,72 --> 00:30:08,88
+Which is, has to be strong, because it's skeleton,
+
+232
+00:30:08,88 --> 00:30:18,4
+but it also- these are optical fibers that couple light into this structure,
+
+233
+00:30:18,41 --> 00:30:21,52
+most of them I already removed from my research.
+
+234
+00:30:21,52 --> 00:30:30,96
+So the structure has to act as a beacon in the sea, so how one can use glass to make optical fibers
+
+235
+00:30:30,96 --> 00:30:40,81
+and also skeletons out of glass in natural conditions, not the two-thousand degree sea as we deal with glass,
+
+236
+00:30:40,81 --> 00:30:47,00
+but in addition to that, sponge is a primitive organism, sponges breath
+
+237
+00:30:47,66 --> 00:30:55,31
+and feed by pumping seawater through this openings.
+
+238
+00:30:55,31 --> 00:31:07,86
+All these openings in its structure is for pumping seawater, then organic particles that are coming through this body,
+
+239
+00:31:08,4 --> 00:31:16,37
+are uptaken and [inaudible 00:31:10] by this primitive, it's not even a- it's a multicellular organism,
+
+240
+00:31:16,38 --> 00:31:20,15
+but it doesn't have organs, it's nothing, it's really primitive.
+
+241
+00:31:20,15 --> 00:31:29,7
+However, it's able and combining optical properties, mechanical properties, and what we believe, the design,
+
+242
+00:31:29,7 --> 00:31:35,57
+with this nice structure of opening one pore, closing another one,
+
+243
+00:31:36,18 --> 00:31:47,9
+is heading served function to optimize fluidics so that it doesn't need to use too much energy to pump water through
+
+244
+00:31:47,9 --> 00:31:52,91
+this structure so that some windows are open more than others.
+
+245
+00:31:52,91 --> 00:32:00,9
+And in addition to that, I don't know how much you could see, but there are two white things inside,
+
+246
+00:32:00,9 --> 00:32:07,06
+you can probably maybe can get it out, maybe.
+
+247
+00:32:07,06 --> 00:32:12,76
+That's very sticky, so very difficult to get it out, maybe now you can see them better.
+
+248
+00:32:13,05 --> 00:32:23,61
+This is part of the claw of a shrimp that lives inside the sponge.	Symbiotically with the sponge,
+
+249
+00:32:23,61 --> 00:32:34,42
+so we learn a lot about natural symbiotic life, of how to make mechanically strong materials, and optical fibers,
+
+250
+00:32:35,05 --> 00:32:47,28
+and it's all designed for these shrimp to be protected from environments where nobody can catch them and eat them,
+
+251
+00:32:47,28 --> 00:32:54,75
+but for shrimp to be able to eat, needs food, so how would the shrimp get the food?
+
+252
+00:32:55,32 --> 00:33:02,96
+The optical fibers provide enough illumination so everything is attracted to light.
+
+253
+00:33:02,96 --> 00:33:06,55
+I would come of that, there's always feast.
+
+254
+00:33:07,49 --> 00:33:12,09
+So they have more than enough food, and the products of their life cycle,
+
+255
+00:33:12,1 --> 00:33:23,4
+so all their excrements are used by sponge for its own feeding, so really interesting ideas.
+
+256
+00:33:23,41 --> 00:33:34,33
+However, what if and we are thinking about it, but I'll know whether it would be, after all, the outcome of that,
+
+257
+00:33:34,33 --> 00:33:40,47
+but what if we look at that and we think about a future building.
+
+258
+00:33:41,02 --> 00:33:49,89
+So this building, this 3d printed version, has every structural element that this sponge has.
+
+259
+00:33:50,21 --> 00:33:53,87
+This sponge is also a building because shrimp lives inside.
+
+260
+00:33:54,32 --> 00:34:03,56
+But what if we would actually use the idea of energy saving ideas, the sponge has already evolved,
+
+261
+00:34:03,56 --> 00:34:10,61
+which is in this case, to pump water through the system, but in this case,
+
+262
+00:34:10,62 --> 00:34:21,44
+it could be a building where size of the openings of some of the windows would be opened for airflow for wind so that
+
+263
+00:34:21,44 --> 00:34:28,58
+you could have the most efficient energy balance of the building, but at the same time, mechanically,
+
+264
+00:34:29,08 --> 00:34:36,12
+it would have all of these diagonal elements, you can see the end, one open, one closed, so that mechanically,
+
+265
+00:34:36,77 --> 00:34:42,64
+it's very strong, but it's actually, on top of that, aesthetically very pleasing.
+
+266
+00:34:42,65 --> 00:34:47,09
+What if this building, this is lesson from sponge,
+
+267
+00:34:47,09 --> 00:34:55,78
+but what if this building would also have lessons that we can take from butterflies
+
+268
+00:34:55,78 --> 00:35:05,87
+and this building will change color due to the liquid coming through certain places and during rain,
+
+269
+00:35:07,3 --> 00:35:16,1
+it would reveal certain messages and you would see a dynamic color change as natural conditions change.
+
+270
+00:35:16,11 --> 00:35:20,34
+Or the windows, yet another project that we like,
+
+271
+00:35:20,64 --> 00:35:30,74
+would have this ability to control the light intensity so we really think about as not anywhere close yet,
+
+272
+00:35:30,74 --> 00:35:44,05
+but we think about building, that's why I'm probably coughing, because it's so far away,
+
+273
+00:35:44,05 --> 00:35:47,3
+but it's difficult to imagine that we're anywhere close,
+
+274
+00:35:47,3 --> 00:35:56,46
+but what if our future would be materials that combine smart solutions from completely different organisms,
+
+275
+00:35:56,46 --> 00:35:59,93
+and that gives us environments, materials,
+
+276
+00:35:59,93 --> 00:36:14,9
+and entire architecture that is capable of most efficient way control airflow, to control resistance of ice formation,
+
+277
+00:36:15,31 --> 00:36:26,69
+to control optical properties, reconfigure, change depending on which side it is.
+
+278
+00:36:26,99 --> 00:36:34,65
+Depending on what part of the world this building is going to be built in.
+
+279
+00:36:34,98 --> 00:36:46,37
+So that's, if I were to dream big, this is what I hope we can make this building out of interesting puzzles
+
+280
+00:36:46,37 --> 00:36:56,59
+and interesting ideas that nature has created and nature has evolved and probably waiting for us to uncover.
+
+281
+00:36:56,59 --> 00:36:59,25
+Speaker 1: When did you discover this sponge?
+
+282
+00:36:59,25 --> 00:37:00,59
+Speaker 2: Sponge, um-
+
+283
+00:37:00,59 --> 00:37:02,92
+Speaker 1: How did you find it?
+
+284
+00:37:02,92 --> 00:37:11,8
+Speaker 2: So, it's, I was very interested in sponges long time ago
+
+285
+00:37:11,8 --> 00:37:22,00
+when I was a student in the Weizmann Institute.	Should I- where do you want me to hold it?
+
+286
+00:37:22,00 --> 00:37:28,74
+Speaker 3: You can come as close as you want to the camera, it's nice for me. Yup, okay.
+
+287
+00:37:28,74 --> 00:37:29,36
+Speaker 2: Okay.
+
+288
+00:37:29,36 --> 00:37:31,62
+Speaker 1: So the glass fiber, how does that work?
+
+289
+00:37:31,62 --> 00:37:39,27
+Speaker 2: So this sponge, when it's alive, it's coated with a thin layer of brownish cells,
+
+290
+00:37:39,58 --> 00:37:49,17
+but all these windows are actually open for bumping water through it, but it's attached to ocean floor right here,
+
+291
+00:37:49,17 --> 00:37:55,25
+what is called holdfast apparatus, but it has multiple function.
+
+292
+00:37:55,25 --> 00:38:04,00
+So not only holds it inside the floor, but at the end of each of these fibers, so these are optical fibers.
+
+293
+00:38:04,00 --> 00:38:10,64
+There's a crown of optical fibers surrounding this bunch, just this crown is,
+
+294
+00:38:11,39 --> 00:38:23,13
+has the wavelengths of light associated with the bioluminescent material that lives in the ocean floor,
+
+295
+00:38:23,53 --> 00:38:28,76
+and the light produced by this bacteria is coupled into these fibers
+
+296
+00:38:29,46 --> 00:38:34,13
+and it shines really similar to these fiber-optical lens.
+
+297
+00:38:34,13 --> 00:38:39,13
+Speaker 1: Can you take it, 'cause I can't go there with my camera.
+
+298
+00:38:39,13 --> 00:38:47,96
+Speaker 2: A lot coming from bacterias, coupled to these lenses, and the end of each of these, of this fiber,
+
+299
+00:38:48,64 --> 00:39:00,33
+there is a lens for efficient coupling of light, and it shines very similar to these optical fibers that we all know
+
+300
+00:39:00,33 --> 00:39:08,74
+and we think that we invented fiberoptics just 60 years ago or so, but in fact,
+
+301
+00:39:09,19 --> 00:39:16,09
+this is one of the oldest organisms that exist and they knew how to make fiber-optical things back then,
+
+302
+00:39:17,39 --> 00:39:27,86
+so it's really the same principle, is the structure of these fibers would have a higher index core
+
+303
+00:39:28,12 --> 00:39:35,83
+and lower index cladding, and the signal goes through the center of the fiber and shines at the end.
+
+304
+00:39:35,99 --> 00:39:42,23
+It actually shines many places, because it actually shines almost like Christmas tree,
+
+305
+00:39:42,52 --> 00:39:56,93
+because it has major point where light coming off is on the tip that some of these fibers have branches,.
+
+306
+00:39:49,58 --> 00:39:56,71
+and these also highlight it due to the out-coupling of light in these [rotations 00:39:56]
+
+307
+00:39:56,93 --> 00:39:58,28
+Speaker 1: 'Cause it's very deep.
+
+308
+00:39:58,28 --> 00:40:01,11
+Speaker 2: It's deeper in the ocean, there is no sunlight there,
+
+309
+00:40:01,44 --> 00:40:07,07
+so the only light that is coming are from the ocean floor.
+
+310
+00:40:07,07 --> 00:40:16,4
+Now maybe you could see, I hope you could see, one second, there are two, here's inside this sponge,
+
+311
+00:40:16,4 --> 00:40:28,93
+these two wide things. If you see them, if you can focus on them, or I can try to wiggle them around.
+
+312
+00:40:28,93 --> 00:40:35,16
+These are claws of the shrimp that lives inside.
+
+313
+00:40:35,83 --> 00:40:45,22
+So one may say that, compared to shrimp that is freely swimming, it is a disadvantage because they cannot swim
+
+314
+00:40:45,22 --> 00:40:50,33
+and find food, but it's actually an advantage.
+
+315
+00:40:50,55 --> 00:40:58,04
+First advantage is pretty much nothing can crunch this extremely strong material, so the mechanic will protect it.
+
+316
+00:40:58,04 --> 00:41:09,89
+There is no enemies, really, for the shrimp. They may want to, but they cannot crash the glass.
+
+317
+00:41:10,54 --> 00:41:22,64
+Now food comes from the fact that this is, as a fiber-optical lamp, it's enough light in this area,
+
+318
+00:41:22,64 --> 00:41:27,97
+in the ocean so that anything living is always attracted to light,
+
+319
+00:41:28,53 --> 00:41:38,35
+and the density of food that the shrimp can eat is pretty high, and in this way,
+
+320
+00:41:38,51 --> 00:41:52,8
+it is a nice combination of symbiotic life between bioluminescent material, sponge, and the shrimp that lives inside
+
+321
+00:41:52,81 --> 00:42:03,06
+and none of them alone would be able to survive especially in the conditions where there is almost no light
+
+322
+00:42:03,5 --> 00:42:10,16
+and food is really depleted as you go deeper and deeper in the ocean,
+
+323
+00:42:10,16 --> 00:42:14,00
+but together it produces a very interesting system.
+
+324
+00:42:14,7 --> 00:42:23,75
+So that's how we think about new materials, new designs of combining things together
+
+325
+00:42:23,75 --> 00:42:38,36
+and thinking how different organisms can teach us something that current materials or current devices don't use yet..
+
+326
+00:42:34,29 --> 00:42:38,02
+Just because it's, you see how- [inaudible 00:42:40]
+
+327
+00:42:38,36 --> 00:42:50,42
+I wouldn't recommend fetching this to you up close because it would immediately attack.
+
+328
+00:42:50,42 --> 00:43:00,21
+It's amazing, it's another feature, it has an incredible ability better than velcro to attach anything.
+
+329
+00:43:00,21 --> 00:43:06,00
+Speaker 1: So could you, you have three labs.
+
+330
+00:43:06,00 --> 00:43:12,52
+Speaker 2: Yes. I have one lab in three different locations.
+
+331
+00:43:12,52 --> 00:43:18,84
+Speaker 1: Okay, and when you describe the three different locations, what are the differences?
+
+332
+00:43:18,84 --> 00:43:27,75
+Speaker 2: So the difference really, I would still probably prefer everything to be in one location,
+
+333
+00:43:28,09 --> 00:43:34,94
+so that people talk to shells, that even a lot, we almost have a lot of activities together.
+
+334
+00:43:35,37 --> 00:43:43,86
+In some ways, it's divided by topics, maybe.
+
+335
+00:43:43,86 --> 00:43:57,28
+Not many topics, but generally speaking, I would say in my lab, the lab that is here in the engineering building,
+
+336
+00:43:57,28 --> 00:44:07,25
+there's a lot of projects that are related to dynamic materials to self-assembly to making colorful materials,
+
+337
+00:44:07,85 --> 00:44:20,42
+responsive materials, and it has a lot of work with more than pigments, optical devices, and so on.
+
+338
+00:44:20,63 --> 00:44:33,95
+It's one lab, thinking about the ways one can, for example, just another paper that was on the cover of a journal,
+
+339
+00:44:34,38 --> 00:44:40,21
+How to Make Materials Assemble, absolutely interesting patterns.
+
+340
+00:44:40,21 --> 00:44:52,07
+So that is in one lab, and it's very generally described, I would say, as self-assembly and dynamic response materials,
+
+341
+00:44:52,07 --> 00:44:54,94
+a lot of synthesis is done in this lab.
+
+342
+00:44:54,94 --> 00:45:08,48
+My, another lab is doing a lot of research in filing materials, but specifically, more biological materials,
+
+343
+00:45:08,48 --> 00:45:15,03
+so using pitcher plant as an inspiration to make materials that repel ice,
+
+344
+00:45:15,03 --> 00:45:28,14
+materials that can be used in heat exchanges, prevent fouling, generally, but it's a lot of studies of what is it,
+
+345
+00:45:28,14 --> 00:45:33,74
+why they people like that, what would be the fundamental science and physical
+
+346
+00:45:33,74 --> 00:45:44,54
+and chemical principles to understand which one should do, talk to my stem, where does performance come from,
+
+347
+00:45:44,54 --> 00:45:56,06
+and it's really fluidics and materials' characterization related to wetting phenomenon.
+
+348
+00:45:56,06 --> 00:46:05,8
+Will these surfaces, will these structures that may be wet by different media.
+
+349
+00:46:05,8 --> 00:46:15,31
+And the third lab is somewhat related to second, but it's more on biological fouling.
+
+350
+00:46:15,89 --> 00:46:24,02
+So not necessarily fouling, it would be a wrong thing to say fouling. I would say by a, NANA interfaces.
+
+351
+00:46:24,02 --> 00:46:36,61
+So in some cases, we want to repel things, for example, we want to repel bacteria, we want to repel mussels
+
+352
+00:46:37,27 --> 00:46:42,59
+and barnacles from ships in the ocean, but in other cases,
+
+353
+00:46:42,59 --> 00:46:50,6
+it could be to create materials on which we can harvest algae for [anaegic 00:46:48] production, but it's again,
+
+354
+00:46:50,6 --> 00:46:53,5
+there's a lot of questions one can ask.
+
+355
+00:46:54,06 --> 00:46:57,7
+One you need to harvest them so they feel comfortable,
+
+356
+00:46:57,7 --> 00:47:07,3
+but then you need to have ways to release them from the structures and surfaces that are used for their production,
+
+357
+00:47:07,3 --> 00:47:16,81
+so the third lab is mostly related to growing bacterial cultures, growing algae in the laboratory solutions,
+
+358
+00:47:16,81 --> 00:47:26,9
+laboratory conditions, and identifying the structure, how they interact with materials that we make
+
+359
+00:47:26,9 --> 00:47:35,00
+and to really come up with recipes for different applications.
+
+360
+00:47:35,00 --> 00:47:43,23
+So one can say that we have a general approach that we learned from the pitcher plant.
+
+361
+00:47:43,85 --> 00:47:46,92
+It's what's called platform technology.
+
+362
+00:47:47,66 --> 00:47:53,68
+I's really, there are parts of that that can be combined in different ways,
+
+363
+00:47:54,07 --> 00:48:01,67
+depending whether you want to do it on glass or on metal, and depending whether you want to repel marine things,
+
+364
+00:48:02,2 --> 00:48:11,04
+we want to repel ice so one can use it as a system design with different components depending what you want to do
+
+365
+00:48:11,04 --> 00:48:28,08
+and we study a lot, how different combinations of materials together give the best outcome for specific target..
+
+366
+00:48:22,5 --> 00:48:28,42
+Speaker 1: It's so strange that we, you, or other scientists .. [inaudible 00:48:29]
+
+367
+00:48:28,42 --> 00:48:31,75
+Speaker 2: Oh my god, you are very sensitive.
+
+368
+00:48:31,75 --> 00:48:43,68
+Speaker 3: His microphone is sensitive. I'm less sensitive.
+
+369
+00:48:43,68 --> 00:48:47,05
+Speaker 2: Well, that's interesting, a cough, but it's, a lot of it's a real endurement. There are cars.
+
+370
+00:48:47,05 --> 00:48:51,71
+Speaker 1: But it's so strange, when you look for metal, that metal and corrosion.
+
+371
+00:48:51,71 --> 00:48:56,93
+Speaker 2: There's some things, obviously. Now I'm becoming sensitive.
+
+372
+00:48:56,93 --> 00:48:59,81
+Speaker 3: We're almost done here. That's good, that's good.
+
+373
+00:48:59,81 --> 00:49:04,02
+Speaker 1: They're like metal and corrosion which we accepted for tens of, hundreds of years or more,
+
+374
+00:49:04,19 --> 00:49:17,54
+that you've found this material that you could prove only that it changes.
+
+375
+00:49:17,54 --> 00:49:19,89
+It's so strange that now we are finding these and not earlier.
+
+376
+00:49:19,89 --> 00:49:27,66
+Speaker 2: That's true, but I think that we will make a lot of interesting, we as a science in general,
+
+377
+00:49:27,87 --> 00:49:30,14
+and not talking about my lab only.
+
+378
+00:49:30,14 --> 00:49:38,35
+If we open our eyes and think in the very non-traditional terms about what we can learn from nature,
+
+379
+00:49:38,35 --> 00:49:44,92
+we can suddenly realize there are many interesting solutions that we have no idea exist,
+
+380
+00:49:44,92 --> 00:49:48,91
+and many of them in fact are extremely simple.
+
+381
+00:49:48,91 --> 00:49:59,88
+In particular, the pitcher plant idea is very simple, but it is counter-intuitive, so if we talk about it and
+
+382
+00:49:59,88 --> 00:50:06,63
+when I'm trying to explain the system, when I say it's counter-intuitive,
+
+383
+00:50:07,25 --> 00:50:17,86
+because everything is against the rules that are commonly used in current technologies and well-established rules.
+
+384
+00:50:18,59 --> 00:50:33,46
+For example, if we think about how to make a material that has as little friction as possible, so the way we do it now,
+
+385
+00:50:33,46 --> 00:50:34,51
+we polish everything.
+
+386
+00:50:34,51 --> 00:50:43,87
+We polish so that the surface has a minimum number of defects, because every defects produces friction.
+
+387
+00:50:44,5 --> 00:50:51,49
+So if we talk about pipes, everything is polished, because otherwise they would create turbulence
+
+388
+00:50:51,49 --> 00:50:54,56
+when we transport oil or water.
+
+389
+00:50:55,8 --> 00:51:05,16
+If anywhere else, if we think about the materials that need to get to lowest friction as possible,
+
+390
+00:51:05,16 --> 00:51:06,76
+we need to get rid of roughness.
+
+391
+00:51:07,26 --> 00:51:16,55
+Now what pitcher plant is doing is that it actually creates an extremely rough surface.
+
+392
+00:51:16,55 --> 00:51:21,53
+It is extremely structured surface, which by all laws of physics,
+
+393
+00:51:21,93 --> 00:51:31,42
+is supposed to be extremely bad if you wanted to produce friction for your material.
+
+394
+00:51:31,78 --> 00:51:38,01
+However, it is high friction when it's dry, so that ants
+
+395
+00:51:38,01 --> 00:51:47,64
+or insects are capable of moving around on the surface of this pitcher plant, on a dry day,
+
+396
+00:51:48,18 --> 00:51:54,42
+being hap- having no idea what may happen when there is rain, but what happens
+
+397
+00:51:54,42 --> 00:52:04,7
+when there is rain is that this structured surface picks up water because it's hydrophilic, it likes water,
+
+398
+00:52:04,7 --> 00:52:16,06
+and by picking up water, it creates layer over layer of a liquid that is trapped inside the structure solid.
+
+399
+00:52:16,76 --> 00:52:26,49
+The outcome of that that you have a structured material, a rough material, but the roughness has a second role.
+
+400
+00:52:26,83 --> 00:52:37,71
+Its role is to hold water, and at the end, what insects would experience is not the rough surface,
+
+401
+00:52:38,21 --> 00:52:47,66
+you use rough surface to create ultra smooth surface because your final outcome is the surface of water,
+
+402
+00:52:48,28 --> 00:52:50,09
+and liquid has no defects.
+
+403
+00:52:51,16 --> 00:52:58,83
+So that's why I'm saying it's counterintuitive, because we use roughness to get rid of roughness in a way,
+
+404
+00:52:59,43 --> 00:53:08,7
+and also we use liquid as a material. There is not that many places where liquid can be considered as a material.
+
+405
+00:53:09,05 --> 00:53:18,91
+It could be used, let's say in 3d printing or anywhere else, to make something out of it,
+
+406
+00:53:18,91 --> 00:53:30,33
+but the final outcome is a solid. So materials are solids. In this case, liquid is part of it.
+
+407
+00:53:30,33 --> 00:53:39,73
+Together with solid, it makes a new concept. Liquid alone doesn't do it, solid alone doesn't do it.
+
+408
+00:53:40,23 --> 00:53:44,44
+But combining these together gives an interesting outcome
+
+409
+00:53:44,88 --> 00:53:50,35
+and that's why I'm saying it's counterintuitive because we use roughness to get rid of roughness,
+
+410
+00:53:50,7 --> 00:54:03,84
+and we use liquids stored in a way inside structured surfaces that hold it nicely inside to take advantage of liquids
+
+411
+00:54:03,84 --> 00:54:08,00
+that otherwise cannot be shaped, cannot, they won't run away.
+
+412
+00:54:08,00 --> 00:54:14,85
+But now they're inside your material, and they lend the material with its properties.
+
+413
+00:54:16,82 --> 00:54:24,51
+So this is brittle star, used to have five arms, I just removed one arm for analysis.
+
+414
+00:54:24,51 --> 00:54:29,59
+So it changes color, not all brittle stars do that but this species does, and during the day it's black.
+
+415
+00:54:32,1 --> 00:54:43,5
+And the reason it's black during the day is that it has lenses on its surface that regulate the light intensity
+
+416
+00:54:43,53 --> 00:54:52,97
+depending how much light outside and the receptors under the lens can work only in certain range.
+
+417
+00:54:52,97 --> 00:54:58,82
+So when it's too bright, they cover the lens with a black pigment
+
+418
+00:54:58,82 --> 00:55:05,75
+and therefore the entire organism changes color to black, and at night, when actually they are active species,
+
+419
+00:55:05,75 --> 00:55:16,01
+they are doing everything at night, when it's not enough light, they withdraw the pigment back into the structure,
+
+420
+00:55:16,28 --> 00:55:20,14
+opening the lenses for more efficient collection of light,
+
+421
+00:55:20,15 --> 00:55:29,09
+so the color change here is due to the dynamic nature of bringing a liquid in, in this case, pigment,
+
+422
+00:55:29,41 --> 00:55:31,41
+and then withdrawing it back.
+
+423
+00:55:31,41 --> 00:55:40,54
+So the idea of bringing liquids in into materials is now a very common theme in many of my projects
+
+424
+00:55:40,54 --> 00:55:49,28
+and some of them are completely unrelated but it's thinking about liquids in and on materials.
+
+425
+00:55:49,28 --> 00:55:57,56
+Speaker 1: One question about that brittle fish- why is it during the day, why black and not white, I should say.
+
+426
+00:55:57,56 --> 00:56:06,71
+Speaker 2: So it's not mimicry, it's not mimicking the environment, and in fact, this is what the beginning,
+
+427
+00:56:07,03 --> 00:56:13,96
+biological literature was using this as another example of mimicking the environment
+
+428
+00:56:13,96 --> 00:56:21,05
+and changing the color accordingly. It's actually opposite of what you would expect, and that was a big mistake.
+
+429
+00:56:21,05 --> 00:56:26,22
+That was what attracted me to this topic, is it's not hiding.
+
+430
+00:56:27,35 --> 00:56:32,85
+Because it's just being even better seen during the day, and even more so during the night.
+
+431
+00:56:32,85 --> 00:56:42,84
+The function here is to optimize light collection and therefore during night, you want to get rid of pigment,
+
+432
+00:56:42,84 --> 00:56:48,67
+and during the day, you want to screen your lenses from excessive light.
+
+433
+00:56:48,68 --> 00:56:57,12
+So it's not mimicking the color of the environment, it's optimizing its technology, which is in this case,
+
+434
+00:56:57,12 --> 00:56:57,85
+dynamic lenses.
+
+435
+00:56:57,85 --> 00:57:02,02
+Speaker 1: That's exactly what you are doing, and biologists is not [inaudible 00:57:02]
+
+436
+00:57:02,02 --> 00:57:11,49
+Speaker 2: That's correct, so biologists always look for common, they are comfortable, terminology that they used to,
+
+437
+00:57:11,88 --> 00:57:17,96
+suddenly to tell the story, but no, the entire color change has a completely different function,
+
+438
+00:57:18,4 --> 00:57:26,2
+and it's to optimize and improve the performance of optical elements, and it's optics, it's not on the skeleton,
+
+439
+00:57:26,52 --> 00:57:36,93
+and overall thinking that skeleton can also be an optical element is really interesting idea.
+
+440
+00:57:36,94 --> 00:57:42,01
+Think about buildings that, of course, mechanically strong,
+
+441
+00:57:42,2 --> 00:57:52,62
+but also have built-in optical structure so the same construction is actually its own optical element that collects
+
+442
+00:57:52,62 --> 00:57:58,13
+light or reflects light, so it's pretty interesting.
+
+443
+00:57:58,13 --> 00:57:58,58
+Speaker 1: Yeah.
+
+444
+00:57:58,58 --> 00:58:04,94
+Sort of the difference between you and a biologist is that when you look at the animals and the organisms,
+
+445
+00:58:04,94 --> 00:58:09,99
+you look at the characteristics or the functions?
+
+446
+00:58:09,99 --> 00:58:18,33
+Speaker 2: I say I look more for, if I may say, high-tech properties.
+
+447
+00:58:18,33 --> 00:58:23,36
+If it's, I'm less interested,
+
+448
+00:58:23,36 --> 00:58:32,32
+although it's extremely important to understand what are the specific cellular mechanisms that are involved in making
+
+449
+00:58:32,32 --> 00:58:39,74
+the specific biological structures or what is the biological cell or biology or proteins
+
+450
+00:58:39,74 --> 00:58:48,55
+or polysaccharides that are involved in these functions. I am more interested in technology.
+
+451
+00:58:48,55 --> 00:58:59,78
+I'm more interested in devices that became an outcome of the evolution that performed high-tech function,
+
+452
+00:58:59,78 --> 00:59:07,46
+so I'm interested in mechanics, I'm interested in optics, and I'm interest- but optics beyond eyes.
+
+453
+00:59:07,46 --> 00:59:14,66
+We're not all about our eyes because we need to know about it, but other interesting optical solutions,
+
+454
+00:59:14,67 --> 00:59:21,38
+and I'm looking for magnetic structures in nature, how nature makes magnetic materials that are different from us,
+
+455
+00:59:21,38 --> 00:59:28,1
+so it's really, I would say technical characteristics of biological materials.
+
+456
+00:59:28,1 --> 00:59:35,36
+Speaker 1: When you look in near future, where are we humans with our technological brain
+
+457
+00:59:35,36 --> 00:59:39,54
+and technological possibility, where are we going to?
+
+458
+00:59:39,54 --> 00:59:43,37
+Speaker 2: That's a tough question.
+
+459
+00:59:43,37 --> 00:59:50,49
+I'm not sure I can say where we're going, I can tell you what I feel would be very important
+
+460
+00:59:50,49 --> 01:00:00,67
+and what I feel really interesting and which area would be to create technologies,
+
+461
+01:00:00,67 --> 01:00:05,89
+materials that have the ability to self-assemble, self-assemble,
+
+462
+01:00:05,89 --> 01:00:17,66
+it uses environment as a trigger for behavioral changes, not to overuse energies,
+
+463
+01:00:17,67 --> 01:00:26,32
+every time everything is run by hinges, by chain you switch on and off, they may have and this is what organisms do
+
+464
+01:00:26,32 --> 01:00:29,05
+and I hope the future might be,
+
+465
+01:00:29,28 --> 01:00:40,84
+to create a range of interesting materials that know how to switch behavior from letting sun in or not, from being,
+
+466
+01:00:43,97 --> 01:00:53,04
+from accepting water to repelling water. Because in some cases, one is too dry, you really want the water to come in.
+
+467
+01:00:53,04 --> 01:00:59,11
+You want the building to breathe, but when it's extremely wet, and there's rain every day,
+
+468
+01:00:59,58 --> 01:01:01,3
+you actually want to repel it,
+
+469
+01:01:01,3 --> 01:01:09,51
+so how can one create the same material that will change its own function in response to what happens outside?
+
+470
+01:01:09,52 --> 01:01:13,23
+I think this is the future, it might take on the future.
+
+471
+01:01:13,23 --> 01:01:16,42
+Speaker 1: Our program is cool to the mind of the universe,
+
+472
+01:01:16,42 --> 01:01:27,44
+the idea that it's our barriers in accessibility to knowledge are going down through the internet where you're born
+
+473
+01:01:27,44 --> 01:01:29,54
+and you can learn everything about quantum mechanics.
+
+474
+01:01:29,54 --> 01:01:34,78
+What do you think about that, have we somehow created cognosphere around our biosphere?
+
+475
+01:01:34,78 --> 01:01:41,02
+Speaker 2: That's a difficult question.
+
+476
+01:01:41,02 --> 01:01:50,51
+I watch my grandson, he's almost six years old, but even when he was two,
+
+477
+01:01:50,51 --> 01:01:57,93
+he was already trying to look on the cellphone and he knew how to move things around and that you,
+
+478
+01:01:57,93 --> 01:02:04,54
+and he at certain moment, he came to our TV and was trying to open window on the TV and TV was,
+
+479
+01:02:04,54 --> 01:02:10,78
+he was so surprised that it's not doing it, so there are problems,
+
+480
+01:02:10,78 --> 01:02:18,63
+maybe with the fact that you don't even need to learn anything, you can have access to any information,
+
+481
+01:02:18,63 --> 01:02:20,63
+any moment you want it.
+
+482
+01:02:20,63 --> 01:02:32,65
+However, at the same time, I still hope that there is something that these days, is easier to do than before,
+
+483
+01:02:33,03 --> 01:02:44,67
+and I hope that we will benefit from that and this is multidisciplinarity, in a way.
+
+484
+01:02:44,86 --> 01:02:48,21
+So I'm physical chemist by training.
+
+485
+01:02:48,21 --> 01:02:55,5
+Not an engineer, I'm not a biologist, I'm not a medical doctor, so then I'm a physical chemist.
+
+486
+01:02:55,73 --> 01:03:04,69
+However, I do a lot of physics, math, architecture and biology and medicine research.
+
+487
+01:03:05,08 --> 01:03:07,11
+Why that is possible,
+
+488
+01:03:07,56 --> 01:03:18,56
+is that I feel that none of these disciplines alone are capable of addressing tomorrow's questions adequately,
+
+489
+01:03:19,79 --> 01:03:25,23
+or have the tools to do it in the most efficient way.
+
+490
+01:03:25,65 --> 01:03:39,8
+So I feel that when I combine in my group, I try to bring mathematicians, physicists, chemists, medical doctors
+
+491
+01:03:40,29 --> 01:03:51,38
+and designers together, the goal for that is to think about the way these people would address science in unusual ways.
+
+492
+01:03:51,55 --> 01:03:56,29
+Just to give you a very simple demonstration of that,
+
+493
+01:03:57,81 --> 01:04:08,89
+if one wants to describe why this butterfly has these beautiful colors, actually, you pretty much need to know optics.
+
+494
+01:04:09,63 --> 01:04:16,05
+Physics and optics alone will describe what is happening for this butterfly.
+
+495
+01:04:16,33 --> 01:04:25,23
+However, all our technological changes, all the improvements that we had, were due to the fact that- okay,
+
+496
+01:04:25,23 --> 01:04:26,56
+we understand optics.
+
+497
+01:04:26,56 --> 01:04:37,33
+But what if I now use my chemistry knowledge and I encrypt chemical information inside this structure?
+
+498
+01:04:37,8 --> 01:04:44,84
+What if now, this optical device would have different chemistries in different locations.
+
+499
+01:04:44,98 --> 01:04:51,54
+So without chemistry, pretty much anything that we've done with this material, would be absolutely impossible.
+
+500
+01:04:51,54 --> 01:05:01,54
+Suddenly, chemistry gave a nice spread of applications and possibilities that optics, physics alone couldn't do.
+
+501
+01:05:01,54 --> 01:05:09,84
+Chemistry alone also couldn't do it, so chemistry with physics, with optics, gave an interesting outcome,
+
+502
+01:05:09,84 --> 01:05:15,82
+but then yet another area, having a fluid mechanicist in my group,
+
+503
+01:05:17,52 --> 01:05:27,96
+brought the ideas of how liquids would infiltrate these structures, can move around in interesting ways,
+
+504
+01:05:27,96 --> 01:05:39,47
+and in this way to create interesting unusual changes in color in response to environment, so in my opinion,
+
+505
+01:05:39,97 --> 01:05:52,2
+it's very important for kids, for our future, still have very clearly depth in some traditional disciplines.
+
+506
+01:05:52,2 --> 01:06:02,5
+I would, if I were now to have a high school student choosing what to do, I would say,
+
+507
+01:06:02,5 --> 01:06:10,44
+begin with choosing one discipline that you will learn very deeply as your first degree.
+
+508
+01:06:10,44 --> 01:06:18,25
+But then, especially for those who are interested in science and will stay in science, I as a PhD, work
+
+509
+01:06:18,25 --> 01:06:24,07
+or I would then create teams of different backgrounds coming together
+
+510
+01:06:24,07 --> 01:06:29,54
+and learning something from another community that you alone wouldn't know otherwise,
+
+511
+01:06:29,55 --> 01:06:42,39
+so this bringing together expertise, is, I think, the future, and I hope that we will see more and more papers
+
+512
+01:06:42,39 --> 01:06:52,74
+and technologies that were a clear outcome of multiple disciplines contributing to the aural design.
+

@@ -1,0 +1,3304 @@
+1
+00:00:00,000 --> 00:00:05,059
+Lee: I'm Lee Cronin. I'm the Regius Professor of Chemistry at University of Glasgow.
+
+2
+00:00:06,025 --> 00:00:10,017
+I run a pretty big research group exploring complex chemistry
+
+3
+00:00:10,018 --> 00:00:15,047
+and I try to think about how things got started in chemistry and biology
+
+4
+00:00:15,048 --> 00:00:24,013
+and how to make ways to explore all of chemistry.
+
+5
+00:00:24,014 --> 00:00:27,010
+Speaker 2: Is there one question, in particular, you ask yourself?
+
+6
+00:00:27,011 --> 00:00:28,002
+Lee: Yeah.
+
+7
+00:00:28,003 --> 00:00:35,037
+I think the question I ask myself a lot is, "Why?" And I suppose linked to that, "How did, basically,
+
+8
+00:00:37,018 --> 00:00:40,008
+the earth become living?" I am an inorganic chemist.
+
+9
+00:00:40,009 --> 00:00:47,086
+The word "inorganic" is associated with dead or nonliving and organic chemistry is associated with living.
+
+10
+00:00:48,002 --> 00:00:52,028
+The question I ask, almost to make fun or to describe it clearly, is,
+
+11
+00:00:52,029 --> 00:00:59,999
+"How did dead chemistry become living?" Or "How did an inorganic world become organic?" Put simply,
+
+12
+00:01:00,000 --> 00:01:02,062
+where did biology come from on earth?
+
+13
+00:01:02,063 --> 00:01:05,095
+Speaker 2: What's the difference between organic chemistry and biology?
+
+14
+00:01:05,096 --> 00:01:15,069
+Lee: I can answer that in a very complex way and a very simple way,
+
+15
+00:01:15,180 --> 00:01:21,166
+I would say biology uses organice chemistry and it's able to build machines based on organic chemistry. The ultimate machine that biology's built is the organic chemist, because then they can make more molecules,
+
+16
+00:01:30,024 --> 00:01:36,007
+but this is a robot argument I'll talk about later, but biology, predominately, is based up on organic chemistry.
+
+17
+00:01:36,008 --> 00:01:38,090
+It's a very nice chemistry.
+
+18
+00:01:38,091 --> 00:01:46,048
+All your DNA, all the proteins, all your muscles, all built with organic chemistry and some inorganic stuff.
+
+19
+00:01:46,049 --> 00:01:48,082
+Some salt and all that to make it work.
+
+20
+00:01:48,083 --> 00:01:56,042
+Speaker 2: The main question you try to answer is "How do we create life from dead material?".
+
+21
+00:01:56,043 --> 00:02:01,059
+Lee: Yeah. Absolutely. If you imagine back to the.. When planet earth got started.
+
+22
+00:02:01,094 --> 00:02:08,098
+It was probably a fairly busy place. Asteroids, meteorites and lava, thunder and lightning, but it was dead.
+
+23
+00:02:09,028 --> 00:02:15,007
+I think of it like a beach, like sand on a beach where there was nothing but the wind blowing it around.
+
+24
+00:02:15,008 --> 00:02:22,066
+How does that sand on the beach, that inorganic dead stuff turn into living stuff? To seaweed.
+
+25
+00:02:22,096 --> 00:02:32,017
+To fish. To the trees. To the grass. To the bacteria. What on earth happened? Literally, what on earth happened?
+
+26
+00:02:32,018 --> 00:02:38,001
+It's quite an interesting question, because put so simply, it's a chemist's ultimate dream.
+
+27
+00:02:38,002 --> 00:02:42,060
+It's like, this is the question: What turned the dead chemistry into living chemistry?
+
+28
+00:02:42,061 --> 00:02:45,000
+Speaker 2: This is the question?
+
+29
+00:02:45,001 --> 00:02:46,092
+Lee: For me, yeah.
+
+30
+00:02:46,093 --> 00:02:49,056
+Speaker 2: Why did you raise that question?
+
+31
+00:02:49,057 --> 00:02:55,003
+Lee: Well, I'm not the first to raise that question. Lots of people raise that question in their own way.
+
+32
+00:02:55,004 --> 00:02:59,083
+I guess we all have a "What is the meaning?" question, don't we?
+
+33
+00:02:59,084 --> 00:03:06,007
+Whether you're an artist or a composer or a film maker or an architect, I guess we all..
+
+34
+00:03:06,008 --> 00:03:09,083
+There is all meaning in the things that we build and create.
+
+35
+00:03:10,072 --> 00:03:17,060
+For me, I'm really fascinated by the fact that chemistry's extremely complicated. Organic chemistry's complicated.
+
+36
+00:03:17,061 --> 00:03:22,084
+The way that biology works, disease works, molecules work, it's all complicated.
+
+37
+00:03:23,042 --> 00:03:27,063
+I can do stuff with my hands and my eyes, but it's complicated.
+
+38
+00:03:27,064 --> 00:03:37,041
+If I purposefully build something, I'm controlling my fingers, I can see my work, but how did that work without me?
+
+39
+00:03:37,042 --> 00:03:39,013
+I wondered, "What are the steps...
+
+40
+00:03:39,014 --> 00:03:45,033
+What are the simple steps that lead to complexity?" For me, it's kind of like manifestation of..
+
+41
+00:03:45,047 --> 00:03:49,071
+Although I'm a chemist, I don't really understand very much chemistry. It seems quite complicated.
+
+42
+00:03:49,072 --> 00:03:52,024
+I'd like to know where we start.
+
+43
+00:03:52,025 --> 00:04:01,048
+Speaker 2: Yeah, because now add an aspect in its complexity, but where does it start with you?
+
+44
+00:04:01,049 --> 00:04:04,001
+Trying to answer that question.
+
+45
+00:04:04,002 --> 00:04:14,068
+Lee: Oh gosh. I guess in the laboratory I was always fascinated how I could make molecules make themselves.
+
+46
+00:04:14,069 --> 00:04:18,046
+What we try to do, there's this thing called nanotechnology.
+
+47
+00:04:18,085 --> 00:04:28,000
+Nanotechnology is bigger than the molecule, but smaller than, say, a second hand or a spring in a very fine watch.
+
+48
+00:04:29,006 --> 00:04:34,007
+How can I get molecules to go into that nano world? Because then I can make nano machines.
+
+49
+00:04:35,002 --> 00:04:39,082
+If I can make nano machines, then I can do all sorts of fascinating things.
+
+50
+00:04:39,083 --> 00:04:44,083
+As an inorganic chemist, I basically took sand, stuff as simple as sand, and all I did was I added acid to it.
+
+51
+00:04:44,084 --> 00:04:51,059
+When I added acid to certain sands, they turned into nano objects. I was fascinated.
+
+52
+00:04:51,085 --> 00:04:54,079
+How could those nano objects build themselves?
+
+53
+00:04:55,031 --> 00:05:01,000
+Part of the training I got when I was doing my PhD, and after my PhD, was explaining
+
+54
+00:05:01,001 --> 00:05:09,003
+and exploring this self assembly of sand. Literally, how could the sand castle build itself without the bucket?
+
+55
+00:05:09,004 --> 00:05:16,025
+How could the grains of sand know that each other existed to build the castle? I spent a lot of time looking at that.
+
+56
+00:05:16,026 --> 00:05:22,018
+Maybe, because I look back in time, it's easy for me to say, "Oh, I was always interested in the origin of life
+
+57
+00:05:22,019 --> 00:05:27,007
+and making new life," but I guess it started with a fascinating of just complexity in general.
+
+58
+00:05:27,041 --> 00:05:32,036
+How could the castle build itself without a person or a bucket?
+
+59
+00:05:32,037 --> 00:05:40,004
+Speaker 2: Is it like could this house have built itself?
+
+60
+00:05:40,005 --> 00:05:42,002
+Lee: No. That's really-
+
+61
+00:05:42,003 --> 00:05:44,003
+Speaker 2: It's too complex...
+
+62
+00:05:44,106 --> 00:05:49,106
+Lee: Yeah. Well, it's not.. Well, of course, a house build itself if you allow the human being to be..
+
+63
+00:05:50,033 --> 00:05:53,081
+Because the thing is now I say to people, "Oh a 747 is too complicated
+
+64
+00:05:53,082 --> 00:06:01,084
+to spontaneously assemble." There is a problem with probability and there is a problem with complexity.
+
+65
+00:06:02,029 --> 00:06:06,005
+If you say to a mathematician or a statistician that something is complex,
+
+66
+00:06:07,026 --> 00:06:13,015
+they will translate that to as being improbable to happen on its own. I think they're wrong.
+
+67
+00:06:13,016 --> 00:06:18,028
+I think it's not just improbable, I think the chances of it happening are zero.
+
+68
+00:06:18,029 --> 00:06:20,036
+I think the chances of some improbable things happening is zero.
+
+69
+00:06:20,037 --> 00:06:21,029
+Just because you put a number on it,
+
+70
+00:06:21,032 --> 00:06:27,999
+it makes them feel better.	With a 747 there is a zero chance a 747 will assemble itself..
+
+71
+00:06:28,000 --> 00:06:34,052
+However, have a origin of life, have human beings, make your 747, they then..
+
+72
+00:06:35,027 --> 00:06:43,086
+The human being plus technology makes a 747, so clearly the probability isn't zero, because 747s exist..
+
+73
+00:06:43,087 --> 00:06:49,008
+I think that that's.. About this house. The house didn't form itself. A person did it.
+
+74
+00:06:49,094 --> 00:06:54,071
+When you then think about life, a life is a very interesting thing,
+
+75
+00:06:54,072 --> 00:06:59,005
+because it's a machine that can act on surroundings to conquer it.
+
+76
+00:06:59,006 --> 00:07:07,044
+It's almost like, for me, living matter is somehow superior to dead matter, because it can literally-
+
+77
+00:07:07,045 --> 00:07:10,010
+Speaker 2: Oh, if it's a problem
+
+78
+00:07:10,011 --> 00:07:19,022
+Lee: Fine. Fine. Fine. For me, it's really interesting to me about enslavement and stuff going on.
+
+79
+00:07:20,032 --> 00:07:26,008
+This house did not build itself, a human being did. Okay. What built the human being?
+
+80
+00:07:26,009 --> 00:07:28,032
+That's go down from there and you go backwards and backwards
+
+81
+00:07:28,033 --> 00:07:35,006
+and backwards down to say what is the simplest thing that could happen by chance that could make more sophisticated
+
+82
+00:07:35,007 --> 00:07:42,006
+things happen? This is where all the notion of complexity came from then the house then the person.
+
+83
+00:07:42,007 --> 00:07:51,000
+I often have say one thing, which is no origin of life, no biology. No biology, no biologists.
+
+84
+00:07:51,001 --> 00:07:56,052
+No biologist, no human being. No philosopher, no philosophy.
+
+85
+00:07:56,053 --> 00:08:02,066
+I'll try and say it in a bit of a more elegant way later, but it's kind of interesting..
+
+86
+00:08:02,067 --> 00:08:08,007
+Quintessentially, what I'm saying is that you and I, we, human beings, we see the world and we make a..
+
+87
+00:08:09,021 --> 00:08:10,046
+We understand the world.
+
+88
+00:08:10,063 --> 00:08:17,068
+We perceive it, so what is it about the stuff in me, the atoms in me, that allow me to appreciate the world?
+
+89
+00:08:17,099 --> 00:08:20,090
+That is a really interesting phase transition.
+
+90
+00:08:20,091 --> 00:08:27,087
+The sand in that castle is not aware of itself, but you add some complexity to it
+
+91
+00:08:27,088 --> 00:08:34,033
+and a few billion years of evolution and you have of a human being. How did that happen?
+
+92
+00:08:34,034 --> 00:08:39,050
+Speaker 2: I don't know.
+
+93
+00:08:39,051 --> 00:08:48,001
+Lee: I think it's a step in complexity. We can go right down to the history of it-.
+
+94
+00:08:48,002 --> 00:08:55,069
+Speaker 2: But can you describe the complexity? On this level you are doing your research..
+
+95
+00:08:57,004 --> 00:09:02,092
+You are trying to find the building blocks or where it all started? The dead parts..
+
+96
+00:09:02,093 --> 00:09:08,002
+Lee: Yeah. There's lots of.. I don't know if you want to go down this part depending..
+
+97
+00:09:08,003 --> 00:09:11,026
+I'll let you me, but if you.. Let's go back to the origin of life.
+
+98
+00:09:11,067 --> 00:09:16,060
+People often talk about trying to work out the origin of life. I think it's a really important problem.,
+
+99
+00:09:16,061 --> 00:09:21,081
+There is more money and time being spent on the origin of the universe and the origin of mass, i.e.,
+
+100
+00:09:21,082 --> 00:09:24,081
+that's the Higgs boson and gravity, than the origin of life.
+
+101
+00:09:25,016 --> 00:09:34,028
+THere's never been a big project for the origin of life, but if I could understand where life came from or if I could,
+
+102
+00:09:34,029 --> 00:09:40,079
+and this is my objective to make new life in my lab, I could then tell you if alien life is possible,
+
+103
+00:09:41,028 --> 00:09:44,011
+the constraints for new life forms, and I could expand the chemistry.
+
+104
+00:09:44,012 --> 00:09:50,002
+The chemical space beyond what we know already and we could talk about the shadow biosphere
+
+105
+00:09:50,003 --> 00:09:54,084
+and new types of life forms. That's a really important problem.
+
+106
+00:09:55,003 --> 00:09:58,094
+The problem with the origin of life is that it is a historical question.
+
+107
+00:09:58,095 --> 00:10:05,016
+Lots of people go back and say, first assumption, origin of life took billions of years.
+
+108
+00:10:05,031 --> 00:10:10,083
+Well, everyone's saying, "Well, no, maybe just a billion." Say, "Well, why a billion?
+
+109
+00:10:11,028 --> 00:10:17,004
+Chemistry occurs much faster than a billion years. Evolution takes a long time. We know that.
+
+110
+00:10:17,005 --> 00:10:21,064
+Then when you think about the problem, so if complex chemistry didn't take a billion years, how long?
+
+111
+00:10:21,065 --> 00:10:28,002
+A hundred million? Two hundred million? What about a year?
+
+112
+00:10:28,003 --> 00:10:34,002
+What about if you could go from sand to a primitive cell in a year? What would that change?
+
+113
+00:10:35,002 --> 00:10:39,059
+Then you say, "Okay, people say that that's impossible." Then you say, "Why?" They say, "Well,
+
+114
+00:10:39,074 --> 00:10:45,002
+origin of life was clearly improbable. Clearly impossible. We are clearly a fluke..
+
+115
+00:10:45,003 --> 00:10:52,025
+We are clearly an accident." That's also a very.. That's not tested.
+
+116
+00:10:52,035 --> 00:10:59,052
+The fact we are here, the first assumption I make is that we're easy. Life is easier than you think.
+
+117
+00:10:59,053 --> 00:11:02,085
+Speaker 2: Wait a minute. We are easy?
+
+118
+00:11:02,086 --> 00:11:03,078
+Lee: We are easy.
+
+119
+00:11:03,079 --> 00:11:08,061
+Speaker 2: You mean our life? Our form of life? Our intelligence or is-
+
+120
+00:11:08,062 --> 00:11:14,096
+Lee: No. No, no, no. I think there are three problems I'm really interested in...
+
+121
+00:11:14,097 --> 00:11:21,009
+First of all is how to make a new life form. Second one is how can that life.. Does it..
+
+122
+00:11:22,000 --> 00:11:28,066
+Is it a single cell or something. Then, how does that life form become cooperative to make a multi-cellular creature?
+
+123
+00:11:29,013 --> 00:11:34,091
+Because, actually, that took a billion years. That did take a very long time. Could we speed it up?
+
+124
+00:11:34,092 --> 00:11:41,057
+Thirdly, what happens to that multi-cellular creature to make it intelligent? To have a brain and then have senses.
+
+125
+00:11:41,058 --> 00:11:42,000
+Speaker 2: Yeah.
+
+126
+00:11:42,001 --> 00:11:45,093
+Lee: I think the origin of life might be much easier than we think.
+
+127
+00:11:45,094 --> 00:11:51,071
+Multi-cellularity might just take time and then the real magic might be how do we get to intelligence.
+
+128
+00:11:51,072 --> 00:11:57,022
+I just would like, so I'm a chemist, and I would just like to answer the sand to cell question
+
+129
+00:11:57,048 --> 00:12:06,027
+or the dead to life first. I don't have a hundred million years. I don't maybe have a thousand years.
+
+130
+00:12:06,028 --> 00:12:12,098
+I might have 10 years or 20 years, so what can I do in my laboratory to speed that up? What assumptions can I make?
+
+131
+00:12:12,099 --> 00:12:19,070
+If I make those assumptions about time and complexity, does it allow me to say something really obvious like, "Well-"...
+
+132
+00:12:19,071 --> 00:12:25,001
+You know what, let's say it was simple and let's assume it took no time. Took no time.
+
+133
+00:12:25,074 --> 00:12:29,098
+What do we then do that opens up the entire chemical space?
+
+134
+00:12:29,099 --> 00:12:42,060
+Speaker 2: Let me take a few steps back and I'm trying to visualize your lab. What is happening there?
+
+135
+00:12:42,061 --> 00:12:47,063
+What are you doing there to answer your first question?
+
+136
+00:12:47,064 --> 00:12:51,038
+Lee: Wow. What am I doing in my lab? Yeah.
+
+137
+00:12:51,051 --> 00:12:59,073
+My lab now is real exciting, because it combines expertise I've been dreaming of getting together for a decade.
+
+138
+00:12:59,074 --> 00:13:04,031
+or actually, probably as long as.. For 32 years.
+
+139
+00:13:05,053 --> 00:13:12,031
+Since I was 10 years old, because it combines people who can play with computers. It combines robots.
+
+140
+00:13:12,032 --> 00:13:16,069
+It combines chemistry. It combines vision.
+
+141
+00:13:17,003 --> 00:13:22,007
+What we're trying to do in one half of the lab is we're trying to really good chemistry, to make new molecules.
+
+142
+00:13:22,044 --> 00:13:27,536
+The other half of the lab we're trying to build robots that will do really simple chemistry,.
+
+143
+00:13:27,537 --> 00:13:31,999
+to build really simple molecules. We're trying to.. Look at that chemist over there, they're amazing.
+
+144
+00:13:32,000 --> 00:13:34,099
+Look at that robot over there, that's really dumb.
+
+145
+00:13:35,061 --> 00:13:40,013
+How can we make the dumb robot as smart as the smart chemist and what does that mean?
+
+146
+00:13:40,061 --> 00:13:44,999
+Is there something the robot can do that's simple that can get smarter?
+
+147
+00:13:45,000 --> 00:13:53,093
+At the moment, we've got a number of approaches. The first approach is what I call "bottom up," sand to sand castle.
+
+148
+00:13:54,071 --> 00:13:58,039
+We are basically shaking the sand in a bucket
+
+149
+00:13:58,053 --> 00:14:04,074
+and we're hoping that the grains collect together to build something miraculous.
+
+150
+00:14:04,075 --> 00:14:12,013
+We can do it to some degree, but only small miracles. No big miracles. We're finding something really interesting.
+
+151
+00:14:12,014 --> 00:14:20,031
+That small miracles can have bigger miracles and bigger miracles. This is what we call template-based self assembly..
+
+152
+00:14:20,032 --> 00:14:25,013
+If you think of.. I want to make an arched and a bridge. I want to make a bridge across a river.
+
+153
+00:14:25,014 --> 00:14:29,005
+One way of doing it is to build an arch, but to build an arch you need a template for the arch.
+
+154
+00:14:29,006 --> 00:14:30,096
+You can made out of wood,
+
+155
+00:14:30,097 --> 00:14:40,023
+but what if I could make the template of out of arch form spontaneously to fill in the bridge. That's kind of nice.
+
+156
+00:14:40,024 --> 00:14:44,028
+Suddenly, the arch builds a bridge. In my lab, we're trying to make sure that we can do that.
+
+157
+00:14:44,029 --> 00:14:50,094
+We've found a way of a molecule makes its own archway and then it makes a bridge.
+
+158
+00:14:50,095 --> 00:14:55,007
+Then the archway dissolves and all you see is the bridge.
+
+159
+00:14:55,008 --> 00:14:58,009
+The chemist is like going, "Where did the bridge come from?
+
+160
+00:14:58,010 --> 00:15:06,081
+I didn't build the arch?" We caught the archway, literally, with its trousers down by accident, like, there.
+
+161
+00:15:07,022 --> 00:15:11,012
+Snapshot and then we understood that. That's what we call bottom up.
+
+162
+00:15:11,013 --> 00:15:17,078
+Speaker 2: Do you have another example of that one? Just to understand, because you tell me about the sand-
+
+163
+00:15:17,079 --> 00:15:20,005
+Lee: Yup. Yup...
+
+164
+00:15:20,006 --> 00:15:25,075
+Speaker 2:. You tell me the castle, but the sand, is that.. Do you mean the molecule?
+
+165
+00:15:25,076 --> 00:15:27,035
+Lee: No. I mean the grain of sand.
+
+166
+00:15:27,036 --> 00:15:27,981
+Speaker 2: The grain of sand..
+
+167
+00:15:28,048 --> 00:15:30,030
+Lee: Just a grain.. That sand castle is made up of sand.
+
+168
+00:15:30,031 --> 00:15:30,059
+Speaker 2: Yeah.
+
+169
+00:15:30,060 --> 00:15:38,021
+Lee: To make a sand castle, you can do one of two things: You could position each sand with a microscope, by hand,
+
+170
+00:15:38,022 --> 00:15:39,056
+it would take you a long time.
+
+171
+00:15:39,057 --> 00:15:46,550
+You could get a bucket with the right indentation and just scoop the sand and put it in there.
+
+172
+00:15:46,551 --> 00:15:51,029
+or you could program the sand to self-assembly like ants. Somehow, how do you..
+
+173
+00:15:51,033 --> 00:15:58,026
+What are the smallest rules you can come up with? It's a bit like trying to work out those rules. Another archway-
+
+174
+00:15:58,027 --> 00:15:59,027
+Speaker 2: Yeah.
+
+175
+00:15:59,028 --> 00:16:11,000
+Lee: It's a hard one. Another archway that would do itself spontaneously.
+
+176
+00:16:11,001 --> 00:16:16,001
+Speaker 2: It's for me to understand..
+
+177
+00:16:16,490 --> 00:16:20,990
+Lee: It's a bit like making a snowman. We made a snowman outside with my son the other day. It's a bit like..
+
+178
+00:16:21,007 --> 00:16:28,083
+Our snowman was made up of four snow balls. We started rolling the snow together to make a big ball.
+
+179
+00:16:28,084 --> 00:16:33,026
+We just rolled the snow for, maybe, 10 minutes and we got a ball that was basically half a meter.
+
+180
+00:16:33,027 --> 00:16:39,091
+then we rolled it for less time and we got, maybe a quarter of a meter. Put it on top.
+
+181
+00:16:39,092 --> 00:16:49,061
+Then another one for basically half of a quarter of a meter on top. We have the fat, less fat, so a snowman.
+
+182
+00:16:49,062 --> 00:16:56,015
+Here's a way of doing it to say could I allow a stone at the top of the hill to roll down the hill,
+
+183
+00:16:56,038 --> 00:17:01,060
+get enough snow to become a big ball and then split into two to make another ball
+
+184
+00:17:01,061 --> 00:17:09,536
+and then they would assemble at the bottom. It could happen randomly if you did enough times..
+
+185
+00:17:09,537 --> 00:17:14,076
+That's what we're kind of doing in the lab. Setting up random snow balls to make.. Say, oh there's a snowman.
+
+186
+00:17:14,077 --> 00:17:15,093
+There's a snowman.
+
+187
+00:17:15,094 --> 00:17:23,008
+Can we try enough times throwing the stone down the hill, so gravity plus snow, roll, snowball, snowman.
+
+188
+00:17:23,009 --> 00:17:29,041
+Now, the interesting thing is we need to make that simple enough.
+
+189
+00:17:29,042 --> 00:17:37,001
+But then when the snowman is able to build itself, this is in the magic, this is when life starts,.
+
+190
+00:17:37,002 --> 00:17:43,069
+so what is the minimum thing you can do to make something that can make itself? What is..
+
+191
+00:17:43,078 --> 00:17:51,000
+It's like, how can you start the ball rolling quite literally. This is the bottom up, but that's very hard..
+
+192
+00:17:51,001 --> 00:18:00,001
+We don't know where to search. You're quite right to be, not confused, but.. It's a big probability problem.
+
+193
+00:18:00,072 --> 00:18:08,062
+How many lottery tickets do I have to play until I win? That's bottom up. Top down is me being in control.
+
+194
+00:18:08,063 --> 00:18:15,081
+I'm building robots that I will control to build everything, like atom by atom.
+
+195
+00:18:16,031 --> 00:18:22,039
+What we do is we then ask if we give the robot the instructions, we give it some knowledge, some information.
+
+196
+00:18:23,007 --> 00:18:29,037
+We say to the robot, we say to one robot, "You're dumb. Make a molecule. Make a snowman. Keep going. How many goes.
+
+197
+00:18:29,038 --> 00:18:33,091
+How many goes. How many goes." We take another robot and say, "Here's a picture of a snowman..
+
+198
+00:18:33,092 --> 00:18:39,084
+Make it." The robot goes "ah, ah, ah, ah" made a Then when we look at the robot and say, "Okay,
+
+199
+00:18:39,085 --> 00:18:45,095
+that's a really good snowman. We're now gonna remove some of that information, but we still want you to make a snowman.
+
+200
+00:18:46,032 --> 00:18:50,000
+How much information can we take away?" This is top down.
+
+201
+00:18:50,001 --> 00:18:56,072
+What we're trying to do is work out how much information do we need to know and how much can we find.
+
+202
+00:18:56,073 --> 00:19:08,529
+There's a whole concept of information in biology, so there's a bit like how much randomness can we use?
+
+203
+00:19:08,530 --> 00:19:14,032
+Or how much complexity can we get from our environment. It just goes back to an observation about biology. Biology..
+
+204
+00:19:14,087 --> 00:19:20,014
+All living things are made of cells and in every cell there is DNA.
+
+205
+00:19:20,054 --> 00:19:31,017
+The DNA allows the cell to evolve, but no DNA, no evolution. DNA is complicated, so where did the DNA come from?
+
+206
+00:19:31,048 --> 00:19:36,085
+What we're trying to do is look at the robots to help us guess that. That's what we're doing in the lab.
+
+207
+00:19:36,086 --> 00:19:45,013
+We have two extremes. We have the random plus get lucky and the no random, let's big brother it.
+
+208
+00:19:45,014 --> 00:19:49,009
+We have our big brother robot that videos everything and orchestrates.
+
+209
+00:19:49,073 --> 00:19:57,011
+We have the conductor and we have the free form no conductor.
+
+210
+00:19:57,012 --> 00:19:59,008
+Speaker 2: Those two experiments you take on at the same time?
+
+211
+00:19:59,009 --> 00:20:07,999
+Lee: They're going on in the group at the same time and we're using common people to look at the experiments, yeah.
+
+212
+00:20:08,000 --> 00:20:09,000
+Speaker 2: Yeah.
+
+213
+00:20:09,001 --> 00:20:19,097
+What can I imagine when I see this experiment or experiment, this research project with the luck.
+
+214
+00:20:20,051 --> 00:20:26,046
+How do you manage to direct the luck.
+
+215
+00:20:26,047 --> 00:20:34,032
+Lee: Here's the thing, one of the big top things that chemists are beginning to understand.. It's like spread betting.
+
+216
+00:20:35,042 --> 00:20:36,076
+Spread betting.
+
+217
+00:20:36,096 --> 00:20:44,036
+You go and bet on a horse, you could bet on the winner or the loser or you can spread on a variety of outcomes and say,
+
+218
+00:20:44,037 --> 00:20:45,070
+"Right, I'll get money that way.
+
+219
+00:20:45,071 --> 00:20:49,071
+I won't make money as fast, but I'll make money." If your objective is like, if I give you,
+
+220
+00:20:49,072 --> 00:20:52,001
+I don't know how many euros or pounds and say, "Right.
+
+221
+00:20:52,028 --> 00:20:57,025
+Your objective is to double your money in two hours." If you were lazy you could say, "Right.
+
+222
+00:20:57,026 --> 00:21:03,000
+All on one horse," and you'd be dead or win very quickly.
+
+223
+00:21:03,001 --> 00:21:04,043
+Or you say, "Okay, I'm not sure,
+
+224
+00:21:04,044 --> 00:21:12,093
+but I'll make a spread." One of the things that we try to do is look at how we can look at the distribution of.
+
+225
+00:21:12,094 --> 00:21:21,005
+different.. How we can spread our luck. You can do that by doing lots of things at once.
+
+226
+00:21:21,006 --> 00:21:27,054
+What I'm trying to say is time is the enemy, because to get lucky you need to wait time.
+
+227
+00:21:27,073 --> 00:21:31,012
+If you do one at a time it will take a long time.
+
+228
+00:21:31,013 --> 00:21:35,008
+If you want to use the same amount of time to get lucky quickly, you spread bet.
+
+229
+00:21:35,009 --> 00:21:43,561
+In my lab, we don't have that much time so we spread bet. It's like parallel..
+
+230
+00:21:43,562 --> 00:21:48,005
+What we're trying to do is to say, "Okay, we want to set up a series of random experiments, but we want to"..
+
+231
+00:21:49,003 --> 00:21:55,070
+Because we could do the experiment in one big, say, a swimming pool sized reactor.
+
+232
+00:21:55,071 --> 00:22:03,065
+or we could do it in a very small cup or a test tube. Or we could do it in a smaller..
+
+233
+00:22:03,067 --> 00:22:07,006
+If we have lots of small test tubes, then we could do lots of different experiments in the same space as, maybe,
+
+234
+00:22:07,007 --> 00:22:13,080
+a swimming pool. Suddenly, one swimming pool could be cut up into one million or even more test tubes.
+
+235
+00:22:13,081 --> 00:22:16,097
+Suddenly, we have a million goes where we had one.
+
+236
+00:22:17,041 --> 00:22:23,013
+Now, take it into a droplet like an oil droplet you'd get in your salad dressing and we do all the experiments,
+
+237
+00:22:23,048 --> 00:22:25,097
+one oil droplet per experiment.
+
+238
+00:22:25,098 --> 00:22:31,017
+Suddenly, you can do a trillion experiments where you only had one, so you have a trillion goes.
+
+239
+00:22:31,082 --> 00:22:37,051
+Then very quickly you could calculate how many times do I need to play the lottery before I get lucky.
+
+240
+00:22:37,085 --> 00:22:43,002
+In the UK, I think a few weeks ago, to win the 33 million, the probability, I think,
+
+241
+00:22:43,013 --> 00:22:51,007
+was something like 256 million to one. Cool. With a trillion I can do that over four times. Here I go. I win.
+
+242
+00:22:51,008 --> 00:22:56,091
+I have four chances of winning in that experiment and that is how we do it.
+
+243
+00:22:56,092 --> 00:23:02,022
+Speaker 2: Go on, but with the most important question. How do you define life?
+
+244
+00:23:02,023 --> 00:23:03,091
+Lee: Okay.
+
+245
+00:23:03,092 --> 00:23:06,055
+Before I define life, I'm going to define something else,
+
+246
+00:23:06,096 --> 00:23:11,098
+because it will be really important to understand why definition is useful.
+
+247
+00:23:11,099 --> 00:23:15,001
+Many scientists think that life can not be defined.
+
+248
+00:23:15,043 --> 00:23:22,005
+I think that is unhelpful for trying to explain it to other people and also to try and get a concept,
+
+249
+00:23:22,006 --> 00:23:27,015
+because sometimes defining a concept, you don't quite understand yet. The one I like is flight.
+
+250
+00:23:27,016 --> 00:23:34,099
+Imagine before humans flew they said, "Right. What is flight?" You go outside and look at birds flying maybe.
+
+251
+00:23:35,044 --> 00:23:43,077
+You might look at those squirrels that can glide or bumble bees. You can say, "Okay, I have this notion of flying.
+
+252
+00:23:43,078 --> 00:23:48,007
+Some do work against gravity and they can move air and they go in the air." But
+
+253
+00:23:49,003 --> 00:23:54,078
+when the first airplane was made by the Wright Brothers or whoever, because I don't know, they flew a few yards,
+
+254
+00:23:54,079 --> 00:24:01,045
+so it wasn't very far. Then they went, "Oh. Flight is powered heavier than air travel.
+
+255
+00:24:01,046 --> 00:24:11,050
+Not just balloon flight and because I could go 100 yards, now I worked out how I can go 1,000 yards..
+
+256
+00:24:11,051 --> 00:24:15,028
+Then when I went 1,000 yards I went across the Atlantic and before you know it, we got".. We know what flight is.
+
+257
+00:24:15,029 --> 00:24:21,008
+For me, flight is getting on an airplane, going up in the sky, coming down again safely,
+
+258
+00:24:21,047 --> 00:24:25,048
+and being out of travel several thousand miles in the air without touching down.
+
+259
+00:24:25,049 --> 00:24:31,006
+I think by framing it this way, if we define life in a similar way, it might help us,
+
+260
+00:24:31,007 --> 00:24:36,024
+because now flight takes lots of different forms. We have rockets. We have planes. We have gliders.
+
+261
+00:24:36,069 --> 00:24:40,043
+We may even have all sorts of other ways of doing. Helicopters.
+
+262
+00:24:41,002 --> 00:24:54,077
+When it comes to what life is, life seems to be an object when you feed it it multiplies and that's one thing.
+
+263
+00:24:54,078 --> 00:24:56,010
+Speaker 2: I'm sorry. I just don't-
+
+264
+00:24:56,011 --> 00:25:06,026
+Lee: I will start with a very general, not very satisfactory concept, but it's basically an object that takes stuff,
+
+265
+00:25:06,027 --> 00:25:11,075
+simple stuff, from the outside as food and can make itself replicate.
+
+266
+00:25:14,078 --> 00:25:23,024
+A fancier way of saying it is a self-sustaining, it's a bit like a flame that can feed itself, thing that can,
+
+267
+00:25:23,043 --> 00:25:25,064
+basically, that can evolve..
+
+268
+00:25:25,065 --> 00:25:40,004
+Let's make it even more precise and just say life is a nontrivial self-sustaining thing in a big universe. Let me...
+
+269
+00:25:40,005 --> 00:25:48,046
+There's a couple of scientifically.. Nontrivial means that it's not like a bit of sand. It's complicated.
+
+270
+00:25:48,047 --> 00:25:55,008
+It means that you'd have to write down some lines in a book to write down what it is.
+
+271
+00:25:57,008 --> 00:26:01,094
+Self-sustaining means it can keep going. That complex thing keeps going.
+
+272
+00:26:01,095 --> 00:26:12,008
+It's a bit like, say, the storm on Jupiter that's been whirling around for these thousands of years in the universe.
+
+273
+00:26:13,098 --> 00:26:21,005
+Now can you see that life, at that level, to me, has very little to do with chemistry and here is the problem:
+
+274
+00:26:21,006 --> 00:26:24,008
+lots of people who are trying to make
+
+275
+00:26:24,009 --> 00:26:28,081
+or understand the origin of life are being very specific in their chemical archeology,
+
+276
+00:26:28,082 --> 00:26:32,055
+but I'm just looking for a process.
+
+277
+00:26:32,074 --> 00:26:42,016
+I want to make the simplest object that will self-sustain itself be complicated and go around the universe.
+
+278
+00:26:43,001 --> 00:26:51,081
+In my test tube, I want to make a blob or a cell that is able to make itself when you feed it food and is complicated.
+
+279
+00:26:52,013 --> 00:26:59,002
+That just didn't randomly arise, because if I say life is salad dressing, like I shake some vinegar and some oil
+
+280
+00:26:59,003 --> 00:27:04,023
+when I get a nice balsamic vinegar and I get this nice looking thing.
+
+281
+00:27:04,024 --> 00:27:11,074
+Well, people will say, "Well, that looks like a life form, but it doesn't make itself. It's not complicated.
+
+282
+00:27:12,033 --> 00:27:19,037
+It doesn't act on itself." A higher level definition of life, the one I like in the end,
+
+283
+00:27:20,013 --> 00:27:28,055
+is one that can act on itself to change itself. What does that mean? Well, I'm ill. I've got a headache.
+
+284
+00:27:28,056 --> 00:27:37,001
+I can go and I can pick up a pill and take it and cure my headache. I can do something from the outside to the inside.
+
+285
+00:27:37,002 --> 00:27:46,083
+When you look in your environment, you don't see dead things purposefully moving around. We call this agency.
+
+286
+00:27:46,084 --> 00:27:55,053
+It's almost a bit like a self-awareness. A sheep will go from grass to pasture to pasture.
+
+287
+00:27:55,054 --> 00:27:59,088
+A dog will go and follow it's master, you know?
+
+288
+00:27:59,089 --> 00:28:05,042
+There's like, there's inputs, but I think they're quite complicated things.
+
+289
+00:28:05,047 --> 00:28:14,007
+I do like this idea of a complex thing that self-sustains in a big universe.
+
+290
+00:28:14,008 --> 00:28:16,007
+Speaker 2: That can conserve itself.
+
+291
+00:28:16,008 --> 00:28:24,071
+Lee: Yeah. It copies itself. Over time there's more of itself.
+
+292
+00:28:24,072 --> 00:28:30,031
+Basically, it can take raw materials and become more complicated. I guess these are notions.
+
+293
+00:28:30,032 --> 00:28:36,083
+It's a bit like flight, because everyone tends to fight about definitions about life, because, you know,
+
+294
+00:28:37,011 --> 00:28:41,002
+we thought we could make a list of things, right. It needs to evolve. Like Darwin. Right..
+
+295
+00:28:41,003 --> 00:28:48,071
+It needs to be based on carbon. Right. It needs to have water. Right. Needs to have a certain..
+
+296
+00:28:48,074 --> 00:28:53,006
+Then you write this list and the problem is the list gets so long you forget why you're writing the list.
+
+297
+00:28:53,073 --> 00:28:58,008
+I go back to flight and say, "What is it interesting about flight?" Well, for me, I want to get on my airplane.
+
+298
+00:28:58,009 --> 00:29:03,565
+I want it to take off safely and travel several thousand miles, touch down and we get off..
+
+299
+00:29:03,566 --> 00:29:08,007
+Refuel and go Although.. So flight means something to us.
+
+300
+00:29:09,055 --> 00:29:13,085
+If I could make a new life form based on different chemistry that would be really interesting,
+
+301
+00:29:14,011 --> 00:29:19,007
+because suddenly we don't have to say it's based on carbon or water, because suddenly,
+
+302
+00:29:19,008 --> 00:29:26,016
+I'm now looking for a complex thing that's self-sustaining in a universe, but it doesn't have to be based on carbon
+
+303
+00:29:26,017 --> 00:29:29,007
+or water. That's kind of where we're going at the moment.
+
+304
+00:29:29,008 --> 00:29:39,071
+It's not a finished definition and may never will be, but think back before flight, before airplanes.
+
+305
+00:29:40,061 --> 00:29:42,000
+We didn't have anything else to reference.
+
+306
+00:29:42,002 --> 00:29:50,046
+Now, we could all agree if we went to see some objects a parachutist or whatever, what would be flying or not.
+
+307
+00:29:50,096 --> 00:29:57,089
+I'm hoping that if we can make new life forms with different chemistry it would help us identify new life.
+
+308
+00:29:58,071 --> 00:30:02,000
+Maybe there's other life forms on the earth that are very simple that we don't understand
+
+309
+00:30:02,001 --> 00:30:07,075
+or we haven't recognized because they're too simple. We just ignore them..
+
+310
+00:30:07,076 --> 00:30:12,017
+Speaker 2: But that's a big.. Giant leap ahead, I guess.
+
+311
+00:30:12,018 --> 00:30:19,028
+Lee: I would say potentially, but maybe not. I think maybe not.
+
+312
+00:30:19,029 --> 00:30:23,074
+Speaker 2: What are you actually doing in this lab? Just to prove that your guess is right..
+
+313
+00:30:23,075 --> 00:30:28,091
+Lee: Well, I think that's a very important question. What we're trying to do..
+
+314
+00:30:29,002 --> 00:30:35,041
+Many people are saying we need to design or we need to select a very special chemistry
+
+315
+00:30:35,042 --> 00:30:40,088
+and only a very special chemistry can lead to life and biology.
+
+316
+00:30:41,002 --> 00:30:48,044
+A very special chemistry living or a origin life in biology. I'm trying to say the other way around.
+
+317
+00:30:48,045 --> 00:30:56,045
+Maybe the process is more important than the chemistry and the process selects the chemistry it needs to become alive.
+
+318
+00:30:56,046 --> 00:31:00,050
+Baring that in mind, suddenly we go to the lab now, we're suddenly free.
+
+319
+00:31:00,051 --> 00:31:08,077
+We don't just have to use DNA, amino acids, the things that you find in biology. We can use sand. We can use salt.
+
+320
+00:31:09,007 --> 00:31:10,007
+We can use other stuff.
+
+321
+00:31:10,075 --> 00:31:17,081
+What we're trying to do is take the simplest molecules, the simplest chemicals and shake them together
+
+322
+00:31:17,097 --> 00:31:25,002
+and look for evidence that they will become complicated. To start to become self-sustaining.
+
+323
+00:31:25,003 --> 00:31:31,011
+We want to look for phenomena like forming cells. We look for making machines.
+
+324
+00:31:31,073 --> 00:31:39,077
+Look for evidence of complexity and so, if I could basically take some very simple molecules
+
+325
+00:31:39,078 --> 00:31:43,031
+and they would turn themselves into a cell that could self-replicate
+
+326
+00:31:43,032 --> 00:31:52,005
+and look like a bacterial cell under a microscope then that would be really interesting. One of the-
+
+327
+00:31:52,006 --> 00:32:01,072
+Speaker 2: That means that you're right. If you find that, but you must have clue that you are going to find that...
+
+328
+00:32:01,073 --> 00:32:05,005
+Lee: No. I don't.. No. I don't have any clue, but I think I'm right, because I think..
+
+329
+00:32:07,014 --> 00:32:10,041
+If you think back to the early earth. Early earth was really crazy.
+
+330
+00:32:10,078 --> 00:32:17,084
+Like, every day that goes by there's fire, there's brimstone, there's asteroids hitting, the water's being evaporated,
+
+331
+00:32:18,002 --> 00:32:22,047
+there's lava coming out, the energy's really high, so any really,
+
+332
+00:32:22,078 --> 00:32:28,091
+sexy sophisticated chemistry will be erased in a second. Or it would be erased..
+
+333
+00:32:28,092 --> 00:32:34,058
+This is my epiphany that I saw maybe when I think about...
+
+334
+00:32:34,059 --> 00:32:40,029
+Because I obviously like water, because I'm in Scotland and it's raining all the time, but if you look at..
+
+335
+00:32:40,041 --> 00:32:46,058
+In the river or in the sea and you look at patterns and things and they're only there for a small moment in time.
+
+336
+00:32:47,084 --> 00:32:55,038
+If the pattern was going to be erased really quickly, life is a pattern that doesn't get erased,
+
+337
+00:32:55,067 --> 00:33:02,055
+it takes the outside and make a pattern and makes more of itself and replicates that pattern.
+
+338
+00:33:03,016 --> 00:33:05,092
+Life is a bit like the Olympic flame.
+
+339
+00:33:05,093 --> 00:33:13,026
+It's that organization that goes from thing to thing to thing in time and space that never gets erased,
+
+340
+00:33:13,082 --> 00:33:16,011
+because it keeps being replicated.
+
+341
+00:33:17,008 --> 00:33:25,096
+If that could happen on earth, I reasoned it has to happened much easier than we thought,
+
+342
+00:33:25,097 --> 00:33:32,003
+because otherwise the complex chemistry would be erased by the meteorite, the water boiling, the fire and brimstone.
+
+343
+00:33:32,004 --> 00:33:40,008
+My simple notion, if I'm being brutally honest, really honest, and I'm being really honest,
+
+344
+00:33:40,009 --> 00:33:47,028
+because I don't have any cognitive reserve, is that I feel that life is far simpler than we could possibly imagine.
+
+345
+00:33:47,029 --> 00:33:53,042
+I think we can recreate it in lots of different chemistries and there's no secret.
+
+346
+00:33:53,078 --> 00:34:01,023
+There are lots of origins of life on planet earth, one origin of biology that we know today. There's lots of roots.
+
+347
+00:34:01,024 --> 00:34:07,031
+There are lots of ways to make a life form and they all converged and they corporated and they ended up with DNA
+
+348
+00:34:07,074 --> 00:34:16,025
+and proteins and ourselves as a compromise, if you like, between all the different extremes.
+
+349
+00:34:16,026 --> 00:34:25,015
+Mini-disc player, iPod, tape cassette. All these different technologies that were competing..
+
+350
+00:34:25,016 --> 00:34:28,067
+It was the same in chemistry, I think.. I almost say I believe.
+
+351
+00:34:28,092 --> 00:34:33,034
+I guess it is a belief, because beliefs are those things that can't yet be tested.
+
+352
+00:34:33,035 --> 00:34:39,066
+Obviously, I'm trying to turn that belief into a scientifically falsifiable set of experiments.
+
+353
+00:34:39,067 --> 00:34:44,076
+We're going from two extremes. What I talk about top down with the robot doing it and the bottom up.
+
+354
+00:34:45,008 --> 00:34:49,026
+Allowing it to happen and then videoing it. That's what we're looking for.
+
+355
+00:34:49,027 --> 00:34:58,060
+We're looking for the simplest chemistry that can show evidence of becoming self-sustaining and complex.
+
+356
+00:34:58,061 --> 00:35:05,033
+It's a bit like how simply can we make a fire that's able to go and find its own fuel.
+
+357
+00:35:05,034 --> 00:35:10,576
+But this fire has a pattern, maybe it's not just a flame, but it's a word..
+
+358
+00:35:10,577 --> 00:35:15,043
+Let's say the word "fire." Let's say the word fire can write fire and that word fire can go from..
+
+359
+00:35:15,057 --> 00:35:21,065
+That's what we're looking for in the lab if that analogy makes sense. I can try think of a better one.
+
+360
+00:35:21,066 --> 00:35:27,075
+Speaker 2: No. It makes sense. Very good. Very good..
+
+361
+00:35:27,076 --> 00:35:35,088
+This is a very good explanation you gave right now, because of the.. I understand. I hope now the viewers do.
+
+362
+00:35:35,089 --> 00:35:47,047
+Because of this element of complexity, some complexity is added and then things evolve
+
+363
+00:35:47,048 --> 00:35:54,005
+and things start to develop and it still is a coincidence and it has various roots, various chemical roots.
+
+364
+00:35:54,006 --> 00:36:08,008
+I understand it very much, but how do you try to catch this coincidence?
+
+365
+00:36:08,009 --> 00:36:15,008
+Lee: I was just thinking about it when you were talking just there. It's like extreme trial and error.
+
+366
+00:36:15,009 --> 00:36:20,034
+I'll tell you something, which I found one of the most beautiful things I've ever done as a parent
+
+367
+00:36:20,035 --> 00:36:26,032
+or my wife has done as a parent, it was a gift we were given, which was, basically, grow your own butterfly.
+
+368
+00:36:27,019 --> 00:36:30,087
+You have this kit where you have these things that turn into caterpillars and they have their own food
+
+369
+00:36:30,088 --> 00:36:35,001
+and they go around you watch them go through the process. The caterpillars eat the food.
+
+370
+00:36:35,005 --> 00:36:42,031
+They then make chrysalis and you put them in a little net and they go up and they're ready
+
+371
+00:36:42,032 --> 00:36:47,067
+and after some time the butterflies come out. But when we did it, we had five.
+
+372
+00:36:47,095 --> 00:36:50,047
+We were really emotionally attached and the kids were like,
+
+373
+00:36:50,048 --> 00:36:58,083
+"Look at this butterfly it's coming." The fifth one got tangled in its silk and it never made it free. It died..
+
+374
+00:36:58,084 --> 00:37:02,006
+We were so.. We were trying to cut it free and we were so upset.
+
+375
+00:37:02,007 --> 00:37:07,012
+Then we were like, "Ah, that is the perfect thing about life. It's trial and error.
+
+376
+00:37:07,013 --> 00:37:13,014
+Those that survive continue." If you think about trial and error,
+
+377
+00:37:13,029 --> 00:37:20,092
+life is nothing more than matter that helps itself through trial and error.
+
+378
+00:37:20,093 --> 00:37:25,069
+It's a bit like the selfish gene but it's more primal than that. It's more simple.
+
+379
+00:37:26,007 --> 00:37:36,087
+To put simply, what is the simplest sand or dirt or rocks that can help other rocks get better?
+
+380
+00:37:37,003 --> 00:37:39,049
+What is the definition of better?
+
+381
+00:37:39,095 --> 00:37:43,089
+The problem with life though or the nice thing about life as you were talking earlier and, again,
+
+382
+00:37:43,090 --> 00:37:49,091
+it's complicated now, but for something to be alive, it has to die. There's quite a simple thing.
+
+383
+00:37:50,041 --> 00:37:58,008
+You will know when, let's say a bacterium is alive and is dead. When it's dead, it's no longer able to grow, reproduce.
+
+384
+00:37:58,009 --> 00:38:04,034
+You know when the bacteria, if you feed it food ever 20 minutes, it splits into two, into two, into two.
+
+385
+00:38:04,035 --> 00:38:06,048
+It's really interesting, that point.
+
+386
+00:38:06,049 --> 00:38:12,097
+That bacterium, let's just imagine a bacterium, and then in 20 minutes does this, so I ask you a question,
+
+387
+00:38:13,097 --> 00:38:19,071
+in your stomach, in your intestine you have lovely bacteria that look after you or you have your bacteria,
+
+388
+00:38:19,072 --> 00:38:24,033
+whatever you want to call them, your microbiome, how old are the bacteria in your intestine?
+
+389
+00:38:24,034 --> 00:38:26,008
+Speaker 2: I really have no idea.
+
+390
+00:38:26,009 --> 00:38:31,060
+Lee: I would say roughly 3.9 billion years,.
+
+391
+00:38:31,061 --> 00:38:36,073
+because that bacteria came from one bacteria that came from one bacteria that came..
+
+392
+00:38:36,074 --> 00:38:47,011
+There is a Olympic torch of information passed back to what we call LUCA the Last Universal Common Ancestor.
+
+393
+00:38:47,012 --> 00:38:47,094
+Isn't that wonderful?
+
+394
+00:38:47,095 --> 00:38:48,059
+Speaker 2: LUCA.
+
+395
+00:38:48,060 --> 00:38:56,000
+Lee: The Last Universal Common Ancestor. It's from the cell from which all other cells on earth originated.
+
+396
+00:38:56,001 --> 00:39:00,036
+It's that Olympic torch that was then copied,
+
+397
+00:39:00,037 --> 00:39:05,022
+but it wasn't just one Olympic torch that was carried from athlete to athlete, they copied it.
+
+398
+00:39:05,023 --> 00:39:12,036
+It's a bit like then suddenly copying a photograph or, I don't know, something that goes viral on the internet.
+
+399
+00:39:12,054 --> 00:39:20,044
+Everyone watching it. That bacteria in your intestine is billions of years old.
+
+400
+00:39:20,083 --> 00:39:26,006
+You are billions of years old, because where do you come from? You come from your parents. Where do they come from?
+
+401
+00:39:26,007 --> 00:39:27,056
+Their parents. Where do they come from?
+
+402
+00:39:27,057 --> 00:39:34,044
+Then for evolution before then, maybe from the primates and then from before that and all that way back.
+
+403
+00:39:34,045 --> 00:39:40,061
+Isn't that interesting that you persist in time, but you die?
+
+404
+00:39:41,043 --> 00:39:44,005
+And so, okay, it's different for bacteria, because they never quite die.
+
+405
+00:39:44,006 --> 00:39:49,003
+They split into two, split into two, but it's a changing cycle.
+
+406
+00:39:49,004 --> 00:39:53,048
+It's just trial and error and so it's another way of sending up what's the minimum trial
+
+407
+00:39:53,049 --> 00:40:01,008
+and error I can set up to carry on going? I still, I don't know, to be honest, I don't know what it means.
+
+408
+00:40:01,009 --> 00:40:08,088
+People say, "Well, what is it?" I'm like, "Well, I kind of know what I'm looking for or I'll know when I see it,
+
+409
+00:40:09,063 --> 00:40:14,002
+but what I need to do right now is start with really simple chemistry in the lab
+
+410
+00:40:14,003 --> 00:40:22,003
+and I need to watch it like a hawk until suddenly something really odd happens and I go 'There are the events.
+
+411
+00:40:22,039 --> 00:40:29,027
+Those events are responsible for the origin of life or maybe a new life form.'" I guess it's really that is it.
+
+412
+00:40:29,055 --> 00:40:36,048
+What I'm doing is actually extremely simple. I'm just playing dice. Keep rolling the dice, rolling the dice.
+
+413
+00:40:36,076 --> 00:40:43,000
+I want, basically, not just to get one six, but six sixes in a row and then I want to keep going
+
+414
+00:40:43,001 --> 00:40:53,021
+and then I want to preserve the motion I last played to get those six sixes in a row.
+
+415
+00:40:53,022 --> 00:41:07,006
+Speaker 2: Very good. I understand this very well now. Practically, how do you do this in your lab?
+
+416
+00:41:07,007 --> 00:41:09,001
+I mean, I'm sorry, I would like you to tell about "Well, we have this machine, a robot-"
+
+417
+00:41:09,002 --> 00:41:09,041
+Lee: Yup. Yup. We have two ways.
+
+418
+00:41:09,047 --> 00:41:16,032
+Because I do a lot of inorganic chemistry, I assemble really complex molecules from simple molecules.
+
+419
+00:41:19,097 --> 00:41:28,055
+The way I do this is I add acid to salt. Normally, it's boring, but in my lab, we can make it be interesting.
+
+420
+00:41:28,056 --> 00:41:30,006
+That's what we're doing right now.
+
+421
+00:41:30,017 --> 00:41:40,024
+We're looking at how to make the most complicated molecules with the least instructions. With the robot, the same.
+
+422
+00:41:40,025 --> 00:41:45,023
+We are giving it some chemistry to do, but we're saying, "What about if we give you the least instructions?
+
+423
+00:41:45,024 --> 00:41:49,066
+What is the most interesting thing you can do with the least instructions?" Then when it does nothing,
+
+424
+00:41:49,067 --> 00:41:54,069
+which it does at the moment, we say, "Okay, I give in. I give you the full instructions.
+
+425
+00:41:55,059 --> 00:42:03,012
+What happens when you have all the instructions? What can you then do?" That's what we've done.
+
+426
+00:42:03,013 --> 00:42:05,025
+I'll show this in the laboratory.
+
+427
+00:42:05,026 --> 00:42:07,015
+We've made a robot that you can give it instructions
+
+428
+00:42:07,016 --> 00:42:15,007
+and it gives really complex oil droplets that look like they're alive, but they're not alive, they just move a lot.
+
+429
+00:42:15,027 --> 00:42:21,018
+They were orchestrated. It was a cheat. A set up. A bribe, whatever.
+
+430
+00:42:21,019 --> 00:42:27,043
+Then we say, "Okay, because we know what instructions we need to do to make the droplets look alive,
+
+431
+00:42:28,046 --> 00:42:37,004
+how can we now move the information from the robot to the chemistry?" It's a bit like this,
+
+432
+00:42:37,005 --> 00:42:45,055
+we are saying we want the robot to write Shakespeare or the equivalent complex poetry song.
+
+433
+00:42:46,067 --> 00:42:51,094
+Now, because the robot's dumb. It doesn't know Shakespeare, so we have to tell it Shakespeare, so it just copies it.
+
+434
+00:42:51,095 --> 00:42:55,062
+Then if we blot out certain amounts of Shakespeare we say, "Okay,
+
+435
+00:42:55,063 --> 00:42:59,007
+write Shakespeare with these small fragments." Then when we say, "Right.
+
+436
+00:42:59,008 --> 00:43:02,092
+Okay, now you know Shakespeare, but learn a little bit of english
+
+437
+00:43:02,093 --> 00:43:05,021
+and see if you can make something that sounds like Shakespeare.
+
+438
+00:43:05,022 --> 00:43:11,008
+What do you need to go through to make that?" I think that's what we're trying to do...
+
+439
+00:43:11,009 --> 00:43:17,087
+I know it sounds kind of intangible. It's like still.. You're kind of expecting me now...
+
+440
+00:43:17,088 --> 00:43:23,099
+What we are doing in the lab, which is even to start somewhere that..
+
+441
+00:43:25,094 --> 00:43:29,090
+What we are doing in the lab to start somewhere simple is we say, "Right.
+
+442
+00:43:29,091 --> 00:43:35,003
+Biology's made up with carbon, nitrogen, oxygen, hydrogen, sulfur
+
+443
+00:43:35,077 --> 00:43:40,046
+and some other metals." What we're doing is we're putting these elements together
+
+444
+00:43:40,047 --> 00:43:45,036
+and we're zapping them with electricity and we're heating them. What do they form?
+
+445
+00:43:45,037 --> 00:43:52,098
+We're taking hydrogen, methane, ammonia and water and we're doing a very classic experiment.
+
+446
+00:43:52,099 --> 00:43:57,013
+It was first done in the 1950s called the Miller-Urey Experiment.
+
+447
+00:43:57,014 --> 00:44:05,056
+They got two electrodes to simulate lightning and they got this simple soup and they heated it. Very simple.
+
+448
+00:44:05,074 --> 00:44:08,054
+Very simple elements. Very simple molecules.
+
+449
+00:44:09,001 --> 00:44:14,015
+What they got when they did it, and they did it for four or five days, that in the end, in that soup,
+
+450
+00:44:14,016 --> 00:44:21,037
+in the primordial soup they got some oil, so it looked like gloopy crude oil, but they saw some acids in it,
+
+451
+00:44:21,038 --> 00:44:23,072
+some molecules that look like amino acids.
+
+452
+00:44:23,073 --> 00:44:29,011
+They got really excited, because amino acids are what you find in biology in your proteins..
+
+453
+00:44:29,012 --> 00:44:36,000
+They are the simplest molecules. Everyone went, "Ah. The problem is solved. Just methane, nitrogen"..
+
+454
+00:44:36,003 --> 00:44:41,050
+Sorry, "Just methane and hydrogen and ammonia and some flame and some fire
+
+455
+00:44:41,051 --> 00:44:48,073
+and you can make amino acids." Those amino acids are really simple. They're in really low concentrations.
+
+456
+00:44:48,074 --> 00:44:58,041
+There's a very small amount, so even though people have tried to, since the 1950s, almost the last 65, 66 years,
+
+457
+00:44:58,072 --> 00:45:03,071
+people try to turn those amino acids into proteins and they have failed.
+
+458
+00:45:03,072 --> 00:45:12,024
+What we have just done in the last year is we've made a robot that takes those simple amino acids.
+
+459
+00:45:12,025 --> 00:45:21,007
+and does random chemistry with amino acids and we've seen how primitive proteins can emerge.. Or they're not proteins.
+
+460
+00:45:22,016 --> 00:45:27,096
+I must be honest. They're protein-like, but they can emerge from the random chemistry.
+
+461
+00:45:27,097 --> 00:45:28,084
+Speaker 2: So you have a clue.
+
+462
+00:45:28,085 --> 00:45:32,022
+Lee: We have a clue and we used a robot to do it.
+
+463
+00:45:32,034 --> 00:45:36,050
+I realized the question you're asking, because "What? You use sand. I'm bored of sand.
+
+464
+00:45:36,051 --> 00:45:45,046
+I'm bored of salt. What are you doing? Hydrogen, carbon, ammonia, some flame, amino acids.
+
+465
+00:45:45,047 --> 00:45:52,070
+Really simple building blocks. Those building blocks we then put into a robot to basically shake in a different way-
+
+466
+00:45:52,071 --> 00:45:56,045
+Speaker 2: What's the difference between you and this year, 50-year experiment?
+
+467
+00:45:56,046 --> 00:46:05,026
+Lee: Very important thing is that we then take the material from the Miller-Urey experiment,.
+
+468
+00:46:05,027 --> 00:46:14,044
+which was just in a vessel and we then use an algorithm to order the..
+
+469
+00:46:15,001 --> 00:46:21,550
+To simulate lots of different environments, because in a bell jar there was no sand, there was no earth's crust,.
+
+470
+00:46:21,551 --> 00:46:28,067
+it was just.. It was sanitized. It was dead. It wasn't complicated enough. The earth was quite complicated.
+
+471
+00:46:28,068 --> 00:46:34,045
+There were minerals, there's the surface, there was some atmosphere..
+
+472
+00:46:34,046 --> 00:46:38,002
+What we did was we put everything into different building blocks.. Sorry, I'll start again.
+
+473
+00:46:38,058 --> 00:46:42,072
+We put everything into different vessels and we treated it a different way.
+
+474
+00:46:42,073 --> 00:46:46,045
+We did lots of random experiments and we looked for organization.
+
+475
+00:46:46,096 --> 00:46:52,008
+What we did was we made a massively parallel Miller-Urey combination.
+
+476
+00:46:52,009 --> 00:46:59,044
+We took the building blocks in the Miller-Urey and we divided it into literally 1,000 different pots.
+
+477
+00:47:00,047 --> 00:47:04,036
+This is like how do you make a cake from random recipe, random ingredients?
+
+478
+00:47:04,066 --> 00:47:08,036
+Well, you could randomly throw them together and just do one oven and you'd make nothing.
+
+479
+00:47:08,072 --> 00:47:14,047
+Or you could get somewhere where you make a dough and you say, "Okay, I'll put it into 1,000 cake pots
+
+480
+00:47:16,007 --> 00:47:22,028
+and put them in the oven and see, which rise and select the ones, which rise and look nice." That's what we did.
+
+481
+00:47:22,029 --> 00:47:26,541
+Speaker 2: Looks like, sounds like enigma machine...
+
+482
+00:47:26,542 --> 00:47:30,039
+Lee: Yeah. It's exactly an enigma.. You are.. This is really good.
+
+483
+00:47:30,077 --> 00:47:35,071
+Here's the thing, the enigma machine was a code breaking machine
+
+484
+00:47:35,072 --> 00:47:39,057
+and I look like the origin of life is an enigma machine.
+
+485
+00:47:39,058 --> 00:47:44,002
+The code, the code that came from the enemy was in the environment.
+
+486
+00:47:44,003 --> 00:47:50,046
+Everyone could see it, but the sequence, the DNA if you'd like, was not known.
+
+487
+00:47:51,001 --> 00:48:00,004
+We had to find that random code by guessing or to plug it in. If we plug it in we know the solution instantly.
+
+488
+00:48:00,005 --> 00:48:04,032
+Or if we guess we have to take many, many goes. That's exactly it.
+
+489
+00:48:04,039 --> 00:48:11,053
+You could view the origin of life like an enigma machine and we just do not know the cipher.
+
+490
+00:48:12,026 --> 00:48:15,036
+WE don't know the key, sorry, to type in.
+
+491
+00:48:15,037 --> 00:48:21,045
+Actually, I said this to a complexity theorist who's interested in decryption and encryption and he said, "Yeah,
+
+492
+00:48:21,046 --> 00:48:27,025
+it's right." In fact, if we know all the program on earth by knowing the life form
+
+493
+00:48:27,026 --> 00:48:33,056
+or knowing how we can work backwards and work out the keys and it's a bit like how you do encryption today.
+
+494
+00:48:34,021 --> 00:48:35,078
+You could view it like that.
+
+495
+00:48:36,082 --> 00:48:46,033
+Life suddenly, even though I'm a chemist, life suddenly takes on a meaning that is not based on chemistry..
+
+496
+00:48:46,034 --> 00:48:49,053
+It's in information. What about..
+
+497
+00:48:49,072 --> 00:48:55,046
+What is now the magic information I can give you to go away and build a whole new society.
+
+498
+00:48:55,047 --> 00:49:02,006
+I've sent you to Mars, which one book would you take to make oxygen, water. Have you seen The Martian?
+
+499
+00:49:02,007 --> 00:49:04,041
+Maybe we shouldn't talk about films in this.
+
+500
+00:49:04,042 --> 00:49:07,004
+Speaker 2: No. No I haven't seen it, but I'm certainly
+
+501
+00:49:07,005 --> 00:49:09,023
+Lee: Here's an interesting thing.
+
+502
+00:49:09,055 --> 00:49:20,014
+In the end, the way human beings escape planet earth, is they will send out robots that will go to other planets
+
+503
+00:49:20,073 --> 00:49:21,086
+and they will look for resource
+
+504
+00:49:21,087 --> 00:49:28,007
+and they will turn that resource into a living algorithm to make more of itself to make a living machines.
+
+505
+00:49:29,077 --> 00:49:33,012
+That's what we'll do. I guess.
+
+506
+00:49:33,013 --> 00:49:39,007
+Speaker 2: That makes you the new, I forgot his name, the man who cracked the enigma code.
+
+507
+00:49:39,008 --> 00:49:41,045
+Lee: Turing?
+
+508
+00:49:41,046 --> 00:49:42,008
+Speaker 2: Oh yeah.
+
+509
+00:49:42,009 --> 00:49:52,080
+Lee: Well, I mean, a lot of the work we're doing is inspired by Turing..
+
+510
+00:49:52,081 --> 00:49:57,007
+Turing, given what just happened today, I'm not sure I want to talk..
+
+511
+00:49:57,008 --> 00:50:00,072
+Turing and Boltzmann both committed suicide.
+
+512
+00:50:00,073 --> 00:50:04,072
+Boltzmann committed suicide because no one understood what he was talking about
+
+513
+00:50:04,073 --> 00:50:08,073
+and was really shunned by the environment, shunned by the society.
+
+514
+00:50:08,074 --> 00:50:15,068
+Turing committed suicide for reasons that are complicated. He was homosexual. He was victimized. He was bullied..
+
+515
+00:50:15,069 --> 00:50:18,006
+He was pushed out. He had.. Anyway.
+
+516
+00:50:18,007 --> 00:50:25,071
+Turing really inspired, both Turing and Boltzmann inspire me, not because they committed suicide,
+
+517
+00:50:25,072 --> 00:50:34,017
+but because they really had very interesting handles on a very complex problem. Boltzmann talked about disorder.
+
+518
+00:50:34,019 --> 00:50:40,001
+He knew about randomness and he worked out this thing, this measure of randomness called entropy.
+
+519
+00:50:40,002 --> 00:50:46,081
+Basically, my kids, when they go into their bedroom they go and if they're entropy is high, i.e.
+
+520
+00:50:46,082 --> 00:50:52,015
+If it's very random, they've worked hard and made it random. It's like what happens when heat goes out.
+
+521
+00:50:52,048 --> 00:50:55,081
+If I go in and I order everything, I decrease the entropy.
+
+522
+00:50:56,028 --> 00:51:01,015
+So I then, the nice thing while I decrease the entropy, I give it chance to be disordered again.
+
+523
+00:51:01,016 --> 00:51:06,098
+Turing understood this also, but in a different way. He came up with an idea called morphogenesis.
+
+524
+00:51:07,043 --> 00:51:15,018
+When I go running now, when I'm thinking for years, for me, what has inspired me, what drives me and, I think that,
+
+525
+00:51:15,056 --> 00:51:20,052
+because of course everyone says to me sometimes when they're making fun, I don't have any original ideas.
+
+526
+00:51:20,053 --> 00:51:25,054
+I'm desperate to have an original ideas. Maybe I haven't yet. It's just the synthesis of other people's ideas..
+
+527
+00:51:25,055 --> 00:51:31,032
+For me, I want to come up with chemistry that undergoes morphogenesis. If I can..
+
+528
+00:51:31,048 --> 00:51:40,036
+Morphogenesis is like an object that can change shape and change function, but still be itself.
+
+529
+00:51:40,085 --> 00:51:46,044
+I guess, what I would say to maybe the viewer, is like, what defines yourself?
+
+530
+00:51:47,022 --> 00:51:51,072
+You wouldn't go out and look at a rock and say, "Oh, that's a self," but you would go out and look at a deer
+
+531
+00:51:51,073 --> 00:51:55,053
+or a goat or a child or an animal and say, "Oh, that's a self.
+
+532
+00:51:55,054 --> 00:52:02,093
+It controls." A living thing is a thing, which can then actually observe itself and walk and talk and move.
+
+533
+00:52:02,094 --> 00:52:08,033
+IT's not only that, because bacteria can't walk and talk and move in the same way.
+
+534
+00:52:08,034 --> 00:52:10,085
+They certainly move, but it's more crude.
+
+535
+00:52:12,012 --> 00:52:17,094
+There is something interesting about what Turing thought about decryption, decryption and computers and robots
+
+536
+00:52:17,095 --> 00:52:18,072
+and so on.
+
+537
+00:52:19,009 --> 00:52:25,067
+In the end, I'm pretty sure that human beings will be able to make a robot that will be able to make itself,
+
+538
+00:52:27,047 --> 00:52:35,091
+but I'm anxious that we don't forget the origin of life, because one day, maybe-
+
+539
+00:52:35,092 --> 00:52:36,004
+Speaker 2: in this robot.
+
+540
+00:52:36,005 --> 00:52:41,083
+Lee: Well, maybe. Here's a story. Let's imagine that human beings are long gone and there are only robots.
+
+541
+00:52:42,032 --> 00:52:47,005
+The robots make themselves and the robots go to another planet and there's a robot society
+
+542
+00:52:47,041 --> 00:52:58,041
+and there's a super nova that erases the memory. The robots forget where they come from.
+
+543
+00:52:58,042 --> 00:53:01,084
+"Where do we come from?" So they start the origin of robot life.
+
+544
+00:53:01,085 --> 00:53:05,052
+They're grinding silicon chips up in beakers like, "Where did the chip come from?
+
+545
+00:53:05,053 --> 00:53:14,097
+It's not self assembling." And they forget that they're a complex machine made by a more simple machine made by a more
+
+546
+00:53:15,014 --> 00:53:16,052
+simple machine.
+
+547
+00:53:17,054 --> 00:53:21,033
+If I can tell you anything today, which I think for me I can't really justify,
+
+548
+00:53:21,034 --> 00:53:31,092
+but my feeling is life started with a minimal machine that can make a slightly more complicated machine that can make a
+
+549
+00:53:31,093 --> 00:53:36,055
+slightly more complicated machine and so, yes, it's turtles all the way down,
+
+550
+00:53:36,056 --> 00:53:41,062
+but they're simpler until the turtle right at the bottom is just sand and water.
+
+551
+00:53:41,063 --> 00:53:48,046
+At the end we have, I don't know, pornography.
+
+552
+00:53:48,047 --> 00:53:53,015
+Well, because, you know, this is like I say one of my friends who's looking at robot culture.
+
+553
+00:53:53,016 --> 00:53:59,072
+That's the ultimate, the ultimate form of a robot culture will be robot pornography that they all share.
+
+554
+00:53:59,073 --> 00:54:04,068
+But maybe, you don't want to put this in the main movie, I don't know, the main documentary.
+
+555
+00:54:04,093 --> 00:54:11,016
+I think your comment about Turing is very perceptive. I'm certainly inspired by him.
+
+556
+00:54:11,017 --> 00:54:14,009
+I'm certainly inspired by a lot of people that looked at informatics.
+
+557
+00:54:14,091 --> 00:54:21,083
+I think I'm one of the first synthetic chemists to be sufficiently inspired by information and say,.
+
+558
+00:54:21,084 --> 00:54:23,088
+"How can I do minimum..
+
+559
+00:54:24,026 --> 00:54:30,081
+How can I come up with the minimum information, but get the maximum chemistry?" One of the things we're doing
+
+560
+00:54:30,082 --> 00:54:38,023
+and where we're going and how I kind of got to this is we're trying to discover new drugs in my lab and make new drugs.
+
+561
+00:54:38,041 --> 00:54:46,049
+If the viewer's completely confused about molecules and drugs and life, I'll give you one interesting thing..
+
+562
+00:54:46,050 --> 00:54:54,001
+I don't know if you know about the antibiotic problem.. Can beat the drug.
+
+563
+00:54:54,003 --> 00:54:56,004
+They can out-evolve using natural selection.
+
+564
+00:54:56,005 --> 00:55:00,042
+The drug doesn't use natural selection, so it relies on the human being to make a new drug.
+
+565
+00:55:00,058 --> 00:55:01,032
+IN my lab,
+
+566
+00:55:01,075 --> 00:55:08,003
+one of the reasons we want to make an artificial life form is if we can make drugs that are in competition with the
+
+567
+00:55:08,004 --> 00:55:14,059
+bacteria and we say, "Right. Here's a new bacteria. Here's a new drug. Dead. Oh, no.
+
+568
+00:55:15,000 --> 00:55:19,047
+I evolve." All we do now is there's no such thing as antibiotic.
+
+569
+00:55:19,048 --> 00:55:28,035
+There's only a generation of new antibiotics that can be made under pressure by the bacteria.
+
+570
+00:55:28,036 --> 00:55:34,016
+Suddenly we change the entire concept of an obsolescent drug.
+
+571
+00:55:34,074 --> 00:55:39,060
+No antibiotics become obsolete because we have an evolutionary machine.
+
+572
+00:55:39,061 --> 00:55:44,038
+At the very worst, what we have made in my lab, it's not very good so don't get excited,
+
+573
+00:55:44,039 --> 00:55:45,094
+we haven't cured the antibiotic problem,
+
+574
+00:55:45,095 --> 00:55:51,098
+but we have made an evolution machine that starts to show us how we can make some drugs evolve
+
+575
+00:55:53,009 --> 00:55:58,061
+and beat some antibiotics. When they out evolve the drugs we do it again and keep going.
+
+576
+00:55:58,081 --> 00:56:05,072
+Our dream is to make a machine that can evolve an endless, infinite pipeline of drugs.
+
+577
+00:56:06,084 --> 00:56:13,082
+When we understand that process, maybe, we can understand how the life got started,
+
+578
+00:56:14,008 --> 00:56:19,071
+because it's an information-based argument. I'm going to express myself, "Isn't it wonderful the universe exists.
+
+579
+00:56:19,072 --> 00:56:25,000
+Look at the glorious things that happened." One of the reasons why I'm doing what I'm doing is because I'm paid to ask
+
+580
+00:56:25,001 --> 00:56:25,010
+why.
+
+581
+00:56:25,011 --> 00:56:27,005
+Speaker 2: we do as well. We also get paid to ask
+
+582
+00:56:27,006 --> 00:56:31,063
+Lee: Isn't that a wonderful privilege?
+
+583
+00:56:31,064 --> 00:56:45,017
+That is one of the reasons why I try and engage to tell people and why I try not to be arrogant about it,.
+
+584
+00:56:45,018 --> 00:56:52,036
+because I don't feel a sense of arrogance. I feel.. Where I come from is a sense of profound dumbness.
+
+585
+00:56:52,037 --> 00:57:05,014
+A profound insecurity about understanding myself and why I'm here, but I like to be creative and so, you know,
+
+586
+00:57:05,015 --> 00:57:06,055
+it's a privilege to do it.
+
+587
+00:57:06,068 --> 00:57:15,017
+If I can come up with, like we talked about the antibiotics earlier, a societal excuse, not to validate it,
+
+588
+00:57:15,018 --> 00:57:20,033
+but if I can turn the idea into something really cool that could change humanity or be useful,
+
+589
+00:57:20,034 --> 00:57:27,053
+then I think that's really excellent. One of the things, that's one I want, is obviously I want to solve the problem.
+
+590
+00:57:27,054 --> 00:57:34,057
+I want to make sure I'm useful and I want to understand more about the process. It's all kind of complicated.
+
+591
+00:57:34,058 --> 00:57:37,043
+It's kind of woven together.
+
+592
+00:57:37,044 --> 00:57:47,021
+Speaker 2: Is it the part I want to do good and I want to be clever and I want to be important? What is it?
+
+593
+00:57:47,022 --> 00:57:47,052
+What kind of mix is it?
+
+594
+00:57:47,053 --> 00:57:59,084
+Lee: No. When I was at school and the teachers told me I was never going to really make it beyond anything.
+
+595
+00:57:59,085 --> 00:58:06,094
+They said, "You're just not going to make it. You're not smart." They used to say "You're pretending to be smart.
+
+596
+00:58:06,095 --> 00:58:10,046
+Stop pretending to be smart." I was like, "Well, what do you mean?" They said, "Well,
+
+597
+00:58:10,047 --> 00:58:15,006
+you're pretending to read." I'm like, "Okay." "You're pretending to do maths that we don't understand".
+
+598
+00:58:15,007 --> 00:58:16,057
+or "You're pretending"..
+
+599
+00:58:16,079 --> 00:58:23,046
+"I got the book out of the library." They were like, "Stop trying to fool us." I was like,
+
+600
+00:58:24,007 --> 00:58:29,060
+"Surely it would be more worth it to fool you than just to do it, so if I was successfully fooling you,
+
+601
+00:58:29,061 --> 00:58:33,071
+wouldn't that mean I'm even smarter than just being able to do it?" They were like,
+
+602
+00:58:33,072 --> 00:58:42,005
+"just go away." I think that's one of the reasons why I can deal with imposter syndrome.
+
+603
+00:58:42,006 --> 00:58:47,097
+A lot of people in science or anything who are good at stuff, athletes, everybody, in fact, all of us. We're all imposters to some degree.
+
+604
+00:58:48,044 --> 00:58:54,009
+I mean, do we feel good enough? NO, but that's why we try and do better.
+
+605
+00:58:54,038 --> 00:59:01,024
+I've become comfortable about people telling me I'm not going to succeed. That doesn't mean I shouldn't try.
+
+606
+00:59:01,025 --> 00:59:06,071
+That's a very nice thing. No one thinks I'm going to succeed to make a new life form in my laboratory.
+
+607
+00:59:06,072 --> 00:59:13,046
+I don't think you'll find anyone that believes I'm going to succeed, but probably I will.
+
+608
+00:59:14,041 --> 00:59:17,055
+For the simple reason, not for the complicated one.
+
+609
+00:59:18,043 --> 00:59:22,061
+The simple reason is because it's obvious and easy and not that complicated and going on already.
+
+610
+00:59:23,064 --> 00:59:30,014
+Not for this I'm a magician who knows something they don't and I'm so incredibly smart and I'm this hidden genius.
+
+611
+00:59:30,015 --> 00:59:31,047
+Clearly I'm not.
+
+612
+00:59:31,048 --> 00:59:37,097
+Speaker 2: But you still think you will create life in what time?
+
+613
+00:59:37,098 --> 00:59:43,016
+Lee: I made a mistake a few years ago when I gave a talk, at TED, you know, when you're trying to give these TED talks,
+
+614
+00:59:43,017 --> 00:59:50,051
+these sound bite talks. They are a privilege to give and great, but you feel like you want to time bound it.
+
+615
+00:59:50,052 --> 00:59:58,036
+I gave a time it would take once we knew what we were doing. I reckon we could do it quickly. A few years.
+
+616
+00:59:58,037 --> 01:00:06,072
+Then that kind of got misunderstood as, "Oh, you'll do it in two or three or four years." I don't know.
+
+617
+01:00:06,073 --> 01:00:13,044
+Will we make progress in one, two, three, four, five, 10 years? I would hope so. Can I put a limit on it?
+
+618
+01:00:13,045 --> 01:00:16,085
+No, because I don't want to raise expectations,
+
+619
+01:00:17,016 --> 01:00:23,030
+but I think right now it would be nice within the next 10 years to know how hard the problem was.
+
+620
+01:00:23,031 --> 01:00:30,061
+Let's say, if I can't do it in a decade or two or if I can't convince other people to help me,
+
+621
+01:00:30,094 --> 01:00:37,004
+because I think it's beyond me. I'm not capable of solving this problem alone. That's what I've realized.
+
+622
+01:00:37,005 --> 01:00:45,049
+But maybe I'm capable of building a cooperative network to make a, basically, a large hadron collider of chemistry
+
+623
+01:00:45,061 --> 01:00:53,094
+and make a chemical internet so that all chemists can explain their chemistry to each other and work together.
+
+624
+01:00:54,003 --> 01:01:01,021
+If I can't do it, but they can't do it, so suddenly I then crowd source chemistry through all my other labs.
+
+625
+01:01:01,025 --> 01:01:06,012
+My competitors become cooperative and maybe that's a way to look at it.
+
+626
+01:01:06,047 --> 01:01:10,008
+To turn it into a big cooperative endeavor and we realize it's beyond one of us.
+
+627
+01:01:10,009 --> 01:01:13,005
+Speaker 2: I'm sure I'm right, my instinct says I'm right.
+
+628
+01:01:13,006 --> 01:01:13,800
+Lee: Yeah.
+
+629
+01:01:14,000 --> 01:01:14,053
+Speaker 2: Then you have
+
+630
+01:01:14,054 --> 01:01:22,015
+Lee: Look, I'm right. Okay. If you want me to level with you, I can't tell you why I'm right. I'm right.
+
+631
+01:01:24,023 --> 01:01:29,011
+My job is, quite rightly, as a skeptic, should go "No, Lee.
+
+632
+01:01:29,022 --> 01:01:38,052
+Actually, you're not right until you demonstrate the theory, the experiment and the critique and you carry on
+
+633
+01:01:38,053 --> 01:01:44,072
+and you let everyone else judge. And your peers will judge if you're right..
+
+634
+01:01:44,073 --> 01:01:49,087
+You won't." In a way, the nice thing for me is I like.. I say, "I don't have to be right. I don't have to be wrong.
+
+635
+01:01:49,088 --> 01:01:53,018
+I just have to do it." I say, "Here's my assumption.
+
+636
+01:01:53,063 --> 01:01:57,073
+Here are my experiments," because you know what, when people believe they're right
+
+637
+01:01:57,074 --> 01:02:05,008
+and they just think everyone else is "Oh, how dare you give me a criticism. I'm right.
+
+638
+01:02:05,009 --> 01:02:10,088
+You're just too stupid to understand" or "You don't understand this" or "You don't know that." There's something wrong.
+
+639
+01:02:10,089 --> 01:02:20,006
+I see this all the time. My job is to say, "Honestly, as much as possible, here are my starting points.
+
+640
+01:02:20,014 --> 01:02:24,023
+Here are my rules for my experiment. Now I throw my die.
+
+641
+01:02:24,024 --> 01:02:29,069
+Look how the experiment unfolds and all I want you to do is go, 'Wow,
+
+642
+01:02:29,087 --> 01:02:35,068
+that's interesting.'" If I can get you to do that, it doesn't matter if I'm right or wrong, I will take a holiday or...
+
+643
+01:02:36,055 --> 01:02:37,074
+Glory in discovery.
+
+644
+01:02:37,075 --> 01:02:40,093
+All I want to do more than anything else, the reason I'm doing this,
+
+645
+01:02:40,094 --> 01:02:47,091
+the reason I think I'm right is I want to discover the process or the phenomena.
+
+646
+01:02:47,092 --> 01:02:53,068
+or the thing that it is that turns dead chemistry to living chemistry. That, for me..
+
+647
+01:02:54,006 --> 01:03:03,035
+I suppose I know I'm going to discover something is probably more what I can say with certainty rather than I know I'm
+
+648
+01:03:03,036 --> 01:03:06,005
+right. That's why, I guess, what I'm trying to say in the end, I don't know if I'm going to be right.
+
+649
+01:03:06,006 --> 01:03:11,094
+Maybe I will never be proven right or wrong in my lifetime, because we won't have the tools or it's a near miss,
+
+650
+01:03:11,095 --> 01:03:18,026
+but I lack the intellect, maybe I'm not smart enough. Maybe the computers are not fast enough.
+
+651
+01:03:18,049 --> 01:03:21,073
+The time is not long enough. But if I can start with sand
+
+652
+01:03:23,076 --> 01:03:31,040
+and turn it into an object that starts to do something by itself when I feed it a fuel and you go, "Wow.
+
+653
+01:03:31,041 --> 01:03:40,005
+Let's look at that again." And you see that spark of life in that previously dead object, that's really cool.
+
+654
+01:03:40,006 --> 01:03:48,052
+What I think I might have been able to do is when they spark and lives are set up, those sparks of life,
+
+655
+01:03:48,053 --> 01:03:53,092
+those living things, can do stuff that dead things can't do.
+
+656
+01:03:53,093 --> 01:04:00,025
+They make artifacts, a bit like a caveman, or me,
+
+657
+01:04:00,026 --> 01:04:07,008
+would make a complex object that if you found in your backyard 1,000 years later you'd go, "Well, naturally occurring
+
+658
+01:04:07,009 --> 01:04:18,024
+or someone made that." I think I have come up with a thing, an algorithm as I would call it, a measure of made upness.
+
+659
+01:04:19,004 --> 01:04:29,045
+If I showed you a thing, an object, you could tell me using my rules whether a living system, a life form, made it
+
+660
+01:04:29,046 --> 01:04:30,021
+or not.
+
+661
+01:04:30,022 --> 01:04:35,062
+That is what I'm most excited about right now, because that seems to be working in my head
+
+662
+01:04:35,063 --> 01:04:40,007
+and I'm challenging it to all the skeptics I can find and they are trying to demolish right now
+
+663
+01:04:40,008 --> 01:04:51,043
+and I think they will get somewhere, but there's something in it. You're a year too early or you're right on time.
+
+664
+01:04:51,073 --> 01:05:00,544
+You can cut that out depending on whether it works or not in a year's time. I think in a year's time we will know..
+
+665
+01:05:00,545 --> 01:05:03,022
+If you bring me an object and if you go..
+
+666
+01:05:03,024 --> 01:05:09,031
+If I go to Mars, here's my phone and you can see my phone's got a screen, it's my boys
+
+667
+01:05:09,032 --> 01:05:17,080
+when they were young at the dentist, and I find this on Mars. What do you conclude? If you go to Mars.
+
+668
+01:05:17,081 --> 01:05:23,043
+You're the first person on Mars and you find one of these phones, what do you conclude?
+
+669
+01:05:23,044 --> 01:05:27,091
+Speaker 2: That you are not the first one.
+
+670
+01:05:27,092 --> 01:05:37,007
+Lee: It's either a hoax, I'm not the first one or a life form made a phone. It's either one or the other.
+
+671
+01:05:37,008 --> 01:05:44,012
+Now, let's say we go to Mars and we find an object that is so complicated. It doesn't exist on earth...
+
+672
+01:05:44,013 --> 01:05:52,075
+We've never seen it before. It's not evidence of Apple going galactic or solar.. What's a solar.. Systemic.. Solar...
+
+673
+01:05:52,076 --> 01:05:55,001
+Apple Solar. You heard it here.
+
+674
+01:05:55,002 --> 01:05:58,085
+Speaker 2: I won't take credit for that one.
+
+675
+01:05:58,086 --> 01:06:05,098
+Lee: No. I just want money from Apple. I want them to pay me to go solar. Maybe Elon Musk can do that..
+
+676
+01:06:05,099 --> 01:06:09,086
+If you can find a complicated enough.. These are called bio signatures..
+
+677
+01:06:09,087 --> 01:06:14,059
+What I've done is, I think I've started to use.. I've written a new complexity theory.
+
+678
+01:06:14,092 --> 01:06:20,032
+Me, which I'm very proud of as someone in school who was never any good at maths apparently.
+
+679
+01:06:20,033 --> 01:06:22,052
+Well, I'm obviously not bad.
+
+680
+01:06:22,053 --> 01:06:30,014
+I've written a new complexity theory with my research team and it seems to give us bio signatures to tell us
+
+681
+01:06:30,015 --> 01:06:33,025
+when something is as complicated or improbable as a phone.
+
+682
+01:06:34,012 --> 01:06:37,089
+You bring me a molecule in your hand,
+
+683
+01:06:40,002 --> 01:06:46,098
+I can tell you by doing a number of simple things to that molecule if it was made by a life form or not.
+
+684
+01:06:47,051 --> 01:06:57,006
+How cool is that? Equally, if you say this house. Was this house made by a life form or not? Yes. Your car. Your phone..
+
+685
+01:06:57,007 --> 01:07:03,074
+Now I've now got a hierarchy of complexity and now in the end, I can define complexity by...
+
+686
+01:07:03,075 --> 01:07:09,091
+Life by complexity, the necessary complexity. It's a bit like life form..
+
+687
+01:07:10,049 --> 01:07:15,083
+Life is those things that can throw six die, six sixes in a row every time.
+
+688
+01:07:15,084 --> 01:07:17,012
+Speaker 2: Yeah. You explained that briefly.
+
+689
+01:07:17,013 --> 01:07:19,579
+Lee: Yeah..
+
+690
+01:07:19,580 --> 01:07:22,084
+Speaker 2: I was just wondering. Is it possible for you..
+
+691
+01:07:22,095 --> 01:07:34,087
+You discovered this mathematics or this explanation for how to recognize intelligence in a life form.
+
+692
+01:07:34,088 --> 01:07:38,094
+Lee: Not intelligence. Evidence of a life form.
+
+693
+01:07:38,095 --> 01:07:39,019
+Speaker 2: Complexity.
+
+694
+01:07:39,020 --> 01:07:41,028
+Lee: Not intelligence. Here's the way I did it.
+
+695
+01:07:41,029 --> 01:07:41,069
+Speaker 2: But, sorry.
+
+696
+01:07:41,070 --> 01:07:42,004
+Lee: Okay.
+
+697
+01:07:42,005 --> 01:07:51,005
+Speaker 2: Is it like the code or how is it-.
+
+698
+01:07:51,006 --> 01:07:57,052
+Lee: It's more.. It's even more brilliant than that. Oh no, I shouldn't say that. It's even more simple that.
+
+699
+01:07:57,053 --> 01:08:02,040
+I don't want to sound narcissistic on camera. It's even more simple than a code, because a code requires-
+
+700
+01:08:02,041 --> 01:08:03,092
+Speaker 2: What is it? How is it?
+
+701
+01:08:03,093 --> 01:08:03,844
+Lee: Molecules.
+
+702
+01:08:04,044 --> 01:08:04,092
+Speaker 2: Molecules.
+
+703
+01:08:04,093 --> 01:08:05,062
+Lee: It's molecules.
+
+704
+01:08:05,063 --> 01:08:11,057
+Speaker 2: what is the name of the molecule?
+
+705
+01:08:11,058 --> 01:08:14,028
+Lee: Any molecule. If you bring a molecule to me..
+
+706
+01:08:14,043 --> 01:08:17,007
+I don't want to give too much away, because it's not published yet, but it should be-
+
+707
+01:08:17,008 --> 01:08:18,026
+Speaker 2: Oh, that's why.
+
+708
+01:08:18,027 --> 01:08:19,041
+Lee: It should be published-
+
+709
+01:08:19,042 --> 01:08:26,068
+Speaker 2: We understand. Is it something, because I'm looking for something that when you are drawing on your window-
+
+710
+01:08:26,069 --> 01:08:36,003
+Lee: There is a threshold. Here is the thing. When you add sand together, you get certain patterns.
+
+711
+01:08:36,004 --> 01:08:37,055
+You get those patterns to be simple.
+
+712
+01:08:37,056 --> 01:08:45,053
+It's basically how many grains of sand do I have add together to get a pattern that is not randomly possible.
+
+713
+01:08:46,032 --> 01:08:51,013
+That is the beginning of the code in molecules. If you imagine sand grains are atoms.
+
+714
+01:08:51,014 --> 01:08:53,077
+When you throw them together they join.
+
+715
+01:08:53,078 --> 01:09:01,010
+There'll be a certain pattern of atoms that, when joined together, if you can find that in the environment,
+
+716
+01:09:01,011 --> 01:09:12,025
+that can not spontaneously form, because it's just too improbable. That is it all. I think.
+
+717
+01:09:12,093 --> 01:09:19,062
+I'm super excited, because now I don't need to make life, just make life.
+
+718
+01:09:19,088 --> 01:09:27,002
+I need to make the simplest machine that can make the most complicated molecule. Now I'm like, "Ah.
+
+719
+01:09:27,003 --> 01:09:31,050
+I don't have to fly for the sake of it," because flying, no one flew for the sake of it.
+
+720
+01:09:31,051 --> 01:09:36,078
+They flew because they wanted to beat gravity and they wanted to get from London to New York.
+
+721
+01:09:37,007 --> 01:09:42,097
+Now I have a reason for doing it. That's really important to have a reason for doing it.
+
+722
+01:09:43,051 --> 01:09:51,098
+I can improve the complexity of the molecule and more importantly than that, more important, is I can look on earth
+
+723
+01:09:53,008 --> 01:09:54,031
+or Mars or Europa
+
+724
+01:09:54,032 --> 01:10:04,005
+and I can see if I can find molecules on these planets that are greater than the threshold of naturally occurring
+
+725
+01:10:04,006 --> 01:10:12,098
+and to see if there is Martians or Europeans, because what I could argue is that life on earth is too sophisticated,
+
+726
+01:10:12,099 --> 01:10:24,061
+so it's become globalization. Let me tell you the ultimate globalization in life on earth, DNA. Everyone has it.
+
+727
+01:10:24,062 --> 01:10:29,004
+Aren't we boring? We all have Mcdonalds. It's all got Mcdonalds. Look at the golden arches.
+
+728
+01:10:29,005 --> 01:10:36,073
+You all have to have a thing called a ribosome. Ribosome is a machine that turns your DNA information into proteins.
+
+729
+01:10:39,029 --> 01:10:44,001
+How boring is that? Everybody is being globalized on earth. We all use the same thing.
+
+730
+01:10:44,011 --> 01:10:48,041
+Wouldn't it be great if, on earth, we found other life forms that didn't use DNA?
+
+731
+01:10:48,042 --> 01:10:57,053
+Wouldn't it be great if on Europa and on Mars we found other life forms that didn't use DNA?
+
+732
+01:10:57,054 --> 01:10:58,096
+That they were still alive.
+
+733
+01:10:59,044 --> 01:11:04,008
+They were above this threshold and the only way we could recognize them is they were making really complex molecules.
+
+734
+01:11:04,009 --> 01:11:05,016
+You're talking about code.
+
+735
+01:11:05,058 --> 01:11:12,043
+The reason I got excited is, the reason why some of my friends in complexity science are excited is, normally
+
+736
+01:11:12,044 --> 01:11:19,000
+when you take any code or you would take a picture, you have to assign a code to it. It's abstract letters.
+
+737
+01:11:19,001 --> 01:11:26,075
+For me, the code is written in the periodic table. The code is solved by the process of quantum mechanics.
+
+738
+01:11:26,076 --> 01:11:30,014
+The code is embedded in the laws of the universe.
+
+739
+01:11:30,072 --> 01:11:42,096
+The identity, carbon or nitrogen or oxygen or sulfur, they are implicit. The code is already there. I don't add it on.
+
+740
+01:11:42,097 --> 01:11:53,038
+It means that the molecule that I think is complicated on earth next to the sun is equally valid in Alpha Centauri,
+
+741
+01:11:53,039 --> 01:12:00,006
+the planet next to that. It's a universal code. It's a code of complex molecules.
+
+742
+01:12:00,007 --> 01:12:05,001
+If I send a space probe to somewhere else in the universe and it finds a complex molecule
+
+743
+01:12:05,002 --> 01:12:14,006
+and it's different to what we know on earth, then we can assume that it formed by chance of which there is no chance,
+
+744
+01:12:14,007 --> 01:12:19,013
+I've already explained. Take that as an assumption, even if you don't believe me, just say, "Okay.
+
+745
+01:12:19,014 --> 01:12:23,056
+I will assume that Lee's assumption is correct." If this molecule couldn't have formed by chance
+
+746
+01:12:24,068 --> 01:12:33,007
+and it didn't come from earth, another life form made it. That's it. That's what we're looking for..
+
+747
+01:12:33,008 --> 01:12:44,085
+Speaker 2: It sounds really exciting. Suppose you find it.. Of course, when you succeed-
+
+748
+01:12:44,086 --> 01:12:46,096
+Lee: Thanks..
+
+749
+01:12:46,097 --> 01:12:55,008
+Speaker 2:. What will that mean to us? Humanity?
+
+750
+01:12:55,009 --> 01:13:02,007
+Lee: For me, it will be, if we succeed, when we succeed, when we succeed,
+
+751
+01:13:02,008 --> 01:13:10,002
+it will tell us that the universe has the propensity, the ability, to live and that we are not a fluke.
+
+752
+01:13:10,003 --> 01:13:18,052
+To that we can breathe a huge sigh of relief to say, "You know what? Our pathetic, little lives have some meaning.
+
+753
+01:13:19,024 --> 01:13:24,018
+We are here." Now, what meaning? We impose the meaning on ourselves. The universe just is, right?
+
+754
+01:13:24,019 --> 01:13:25,048
+I'm not looking for deep meaning anywhere.
+
+755
+01:13:25,049 --> 01:13:35,000
+IT just is, but then we can shift our entire problem to saying, "Okay, life is easy. What about complex life?
+
+756
+01:13:35,022 --> 01:13:43,076
+How easy is that?" Let's just say someone long after I die manages to do that and say, "Okay. What about intelligence?
+
+757
+01:13:43,077 --> 01:13:54,077
+How do we make that? And what does that mean?" That is mind blowing. There are so many steps. I'm a real practical guy..
+
+758
+01:13:54,078 --> 01:14:00,088
+I'm a chemist. I love computers. The reason I got.. My son is nine years old. My oldest son.
+
+759
+01:14:00,089 --> 01:14:07,046
+Last Saturday I did something that my father did for me when I was nine years old. He bought me a computer..
+
+760
+01:14:07,047 --> 01:14:12,037
+I took my son and I bought him the Raspberry Pi, which is the worlds..
+
+761
+01:14:12,065 --> 01:14:19,002
+The best selling British computer ever and I have to be true to British computer science, because it's legend...
+
+762
+01:14:19,003 --> 01:14:24,055
+I had a I bought him this Raspberry Pi. We had a nice case for the keyboard, so he..
+
+763
+01:14:24,073 --> 01:14:28,008
+He's programming basic. He's addicted. It's hilarious.
+
+764
+01:14:28,055 --> 01:14:32,082
+One of the things I loved about when I grew up, when I was nine, 10, 11 years old,
+
+765
+01:14:32,083 --> 01:14:37,070
+the teachers were saying I was stupid, but I was programming and I was using assembly
+
+766
+01:14:37,071 --> 01:14:42,061
+and trying to get as many programs into one K. I was fascinated.
+
+767
+01:14:42,062 --> 01:14:49,047
+I only had one kilobyte, how much mayhem could I cause with one kilobyte? For me, it was like compression.
+
+768
+01:14:49,048 --> 01:14:53,002
+How could I compress as much potential mayhem in 1K?
+
+769
+01:14:53,003 --> 01:15:01,055
+That's why I became obsessed with complexabilty, that's a new word, compression and complexity.
+
+770
+01:15:01,056 --> 01:15:05,056
+How much mayhem could I compact into a small box?
+
+771
+01:15:05,057 --> 01:15:23,081
+Speaker 2: How do you prevent yourself from going crazy, because all these things and thoughts and ideas
+
+772
+01:15:23,082 --> 01:15:27,010
+and instincts together, like the giant chemical soup-
+
+773
+01:15:27,011 --> 01:15:29,046
+Lee: Well, I mean-
+
+774
+01:15:29,047 --> 01:15:36,021
+Speaker 2: What do you do besides thinking about this? Just to balance your-
+
+775
+01:15:36,022 --> 01:15:41,060
+Lee: I've always been balanced from the beginning..
+
+776
+01:15:41,061 --> 01:15:45,546
+I'm always a little bit on the weird side, in terms of I'm a little bit extrovert, but my family, it may sound...
+
+777
+01:15:45,662 --> 01:15:47,029
+My family came before me..
+
+778
+01:15:47,046 --> 01:15:55,065
+Okay, I talked about when I was a child, but my progress into academia, I was married before I was a professor..
+
+779
+01:15:55,066 --> 01:16:02,002
+I was married before I.. My wife is one of the smartest people I know and she's so dismissive.
+
+780
+01:16:02,003 --> 01:16:04,001
+She's like, "Yeah, whatever.
+
+781
+01:16:04,002 --> 01:16:10,002
+Now go do the washing up" or "Yeah, you may be smart," because she has a PhD in fundamental magnetism.
+
+782
+01:16:10,003 --> 01:16:15,011
+It's kind of grounding in a way In magnetism. Quantum Magnetism.
+
+783
+01:16:15,064 --> 01:16:26,003
+She was trying to understand how little magnets could order and undergo phase transitions in long distance..
+
+784
+01:16:26,004 --> 01:16:30,041
+She, like me, had an interesting.. She was the opposite in school.
+
+785
+01:16:30,042 --> 01:16:34,077
+She was at a poor school, but the geniuses school, so everyone thought she walked on water.
+
+786
+01:16:35,012 --> 01:16:41,022
+She was told she was a genius while I was told I was a non genius at school. I don't know.
+
+787
+01:16:41,045 --> 01:16:43,041
+We met on a course, actually.
+
+788
+01:16:43,042 --> 01:16:44,012
+Speaker 2: Crystallography?
+
+789
+01:16:44,013 --> 01:16:57,999
+Lee: Course, which is like a science course. Understanding x-ray diffraction. Years and years ago. I don't know..
+
+790
+01:16:58,000 --> 01:16:58,049
+I suppose.. I've never been-
+
+791
+01:16:57,876 --> 01:16:58,050
+Speaker 2: Really chemistry..
+
+792
+01:16:58,076 --> 01:17:04,536
+Lee: Yeah. Real chemistry. I guess, I mean, I don't know. There is something intrinsically grounded in my...
+
+793
+01:17:04,537 --> 01:17:10,045
+I'm a prac.. It's practical. I think yeah, yeah, yeah. Here's the reason why it's grounded. It's all very practical.
+
+794
+01:17:10,046 --> 01:17:14,051
+It's like a lot of people go crazy because it becomes more and more abstract and like, "Oh,
+
+795
+01:17:14,077 --> 01:17:20,073
+you can't possibly understand how complicated it is in my head" and all this.
+
+796
+01:17:20,074 --> 01:17:21,008
+Yeah, probably you can't and probably you can.
+
+797
+01:17:21,009 --> 01:17:30,004
+At the end of the day, and this is why one of the things I'm doing with my research group at the moment,.
+
+798
+01:17:29,804 --> 01:17:29,804
+because I'm really privileged. I have so many smart people and their challenge..
+
+799
+01:17:30,004 --> 01:17:38,026
+I probably can't use the word "retard" in America or some places. The stupid person in the group is me.
+
+800
+01:17:38,076 --> 01:17:44,012
+If they can't explain to me what they've done, I can't write the paper with them.
+
+801
+01:17:44,013 --> 01:17:49,060
+I can't raise the money with them, because I'm not just sitting in my office waiting for a paper and waiting for money.
+
+802
+01:17:49,061 --> 01:17:52,066
+I want to do my science. I'm addicted to chemistry..
+
+803
+01:17:52,067 --> 01:17:55,008
+Speaker 2: I mean, what do you do to..
+
+804
+01:17:55,039 --> 01:18:01,013
+I understand how do you balance your own life with this big challenge and
+
+805
+01:18:01,014 --> 01:18:01,089
+Lee: It's very practical.
+
+806
+01:18:01,090 --> 01:18:05,008
+Speaker 2: Do you do sports or what do you do?
+
+807
+01:18:05,009 --> 01:18:11,024
+Lee: A few weeks ago I remember being interviewed by someone who asked the same question.
+
+808
+01:18:11,063 --> 01:18:15,002
+I used to have all these thing, "I do all this, that and the other." It's like now I don't do anything else.
+
+809
+01:18:15,003 --> 01:18:19,064
+I sleep four hours a day. I work the rest. I spend some time with the family.
+
+810
+01:18:19,065 --> 01:18:25,064
+It's not quite as severe as all that, but what I'm saying, let me finish one point, the first point is very practical,
+
+811
+01:18:25,065 --> 01:18:27,011
+so the problems are very practical.
+
+812
+01:18:27,012 --> 01:18:32,005
+You're having deep thoughts and then your glass breaks and there's water everywhere and there's crap everywhere
+
+813
+01:18:32,006 --> 01:18:40,062
+and it's like you gotta clean it up. That's one thing. At home, well, I like to watch the television with my wife.
+
+814
+01:18:40,063 --> 01:18:45,042
+We like fiction. I run every day. I've got two kids.
+
+815
+01:18:47,095 --> 01:18:52,067
+I like to do stuff with them and I like them to challenge me and as much as I'm always busy,
+
+816
+01:18:52,068 --> 01:18:56,096
+because I'm trying to raise money and writing papers they're like, "Look, dad. Come one." They're getting older.
+
+817
+01:18:56,097 --> 01:18:59,055
+They're only going to be this age for a little while and so,
+
+818
+01:18:59,088 --> 01:19:04,072
+I was fortunate enough to have children at a time in my life where everything could have gone off the rails,.
+
+819
+01:19:04,073 --> 01:19:09,093
+but they bring you back. There's nothing like a kid vomiting on your shoulder or telling you..
+
+820
+01:19:10,026 --> 01:19:17,076
+You come in with some brilliant ideas and the kid just goes, "No.
+
+821
+01:19:17,077 --> 01:19:20,007
+Not interesting." It's quite funny, because they don't know.
+
+822
+01:19:21,001 --> 01:19:28,015
+Okay, occasionally one of them says something odd, but they're smart and they're just really interesting
+
+823
+01:19:28,016 --> 01:19:37,006
+and I'm interested in them. I have big hobbies. I love computers. I love technology. I love hacking around.
+
+824
+01:19:37,007 --> 01:19:38,005
+Speaker 2:
+
+825
+01:19:38,006 --> 01:19:44,094
+Lee: Well, yeah, I mean, but it is. I mean, you're trying to say that I paint or hand glide, I don't. I don't.
+
+826
+01:19:44,095 --> 01:19:45,095
+I just-
+

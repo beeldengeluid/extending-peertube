@@ -66,8 +66,6 @@ licence_links = {
 	'https://creativecommons.org/publicdomain/mark/1.0/': '8' 
 }
 
-i = 1
-
 file_delta = open('delta.csv', 'a', newline='')
 delta_writer = csv.writer(file_delta, delimiter='|')
 
@@ -165,8 +163,6 @@ with open('openbeelden.csv', 'r') as csvfile:
 			# error = response.json()
 
 			# print(json.dumps(error, indent=2))
-
-		i += 1
 
 file_rewritemap.close()
 file_delta.close()

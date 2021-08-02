@@ -1,0 +1,3732 @@
+1
+00:00:00,5 --> 00:00:06,16
+When I was Professor Charles Spence an experimental psychologist. I work in Oxford University.
+
+2
+00:00:06,92 --> 00:00:14,72
+And there on cross modal research laboratory. Have been for the last seventeen years or so a lab that brings together.
+
+3
+00:00:15,01 --> 00:00:22,91
+Psychologists food scientists chefs composers fashion designers marketeers are all brought together to look at their
+
+4
+00:00:22,91 --> 00:00:31,99
+how the senses interact and apply the latest insights from brain science to the real world. So how do you know your.
+
+5
+00:00:33,99 --> 00:00:37,79
+Work or cross model Research Laboratory as a name for the lab
+
+6
+00:00:39,3 --> 00:00:44,72
+or research laboratory I guess you get across my little bit is a cross between
+
+7
+00:00:44,81 --> 00:00:50,83
+and modal all the senses that's caught between the senses and how I want to sense can affect another sense.
+
+8
+00:00:50,99 --> 00:00:59,32
+So if I add a certain fragrance it make make people look more attractive if I change the sound of the crunch it may
+
+9
+00:00:59,64 --> 00:01:04,08
+change the feel of the crisp visual examples of cross sensory across modal research.
+
+10
+00:01:04,31 --> 00:01:08,95
+And I want to call these so-called you know your senses what you call this field.
+
+11
+00:01:11,4 --> 00:01:15,57
+Various names for the sorts of the so rare but there could be a multi sensory perception
+
+12
+00:01:15,57 --> 00:01:26,65
+and multi sensory integration multisensory research. Is kind of a common term. Always what you're doing. Was my thing.
+
+13
+00:01:27,21 --> 00:01:36,58
+I guess since undergraduate here back in nineteen eighty something I had to do a project for my undergraduate degree
+
+14
+00:01:36,78 --> 00:01:40,91
+and didn't really have any idea and earth things that interested me at the time
+
+15
+00:01:40,94 --> 00:01:43,43
+but somebody put me on to this guy who had a broken T.V.
+
+16
+00:01:43,94 --> 00:01:47,69
+and For my first project my first experiments were about sort of a breaking televisions
+
+17
+00:01:47,69 --> 00:01:50,13
+and moving the sounds so I didn't come from the T.V.
+
+18
+00:01:50,13 --> 00:01:55,32
+They came from somewhere else and just seeing how that impacted people's ability to perceive what was being said
+
+19
+00:01:55,32 --> 00:01:59,84
+and where they thought things were happening. I don't know that the yeah.
+
+20
+00:02:00,38 --> 00:02:08,35
+So you can imagine a little apartment or flat bed in the south side of Oxford and you have a T.V.
+
+21
+00:02:08,35 --> 00:02:14,34
+and Some people come around to watch a movie that could create start rolling and years automatic music.
+
+22
+00:02:15,44 --> 00:02:20,31
+Everything seems fine and then once the critics of finished and the first actor starts to speak.
+
+23
+00:02:20,74 --> 00:02:24,04
+Suddenly there's a disconnect because you see their lips moving on the screen
+
+24
+00:02:24,21 --> 00:02:26,03
+but the horse is coming from the loudspeaker over there.
+
+25
+00:02:26,94 --> 00:02:32,26
+Your brain says what's going on my senses are coordinated there's like a moment of sort of stopping
+
+26
+00:02:32,26 --> 00:02:33,64
+and trying to figure out what is going on.
+
+27
+00:02:34,33 --> 00:02:38,69
+But then a few minutes later suddenly your brain puts it all back together again.
+
+28
+00:02:39,1 --> 00:02:44,49
+And you start to hear the voices as if they're coming from the lips on the screen that we have a ventriloquist dummy
+
+29
+00:02:44,49 --> 00:02:45,00
+illusion
+
+30
+00:02:46,53 --> 00:02:51,18
+and Michael research was looking at that sort of situation how it is that your brain to tax discrepancy between where
+
+31
+00:02:51,18 --> 00:02:54,61
+it sees things and hears things that high puts it all back together again.
+
+32
+00:02:54,88 --> 00:03:00,52
+And that is a multisensory perception of multi-sensory integration as I take a voice that I hear over here which I
+
+33
+00:03:00,52 --> 00:03:05,55
+think belongs in the voice of the lips I see on the screen over there. And your brain can I can use them back together.
+
+34
+00:03:06,95 --> 00:03:12,63
+And that is the topic of my study and over the years I started on hearing and vision back in the late eighty's
+
+35
+00:03:13,03 --> 00:03:16,05
+and over the years I brought in the sense of touch and then mood
+
+36
+00:03:16,05 --> 00:03:21,63
+and everything we can think about doing in the sense of touch. Then come smell that comes taste and pain and so on so.
+
+37
+00:03:21,75 --> 00:03:32,84
+Adding senses to the portfolio as the years go by so fast and hard to say depends who you ask if you are.
+
+38
+00:03:33,11 --> 00:03:43,05
+Ask the people in the lab as I do. The reverse. I just ask questions they don't have answers but at least five.
+
+39
+00:03:43,82 --> 00:03:47,37
+I could find I could reference to people who say as many as forty three.
+
+40
+00:03:47,52 --> 00:03:53,86
+So that's kind of the problem of definition of what is a sense certainly hearing vision touch taste
+
+41
+00:03:53,86 --> 00:03:59,69
+and smell what everyone agrees on touch taste smell hearing and vision.
+
+42
+00:04:00,46 --> 00:04:03,89
+One of the five basic senses that I think everyone agrees are five senses.
+
+43
+00:04:04,28 --> 00:04:11,64
+Beyond that you might think about the sense of a kind of your body in space and how it's moving.
+
+44
+00:04:12,82 --> 00:04:21,3
+You might think about kind of pheromone all sense of the chemical communication between creatures of the same species
+
+45
+00:04:21,69 --> 00:04:24,81
+we know exists in animals maybe exists and humans maybe not.
+
+46
+00:04:25,75 --> 00:04:32,85
+And from there you'll find others who will talk about pain is that a separate sense. Or is it part of touch.
+
+47
+00:04:33,93 --> 00:04:38,3
+Some you might even claim as and a magnetic sense or.
+
+48
+00:04:38,44 --> 00:04:42,45
+Or a sixth sense a feeling of there someone's looking at me or I know what's going on
+
+49
+00:04:43,14 --> 00:04:51,44
+and the list goes on some I want to say. Something that.
+
+50
+00:04:55,82 --> 00:04:58,63
+Not in the way it's used in and marketing
+
+51
+00:04:58,63 --> 00:05:03,82
+and so I work with car companies that are sold like cars having her sixth sense.
+
+52
+00:05:04,89 --> 00:05:09,01
+About what people normally mean by that is just kind of an increased awareness.
+
+53
+00:05:10,01 --> 00:05:14,84
+Almost like a spooky awareness of I think it is quite high. You know that you know that someone is looking at you say.
+
+54
+00:05:15,43 --> 00:05:21,27
+So I think we are can be pick up things and be aware of things without realizing how we know
+
+55
+00:05:21,27 --> 00:05:27,21
+and sometimes information comes in not through the sense we imagine create magine we can see most of the stuff we know
+
+56
+00:05:27,21 --> 00:05:35,64
+about whereas in fact maybe it's that it's a subtle smiles that can tell you whether somebody else has just come back
+
+57
+00:05:35,64 --> 00:05:39,42
+from the pub always been watching a scary movie whether of you later on something else.
+
+58
+00:05:39,56 --> 00:05:45,14
+These are kind of subtle cues that sometimes get dominated by the higher senses of vision
+
+59
+00:05:45,14 --> 00:05:47,64
+and yet can nevertheless feed into our judgments
+
+60
+00:05:47,64 --> 00:05:57,24
+and sometimes because that feeling of knowing at least translates as everybody.
+
+61
+00:06:01,76 --> 00:06:06,62
+What do you think is the most important. More important.
+
+62
+00:06:08,19 --> 00:06:13,99
+I think definitely is a kind of sensory hierarchy some senses are more important than others.
+
+63
+00:06:16,32 --> 00:06:18,59
+Most of the research most of the writing.
+
+64
+00:06:19,47 --> 00:06:25,58
+Most of our introspection tells us that vision is the dominant sense the most important one and certainly
+
+65
+00:06:25,58 --> 00:06:28,00
+when you look inside the brain.
+
+66
+00:06:28,00 --> 00:06:33,7
+You'll find more of the cortical real estate is given over to processing what we see down to any
+
+67
+00:06:33,7 --> 00:06:35,17
+or all of the other senses.
+
+68
+00:06:35,22 --> 00:06:41,65
+So the numbers from the neuroscientists would be something like fifty to fifty five more than half of your brain is
+
+69
+00:06:41,65 --> 00:06:49,11
+involved in processing visual inputs from your eyes just ten fifteen percent of your brain is involved in hearing
+
+70
+00:06:49,11 --> 00:06:51,6
+or in touch and eye comes to smell or taste.
+
+71
+00:06:52,01 --> 00:06:57,21
+You're down to one or two percent in terms of our shop or aim is given every chance it's clear that vision dominates
+
+72
+00:06:57,21 --> 00:07:05,24
+and yet most of our research last twenty years has been trying to demonstrate how important the other senses are too
+
+73
+00:07:05,24 --> 00:07:11,89
+and that depending on the sub sorts of questions you ask all the situations you're in in fact what we smell what we
+
+74
+00:07:11,89 --> 00:07:12,97
+hear what we feel
+
+75
+00:07:12,97 --> 00:07:18,58
+and even what we taste can be far more important than we realize not just making the dominant sense
+
+76
+00:07:18,58 --> 00:07:23,03
+but it means more information has more value to be had to stimulating the other senses.
+
+77
+00:07:23,68 --> 00:07:34,64
+Even though we don't think about it very often we don't talk about them so much and they are of a visual. Yeah.
+
+78
+00:07:37,29 --> 00:08:04,86
+So OK yes. So. And we we. It's possible to use more of our senses. Or is it. Both. So.
+
+79
+00:08:10,98 --> 00:08:16,36
+Why not just stay with the visual well as a number of answers to why engaging their senses is interesting
+
+80
+00:08:16,36 --> 00:08:25,81
+and ultimately important from a research trajectory so personally then there's a lot of open space to be tackled.
+
+81
+00:08:26,07 --> 00:08:30,00
+There are many many very clever people who just study vision who just study hearing.
+
+82
+00:08:30,42 --> 00:08:35,9
+But having so many look at have a sense is connect being that kind of jack of all trades knowing a little bit about
+
+83
+00:08:36,01 --> 00:08:40,37
+each of the senses opens up a huge kind of Harry research space.
+
+84
+00:08:41,68 --> 00:08:47,09
+And that's really exploded over the last quarter of a century. So important in that way but more generally.
+
+85
+00:08:50,68 --> 00:08:55,22
+So I think if you go back to when I arrived in Oxford in the eighty's there were.
+
+86
+00:08:55,92 --> 00:09:00,73
+There was a scientist who just next to him was a scientist who just started hearing.
+
+87
+00:09:01,28 --> 00:09:05,56
+And they haven't spoken to each other for you know decades literally that some falling out.
+
+88
+00:09:06,29 --> 00:09:11,23
+And neither thought that they lost anything by not speaking to it or I can just focus on them for my whole life.
+
+89
+00:09:11,38 --> 00:09:15,98
+That's all I need to know about what that guy over there does is irrelevant to me it's a different sense.
+
+90
+00:09:17,55 --> 00:09:18,28
+So I think was
+
+91
+00:09:18,28 --> 00:09:24,03
+or was coming up we've seen since sort of the seventy's as people start to get interested in how the senses interact
+
+92
+00:09:24,91 --> 00:09:30,66
+normally hearing and vision it's the easiest to study the most commonly studied these the higher the rational senses.
+
+93
+00:09:31,25 --> 00:09:36,84
+Then as the years go by people start to bring in touch as a spatial sense tells us where things are.
+
+94
+00:09:37,82 --> 00:09:45,48
+I know only then do you find the only of the last in this century. Do you find people looking at smell and taste.
+
+95
+00:09:46,37 --> 00:09:52,00
+Why because they are maybe sort of harder to study your subjects adapt they get full up it's messy.
+
+96
+00:09:52,13 --> 00:09:53,74
+I can't just put in front of a computer.
+
+97
+00:09:53,77 --> 00:09:58,17
+You know where you go mixing smells and tastes and flavors and food that's much more challenging
+
+98
+00:09:58,17 --> 00:09:59,99
+and requires a broader skill.
+
+99
+00:10:00,09 --> 00:10:05,42
+That and for that reason it has been sort of neglected and until very recently but I see it
+
+100
+00:10:05,98 --> 00:10:11,3
+and are on a mission to try and convince my colleagues that are the lower senses so-called the smell
+
+101
+00:10:11,3 --> 00:10:17,05
+and taste on the touch are much more important or exciting to have a profound impact on our lives.
+
+102
+00:10:18,9 --> 00:10:24,12
+My colleagues have met maybe just smile at me and maybe say now that I would stop hearing and vision
+
+103
+00:10:24,43 --> 00:10:29,42
+but I have to Mystic that as years go by more and more researchers will start to engage with the other senses
+
+104
+00:10:29,42 --> 00:10:33,71
+and that will be the front here that we're sort of at the moment
+
+105
+00:10:33,71 --> 00:10:37,95
+and I see some of them starting to do research on taste in a way that they've never done before.
+
+106
+00:10:38,94 --> 00:10:47,82
+And I see a huge kind of public interest in. Everyone likes to eat and drink. You know you think it's a folder.
+
+107
+00:10:48,68 --> 00:11:11,64
+That's right. And I want to time to that we. So. I think if you go back in a way.
+
+108
+00:11:11,67 --> 00:11:14,96
+So there's a few three trends kind of kind of coalescing at the same time.
+
+109
+00:11:16,06 --> 00:11:23,18
+On the wall and you sort of find I think about what two thousand
+
+110
+00:11:23,18 --> 00:11:29,13
+or so you'll find people saying a sensory overload is just too much information to me screens too many mobile devices
+
+111
+00:11:29,13 --> 00:11:34,89
+beeping in and flashing to me videos of that's all just too much information I can't really capers
+
+112
+00:11:35,34 --> 00:11:38,15
+and stressful just being anywhere but
+
+113
+00:11:38,15 --> 00:11:43,85
+when you break that down what you find is it's mostly just from hearing vision is too much technology allows you to
+
+114
+00:11:43,85 --> 00:11:45,58
+present more and more audiovisual stuff.
+
+115
+00:11:46,34 --> 00:11:50,95
+But it doesn't do anything for your sense of touch is doing things your sense of smell or taste
+
+116
+00:11:51,85 --> 00:11:58,24
+and it's that kind of realisation it's kind of sensory imbalance almost that we're overloading these higher rational
+
+117
+00:11:58,27 --> 00:12:02,92
+senses at the neglect. At the cost of our more emotional senses.
+
+118
+00:12:03,56 --> 00:12:09,62
+And there are some benefits each sense probably is good at delivering certain kinds of benefits or awards or
+
+119
+00:12:09,94 --> 00:12:14,56
+or things making it much easier to deliver those through through touch and smell
+
+120
+00:12:14,65 --> 00:12:20,82
+and maybe seas of society at large moving toward sort of aroma therapy mass arge spa treatments is going to be a growth
+
+121
+00:12:20,82 --> 00:12:28,55
+area and maybe it's partly about bringing back the touch and the smell in a way it was being missed
+
+122
+00:12:28,58 --> 00:12:37,08
+or lost from society at large I think also partly about the growth of the star chef and everyone loves.
+
+123
+00:12:37,56 --> 00:12:41,36
+Most people love to watch cookery shows the ready kept on the television on without seeing some cookery show
+
+124
+00:12:41,36 --> 00:12:43,99
+or other that's been a huge explosion of interest.
+
+125
+00:12:44,92 --> 00:12:49,96
+And those chefs have over the last decade a number of them engage more with the senses
+
+126
+00:12:49,96 --> 00:12:52,96
+and there was a gate with the senses but they're on T.V.
+
+127
+00:12:52,96 --> 00:12:56,38
+and I thinking more how to not just engage the senses on the plate or in the glass
+
+128
+00:12:56,38 --> 00:13:03,26
+but in the environments in which they serve their diners. I'm trying to figure out the sort of science behind it.
+
+129
+00:13:03,4 --> 00:13:09,56
+They do into it if it artistically or science here to help support the sorts of design decisions they're making
+
+130
+00:13:09,94 --> 00:13:15,28
+and then you have the rise of a kind of a millennial Zz who are from what all the marketeers will tell as they don't
+
+131
+00:13:15,28 --> 00:13:19,28
+want products and things they want experiences experiences that they can share.
+
+132
+00:13:19,91 --> 00:13:26,79
+And those experiences can be delivered through smell and taste and other kinds of sensory Soria.
+
+133
+00:13:27,37 --> 00:13:59,83
+Sensory experiences multisensory events. Now I understand. That might die. But. So. If you give it a name and.
+
+134
+00:14:02,53 --> 00:14:19,47
+Like as we are you probably knew. I certainly hope so that the kind of research we do and the people we talk to.
+
+135
+00:14:19,88 --> 00:14:25,09
+Well I've become in some of them to think more carefully about how their own sense for worlds
+
+136
+00:14:25,09 --> 00:14:32,24
+and how the senses are engaged in a day to day basis. I think we're seeing a bit of a shift also in a way.
+
+137
+00:14:33,2 --> 00:14:39,81
+From what we've had sort of decades of what's called the Experience Economy companies brands from from Starbucks to
+
+138
+00:14:39,81 --> 00:14:40,64
+Lego to Disney.
+
+139
+00:14:41,25 --> 00:14:44,08
+They're not selling your product anymore they're selling you experiences
+
+140
+00:14:44,31 --> 00:14:49,01
+and that's been a hugely powerful driver in marketing and you can't open a magazine
+
+141
+00:14:49,01 --> 00:14:52,71
+or go into any shopping centers without somebody telling you I'm going to give you the experience.
+
+142
+00:14:55,21 --> 00:15:01,73
+That experiences of a car in the city multisensory of his last few decades felt like it sort of companies who eat who
+
+143
+00:15:01,73 --> 00:15:06,66
+are delivering the experience of living the senses. To us manipulate you to make you buy more.
+
+144
+00:15:07,54 --> 00:15:13,76
+What's I think changing now and what I see a lot happening in the U.K. Especially in London is kind of the rise of.
+
+145
+00:15:14,75 --> 00:15:17,28
+Of what some are calling kind of sense blur ration.
+
+146
+00:15:18,52 --> 00:15:24,93
+I mean it's kind of it's almost like the public you and I taking control back sort of curious about our senses
+
+147
+00:15:25,65 --> 00:15:28,35
+and wanting to experience more experience differently
+
+148
+00:15:29,51 --> 00:15:37,91
+and this explains the rise of everything from your classical music concerts you listen to while tasting matching wines
+
+149
+00:15:38,19 --> 00:15:43,39
+perf human concerts chocolate with the way that contemporary jazz
+
+150
+00:15:44,29 --> 00:15:50,35
+or the Tate Museum in London last year had the tapes and sorrier for paintings from the collection that.
+
+151
+00:15:50,85 --> 00:15:51,00
+Two
+
+152
+00:15:51,00 --> 00:15:57,18
+or three thousand people got to to view while at the same time feeling some virtual touch smelling some perf human maybe
+
+153
+00:15:57,18 --> 00:15:59,99
+even eating a chocolate. It's connecting the senses in.
+
+154
+00:16:00,01 --> 00:16:00,64
+New way
+
+155
+00:16:01,99 --> 00:16:08,53
+and he sort of feels like it's going the artists of the colony artists experienced designers chefs who are who are
+
+156
+00:16:08,53 --> 00:16:14,41
+exploring the space and almost given the chance to to make new connections between our senses.
+
+157
+00:16:15,21 --> 00:16:20,64
+Is that you know exploration rather than exploitation I guess that kind of shift I think
+
+158
+00:16:20,94 --> 00:16:30,96
+and it's a shift that's also built on going from kind of obvious sensory interactions which I mean things like you go
+
+159
+00:16:30,96 --> 00:16:35,42
+to the Rainforest Cafe in London and it's like a rain forest so you look at the greenery.
+
+160
+00:16:35,64 --> 00:16:43,42
+And you get a thunderstorm and some rain and maybe a smell of the green notes or it's going to obvious in a way.
+
+161
+00:16:43,98 --> 00:16:45,65
+Yeah I got it. Or you know it.
+
+162
+00:16:45,68 --> 00:16:48,27
+It is in a lot of the top restaurants are trying to picnics in there
+
+163
+00:16:48,27 --> 00:16:51,94
+and picnics that have the smell the sounds of the picnic of nature and the basket.
+
+164
+00:16:51,99 --> 00:16:54,97
+Yeah it's a works and gives you all the senses it's kind of obvious
+
+165
+00:16:54,97 --> 00:17:01,94
+and what's more interesting is the more kind of synesthetic. Kind of connections aren't so obvious.
+
+166
+00:17:02,07 --> 00:17:09,33
+So for example that most of us will connect us with roundness.
+
+167
+00:17:09,88 --> 00:17:15,00
+With pinky red color with high pitch or sweet taste with around.
+
+168
+00:17:15,16 --> 00:17:23,59
+And most people say bitter tasting foods dark chocolate coffee is angular that's going to surprising almost sense that
+
+169
+00:17:23,59 --> 00:17:26,61
+a connection between our senses hadn't realized yet.
+
+170
+00:17:26,66 --> 00:17:28,77
+And you can ask your friends and they all say the same
+
+171
+00:17:28,77 --> 00:17:33,36
+and they're also these surprising almost synesthetic connections between tastes
+
+172
+00:17:33,36 --> 00:17:39,76
+and smells colors shapes textures feelings as we pick up on those new connections
+
+173
+00:17:39,76 --> 00:17:45,66
+and we're in this environment where consumers want to explore the senses and we have the artists
+
+174
+00:17:45,66 --> 00:17:47,63
+and the chefs who want to play
+
+175
+00:17:47,63 --> 00:17:56,15
+and deliver new stuff to consumers things that really were so rich Next us for this whole new way of engaging because
+
+176
+00:17:56,15 --> 00:18:00,42
+it is it's almost sense that a connection. That's why all of us need to try to. Elf.
+
+177
+00:18:01,18 --> 00:18:03,95
+To see if it might to my brain work like that too.
+
+178
+00:18:04,68 --> 00:18:16,42
+Or is it just jaws and what are strange connections might be there and where were the fun and the size stars.
+
+179
+00:18:17,43 --> 00:18:24,29
+So it's all the same. Yeah. Where does Sirius that is. Really are so serious. Yeah and I just wonder.
+
+180
+00:18:26,00 --> 00:18:34,17
+I mean for the perception of people. For people to do. To join this idea.
+
+181
+00:18:35,54 --> 00:18:43,97
+Just so far you can just get people and there's nothing there's no difference or you can research
+
+182
+00:18:43,97 --> 00:18:51,72
+and make your own theories. About. Which model.
+
+183
+00:18:51,84 --> 00:19:03,42
+Doesn't really influence the way we live and how we are in a serious way because. So so far.
+
+184
+00:19:03,72 --> 00:19:06,02
+If I think sweetness is about.
+
+185
+00:19:06,3 --> 00:19:14,7
+What you know of what you might do if you are a chocolate manufacturer for example
+
+186
+00:19:14,7 --> 00:19:15,95
+and you're being told by government
+
+187
+00:19:15,95 --> 00:19:20,87
+or out of the goodness of your own heart you think you want to reduce some of the unhealthy ingredients in the foods
+
+188
+00:19:20,87 --> 00:19:26,98
+you present to the market. If I could tell you that. By making your chocolates rounder.
+
+189
+00:19:27,62 --> 00:19:33,94
+They will taste sweeter to people. So you can reduce the sugar content but keep the perception the same.
+
+190
+00:19:34,3 --> 00:19:39,26
+That something people might want to know about and certainly do if I can tell you from any other food
+
+191
+00:19:39,26 --> 00:19:43,76
+or drink product that by changing the shape of your product out the logo on the label design.
+
+192
+00:19:43,99 --> 00:19:48,91
+You can set expectations in the mind of those you're serving bacon and hands that taste perception.
+
+193
+00:19:49,46 --> 00:19:56,53
+To that brand loyalty that can maybe help you to just to reduce these unhealthy ingredients by his tricks of the mind
+
+194
+00:19:56,53 --> 00:20:01,43
+but it's something that you know pretty much every large food and beverage come. Is interested in.
+
+195
+00:20:02,29 --> 00:20:05,26
+They know that if they actually reduce sugar of the actually reduce salt
+
+196
+00:20:05,26 --> 00:20:11,63
+and fat consumers will say just stop it you're spoiling my favorite brand put back the way it was now well being told
+
+197
+00:20:11,63 --> 00:20:14,86
+by government we have to do this and we need a good thing for society at large. Maybe.
+
+198
+00:20:15,36 --> 00:20:20,81
+So these kind of tricks of the mind by changing the color by changing the shape by eating while listening to some sort
+
+199
+00:20:20,81 --> 00:20:22,06
+of music that can bring out sweetness.
+
+200
+00:20:22,59 --> 00:20:28,77
+Potentially at least offers a way of keeping everyone happy making your foods healthier.
+
+201
+00:20:29,3 --> 00:20:31,5
+Without changing the taste for the consumer.
+
+202
+00:20:31,89 --> 00:20:39,1
+But of course in the first instance the company will go puff ridiculous what you mean I'm not much of that round going
+
+203
+00:20:39,1 --> 00:20:46,36
+taste sweeter. If you go. Up to eleven leave it surprising. So we go through. Yeah.
+
+204
+00:20:46,56 --> 00:20:49,66
+So we do experiment experiment experiment publish them in scientific journals
+
+205
+00:20:49,66 --> 00:20:53,7
+but no one ever reads those which is where then the interface with the chefs
+
+206
+00:20:53,7 --> 00:20:59,55
+or experienced designers comes in if we can do large events where we have thousands of people coming through
+
+207
+00:20:59,55 --> 00:21:03,25
+and they get to experience for themselves that when I play this music.
+
+208
+00:21:03,75 --> 00:21:09,65
+What you're tasting taste sweet on a play that music suddenly taste more bitter than that's was where kind of
+
+209
+00:21:09,65 --> 00:21:10,06
+convincing people
+
+210
+00:21:10,06 --> 00:21:16,52
+and from that really is fun enjoyable engaging multisensory that sense permission from that that's the kind of STARTING
+
+211
+00:21:16,52 --> 00:21:20,29
+POINT. To take the science that we do.
+
+212
+00:21:20,34 --> 00:21:21,55
+Which means boring
+
+213
+00:21:21,55 --> 00:21:27,43
+and dry put it in the hands of creative chefs for mixologists storks beers designed to turn science
+
+214
+00:21:27,43 --> 00:21:32,72
+and something fun exciting enjoyable and tasty and then expose people to it
+
+215
+00:21:32,72 --> 00:21:40,43
+and through that is a proof of principle that then the big brands the lions the hospital trusts come they experience it
+
+216
+00:21:40,43 --> 00:21:42,28
+and they never of that do it by themselves.
+
+217
+00:21:42,81 --> 00:21:48,29
+But they experience at a restaurant or in these events and then they go away and innovate and Reza case in point.
+
+218
+00:21:48,53 --> 00:21:52,18
+Just take British Airways. Yeah line.
+
+219
+00:21:52,84 --> 00:21:59,93
+There it's a long haul flights from eighteen months ago we were doing tastings with music for some of the.
+
+220
+00:22:00,73 --> 00:22:05,6
+They came along they got it and then they went back and changed the music in the long haul flight so that
+
+221
+00:22:05,6 --> 00:22:07,19
+when you order a meal in the airplane.
+
+222
+00:22:07,48 --> 00:22:09,64
+You can plug into the headset in the side of your seat
+
+223
+00:22:09,85 --> 00:22:15,52
+and I saw one music channel specially designed to enhance the taste of the food that they're serving so by music.
+
+224
+00:22:18,67 --> 00:22:31,53
+For everybody. You. Also if you can change every every perception or every experience of one of your senses.
+
+225
+00:22:32,17 --> 00:22:49,79
+Or what happens to your your feeling of truth because I know I like drug use.
+
+226
+00:22:49,81 --> 00:23:01,44
+Well your idea of juggling the way and it says you like mine. So you also.
+
+227
+00:23:01,54 --> 00:23:05,84
+I mean I guess what is true that we all psychologists food critic why next.
+
+228
+00:23:05,97 --> 00:23:12,9
+But regular consumer like believe we can for example just taste the drink in the glass of the food on the plate
+
+229
+00:23:12,9 --> 00:23:17,92
+and all of us believe that the chair you're sitting on the lighting that the music has an impact.
+
+230
+00:23:18,18 --> 00:23:22,31
+Now didn't feel that way it feels like I'm tasting what's in the glass and you can't convince me otherwise.
+
+231
+00:23:22,56 --> 00:23:28,33
+There are many chefs and the people we talk to who are of that opinion and intuitive glass of sherry myself
+
+232
+00:23:28,33 --> 00:23:34,41
+and yet I know when we do the research and we measure how I give you a squeeze of chocolate and I say how sweet.
+
+233
+00:23:34,41 --> 00:23:39,47
+Was it from one but it was very better to ten which is the sweetest chocolate you've ever had. I know that.
+
+234
+00:23:39,73 --> 00:23:45,72
+I can guarantee that every single person eight out of ten say or eight hundred
+
+235
+00:23:45,72 --> 00:23:49,21
+or one thousand will agree that this chocolate.
+
+236
+00:23:49,37 --> 00:23:51,64
+We're going to sweeter taste sweeter to them
+
+237
+00:23:51,64 --> 00:23:57,71
+when the sweet music's playing the most as we will deny that music is having an impact that also that
+
+238
+00:23:57,71 --> 00:23:59,22
+when I tell have schools.
+
+239
+00:24:00,05 --> 00:24:05,22
+Those My sweet music those who are busy music now see the difference and that is the proven I think in a way.
+
+240
+00:24:06,11 --> 00:24:11,51
+I can't you can't turn water into wine. There are limits. So these are mostly kind of notches.
+
+241
+00:24:11,92 --> 00:24:16,73
+If I give you food that's a bittersweet like dark chocolate or a black coffee with a sugar.
+
+242
+00:24:17,04 --> 00:24:18,51
+I can make it ten percent sweeter.
+
+243
+00:24:18,76 --> 00:24:22,2
+Or ten percent more bitter but I can give you a glass of water
+
+244
+00:24:22,3 --> 00:24:26,61
+and some have changing music by changing the lighting make you think you're tasting wine or anything else.
+
+245
+00:24:26,87 --> 00:24:30,38
+So there are limits to a sort of truth of your senses.
+
+246
+00:24:31,15 --> 00:24:41,61
+But it's always flexible there's always modifiable but it never fully never fully you know. Because it is only.
+
+247
+00:24:44,94 --> 00:24:50,84
+It's been said if it were if you take the example of the classic example of you get the wine expert
+
+248
+00:24:51,02 --> 00:24:57,72
+and you get them a glass of white wine and you add some color less total US red dye. So it looks like a red wine.
+
+249
+00:24:58,19 --> 00:25:01,47
+If you can convince that expert and many experts have been convinced that what they smell.
+
+250
+00:25:01,92 --> 00:25:07,35
+Are all the red wine aromas that chocolate or tobacco and stone fruits that feels like feeling.
+
+251
+00:25:09,36 --> 00:25:16,12
+Mixed with that red color make a smell citrus on straw or on honey on and battery notes are the red color
+
+252
+00:25:16,12 --> 00:25:18,69
+and suddenly it smells completely different to the expert.
+
+253
+00:25:18,97 --> 00:25:21,51
+You could call it fooling you could call it trickery
+
+254
+00:25:21,78 --> 00:25:27,58
+and that maybe there is no absolute truth of our senses because we always eat
+
+255
+00:25:27,58 --> 00:25:33,61
+and drink experience things in some environment in that environment whatever it is wherever we are the clothing to food
+
+256
+00:25:33,61 --> 00:25:36,64
+to cocktails to coffee. To a car sales room.
+
+257
+00:25:37,84 --> 00:25:40,69
+Roy getting sensory inputs and they're all really having some impact on others.
+
+258
+00:25:40,9 --> 00:25:45,93
+We all deny it and it's our job kind of society as a psychologist not to believe you
+
+259
+00:25:45,93 --> 00:25:48,65
+when you tell me this is what it is influencing your behavior.
+
+260
+00:25:48,69 --> 00:25:54,24
+Why you like something more than another but instead to measure and observe your behavior and your performance
+
+261
+00:25:54,24 --> 00:25:59,99
+and demonstrate that sometimes the way feels to us is not the way it actually is and it's to pick those examples and.
+
+262
+00:26:00,01 --> 00:26:03,09
+Everyday Life. I think. You're Northern European as well.
+
+263
+00:26:03,1 --> 00:26:06,41
+So you'd understand the problems all rose a paradox
+
+264
+00:26:06,41 --> 00:26:12,35
+and everyone has that experience they go on holiday to the sunshine to the Mediterranean and that glass of red here
+
+265
+00:26:12,35 --> 00:26:17,2
+and taste beautiful cheeses marvelous Is this the sausages are fabulous so good in fact.
+
+266
+00:26:17,23 --> 00:26:19,14
+And so cheap you want to buy some and bring them back home.
+
+267
+00:26:19,49 --> 00:26:23,93
+And you bring that wine back home and on a cold winter's night you open it with your friends to swish.
+
+268
+00:26:24,35 --> 00:26:26,26
+Recount tales and it tastes different.
+
+269
+00:26:26,36 --> 00:26:28,63
+It doesn't taste like the same wine
+
+270
+00:26:28,63 --> 00:26:34,38
+and everyone is at a version of that experience in Taiwan they come to England the tea tastes amazing they take it back.
+
+271
+00:26:34,41 --> 00:26:38,07
+It doesn't taste different in South America wife is from it's a cottage
+
+272
+00:26:38,07 --> 00:26:41,99
+and on the Colombian coast things taste different now than they do in the capital Bogota. And I wanted to experience.
+
+273
+00:26:42,92 --> 00:26:43,52
+What is it.
+
+274
+00:26:43,55 --> 00:26:47,28
+It's not that the wine has changed all that has changed is the mood that you're in
+
+275
+00:26:47,28 --> 00:26:51,92
+and the atmosphere in which you eat and drink. And.
+
+276
+00:26:52,6 --> 00:27:17,01
+Can you say that the way we see things and is very very broken is that you know. So let's have a question. Whoa.
+
+277
+00:27:17,08 --> 00:27:20,11
+Why do we need so many senses wooden just one day.
+
+278
+00:27:20,48 --> 00:27:22,27
+But after five or six or seven
+
+279
+00:27:22,27 --> 00:27:28,13
+or thirty forty three because you're more senses we've got more trouble your brain has trying to combine what it hears
+
+280
+00:27:28,13 --> 00:27:34,21
+what it sees with what it takes so the fewer the senses the simpler the kind of computational problem to be solved.
+
+281
+00:27:34,5 --> 00:27:37,02
+You might think. So there is a cost to adding more senses.
+
+282
+00:27:37,87 --> 00:27:42,04
+On why do we have so many and why do we have the ones that we do.
+
+283
+00:27:42,11 --> 00:27:48,08
+Well maybe it's something about you know I say Gee isn't dark ages meaning the vision wasn't so good so other senses
+
+284
+00:27:48,08 --> 00:27:53,47
+came out and developed and then the lights came back on as it were and suddenly you got two senses and
+
+285
+00:27:53,47 --> 00:27:59,9
+but in fact I think the real answer is that each and every one of our senses is noisy we are.
+
+286
+00:28:00,08 --> 00:28:06,56
+Biological sensing system. So it's always noisy noise machine. Like a computer.
+
+287
+00:28:08,31 --> 00:28:12,04
+And that noise in the system means that sometimes the thoughts alarms.
+
+288
+00:28:12,33 --> 00:28:16,76
+I think I saw something that I thought I heard my name
+
+289
+00:28:16,76 --> 00:28:22,85
+but no so all the time this kind of false alarms each of our senses is just noise in and sending these false alarms.
+
+290
+00:28:23,92 --> 00:28:30,8
+And if we only had one sense to go on would be perpetually distracted by these laws that would actually have something
+
+291
+00:28:30,8 --> 00:28:34,89
+happen. However if I think I hear something I think I saw something.
+
+292
+00:28:35,35 --> 00:28:41,32
+It's very unlikely that two of my senses accidentally fired at the same time and if I thought I saw
+
+293
+00:28:41,32 --> 00:28:47,02
+or heard something and they were both from the right. I think more likely so by having different senses.
+
+294
+00:28:47,86 --> 00:28:53,42
+But each we assume have passed separate noise variation then by kind of pulling two senses.
+
+295
+00:28:53,69 --> 00:29:00,33
+I get a much better index of what's happening in the world and can ignore more the noise of my sensory operators.
+
+296
+00:29:03,99 --> 00:29:08,48
+Since you have the better in the sense that's part of the advantage of illusion really speaking
+
+297
+00:29:08,82 --> 00:29:14,66
+and it also probably is the case that each of our senses is good at something
+
+298
+00:29:14,97 --> 00:29:16,65
+and each of our senses is good at something different.
+
+299
+00:29:17,2 --> 00:29:23,22
+So I want to know what something is where it is my eyes are as good as any sense if I want to know
+
+300
+00:29:23,22 --> 00:29:24,16
+when did something happen.
+
+301
+00:29:24,84 --> 00:29:31,15
+How quickly did it change my ears are much better than a mechanical rather than a chemical transduction then
+
+302
+00:29:31,15 --> 00:29:34,72
+when it comes to something like. Mate selection.
+
+303
+00:29:35,86 --> 00:29:41,13
+Who should I get married to or not really my nose tells me about the immune compatibility between me
+
+304
+00:29:41,13 --> 00:29:45,09
+and this other person in a way that I can't see that a cop feels or smell is useful
+
+305
+00:29:45,09 --> 00:29:50,02
+or smell is useful if you think about if I presented you with a plate of beautiful fish.
+
+306
+00:29:50,51 --> 00:29:54,95
+It looks fabulous all the trimmings. But it just smells a bit.
+
+307
+00:29:55,18 --> 00:30:00,22
+It is coughs then your nose would dominate and you would not eat that thing no matter how hard. Beautiful.
+
+308
+00:30:00,24 --> 00:30:06,81
+It looks so small then becomes dominant for avoiding poisons perhaps to make make selection and taste true.
+
+309
+00:30:07,1 --> 00:30:10,43
+I'm going to warn you. I'm going to get warn you.
+
+310
+00:30:10,56 --> 00:30:13,16
+Or provide different kind of window into the world
+
+311
+00:30:13,16 --> 00:30:19,6
+and so for you know what I want to know what should I eat what might poison me what will be neutral. If I me.
+
+312
+00:30:19,91 --> 00:30:26,45
+Give me the calories and the and the protein and the minerals this taste is really the only true sense
+
+313
+00:30:26,45 --> 00:30:32,34
+and picking up those qualities and yet revolution we've learned that I can't put everything into my mouth
+
+314
+00:30:32,34 --> 00:30:36,47
+and seal it taste like that would be too time consuming better use my eyes.
+
+315
+00:30:36,89 --> 00:30:40,33
+To predict which trees have the right Proops learn the.
+
+316
+00:30:40,94 --> 00:30:47,81
+Fruits go from green and sour to read and write and then I know by looking. Where I can get the best tasting food.
+
+317
+00:30:47,91 --> 00:30:53,04
+So all the senses working together and realizing that each one is dominant and good different kind of thing.
+
+318
+00:30:53,13 --> 00:31:01,76
+So there's a sense. To this a sense that been there has been talk or.
+
+319
+00:31:02,34 --> 00:31:07,51
+A magnetic sense that it was some some some birds maybe some other creatures have this
+
+320
+00:31:07,51 --> 00:31:10,81
+and some navigate towards North know
+
+321
+00:31:10,81 --> 00:31:13,94
+and you quite how it turns out that they that they have some kind of magnetic sense
+
+322
+00:31:13,94 --> 00:31:21,27
+and the BE A few suggestions in the end even various team scientific journals of humans to some humans have some
+
+323
+00:31:21,27 --> 00:31:25,58
+vestige of a. Magnetic sense.
+
+324
+00:31:26,44 --> 00:31:34,46
+That's one that is on the cusp where would be nice if we could all have a really fully functioning magnetic sense.
+
+325
+00:31:34,68 --> 00:31:42,46
+So I wouldn't need to read a map of all that stuff I could just know how to get home and leaders know that way.
+
+326
+00:31:42,51 --> 00:31:48,69
+Two hundred miles. Would be great. So that would be one that we could say we miss it is clearly there.
+
+327
+00:31:48,7 --> 00:31:55,04
+In other species and some of my colleagues in Germany have been trying to train us to have an extra sense.
+
+328
+00:31:55,31 --> 00:31:58,46
+So they might they be putting about on people in Germany.
+
+329
+00:32:00,51 --> 00:32:07,2
+So computer coding in colleagues put a belt on people and then vibrates and where it vibrates tells you where north is.
+
+330
+00:32:07,77 --> 00:32:14,04
+And they get you what you wear this vibrating belt for six weeks two months with the hope being that after that time.
+
+331
+00:32:14,41 --> 00:32:15,9
+You may have learnt almost
+
+332
+00:32:15,9 --> 00:32:36,07
+when to put that vibration as kind of a magnetic cue we were talking about this meeting is there's no I don't need. We.
+
+333
+00:32:40,4 --> 00:32:40,71
+Three.
+
+334
+00:32:45,69 --> 00:32:53,69
+Oh you can you can educate the senses I suspect in this case it will always remain always feel like touch
+
+335
+00:32:54,03 --> 00:32:59,84
+and they want to feel like and you sense I guess. So we can educate the senses to be better.
+
+336
+00:33:01,07 --> 00:33:05,25
+Most of the research is in the case of those who've lost the sense those who are blind or deaf.
+
+337
+00:33:05,88 --> 00:33:12,78
+Can they use some sort of sensory substitution system to use one of their remaining senses in order to make up for the
+
+338
+00:33:12,78 --> 00:33:17,16
+loss of vision say in their tactile visual vests.
+
+339
+00:33:18,3 --> 00:33:26,24
+There are glasses that have little sort of cameras on the side that may change what you see into what a sighted person
+
+340
+00:33:26,24 --> 00:33:30,23
+would see they'll change it to sound the question what sort of sound should you happen.
+
+341
+00:33:30,45 --> 00:33:36,45
+And those blind people who hear the world as a sighted person see do they really see.
+
+342
+00:33:37,00 --> 00:33:42,86
+Or do you have to have these things in order to actually see that stuff Lear very philosophical question about what
+
+343
+00:33:42,86 --> 00:33:46,42
+does it mean to see but I suspect mostly it's about.
+
+344
+00:33:47,53 --> 00:33:56,45
+You can train the senses to do more stuff better stuff but it's probably impossible to to create a new science.
+
+345
+00:33:57,48 --> 00:34:03,01
+Or to take what existing sense and. Turn into something else and it will always stay.
+
+346
+00:34:03,06 --> 00:34:22,02
+I think it was so when we look at the reasons. Now we enter a new era where what we expect or more.
+
+347
+00:34:22,52 --> 00:34:42,04
+Will be that will be in time. So looking forward and terms of how it will be sense multisensory stimulated.
+
+348
+00:34:43,85 --> 00:34:48,61
+I think the answer to that question in a minute maybe partly about desire more people would like to happen
+
+349
+00:34:48,74 --> 00:34:52,88
+and how they'd like their senses to be stimulated. But it's as much a matter of technology.
+
+350
+00:34:53,41 --> 00:34:55,59
+How can you deliver sensations differently.
+
+351
+00:34:56,51 --> 00:35:02,88
+And I think the last ten fifteen years a lot of our research on Touch say for example has been driven by the fact that
+
+352
+00:35:02,88 --> 00:35:03,8
+now you know.
+
+353
+00:35:04,25 --> 00:35:12,5
+Tactile technology tactile stimulation mobile devices in screens in cars where you name it is now that the technology
+
+354
+00:35:12,5 --> 00:35:19,63
+exists and maybe now there are three billion fiber ating devices in people's pockets. That wasn't a cased decade ago.
+
+355
+00:35:19,94 --> 00:35:26,28
+So suddenly the technologies allowed us to stimulate the skin in new ways that all these things didn't exist ten
+
+356
+00:35:26,28 --> 00:35:31,82
+fifteen years ago and they ubiquitous now. So that technology allows us to simulate a sense of touch more.
+
+357
+00:35:32,52 --> 00:35:36,31
+Hopefully better and the question is how what benefits can we deliver.
+
+358
+00:35:36,62 --> 00:35:43,08
+Is there something about mechanical digital touch that is never the same as a real.
+
+359
+00:35:44,43 --> 00:35:49,92
+Personal Touch or can we simulate it all and I suspect there may some of our research.
+
+360
+00:35:50,19 --> 00:35:55,64
+I suspect suggests the stuff we read suggests that maybe you cannot simulate.
+
+361
+00:35:56,5 --> 00:35:59,87
+So real touch the Midas touch the gentle casual touch.
+
+362
+00:36:00,18 --> 00:36:06,91
+That will make you feel better pick up some of these change return your live reports on time big get a bigger tape that
+
+363
+00:36:06,91 --> 00:36:11,45
+kind of casual touch is kind of emotional use of the sense of touch.
+
+364
+00:36:11,81 --> 00:36:20,31
+You might say could I deliver that my just touch it seems to make the world a better place by by tactile vast Well
+
+365
+00:36:20,31 --> 00:36:23,35
+having us. Just set up by breakers just do that. It turns out.
+
+366
+00:36:23,44 --> 00:36:32,54
+No it doesn't work that seems to be something special about real human to human touch the mother's touch is kind of a
+
+367
+00:36:32,54 --> 00:36:36,46
+name that. Was at my desk in my seventy touch turns to gold the.
+
+368
+00:36:36,82 --> 00:36:43,25
+Way it works in the hands of social psychologists is that if. You do a study and you just gently touch somebody.
+
+369
+00:36:43,59 --> 00:36:51,67
+On the shoulder be at the waitress in the restaurant the little library in the library be the person on the street then
+
+370
+00:36:51,67 --> 00:36:59,52
+those who are gently touched. Who have had their eyes at Midas touch in fact show more pro-social behavior.
+
+371
+00:36:59,83 --> 00:37:06,16
+So they will return alive Reeboks they will pay their fines they will give a bigger TEP they will be more social beings
+
+372
+00:37:06,16 --> 00:37:12,66
+just from this into personal touch because this is kind of personal touches so beneficial in some sense.
+
+373
+00:37:13,39 --> 00:37:19,39
+Those who are not developing the technology to vibrate our pockets our hands are wondering could we deliver that
+
+374
+00:37:19,39 --> 00:37:24,59
+through your touch screen your your your i Pad your your mobile device.
+
+375
+00:37:25,7 --> 00:37:32,67
+And it turns out so far no one's been able to do that. Maybe there's just something about real touch that's missing.
+
+376
+00:37:32,77 --> 00:37:36,65
+Maybe when when you feel the touch of another person. It's got a certain speed.
+
+377
+00:37:38,02 --> 00:37:41,88
+Maybe get a certain temperature and I know if I look in your and you're hairy skin.
+
+378
+00:37:42,17 --> 00:37:48,98
+I know exactly the speed that your skin likes to be touched. Maybe it's not copying that who knows.
+
+379
+00:37:49,13 --> 00:37:55,46
+So it's a technology that is in the world of touch and is doing that already. Then if you think about smell.
+
+380
+00:37:55,76 --> 00:38:19,87
+Where are you going to. So you say well we see evidence it. In fifty years. Or we might imagine that.
+
+381
+00:38:21,97 --> 00:38:25,3
+Maybe every device will have will be touch enabled in some way.
+
+382
+00:38:26,44 --> 00:38:28,28
+Everything from the cutlery that you hold
+
+383
+00:38:28,31 --> 00:38:32,88
+or you go to the restaurant to the car that you drive who are still driving to any.
+
+384
+00:38:35,2 --> 00:38:42,86
+Phone Smartphones tablets computers. Maybe the whole B. Touch enabled. Through the chairs we sit on.
+
+385
+00:38:43,39 --> 00:38:48,38
+You know you already have a massage chair so I don't like that for you because feature of any thing that they're
+
+386
+00:38:48,38 --> 00:38:53,96
+actually work with love or vibrating the table so touch I think will be everywhere
+
+387
+00:38:54,17 --> 00:38:58,07
+and it will be used to for a variety of purposes to transmit information.
+
+388
+00:38:58,24 --> 00:39:04,54
+So everything around this very situation will.
+
+389
+00:39:07,66 --> 00:39:16,24
+Or will it will give us information something or maybe any digital device will have some that we interact with.
+
+390
+00:39:17,65 --> 00:39:20,16
+Will have some sort of tactile functionality.
+
+391
+00:39:21,34 --> 00:39:22,78
+Not just the feel of the thing itself
+
+392
+00:39:22,78 --> 00:39:30,34
+but it will be unable to vibrate to give us a Lucian's of touch to give the perception of temperature or wetness.
+
+393
+00:39:31,64 --> 00:39:32,17
+For example.
+
+394
+00:39:32,69 --> 00:39:38,18
+So working out with clothes companies in thinking about the transition that most people are increasingly doing their
+
+395
+00:39:38,18 --> 00:39:41,87
+shopping online and that's fine for books and C.D.'s when it comes to clothing.
+
+396
+00:39:42,72 --> 00:39:45,23
+Also Marc and I want to feel both average going to be like.
+
+397
+00:39:45,6 --> 00:39:50,01
+Our bit less comfortable doing online coaching that there's a lot of interest in how you can.
+
+398
+00:39:50,73 --> 00:39:55,4
+And able kind of technology we have a home our laptops and computers.
+
+399
+00:39:55,53 --> 00:39:59,77
+Is there some way we can trick the brain into giving you the feeling of real materials.
+
+400
+00:40:00,32 --> 00:40:04,63
+And by so doing kind of in crease sales of online sales of clothing and other stuff.
+
+401
+00:40:05,00 --> 00:40:09,39
+So how do we virtually create touch and texture. Any kind of tribute.
+
+402
+00:40:09,84 --> 00:40:16,53
+I know that if I if I give you food to eat with heavier cutlery than it will taste better to you be willing to pay more
+
+403
+00:40:16,53 --> 00:40:24,37
+for it. And now somebody in Far East has created a digital fork. That by some sort of vibration and stimulation.
+
+404
+00:40:24,57 --> 00:40:25,87
+It will feel have you to you.
+
+405
+00:40:26,44 --> 00:40:31,38
+It's not literally have you just tricked your brain by stimulating the sense of touch in a new way to give you the
+
+406
+00:40:31,38 --> 00:40:32,19
+illusion of weight.
+
+407
+00:40:32,93 --> 00:40:37,27
+That something ought to be built into everything's we know already that if you see something like that a Bang
+
+408
+00:40:37,27 --> 00:40:45,09
+and Olufsen remote control here let's not let's not let's not on health issue we say there's no OK.
+
+409
+00:40:45,98 --> 00:40:52,44
+Everyone's going to be upset that we don't studies with certain people your books and your polls.
+
+410
+00:40:53,52 --> 00:40:58,71
+And just drop a little white in the bottom of the orbit and people believe we're going to be full or soon
+
+411
+00:40:58,71 --> 00:41:03,54
+or your brain can't separate the weight on the hand from the weight of the thing that's in the package.
+
+412
+00:41:04,29 --> 00:41:06,32
+Have you got really helps another technology to do that.
+
+413
+00:41:06,7 --> 00:41:10,96
+So I imagine any sort of advice would be thinking how do I engage more senses because this is what the sensory
+
+414
+00:41:10,96 --> 00:41:13,39
+marketers are saying whatever product or service.
+
+415
+00:41:13,84 --> 00:41:19,19
+You're Levering engage more of your consumer senses touch is an obvious one is it has been neglected for so long
+
+416
+00:41:19,45 --> 00:41:24,75
+and yet it's sort of our biggest sense eighteen to twenty percent of our only mass given over to the skin
+
+417
+00:41:25,21 --> 00:41:33,34
+and it can deliver some of the fact if I don't it benefits make us feel good if we just don't relate it right yet
+
+418
+00:41:33,34 --> 00:41:40,23
+but everything you say so it's all about the benefit for.
+
+419
+00:41:41,67 --> 00:41:48,22
+That I hear a lot of arguments that governments can benefit from because we can influence people.
+
+420
+00:41:51,67 --> 00:42:03,65
+But what will be there all benefit for mankind and that. I think something like. Well good position.
+
+421
+00:42:03,68 --> 00:42:10,25
+A lot of people are worried about their weight if I give you a simple trick to be satisfied with less food which
+
+422
+00:42:10,25 --> 00:42:14,1
+involves you incurring a little lead weight around and putting it in whatever probably you're going to eat.
+
+423
+00:42:14,25 --> 00:42:18,97
+That's only we can all use in an enabler for all clearly companies might use that for their own means and ends
+
+424
+00:42:19,12 --> 00:42:23,61
+but it's something we cannot live inside itself it is flexible in its usage.
+
+425
+00:42:27,09 --> 00:42:34,5
+And it is something anybody can apply to their daily life doesn't doesn't quite high technology does some of them some
+
+426
+00:42:34,53 --> 00:42:45,9
+starting to do so you say now this year twenty sixteen will be sky books published on the topic of Bowl food eating
+
+427
+00:42:45,9 --> 00:42:54,33
+food out of a bowl five cookbooks whole trend a wave of interest what was going on just food in a bowl.
+
+428
+00:42:54,43 --> 00:42:56,22
+I don't get it but think about that.
+
+429
+00:42:56,43 --> 00:42:57,57
+That's a lot of sensory design
+
+430
+00:42:57,57 --> 00:43:02,18
+and it's with a bowl the more likely to hold the bowl in your hands of you hold the bowl you feel the way to feel the
+
+431
+00:43:02,18 --> 00:43:03,83
+weight you're satisfied with the last
+
+432
+00:43:04,2 --> 00:43:11,27
+or the whole food movement is around trying to eat healthier eat less in a way can control aware of your weight
+
+433
+00:43:11,27 --> 00:43:11,92
+and controlling it.
+
+434
+00:43:12,14 --> 00:43:16,69
+And so have you have a bowl in the hand helps that it's a warm bell maybe makes the world seem better.
+
+435
+00:43:18,04 --> 00:43:21,5
+And that you can smell the contents more tricks to brenne different way.
+
+436
+00:43:21,9 --> 00:43:26,7
+So there are trends that are out there already that people are engaged in that you can reframe in terms of this sort of
+
+437
+00:43:26,7 --> 00:43:31,5
+sensory sensory design we didn't realize but you do realize you can measure it
+
+438
+00:43:31,5 --> 00:43:37,79
+and what could be done through to I'm thinking a lot about a tour in Saudi Arabia
+
+439
+00:43:37,79 --> 00:43:41,34
+and by the way that pediatricians talking about infant touch.
+
+440
+00:43:42,37 --> 00:43:48,34
+So it's good for my wife's not here moment but she was premature by about three months.
+
+441
+00:43:49,96 --> 00:43:59,99
+And actually popped out and so she's about this big..
+
+442
+00:43:53,4 --> 00:43:59,99
+To have thought about here and I think that's because as a premature infant in the one hundred sixty S.
+
+443
+00:44:00,47 --> 00:44:07,59
+You're stuck in an incubator and left you were touched. It turns out if your premise your baby a difficult birth.
+
+444
+00:44:07,9 --> 00:44:08,75
+If you're touched.
+
+445
+00:44:08,96 --> 00:44:17,08
+If you get this effect of touch message in his early months you will develop a healthier normal weight with less
+
+446
+00:44:17,42 --> 00:44:19,04
+illness as a result.
+
+447
+00:44:19,37 --> 00:44:22,9
+So I believe passionately early life touch is very important
+
+448
+00:44:23,24 --> 00:44:30,08
+and it can be lost that a lot of parents will not touch their offspring both normal weight
+
+449
+00:44:30,08 --> 00:44:31,3
+and the kind of pre-term ones
+
+450
+00:44:31,63 --> 00:44:38,03
+and yet from all the studies I see you have a profoundly beneficial effect both on bonding both on quality of sleep on
+
+451
+00:44:38,03 --> 00:44:44,06
+on all. Sort of health and disease prevention it all comes just to stimulating the touch.
+
+452
+00:44:44,39 --> 00:44:47,02
+Maybe releasing some rumors well.
+
+453
+00:44:47,42 --> 00:44:50,48
+And I'm going around the world trying to tell the pediatricians this is important
+
+454
+00:44:51,04 --> 00:44:57,41
+and you should be at educating young mothers on the benefits of a personal touch. It's been neglected.
+
+455
+00:44:57,92 --> 00:45:03,13
+And it's in all of our hands literally to to do something about it. However gentle.
+
+456
+00:45:05,98 --> 00:45:09,27
+Because it will never be it always being.
+
+457
+00:45:13,49 --> 00:45:25,52
+As you we were always has more than we used to so maybe it's more rebalancing
+
+458
+00:45:25,52 --> 00:45:30,04
+and I think this is a reality where do we also get richer experience.
+
+459
+00:45:30,47 --> 00:45:34,79
+I say a more different kind of different balance of sensory experience
+
+460
+00:45:35,34 --> 00:45:40,2
+and in particular I want to say more connection with emotional side of our being.
+
+461
+00:45:40,9 --> 00:45:42,75
+Of the world that is smell taste
+
+462
+00:45:42,75 --> 00:45:48,08
+and touch these are the emotional senses with much more direct links to sort of mood and emotion.
+
+463
+00:45:48,67 --> 00:45:49,26
+Than our hearing
+
+464
+00:45:49,26 --> 00:45:54,75
+and vision have to go over to the back of the had then come so so it puts in touch with our motion side I think that's
+
+465
+00:45:54,75 --> 00:45:59,21
+a good thing that's been neglected and I can point to these many examples you know from that from the infants to their.
+
+466
+00:46:00,92 --> 00:46:05,9
+Old age pensioners to those in hospital who. Who.
+
+467
+00:46:05,93 --> 00:46:11,39
+If you can engage in the emotional sciences more intelligently designed. Lead to benefits.
+
+468
+00:46:11,58 --> 00:46:13,91
+Wherever you look you can pretend infants.
+
+469
+00:46:14,63 --> 00:46:15,63
+Old people are wrinkly
+
+470
+00:46:15,63 --> 00:46:20,74
+and then want to touch them through you know kids in hospital who are so petrified if you could patting dog
+
+471
+00:46:21,58 --> 00:46:23,25
+and talking to the right.
+
+472
+00:46:23,39 --> 00:46:30,02
+And yet that relaxation will come through touch with another object far outweighs the other things
+
+473
+00:46:30,02 --> 00:46:31,46
+and does lead to improved.
+
+474
+00:46:32,05 --> 00:46:32,63
+Recovery
+
+475
+00:46:32,97 --> 00:46:40,81
+and I think across the across all the sciences you can see how being more aware of the impact of all of our senses
+
+476
+00:46:41,46 --> 00:46:48,67
+being more aware of the sensory imbalance we can cause ourselves into largely as real technology can lead to a better
+
+477
+00:46:48,67 --> 00:47:02,62
+more filled world as a result. So. Is it possible that in the future we will give more value.
+
+478
+00:47:05,97 --> 00:47:16,08
+Senses for all experiences. Right now. For example in court with an eye witness is possible.
+
+479
+00:47:24,89 --> 00:47:35,39
+So I think looking forward. Are. OK With the increased value put on the other senses. For sure.
+
+480
+00:47:35,95 --> 00:47:42,31
+I am also kind of conscious in a way that it's almost no matter what I do no matter what the research shows.
+
+481
+00:47:43,09 --> 00:47:51,89
+Nevertheless there is this kind of recurrent bias saw a belief that there will always bring it back to the visual in a
+
+482
+00:47:51,89 --> 00:47:59,99
+way so I see it's a work in and fashion stalls and also situation.
+
+483
+00:48:00,01 --> 00:48:05,28
+And where I can prove that adding the other senses makes the experience better.
+
+484
+00:48:06,15 --> 00:48:13,11
+And yet I'm very aware that the consumer or person at home or that company will attribute that improvement to vision.
+
+485
+00:48:13,62 --> 00:48:16,07
+Just take an action about the Euro football a moment.
+
+486
+00:48:16,33 --> 00:48:20,53
+I know if I can give you the technology exists to give you a little plug into the side of your T.V.
+
+487
+00:48:20,78 --> 00:48:24,73
+That were released the smell of fresh cut grass. So you can see them playing on the screen.
+
+488
+00:48:24,84 --> 00:48:26,33
+You know the smell of fresh cut grass.
+
+489
+00:48:26,57 --> 00:48:31,3
+I asked you homeless to learn the experience how to enjoy the game of football the ratings would go up.
+
+490
+00:48:32,94 --> 00:48:39,39
+I believe with a cent. Unable to T.V. and Yet I think after watching the game.
+
+491
+00:48:39,42 --> 00:48:44,08
+I could show you your results went up you liked it more but you say no I just it was just a good game.
+
+492
+00:48:44,49 --> 00:48:46,52
+I can see it now and it was really good football.
+
+493
+00:48:47,29 --> 00:49:01,63
+So always misattribute the causes of our experience to the wrong things and if. That's a challenge I think.
+
+494
+00:49:02,08 --> 00:49:05,26
+And it's a rare. I guess up from five or ten years ago that I used to believe.
+
+495
+00:49:05,59 --> 00:49:09,74
+Well if I can prove it then the world will change if I can show you the graph
+
+496
+00:49:09,74 --> 00:49:14,56
+and say OK look is how much Europe peoples experience went up how much sales went up.
+
+497
+00:49:14,95 --> 00:49:20,75
+You have to believe that you might say well is did you do your experiment well but once you believe me on that score.
+
+498
+00:49:21,25 --> 00:49:21,53
+If it's significant.
+
+499
+00:49:21,83 --> 00:49:23,7
+That's it time to change the way we're doing things
+
+500
+00:49:23,7 --> 00:49:27,65
+and yet through experience I realize that's just not the way things happen often.
+
+501
+00:49:27,87 --> 00:49:36,44
+There's a whole section of the world of people you might want to influence who no matter how no amount of evidence will
+
+502
+00:49:36,44 --> 00:49:40,22
+graphs or data will ever convince those to how they can ensure it is beliefs
+
+503
+00:49:40,22 --> 00:49:45,02
+and kind of go with that somehow so simply buying more experiments by writing more papers by showing more graphs will
+
+504
+00:49:45,02 --> 00:49:47,55
+not do it. How else are going to influence them.
+
+505
+00:49:47,61 --> 00:49:54,36
+And this is where I think for us this idea of kind of experiential events often working with chefs or
+
+506
+00:49:54,36 --> 00:49:58,7
+or bringing people into environments where we can change lives and changes it and demonstrate them.
+
+507
+00:50:00,39 --> 00:50:03,46
+That's much more powerful to many people and that does lead people to go away
+
+508
+00:50:03,46 --> 00:50:06,46
+and say OK I'm going to do things differently where I am going to show the graph.
+
+509
+00:50:06,57 --> 00:50:07,52
+I just know what I felt
+
+510
+00:50:08,00 --> 00:50:13,75
+and we've had people coming out to do the three thousand person wine tasting where we change the lighting change the
+
+511
+00:50:13,75 --> 00:50:18,74
+music use has one glass of wine in your hand a score card and see how fruity how much you like the wine
+
+512
+00:50:19,36 --> 00:50:23,52
+and then you do what is called Card still got your glass of wine and I change the lighting.
+
+513
+00:50:23,9 --> 00:50:30,07
+I change music and I ask you to taste the wine again and suddenly taste different and then change the lighting again.
+
+514
+00:50:30,99 --> 00:50:31,76
+And you won't taste.
+
+515
+00:50:32,44 --> 00:50:37,31
+I'm not doing was to one changing I'm making it more fruity fresh more like the less like some recreating the problems
+
+516
+00:50:37,31 --> 00:50:40,26
+all rose a moment. In one environment ten minutes.
+
+517
+00:50:40,96 --> 00:50:44,23
+And not everyone gets it but those who do said you know it's unbelievable.
+
+518
+00:50:44,28 --> 00:50:48,09
+I think it's going to work and then as soon as you change the lighting change the taste. You know.
+
+519
+00:50:48,13 --> 00:50:54,14
+And with that the power of your own experience. That's what will drive people to go out and say OK I'm going to do it.
+
+520
+00:50:54,24 --> 00:51:01,79
+I took a long time to realize that that's made it a better way of maybe the only way bit of influencing people about
+
+521
+00:51:01,79 --> 00:51:04,24
+things that that aren't necessarily into it is to them
+
+522
+00:51:04,24 --> 00:51:08,85
+or go against the kind of the visual dominance that that is the bedrock
+
+523
+00:51:08,85 --> 00:51:13,47
+and it is built into our brains so that this sounds like fun.
+
+524
+00:51:13,8 --> 00:51:28,69
+Go on and make this period which changes even if you say why there isn't the why do you use during the. Yes.
+
+525
+00:51:29,11 --> 00:51:38,43
+And I sort of fell instantaneously for some people but it's also fun. But now that's nowhere really makes a difference.
+
+526
+00:51:40,82 --> 00:52:02,07
+Where. How. You know where they're understand what really in a way that. Now you know this is leaving.
+
+527
+00:52:03,07 --> 00:52:09,26
+The European Union that will change the way it was raised a lot of things in Europe.
+
+528
+00:52:10,8 --> 00:52:24,39
+People get scary you know what will happen next. Cortlandt. People don't know. So there is a difference.
+
+529
+00:52:24,61 --> 00:52:27,88
+And I can imagine I would transform my eyesight.
+
+530
+00:52:30,45 --> 00:52:38,85
+If that changes that the world around us will will change because we got our sensors our reprogrammed
+
+531
+00:52:39,32 --> 00:52:49,02
+or get reprogrammed without us knowing both get reprogrammed how what will that do to the world if we have our sensors
+
+532
+00:52:49,02 --> 00:53:00,48
+get bigger say in reality. So one might say of the maybe I could.
+
+533
+00:53:00,52 --> 00:53:07,24
+I'll rephrase the question I get one who will tell you. Mario to. If we use our senses.
+
+534
+00:53:08,71 --> 00:53:20,77
+So I won't change my thinking maybe you might say they bricks it voters they were describing on the television last
+
+535
+00:53:20,77 --> 00:53:25,45
+night was a once in a lifetime of political commentators in the seventy's I've never seen anything like this
+
+536
+00:53:25,45 --> 00:53:30,9
+and never will again no Will our children. So I think the events of the now that magnitude.
+
+537
+00:53:33,23 --> 00:53:42,64
+And also the work that we do is more of nudging small little mind small change here a small change there are there are
+
+538
+00:53:42,64 --> 00:53:44,49
+rarely full of your sick moments of wow.
+
+539
+00:53:45,16 --> 00:53:51,62
+So it's more and a creation of lots of little small nudges benefits improvements
+
+540
+00:53:51,62 --> 00:53:56,66
+and Huntsman's that over time say OK we really got somewhere now but at any one moment there's not suddenly.
+
+541
+00:53:57,26 --> 00:54:08,48
+And a ha moment or a shock. And I want them to write what will change when you compare. Year two thousand the year two.
+
+542
+00:54:10,34 --> 00:54:19,4
+So I write a lot about the foolishness of predicting what's going to happen a few years hence.
+
+543
+00:54:19,5 --> 00:54:22,85
+Because someone has ever done. It's always got it wrong. So.
+
+544
+00:54:24,38 --> 00:54:31,43
+That in one thousand nine hundred five eighty ninety four we had people I met scientists writing that a century.
+
+545
+00:54:31,46 --> 00:54:37,64
+Hence So I mean one thousand nine hundred ninety four people beating pills they were eat meals that's ridiculous.
+
+546
+00:54:37,93 --> 00:54:43,35
+Inefficient use of a pill that will come out of a slot in the wall that can only work.
+
+547
+00:54:43,49 --> 00:54:47,01
+How much more productive would we be that's never happened. It's never going to happen.
+
+548
+00:54:47,16 --> 00:54:53,32
+Going to be eating algal cuisine. Soylent Green that's not happening.
+
+549
+00:54:53,52 --> 00:55:02,42
+And it goes on all the predictions about what the future will be like tonight not to be like that. So I have to say up.
+
+550
+00:55:02,66 --> 00:55:09,39
+I no idea where it's going but if there is one person who could give me any open door to the future.
+
+551
+00:55:09,68 --> 00:55:14,61
+You can open any door to the future. About this field.
+
+552
+00:55:14,64 --> 00:55:19,38
+If you course because you know you will know more about those answers and I do
+
+553
+00:55:19,38 --> 00:55:33,68
+and you will be yes I know it's a surprise for us all. That you know that's the whole idea of how you think that.
+
+554
+00:55:34,59 --> 00:55:38,28
+You know really. The world will go the way it goes.
+
+555
+00:55:38,48 --> 00:55:48,08
+And you know how you can exert some influence over trends and fashions. You can drive them or predict them I think not.
+
+556
+00:55:48,32 --> 00:55:59,71
+So it was I got a very faint influence on. On forces that are much greater than yourself.
+
+557
+00:56:00,25 --> 00:56:06,7
+In society at large and technology and the extent that it's foolish to.
+
+558
+00:56:07,24 --> 00:56:13,32
+Even trying to predict will have this kind of overconfidence bias and gives us all a sense of certainty.
+
+559
+00:56:13,92 --> 00:56:25,11
+There really isn't there have to think of this referendum for leaving you or you that our senses were dominant.
+
+560
+00:56:29,07 --> 00:56:31,53
+That's the extent that we are primarily audiovisual creatures.
+
+561
+00:56:32,71 --> 00:56:43,2
+The senses are the more rational ones that any rebalancing of our senses and ramping up of smell of taste of touch.
+
+562
+00:56:43,35 --> 00:56:48,06
+These are the more emotional senses. They might imagine that would lead to more emotional decision making.
+
+563
+00:56:49,46 --> 00:56:53,73
+You take from that what you will. Whether that would have meant would have left. Or later.
+
+564
+00:56:54,15 --> 00:57:12,74
+Who knows one of the other Sure. So. What is your reaction for us. Regarding your research on census which is.
+
+565
+00:57:14,73 --> 00:57:24,89
+I don't want to miss anything. What is for you the most important thing regarding.
+
+566
+00:57:26,1 --> 00:57:31,72
+The Census what is what is your your main quest or your main goal.
+
+567
+00:57:32,1 --> 00:57:41,68
+In studying them is that the main goal for myself and for the lab I run here at Oxford is to try and understand
+
+568
+00:57:41,68 --> 00:57:47,08
+and take the understanding of how the senses interact. The sometimes unpredictable ways.
+
+569
+00:57:48,00 --> 00:57:55,79
+Our senses combine information and use those rules in the design of a different and hopefully better world
+
+570
+00:57:55,79 --> 00:58:01,28
+and that those kind of insights about the science of the senses about. The sensory perception.
+
+571
+00:58:01,74 --> 00:58:08,13
+I think spanned everywhere from the design of warning signals to car drivers through the design of food
+
+572
+00:58:08,13 --> 00:58:13,05
+and beverage experiences that are more stimulating or healthier omo memorable people have different of goals
+
+573
+00:58:13,05 --> 00:58:17,39
+or objectives through to the environments in which we live and work.
+
+574
+00:58:18,65 --> 00:58:23,89
+With a lot to work on kind of the ambient fragrance and paint colors and lighting and nature
+
+575
+00:58:23,89 --> 00:58:27,76
+and how those things might make us healthier happier more productive.
+
+576
+00:58:29,33 --> 00:58:39,29
+Through all sorts of ways of health care is an area that hasn't as yet received as much research around sensory design
+
+577
+00:58:39,29 --> 00:58:43,88
+multisensory design and you throw a few things which we better.
+
+578
+00:58:44,95 --> 00:58:55,56
+Generally for people in your safety and you know that it uses a lot of you.
+
+579
+00:58:58,53 --> 00:59:07,01
+So something like bringing hospitality back to hospitals that would be one thing that lead to a better world.
+
+580
+00:59:07,43 --> 00:59:11,8
+And that all will get there through engaging the senses in a more intelligent design.
+
+581
+00:59:12,64 --> 00:59:16,26
+Hospital health care type situations.
+
+582
+00:59:17,01 --> 00:59:25,18
+I think in the delivery of sort of healthier foods that taste the same as they always did to us.
+
+583
+00:59:25,21 --> 00:59:26,35
+That's important to many people
+
+584
+00:59:26,6 --> 00:59:32,08
+and yet have less of than healthy ingredients through through through intelligent design of the multi sensory
+
+585
+00:59:32,08 --> 00:59:40,14
+experience through everything we know about how the mind processes flavor that's going to be HUGE through sort of
+
+586
+00:59:40,14 --> 00:59:49,93
+because of transport technology. A lot of benefits for driver safety for air traffic control.
+
+587
+00:59:50,57 --> 00:59:59,99
+Fall in financial trading situations where every kind of milliseconds counts in terms of a lot of sex in a car has a.
+
+588
+01:00:00,73 --> 01:00:09,05
+So it's actually now. So the present time drivers are being confronted with more and more information.
+
+589
+01:00:10,08 --> 01:00:15,85
+Mobile phone and internet in their cars head up displays that are telling you about every single hotel
+
+590
+01:00:15,85 --> 01:00:20,25
+and bar restaurant. Competing with what's going to be going on outside the window screen.
+
+591
+01:00:20,62 --> 01:00:23,2
+There's a lot more distractions in cars and ever before.
+
+592
+01:00:23,58 --> 01:00:30,29
+Unable to technology all of those distractions are now being delivered by the content providers not the car companies.
+
+593
+01:00:31,32 --> 01:00:35,37
+So can we have a technology for years but the car companies were never really set for fear of accident.
+
+594
+01:00:36,1 --> 01:00:41,19
+But now it's the mobile providers for the first time can actually provide content drivers
+
+595
+01:00:41,35 --> 01:00:44,77
+and they don't care about safety not in the same way as the car companies do.
+
+596
+01:00:45,22 --> 01:00:49,72
+Well that means that if suddenly we have a generation of drivers who are more distracted or more texting.
+
+597
+01:00:50,48 --> 01:00:52,2
+Or the most dangerous thing you could possibly do.
+
+598
+01:00:53,59 --> 01:00:59,51
+And I tell my undergraduates you know for the females in the audience the most likely way they're going to die is at
+
+599
+01:00:59,51 --> 01:01:01,43
+the Huns of the wheel
+
+600
+01:01:01,72 --> 01:01:08,66
+when their boyfriends driving by far the biggest cause of death is through this texting distraction of the wheel
+
+601
+01:01:09,58 --> 01:01:11,66
+and so anything we can do that have a profound influence
+
+602
+01:01:11,8 --> 01:01:17,42
+and I see from our research that we can deliver we can get drivers to turn their heads back to the road if they're
+
+603
+01:01:17,42 --> 01:01:20,1
+distracted. To brake more rapidly.
+
+604
+01:01:20,19 --> 01:01:25,57
+If potential collision the event is occurring through not driving a red throbbing like that.
+
+605
+01:01:25,59 --> 01:01:26,32
+The engineer designs
+
+606
+01:01:26,32 --> 01:01:32,3
+but by putting science behind your head so it turns out that your brain has special dedicated circuits just this space
+
+607
+01:01:32,3 --> 01:01:35,39
+behind your head. The engineer never thought of putting a warning signal there.
+
+608
+01:01:35,42 --> 01:01:41,45
+But if I know from I'm saying how the brain works over the brain works that the special bit of the brain only has about
+
+609
+01:01:41,45 --> 01:01:44,97
+this for the space that isn't used while driving. If I put something in your head rest.
+
+610
+01:01:45,15 --> 01:01:47,85
+You can make you turn your head that much faster than anything else.
+
+611
+01:01:48,12 --> 01:01:56,95
+We go there for sound comes from a sound come from just behind your head your brain treats it differently processes it
+
+612
+01:01:56,95 --> 01:01:59,41
+differently and takes up to the same sound comes from in front.
+
+613
+01:02:00,37 --> 01:02:01,28
+From the dashboard
+
+614
+01:02:01,55 --> 01:02:07,76
+or from the door panel same sound same loud speaker that just behind your idea is processed differently now.
+
+615
+01:02:07,87 --> 01:02:08,27
+And for that.
+
+616
+01:02:08,38 --> 01:02:13,82
+No engineer in the in the car can restore that little voice out of the brain does our present understanding that the
+
+617
+01:02:13,82 --> 01:02:17,62
+senses and how they process information is one of the unexpected things that comes out
+
+618
+01:02:17,62 --> 01:02:19,96
+and you know we've demonstrated in the lab
+
+619
+01:02:19,96 --> 01:02:28,01
+but also the driving simulator that you can reduce reaction times amongst drivers to extent that should lead to
+
+620
+01:02:28,01 --> 01:02:31,68
+significant reductions in. And accidents on the roads.
+
+621
+01:02:32,44 --> 01:02:47,02
+For example where people drove to get a car which you're going to prevent a thing before you bus that's your action
+
+622
+01:02:47,02 --> 01:02:58,94
+kind of if you don't do that car. I wouldn't really say yeah but I believe so. Breath.
+
+623
+01:02:59,51 --> 01:03:05,98
+There is I mean you can detect if people are sleepy so probably that exact figures
+
+624
+01:03:05,98 --> 01:03:10,8
+but it might turn out that sleepy dot drivers are more dangerous as a group than drunk drivers
+
+625
+01:03:10,8 --> 01:03:16,11
+and maybe a third of all accidents are and some are related to sleepiness for example we'll tartness.
+
+626
+01:03:16,2 --> 01:03:21,01
+And say that is in fact a big cause of death on our roads.
+
+627
+01:03:21,24 --> 01:03:25,41
+I now radio the car companies can detect signs of falling asleep.
+
+628
+01:03:26,37 --> 01:03:31,34
+You're calm ask your question and then depending on how you are response you can tell from the gaps.
+
+629
+01:03:31,53 --> 01:03:36,47
+You can measure your blinking. You can measure how tightly your You're squeezing the steering wheel.
+
+630
+01:03:36,68 --> 01:03:40,03
+You can measure how aggressively you're braking and trim
+
+631
+01:03:40,03 --> 01:03:47,4
+or those cues can get a pretty good an estimate of your sleepiness. So I imagine the same is true for.
+
+632
+01:03:48,37 --> 01:03:58,59
+Four four I'll call low. There with. The sleepiness one definitely.
+
+633
+01:04:03,56 --> 01:04:12,25
+So the I know that the car companies have been working on the technologies to predict the sleepiness of drivers.
+
+634
+01:04:12,83 --> 01:04:21,84
+And then take countermeasures which probably if your car switches itself off you think you're tired now is going to buy
+
+635
+01:04:21,84 --> 01:04:28,62
+that car. But if it be automatically lowers the windows or releases an alerting scent.
+
+636
+01:04:29,08 --> 01:04:30,76
+That's not quite such an aggressive move.
+
+637
+01:04:31,55 --> 01:04:36,12
+Ideally should stop but maybe that's kind of into media companies are thinking in that space
+
+638
+01:04:36,18 --> 01:04:41,69
+and have the technology to work. In terms of the drinking while driving. I haven't heard actually anything.
+
+639
+01:04:42,21 --> 01:04:49,21
+In that space and your example of an angel were going to say well maybe they work.
+
+640
+01:04:49,3 --> 01:04:53,32
+That's a strange jump from from from car drivers to financial markets
+
+641
+01:04:53,32 --> 01:04:59,25
+but it was in a way they're the same in that this research on the design of warning signals.
+
+642
+01:04:59,81 --> 01:05:05,46
+Is an area where every millisecond every thousandth of a second matters. There are many other situations in life.
+
+643
+01:05:05,6 --> 01:05:08,45
+I mean I say I can save you one hundred a second.
+
+644
+01:05:08,54 --> 01:05:13,71
+So what who cares what I do to life driving and financial markets
+
+645
+01:05:13,71 --> 01:05:23,49
+or two of the few areas where such tiny improvements influence can lead to huge financial consequences be it in health
+
+646
+01:05:23,49 --> 01:05:31,91
+care provision for death at the wheel or gears and profits made in turbulent financial markets like for the last day
+
+647
+01:05:31,91 --> 01:05:32,23
+or two.
+
+648
+01:05:32,33 --> 01:05:41,49
+So they need something like the figures from Information Week one of the magazines for every millisecond advantage.
+
+649
+01:05:41,97 --> 01:05:52,05
+A typical sized trading house gets in the spin which information comes in that's one hundred million dollars a year to
+
+650
+01:05:52,05 --> 01:05:59,25
+that company. So you're already see that the. Lot of these companies will put their offices as close to.
+
+651
+01:06:00,01 --> 01:06:05,99
+Well the cables come out from under the North Atlantic to get that little millisecond advantage as compared to the
+
+652
+01:06:05,99 --> 01:06:11,21
+competitors who are in the city. So they're physically doing things to maximize speed up.
+
+653
+01:06:11,48 --> 01:06:17,42
+But they've never as far as I can tell ever thought about the design of that interface screens the alerts that they get.
+
+654
+01:06:18,25 --> 01:06:20,49
+So you know it has just happened.
+
+655
+01:06:20,89 --> 01:06:25,35
+You need some sort of special sound that maybe that would give you a few milliseconds advantage.
+
+656
+01:06:25,55 --> 01:06:29,98
+And if you if you're an economist then you can you say well. To the global economy.
+
+657
+01:06:30,36 --> 01:06:36,24
+What would the benefit of one millisecond faster braking be in terms of accidents
+
+658
+01:06:36,61 --> 01:06:41,63
+and more the latter you can say to the financial markets what would the benefit of one millisecond be to a lot of money
+
+659
+01:06:41,63 --> 01:06:47,06
+made by companies that they can actually equate say maybe they're worth as much or maybe the financial markets.
+
+660
+01:06:47,26 --> 01:06:48,41
+That's a bigger.
+
+661
+01:06:49,15 --> 01:06:53,9
+Potential market for milliseconds mattering and I mean because financial
+
+662
+01:06:54,75 --> 01:07:01,58
+and result there's a lot of my work is is taking domains that are very different the so you can apply the insights here
+
+663
+01:07:01,8 --> 01:07:06,58
+and there's thirty years of research on warning signals for car drivers and as far as I can tell there's nothing.
+
+664
+01:07:07,31 --> 01:07:16,13
+On trading one traders. Nothing. That's always the so much knowledge here and does it's the same thing.
+
+665
+01:07:16,95 --> 01:07:21,57
+But we have different different plans and that's a lot of our research is just taking insights from one area
+
+666
+01:07:22,18 --> 01:07:27,56
+and saying hey can we apply them over there who are tied to a particular industry or product or category.
+
+667
+01:07:28,3 --> 01:07:35,18
+And in fact there's lots of knowledge that just is sort of siloed. And what about. When.
+
+668
+01:07:38,99 --> 01:07:52,74
+You say well if you are able to read people by using your sense. So there is no suppose about it as a fact you can.
+
+669
+01:07:53,67 --> 01:08:02,76
+Help reduce modulator pain through the senses. And there are a number of ways. Doing it has been proven to effectively.
+
+670
+01:08:08,3 --> 01:08:10,14
+What you're what your partner.
+
+671
+01:08:11,55 --> 01:08:18,84
+So we've done a very small part of the research looking at how we can take insights about how the sensor interaction
+
+672
+01:08:18,84 --> 01:08:24,43
+from one domain to another. So for example from every move learned about sensory dominance in food.
+
+673
+01:08:24,8 --> 01:08:26,35
+How can we apply that to our sensory dollars
+
+674
+01:08:26,35 --> 01:08:35,46
+and pain relief from pleasure pain such as twenty of the same continuum maybe what we've been doing is for example.
+
+675
+01:08:37,11 --> 01:08:41,96
+We know that you perceive things more intensely if you concentrate on them. And if you're distracted.
+
+676
+01:08:42,2 --> 01:08:51,33
+You don't notice them as much. So a lot of pain relief strategies say for bandage changes very painful procedure.
+
+677
+01:08:51,54 --> 01:08:56,3
+What can you do to distract people take their attention away somewhere else it will hurt less.
+
+678
+01:08:57,58 --> 01:09:01,69
+So it doesn't work on attentional manipulation.
+
+679
+01:09:01,94 --> 01:09:10,18
+So maybe if you watch a very engaging video visual distraction painters less that's a factor.
+
+680
+01:09:10,22 --> 01:09:12,87
+That's going to incorporate it in some areas
+
+681
+01:09:12,87 --> 01:09:19,17
+but we've also been looking at his patients here in Oxford working with an Australian colleague we're looking at a
+
+682
+01:09:19,17 --> 01:09:25,76
+special group of chronic Regional Pain Syndrome say R.P.S. Patients and these are rare.
+
+683
+01:09:25,84 --> 01:09:33,3
+Fortunately very severe cases of birth people who've been on the motorbike or thrown off in a car accident.
+
+684
+01:09:34,01 --> 01:09:38,27
+Broke something seems to recovered. And then six months later.
+
+685
+01:09:38,37 --> 01:09:46,51
+Suddenly they get it's excruciating pain that will not go away that medication has no impact on the surgery seems to
+
+686
+01:09:46,51 --> 01:09:50,41
+have no impact on where you're left with a lifelong chronic pain and all them.
+
+687
+01:09:51,39 --> 01:09:56,94
+So we've been doing work with these patients who are very hard to work with if they're in such pain they don't are
+
+688
+01:09:56,94 --> 01:09:59,78
+taking part in when your experiment is the last thing.
+
+689
+01:10:00,56 --> 01:10:01,36
+I think they want to do
+
+690
+01:10:02,00 --> 01:10:07,57
+but those who've been able to work with you know show that if I can make your hand look smaller I can use visual
+
+691
+01:10:07,57 --> 01:10:09,97
+dominance. So we have Asians looking at that.
+
+692
+01:10:11,64 --> 01:10:17,41
+That affected limb through a pair of binoculars or been turned backwards so they look smaller
+
+693
+01:10:17,77 --> 01:10:24,34
+and if you look at your limit look smaller to you. Really. And it also reduces swelling.
+
+694
+01:10:25,1 --> 01:10:31,14
+So this psychological trip of just using visual dollars of the eyes has by the psychological impact on reduced pain
+
+695
+01:10:31,33 --> 01:10:38,94
+but also a physiological impact on reduced swelling in the limb. How long this lasts.
+
+696
+01:10:39,23 --> 01:10:44,22
+I can't say I demonstrated we do it in an hour for twenty or fifty or one hundred of these patients.
+
+697
+01:10:44,65 --> 01:10:50,12
+If you catch your limb and it was very small for a week a month a year. Who knows how long the effects will last.
+
+698
+01:10:50,2 --> 01:10:52,15
+Will they wear off. It's possible we don't know.
+
+699
+01:10:52,31 --> 01:10:58,32
+But it's going to very difficult very long term at least in the short term we can deliver pain relief through these
+
+700
+01:10:58,32 --> 01:11:05,47
+sort of tricks of the mind so lower my colleagues who are thinking about. Fragrance I know that for babies.
+
+701
+01:11:05,89 --> 01:11:10,54
+When they have some ask what's called a heel preposterous procedure very painful.
+
+702
+01:11:10,56 --> 01:11:14,6
+What the nurses do they give the baby a sugar cube.
+
+703
+01:11:15,12 --> 01:11:20,63
+So sweet taste reduces and they get across Mobile In fact my colleagues in Australia.
+
+704
+01:11:21,23 --> 01:11:25,41
+Have been working in adults to see whether a sweet smell can do the same thing.
+
+705
+01:11:25,5 --> 01:11:28,99
+So if I ask you is strawberries caramel has been allowed a sweet.
+
+706
+01:11:29,38 --> 01:11:35,58
+You say Yes I smell sweet because literally smells weeks once a taste and smell the smell
+
+707
+01:11:35,58 --> 01:11:44,15
+and yet you can smell sweet and if you diffuse that aroma while people are in pain they will rate the pain lower
+
+708
+01:11:44,15 --> 01:11:46,29
+and they'll be able to resist for longer
+
+709
+01:11:46,29 --> 01:11:54,00
+and they get using the senses using sight in one case using smell in another and I'm equally convinced in.
+
+710
+01:11:54,4 --> 01:11:58,6
+The effect of sound. You know you go to the dentist.
+
+711
+01:12:01,08 --> 01:12:03,9
+I'm sure if I could take that sound out to be a wholly different experience.
+
+712
+01:12:03,92 --> 01:12:10,23
+I could quieten it if I could play the sound of chipping birds something else. It just would last.
+
+713
+01:12:10,39 --> 01:12:31,77
+So all the senses play a role. So what are the things. Around you. That must be solvable or. You may get. Your ears.
+
+714
+01:12:32,97 --> 01:12:36,43
+Which you saw here
+
+715
+01:12:36,43 --> 01:12:51,21
+and you know these all you maybe something so it's up to sort of there are there are lots of questions that someone
+
+716
+01:12:51,21 --> 01:12:57,29
+like myself can answer as a lot of unsolvable things that I'm not the right kind of specialist for.
+
+717
+01:12:58,28 --> 01:13:07,97
+Those fortune I think we have insights that could be useful then almost any situation of daily life is the potential
+
+718
+01:13:07,97 --> 01:13:09,99
+benefits of better sensory design
+
+719
+01:13:09,99 --> 01:13:15,8
+and that is you know from hospitals to health care to offices to the home to the workplace to the airplane.
+
+720
+01:13:16,02 --> 01:13:23,05
+To the car to transport wherever you look I think engaging the senses all of the senses better would lead to more
+
+721
+01:13:23,05 --> 01:13:27,77
+immersive more engaging healthier more enjoyable more memorable experiences. So which the ones we haven't got yet.
+
+722
+01:13:27,82 --> 01:13:32,69
+They tend to be the ones where it's going to be hard to do hard to get to.
+
+723
+01:13:32,87 --> 01:13:37,92
+Our hard to convince those in authority that this is something they might think about.
+
+724
+01:13:39,62 --> 01:13:45,88
+So all of those hospitals is one that I think so.
+
+725
+01:13:45,92 --> 01:13:51,18
+Huge potential market loss and insights that we take from designing supermarkets
+
+726
+01:13:51,18 --> 01:13:57,19
+and stalls to be better a lot of the insights and you can apply to the health care situation. We haven't got there yet.
+
+727
+01:13:57,4 --> 01:13:59,39
+Because all of our grant applications been turned down.
+
+728
+01:14:00,65 --> 01:14:08,73
+Finally we've got a Spanish hospital just outside Barcelona that treat a private hospital that treats children with
+
+729
+01:14:08,73 --> 01:14:14,23
+cancer and they were very open minded approach to engaging with a sense and I did some brilliant things
+
+730
+01:14:14,71 --> 01:14:20,83
+and we have start working with them since this year together with the colony center to design sensory design not
+
+731
+01:14:20,83 --> 01:14:23,46
+sensory design of health care for some very sick children.
+
+732
+01:14:23,69 --> 01:14:26,62
+There are also things I think we can apply there some are thinking in five
+
+733
+01:14:26,62 --> 01:14:29,91
+or ten years that will come to be much more relevant.
+
+734
+01:14:30,77 --> 01:14:36,98
+Airplanes is another one of the mentioned some of the sound bite this music that will have the taste of the food
+
+735
+01:14:37,31 --> 01:14:39,15
+but I think there's a lot more that can be done there.
+
+736
+01:14:39,4 --> 01:14:46,89
+It's just hard to get access to do the experiments on the airplanes. But I see some of the some of the big line.
+
+737
+01:14:48,5 --> 01:14:53,13
+You know they want to innovate to differentiate themselves at least at the top end in the first and business class
+
+738
+01:14:53,65 --> 01:14:59,48
+and yet you think I am the more celebrity chefs can they get them to realize that celebrities have doesn't make the
+
+739
+01:14:59,48 --> 01:15:01,65
+food taste better. That's not the way to go.
+
+740
+01:15:02,13 --> 01:15:07,04
+So you got you've got the intention but not the execution and I think engaging all the senses
+
+741
+01:15:07,04 --> 01:15:11,86
+and think about the whole experience of the problems all rosé And how do you put that into the airplane might offer
+
+742
+01:15:11,86 --> 01:15:18,27
+the potential to radically innovate in that space to. There's money there's interest but they are together.
+
+743
+01:15:20,4 --> 01:15:23,55
+And the trading floor. Is another one that's.
+
+744
+01:15:25,9 --> 01:15:32,55
+Has its own peculiar difficulties in that the financial traders are masters of the universe. They think their god.
+
+745
+01:15:35,47 --> 01:15:37,66
+And their every every hour of that time is worth.
+
+746
+01:15:38,72 --> 01:15:39,97
+How many million euros
+
+747
+01:15:39,97 --> 01:15:45,27
+or pounds whatever it is so I want to test them I want to take part in the experiment so I can demonstrate to them the
+
+748
+01:15:45,27 --> 01:15:51,16
+benefit of using this tool that. That important to give up their time to take part in research.
+
+749
+01:15:51,79 --> 01:15:55,78
+Does the other person reason is it is quite impossible to get to maybe know what.
+
+750
+01:15:55,8 --> 01:15:59,58
+There are ways around it but there are also some challenging mames.
+
+751
+01:16:00,31 --> 01:16:07,36
+Because of the use in control of them or because of the practical limitations. I hope you will get there somehow.
+
+752
+01:16:07,98 --> 01:16:13,8
+So the challenge really for us is to say how do we how do we influence though that those who are controlled to take
+
+753
+01:16:13,8 --> 01:16:36,91
+that step. So we know very well we don't.
+
+754
+01:16:39,1 --> 01:16:47,88
+So I guess there's a potential that if we don't use we don't use it you lose it is kind of the phrase that gets bandied
+
+755
+01:16:47,88 --> 01:16:48,75
+around a lot
+
+756
+01:16:49,37 --> 01:16:55,67
+and one might think of something like our pheromone all senses kind of into concepts of ik chemical communication that
+
+757
+01:16:55,67 --> 01:17:02,37
+we know dogs have another animals have but humans seem to more or less have lost sight we didn't need it.
+
+758
+01:17:02,87 --> 01:17:05,75
+And maybe that is our suggestion is that when we went from four legs
+
+759
+01:17:05,89 --> 01:17:08,43
+and our noses very close to the ground the smell was very important
+
+760
+01:17:08,88 --> 01:17:13,58
+and then we went up into two legs suddenly we're much further away from the smelly stuff.
+
+761
+01:17:14,26 --> 01:17:17,82
+And hence that's partly whence our sense of smell started its decline.
+
+762
+01:17:18,8 --> 01:17:23,12
+And that now if we compare ourselves to dogs and clearly dogs are much better able to navigate
+
+763
+01:17:23,12 --> 01:17:26,67
+and to tell apart things through smell. Whereas our sense of smell.
+
+764
+01:17:27,11 --> 01:17:29,68
+We can see in the evolutionary record that it was very important.
+
+765
+01:17:30,07 --> 01:17:34,85
+It's more of a genetic material it's given over to smell than to any other sense. And yet today.
+
+766
+01:17:35,03 --> 01:17:42,00
+Look at U R I N R R R R nasal operator says is sadly diminished. From what it once was in the past so losing it.
+
+767
+01:17:42,14 --> 01:17:50,00
+You could say you know there are problems. If you would like to read the extinction of the species isn't it.
+
+768
+01:17:50,00 --> 01:17:52,35
+Is it a problem that little furry rats somewhere
+
+769
+01:17:52,35 --> 01:17:55,79
+and I mean they're off to five hours of New Zealand just could extinguished.
+
+770
+01:17:55,94 --> 01:18:01,64
+They also be a problem there are cuts after. Much. If we lost our senses.
+
+771
+01:18:02,35 --> 01:18:08,49
+I mean there's a question you can ask people if I have had to take one of your senses away which one would you least
+
+772
+01:18:08,84 --> 01:18:13,12
+like to lose and never goes of course my my eyes.
+
+773
+01:18:15,87 --> 01:18:22,51
+But in fact if you look at suicides after the loss of a sense that people are far more likely to commit suicide after
+
+774
+01:18:22,51 --> 01:18:24,64
+the loss of smell than vision.
+
+775
+01:18:26,11 --> 01:18:30,44
+This is the one that gives you your emotional life your connection your enjoyment of food.
+
+776
+01:18:31,06 --> 01:18:37,06
+Linked to sort of attraction and so does that this is the one that actually leads to you should avoid a lot of.
+
+777
+01:18:38,54 --> 01:18:39,81
+That maybe those who are blind
+
+778
+01:18:39,81 --> 01:18:44,24
+and still have that still have the memories of images they can create for a number of years after.
+
+779
+01:18:45,01 --> 01:18:47,92
+Taste it turns out is probably the least important one.
+
+780
+01:18:47,95 --> 01:18:50,39
+You could get rid of that maybe you would not realize
+
+781
+01:18:50,95 --> 01:18:56,82
+and I have been a few scientists in history who lost their tongues to syphilis
+
+782
+01:18:57,45 --> 01:19:00,31
+and the French army were quite fond of chopping out.
+
+783
+01:19:00,74 --> 01:19:08,76
+Algerian tongues and Napoleonic wars or whatever it was and in both cases it seems. Nothing much changes.
+
+784
+01:19:09,21 --> 01:19:11,23
+So actually taste your time might be very important.
+
+785
+01:19:11,54 --> 01:19:20,29
+All I know is if I were in danger of losing them I guess it'll be a very slow decline. And I think really probably.
+
+786
+01:19:20,61 --> 01:19:24,14
+We still do use all of our senses some of the time.
+
+787
+01:19:24,27 --> 01:19:32,07
+So it's not that we never use smell like if you don't rank awful smelling fish you will use it then you will use it for
+
+788
+01:19:32,07 --> 01:19:32,97
+detecting fire.
+
+789
+01:19:33,18 --> 01:19:39,25
+So they all are still used and we're trying to just increase the amount of time that people are
+
+790
+01:19:39,25 --> 01:19:46,31
+and connect in touch with or thinking about all mindful of their other senses. But.
+
+791
+01:19:47,03 --> 01:20:00,37
+What I was really really depends which one we lose big with this role for emergency room. So we do. That.
+
+792
+01:20:00,88 --> 01:20:05,45
+We have lost it depends which scientist you listen to when you mostly lost it.
+
+793
+01:20:06,85 --> 01:20:14,07
+Then when I whether we have lost it really no I actually I look at dogs and say I can see that they get all horny when.
+
+794
+01:20:14,8 --> 01:20:18,15
+This sort of smell comes along but I don't feel like I'm missing anything by.
+
+795
+01:20:18,85 --> 01:20:25,44
+Now in that sense I guess people by the very fact that you say which sense would you least like to lose
+
+796
+01:20:25,44 --> 01:20:29,75
+and nobody really says smell implies that we don't evaluate as much as perhaps we should.
+
+797
+01:20:33,42 --> 01:20:37,04
+Loss of the sense of touch is pretty pretty debilitating.
+
+798
+01:20:38,14 --> 01:20:45,54
+So he's going to tell you which we should we don't know if you know this. Like it or.
+
+799
+01:20:49,98 --> 01:21:04,21
+Don't we need every parent not let me get on OK. There is. So. So you know maybe. What happens is.
+
+800
+01:21:06,89 --> 01:21:15,22
+Maybe we evolve with different individual senses telling us about different part of the world all of our stuff we need
+
+801
+01:21:15,22 --> 01:21:18,49
+to know about poisons and pleasures food. And mates.
+
+802
+01:21:19,55 --> 01:21:25,29
+And then our brain with all this information starts to combine the senses and we have multi sensory perception
+
+803
+01:21:25,79 --> 01:21:29,29
+and then that allows you to almost sort of predict or do things differently.
+
+804
+01:21:31,36 --> 01:21:40,54
+In a way so I guess we humans are quite rare in not only tasting food also smelling it as
+
+805
+01:21:40,54 --> 01:21:43,15
+when we swallow act it is pushed into the back of our nose.
+
+806
+01:21:43,76 --> 01:21:48,98
+So it seems like we have a pretty unique way of tasting food that involves a nose.
+
+807
+01:21:50,1 --> 01:21:53,26
+As well as a mouth and not many other species all of the species have that.
+
+808
+01:21:53,93 --> 01:21:59,99
+So it kind of adapted or learn new ways of doing things through combining sensors and.
+
+809
+01:22:00,01 --> 01:22:06,97
+What ways or using sense was developed for one thing for something else and that maybe now without.
+
+810
+01:22:07,97 --> 01:22:12,09
+If I look at the the animal kingdom that maybe makes selection is mostly about smell
+
+811
+01:22:12,09 --> 01:22:15,74
+and pheromones doesn't really matter. You know how shiny that.
+
+812
+01:22:16,73 --> 01:22:22,98
+And the talk or something else or hot it's all about smell. And humans it seems.
+
+813
+01:22:22,98 --> 01:22:29,68
+Otherwise it's a pre-primary about the visual. So maybe we change our dominance.
+
+814
+01:22:30,01 --> 01:22:36,82
+When I would visually driven creatures. Maybe men more and more than women who were doing things a different way.
+
+815
+01:22:37,03 --> 01:22:46,46
+Maybe we'll do something that maybe I'm not as able by visually inspecting a potential mate to figure out whether
+
+816
+01:22:46,46 --> 01:22:52,69
+they'll make a good sort of genetic match in terms of the immune response of the offspring smell would tell that much
+
+817
+01:22:52,69 --> 01:22:57,01
+more directly seven to smell. I still might become eight and reproduction will still take place.
+
+818
+01:22:57,3 --> 01:23:07,9
+That maybe there was some errors or problems that will will ensue you use your depth as a research.
+
+819
+01:23:09,00 --> 01:23:12,25
+Because words are visually dominant so love is so is the thing again of we.
+
+820
+01:23:12,91 --> 01:23:20,76
+We miss attributes or we will develop this bigger visual brain Talbot's to find fruit in the trees
+
+821
+01:23:20,76 --> 01:23:25,54
+and then once half of our brain is given over to vision. It's hard not to use it for the other things.
+
+822
+01:23:26,53 --> 01:23:37,42
+So if we go on dating. Yeah it's better to do that. So that's the thing that I think we better genes all your senses.
+
+823
+01:23:37,69 --> 01:23:38,39
+The more sense.
+
+824
+01:23:38,4 --> 01:23:42,06
+You have the more information you've got and essentially about sight different stuff
+
+825
+01:23:42,06 --> 01:23:50,78
+and yet we have been working with artists like Clara city who have been doing some playing in this space thinking about
+
+826
+01:23:50,78 --> 01:23:56,46
+the smell dating agency. So she and others are our famous for getting a hundred people to wear a T.
+
+827
+01:23:56,46 --> 01:24:04,19
+Shirt don't wash for a day or two and bring your teacher. And then that the speed data is just smile all the T.
+
+828
+01:24:04,19 --> 01:24:08,45
+Shirts from one to one hundred. It's all I'd like to take that one and that one and that one.
+
+829
+01:24:09,05 --> 01:24:16,19
+And then you get to meet the one and sometimes it's somebody about a sex that you're not a very small one
+
+830
+01:24:16,19 --> 01:24:22,37
+but it's actually a man or vice versa and a bit of a shock and other times and they smell great but they look awful.
+
+831
+01:24:22,69 --> 01:24:25,15
+So when you do I guess you'll end up reverting to your eyes
+
+832
+01:24:25,75 --> 01:24:30,09
+and yet I still wonder if you were given both not just the kind of the online visual profile
+
+833
+01:24:30,09 --> 01:24:39,71
+but also the smile with those two cues. Maybe come to a better choice. And it is going to get worse. What works.
+
+834
+01:24:43,00 --> 01:24:49,22
+Where you are you three will smell the most smell different your teachers will smell different
+
+835
+01:24:49,49 --> 01:24:54,04
+and they'll be more attractive to some people than others. So there is information there.
+
+836
+01:24:54,4 --> 01:24:58,53
+We don't all smell or same and somebody will have attraction to one does it work.
+
+837
+01:24:58,89 --> 01:25:03,89
+What would be a long term consequence if we had you know did the experiment one hundred people you can only pick your
+
+838
+01:25:03,89 --> 01:25:04,83
+mate from a picture
+
+839
+01:25:05,23 --> 01:25:11,04
+and another hundred you can only pick from Smell who would wish which group with the divorce rates be higher.
+
+840
+01:25:11,82 --> 01:25:12,82
+That's going to experiment that.
+
+841
+01:25:13,4 --> 01:25:18,67
+Probably will get their fix to do better and so you won't you know I'm not sure actually.
+
+842
+01:25:23,64 --> 01:25:27,27
+I definitely think that if you have the smell and the vision you do better than just a vision.
+
+843
+01:25:28,74 --> 01:25:38,77
+If you had one or the other cures that are these that have ethics you see
+
+844
+01:25:38,77 --> 01:25:44,8
+and then they would let me hear there is an artistic expression expects perience. Art Project you can do it.
+
+845
+01:25:45,63 --> 01:25:47,58
+But if your measurement scientists then go to the Ethics
+
+846
+01:25:47,58 --> 01:25:51,31
+and then people start wondering about the ethics of that sort of.
+
+847
+01:25:52,03 --> 01:25:59,89
+But it is interesting and it is sort of open it's more. To make you think differently and maybe there are some.
+
+848
+01:26:00,26 --> 01:26:09,59
+Differences between males and females so about. Feelings. Using your senses.
+
+849
+01:26:10,35 --> 01:26:16,6
+Is possible when you reprogram your senses or your senses a different way.
+
+850
+01:26:18,14 --> 01:26:26,22
+That you experience of feelings like love or heal or jealousy or anger.
+
+851
+01:26:32,37 --> 01:26:39,02
+I don't know where you want to put feelings and emotions that they're not exclusively tied to a particular sense.
+
+852
+01:26:39,9 --> 01:26:44,16
+So I think I could show you a range of faces
+
+853
+01:26:44,64 --> 01:26:48,19
+and you say that one looks happy that one looks sad that one looks guilty that
+
+854
+01:26:48,19 --> 01:26:53,98
+when I was depressed I could I could play you some of the sounds of people's voices you could do the same thing I could
+
+855
+01:26:53,98 --> 01:26:55,64
+even put your hand out.
+
+856
+01:26:56,18 --> 01:27:01,33
+And I can pretty tap and stroke and you were able to be able to decode the emotion through touch
+
+857
+01:27:02,67 --> 01:27:06,9
+and even through smell you can someday react and smell happy from fearful.
+
+858
+01:27:07,74 --> 01:27:15,34
+So the same things are so if the sense is it possible is it possible that you have an army.
+
+859
+01:27:16,81 --> 01:27:28,43
+You will find you have already let you use there but your smell. Anything else to build up a feeling of hate.
+
+860
+01:27:30,17 --> 01:27:38,55
+For example. Is a possible. Does it does it does it's no different here in Britain.
+
+861
+01:27:39,81 --> 01:27:44,01
+Don't want to be part of yeah but today better.
+
+862
+01:27:45,76 --> 01:27:52,45
+So it's certainly true that the ambience that can change our mood make it more relaxed more aggressive.
+
+863
+01:27:54,86 --> 01:28:03,11
+Make us more alert or more relaxed. They might say I want my fighting force to be. Sort of alerts not relaxed.
+
+864
+01:28:03,91 --> 01:28:09,97
+So maybe you're thinking a certain kind of. Citrus open it's really better than lavender or camel mile.
+
+865
+01:28:14,33 --> 01:28:39,55
+And beyond that. For example if a police. Just played. You go you. Know. Is it possible that you will go. Yes. Really.
+
+866
+01:28:40,57 --> 01:28:44,99
+So if possible so we say. Maybe so there are studies out there.
+
+867
+01:28:47,11 --> 01:28:53,44
+That you can change the scent in the slot machines and Last Vegas
+
+868
+01:28:53,83 --> 01:28:55,92
+and there are certain sense of make people spend more.
+
+869
+01:28:58,32 --> 01:29:01,48
+People's ears away tell you what the scent is exactly but they say it works a special sound.
+
+870
+01:29:02,45 --> 01:29:06,7
+If you believe that there are all sorts of act comes you could get their sense all
+
+871
+01:29:06,7 --> 01:29:12,03
+and increase the likelihood of a negotiation coming to a successful conclusion there a sense that could be worked on
+
+872
+01:29:12,03 --> 01:29:20,62
+the trainer trading floor to say. Even so frame it as is there a sense that will get people to spend more.
+
+873
+01:29:20,7 --> 01:29:24,75
+Is there a sense that will get people to be more aggressive Is there a site that will make people fight better or
+
+874
+01:29:24,75 --> 01:29:30,45
+or can fast sooner. You might get I think you could get any of those outcomes through scent.
+
+875
+01:29:30,68 --> 01:29:32,93
+They're really going the mechanism is well if you're more lax.
+
+876
+01:29:33,64 --> 01:29:37,06
+I can tell you all sorts of stuff where it's not time intensive I want
+
+877
+01:29:37,06 --> 01:29:43,99
+and the mechanism that smile makes you confess sooner is by making you react perhaps. There.
+
+878
+01:29:44,01 --> 01:29:47,07
+The reason why sent makes you spend more is not directed at you spend more.
+
+879
+01:29:47,16 --> 01:29:52,02
+Maybe more comfortable next time passed slower. But when you relax times passes more slowly.
+
+880
+01:29:52,3 --> 01:30:00,64
+And there's a sense of the sense that. For some stuff on to negotiations conflict. Solution.
+
+881
+01:30:00,96 --> 01:30:02,75
+What sort of space should they.
+
+882
+01:30:02,76 --> 01:30:07,65
+Yeah fighting parties be in there's a painkiller matter you asked as a lighting matter you asked of the chair you
+
+883
+01:30:07,65 --> 01:30:12,29
+sitting on that I guess are certain phrases that might work better than others but undoubtedly.
+
+884
+01:30:15,31 --> 01:30:38,05
+So what you're saying is that it will make you use them right. Yeah. Mostly from the U.S. Military.
+
+885
+01:30:39,07 --> 01:30:43,09
+Is very strange that you get an email from colonels
+
+886
+01:30:43,09 --> 01:30:47,48
+and so please send me some stuff can you give us quite conference to our.
+
+887
+01:30:48,76 --> 01:30:53,03
+You do that and then the next week say our first time something is on the paper
+
+888
+01:30:53,03 --> 01:30:58,1
+and send them a matter of control by which time the e-mail accounts go black doesn't exist. Never existed.
+
+889
+01:30:58,23 --> 01:31:05,11
+Two or three times so they do get in touch if it's a real name or not and we pass on some information.
+
+890
+01:31:06,03 --> 01:31:11,38
+I think is useful. Little of interest in the maintenance of surveillance.
+
+891
+01:31:12,71 --> 01:31:18,91
+If I'm trying to detect a potential terrorist threat or aggressive incident when I've got my cameras.
+
+892
+01:31:18,97 --> 01:31:24,22
+We've got more C.C.T.V. Than anybody else but if i also the microphone and I could to sense.
+
+893
+01:31:24,63 --> 01:31:28,49
+With that could be more information and if so what. How would I combine.
+
+894
+01:31:29,26 --> 01:31:35,55
+The sound from the microphone with the scanning image. So there is interest there and try to sort of build.
+
+895
+01:31:36,28 --> 01:31:42,18
+What we've evolved naturally this multi-sensory perception and you build it in engineer it into robots
+
+896
+01:31:42,18 --> 01:31:47,86
+and surveillance systems and other types of equipment
+
+897
+01:31:47,86 --> 01:31:56,31
+and stuff through to work on alerting people if you know if I can make a car driver hit the brakes half a second faster
+
+898
+01:31:56,31 --> 01:31:59,63
+and you make a soldier shoot somebody.
+
+899
+01:32:00,59 --> 01:32:09,35
+Almost as much better as well through a long term kind of a pop up for long term performance. In the field of.
+
+900
+01:32:10,64 --> 01:32:17,28
+I want to tell my operative what to do but if I say Oh. Hank. Should be left then the oppositional here.
+
+901
+01:32:17,61 --> 01:32:22,31
+So maybe if I have a vibrating suit I can. I can communicate without sound without vision.
+
+902
+01:32:22,6 --> 01:32:23,86
+So the other senses are left open.
+
+903
+01:32:23,89 --> 01:32:24,72
+That's of interest
+
+904
+01:32:24,99 --> 01:32:33,12
+and we've been working on vibrating body devices through for those who don't like very long term missions say if you're
+
+905
+01:32:33,12 --> 01:32:39,15
+on a or those intercontinental refueling or long distance bombing routes.
+
+906
+01:32:40,41 --> 01:32:42,25
+How do you keep your pilot awake for long enough.
+
+907
+01:32:43,12 --> 01:32:45,46
+Nice to talk pills and stuff but now there's work
+
+908
+01:32:45,46 --> 01:32:52,68
+and if I if I capture the blue light of dawn that can trick brain into things dual time to wake up
+
+909
+01:32:53,17 --> 01:33:00,91
+and Swedish truck drivers through military pilots can be kept more alert for longer thought of playing with the sensors
+
+910
+01:33:00,91 --> 01:33:02,16
+in that way. So a lot of potential.
+
+911
+01:33:03,18 --> 01:33:05,53
+And I guess we've done bits
+
+912
+01:33:05,53 --> 01:33:20,85
+and pieces with the Dutch kind of military research partly military research that you don't see as examples where for
+
+913
+01:33:20,85 --> 01:33:21,42
+simulations.
+
+914
+01:33:21,79 --> 01:33:26,67
+It is important whether it was the soldiers simulating what's going to light when they're fighting somewhere new.
+
+915
+01:33:26,76 --> 01:33:32,1
+Or if it's for the doctors simulating what can be like operating in a military hospital in a war zone.
+
+916
+01:33:32,28 --> 01:33:39,23
+It's forty degrees in a tent with dust in your eye then just showing people a virtual reality doesn't do it where it is.
+
+917
+01:33:39,33 --> 01:33:52,54
+Really I guess you call it. Maybe it's all meant to reality. So it's something that's a blend of both.
+
+918
+01:34:04,29 --> 01:34:11,15
+Distinguish like the difference between zero and one so might be say
+
+919
+01:34:11,15 --> 01:34:16,49
+when it's all sort of virtual It's all constructed without any technologies what can the information is coming from
+
+920
+01:34:16,49 --> 01:34:21,07
+your eyes and your ears and your nose. There's no direct readout of what's out there in the world.
+
+921
+01:34:21,32 --> 01:34:25,11
+It's always going to hypothesis generation your brain predicting imagining.
+
+922
+01:34:25,46 --> 01:34:29,43
+What the world is like and then occasionally testing reality against your model.
+
+923
+01:34:30,12 --> 01:34:33,37
+So the way we're always living in a virtual world doesn't feel like that.
+
+924
+01:34:33,38 --> 01:34:39,8
+Wait that's kind of how the brain said look if everybody. There is actually to some degree grounded in.
+
+925
+01:34:40,48 --> 01:34:46,09
+Physical stuff but all related to physical memory.
+
+926
+01:34:47,27 --> 01:34:53,44
+I'm in part of that will to learn how the world is through prior exposure and and pick up
+
+927
+01:34:53,44 --> 01:34:55,27
+and regularity of the world
+
+928
+01:34:55,27 --> 01:35:00,36
+and then use those to predict how the other one is going to be like in a few moments time we check.
+
+929
+01:35:02,05 --> 01:35:03,67
+And that descriptive.
+
+930
+01:35:04,65 --> 01:35:09,85
+Says a word on one of the question What Well is it isn't all up section kind of virtual or is it all an illusion.
+
+931
+01:35:10,49 --> 01:35:18,36
+Through to how Will technology is virtual reality oriented reality become the new norm
+
+932
+01:35:18,36 --> 01:35:22,56
+and replace Who needs real nature when I can stick you in now with a headset
+
+933
+01:35:22,56 --> 01:35:27,91
+and play the sounds of nature in the smells of nature is as good as the real thing.
+

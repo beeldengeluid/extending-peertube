@@ -1,0 +1,1248 @@
+1
+00:00:00,00 --> 00:00:06,72
+Yoshua Bengio: So I think I showed this already to Frederick. Oh, come on.
+
+2
+00:00:18,34 --> 00:00:43,63
+Computer, wake up.	All right, so we've worked for a few years on using deep learning information translation.
+
+3
+00:00:46,56 --> 00:00:51,98
+We've been able to reach the state of the art, and improve on the state of the art, using deep learning, and now,
+
+4
+00:00:52,53 --> 00:00:56,09
+other groups in the world are working on this, and it's pretty exciting.
+
+5
+00:00:56,59 --> 00:01:00,78
+But maybe not as exciting as seeing what happened
+
+6
+00:01:00,79 --> 00:01:06,14
+when we take the same technology that we use for our machine translation that goes, say, from French to English,
+
+7
+00:01:08,2 --> 00:01:16,33
+and apply it to translating from images to English.	And so it does things like this.
+
+8
+00:01:16,83 --> 00:01:20,36
+You show the picture like this,
+
+9
+00:01:21,22 --> 00:01:27,15
+and the computer generates an actual language sentence that's kind of a description like,
+
+10
+00:01:27,29 --> 00:01:29,87
+"A woman is throwing a Frisbee in a park."
+
+11
+00:01:29,87 --> 00:01:32,11
+Interviewer: The computer generates that?
+
+12
+00:01:32,11 --> 00:01:39,31
+Yoshua Bengio: Yes, and it would do a different sentence next time if we try, all right?
+
+13
+00:01:39,31 --> 00:01:45,84
+And it's kind of generating somehow with some kind of randomness.
+
+14
+00:01:47,56 --> 00:01:50,27
+There are many possible sentences you could say about this image,
+
+15
+00:01:50,49 --> 00:01:59,23
+and it really learns about all the kids of sequences of words that are appropriate..
+
+16
+00:01:56,7 --> 00:02:01,78
+Interviewer: What kind of other sentences could be [inaudible 00:01:59].
+
+17
+00:01:59,23 --> 00:02:01,69
+Yoshua Bengio: Well, so here is some more, like here..
+
+18
+00:02:01,78 --> 00:02:03,23
+Interviewer: I mean for this same image.
+
+19
+00:02:03,23 --> 00:02:15,88
+Yoshua Bengio: Oh, I could image ir could say, "Two people in a park with green lawn." Simple, short sentences.
+
+20
+00:02:16,85 --> 00:02:28,86
+The computer was trained by imitating humans that have typed these kinds of short sentences.	About 80,000 images
+
+21
+00:02:28,86 --> 00:02:34,31
+and 5 sentences for each image were labeled by humans, so that's supervised learning.
+
+22
+00:02:34,5 --> 00:02:37,06
+The human is telling the computer, "So for this image,
+
+23
+00:02:37,06 --> 00:02:42,68
+here is what I would say." And "Here's another sentences I could say." Different people produce different sentences for
+
+24
+00:02:42,69 --> 00:02:47,89
+the same image. That's how it was trained. It knows there is some diversity in what could be produced.
+
+25
+00:02:50,01 --> 00:02:51,21
+For each of these images,
+
+26
+00:02:51,72 --> 00:03:02,44
+what we see also is the particular system we developed uses what's called an "at attention mechanism." It's paying
+
+27
+00:03:02,45 --> 00:03:08,69
+attention to particular places in the image at different points in the sequence as it's generating each word.	It
+
+28
+00:03:09,68 --> 00:03:12,89
+generates one word after the other, in order,
+
+29
+00:03:13,51 --> 00:03:19,27
+and as it's going to be generating the word "Frisbee," it's looking around the image
+
+30
+00:03:19,28 --> 00:03:26,08
+and focusing on the place where there's the Frisbee. So that part is interesting because it's not so supervised.
+
+31
+00:03:26,36 --> 00:03:29,53
+We didn't tell the computer, "When you're going to say that word,
+
+32
+00:03:29,75 --> 00:03:39,08
+you should be looking here in the image." It figured out by itself that this was useful to look at the right places as
+
+33
+00:03:39,09 --> 00:03:41,61
+it's producing each of the words in the sentence.
+
+34
+00:03:41,61 --> 00:03:46,84
+Interviewer: So it has a lot of words in the system?
+
+35
+00:03:46,84 --> 00:03:51,01
+Yoshua Bengio: Yeah, I don't know, something like 100,000 words.
+
+36
+00:03:51,01 --> 00:04:00,6
+Interviewer: And then it finds a connection by itself with the image?.
+
+37
+00:03:57,72 --> 00:04:00,49
+Yoshua Bengio: Yes, by itself...but it's been trained..
+
+38
+00:04:00,6 --> 00:04:03,11
+Interviewer: Yeah it's been trained,.
+
+39
+00:04:01,81 --> 00:04:03,05
+Yoshua Bengio: ...on a lot of the..
+
+40
+00:04:03,11 --> 00:04:06,97
+Interviewer: but It can also generate different sentences for the same image.
+
+41
+00:04:06,97 --> 00:04:10,68
+Yoshua Bengio: I don't have that example, but I can tell you that it does.
+
+42
+00:04:13,54 --> 00:04:17,8
+It's also useful to see sort of what's going on inside the machine, this attention, right?
+
+43
+00:04:18,08 --> 00:04:25,86
+So here, where it says, "A dog is standing on a hardwood floor," it's looking at the dog, and so on.
+
+44
+00:04:25,92 --> 00:04:30,27
+Like here, it's saying, "A group of people sitting on a boat in the water," and it's looking at the people,
+
+45
+00:04:30,59 --> 00:04:38,53
+so the underlying word here is the word at which we are going to display the attention picture, where it's focusing.
+
+46
+00:04:39,39 --> 00:04:46,9
+This attention is also useful to debug, to understand the mistakes. So here is some mistakes that it makes.
+
+47
+00:04:48,18 --> 00:04:57,7
+For example, in this picture, it says, "A woman holding a clock in her hand." It's getting confused because you see
+
+48
+00:04:57,74 --> 00:05:05,75
+when it says "clock," which is obviously wrong, it's looking at the round pattern on her shirt.
+
+49
+00:05:06,94 --> 00:05:12,16
+It thinks that the letters here maybe are the numbers in the clock, so it's making this mistake.
+
+50
+00:05:12,33 --> 00:05:15,61
+These are, maybe it doesn't have enough resolution to make out those details.
+
+51
+00:05:15,93 --> 00:05:17,51
+That's quite possible here.	Also,
+
+52
+00:05:19,7 --> 00:05:27,11
+this system was trained on a fairly small data set compared to what's needed to really do that job well.
+
+53
+00:05:28,17 --> 00:05:35,62
+For example, our friends at Facebook, they trained a system on a lot more data.
+
+54
+00:05:35,62 --> 00:05:44,08
+Of course, this is sort of using their own internal data. Let's see if I still have this.
+
+55
+00:05:47,51 --> 00:05:53,4
+When the system was trained with more data, and also, to do something a bit hard, which is to answer questions,
+
+56
+00:05:53,4 --> 00:05:57,47
+so this comes from Facebook, my colleague's Facebook, [inaudible 00:05:57] one.
+
+57
+00:05:57,47 --> 00:06:02,58
+Computer Ask: Is there a baby?
+
+58
+00:06:02,58 --> 00:06:04,42
+Computer Answer: Yes.
+
+59
+00:06:04,42 --> 00:06:07,06
+Computer Ask: What is the man doing?
+
+60
+00:06:07,06 --> 00:06:08,06
+Computer Answer: Typing.
+
+61
+00:06:08,06 --> 00:06:12,27
+Computer Ask: Is the baby sitting on his lap?
+
+62
+00:06:12,27 --> 00:06:14,52
+Computer Answer: Yes.
+
+63
+00:06:14,52 --> 00:06:16,77
+Computer Ask: Are they smiling?
+
+64
+00:06:16,77 --> 00:06:28,18
+Computer Answer: Yes..
+
+65
+00:06:17,77 --> 00:06:27,85
+Yoshua Bengio: I'm not so sure that they are smiling, but I guess the man may be sort of smiling. This is..
+
+66
+00:06:28,18 --> 00:06:31,15
+Computer Ask: Is there a baby in the photo?
+
+67
+00:06:31,15 --> 00:06:32,05
+Yoshua Bengio: ...more impressive, this one.
+
+68
+00:06:32,05 --> 00:06:33,17
+Computer Answer: Yes.
+
+69
+00:06:33,17 --> 00:06:36,33
+Computer Ask: Where is the baby standing?
+
+70
+00:06:36,33 --> 00:06:38,88
+Computer Answer: Bathroom.
+
+71
+00:06:38,88 --> 00:06:41,62
+Computer Ask: What is the baby doing?
+
+72
+00:06:41,62 --> 00:06:43,82
+Computer Answer: Brushing teeth.
+
+73
+00:06:43,82 --> 00:06:45,76
+Yoshua Bengio: Yeah, that's not obvious.
+
+74
+00:06:45,76 --> 00:06:48,03
+Computer Ask: What game is being played?
+
+75
+00:06:48,03 --> 00:06:50,09
+Computer Answer: Soccer.
+
+76
+00:06:50,09 --> 00:06:53,1
+Computer Ask: Is someone kicking the ball?
+
+77
+00:06:53,1 --> 00:06:54,97
+Computer Answer: Yes.
+
+78
+00:06:54,97 --> 00:06:58,1
+Computer Ask: What color is the ball?
+
+79
+00:06:58,1 --> 00:06:59,1
+Computer Answer: Yellow.
+
+80
+00:06:59,1 --> 00:07:01,58
+Yoshua Bengio: Or green maybe?
+
+81
+00:07:01,58 --> 00:07:03,94
+Computer Ask: What game is the dog playing?
+
+82
+00:07:03,94 --> 00:07:06,13
+Computer Answer: Frisbee.
+
+83
+00:07:06,13 --> 00:07:09,79
+Yoshua Bengio: Yeah, so you see it's the same theme, right?
+
+84
+00:07:10,06 --> 00:07:13,36
+We have a new one at work that analyzes the image,
+
+85
+00:07:13,91 --> 00:07:20,93
+computer representation of it.	I can go back here so you can get a sense of what I mean.
+
+86
+00:07:20,93 --> 00:07:38,75
+Interviewer: Is this your own presentation?.
+
+87
+00:07:28,31 --> 00:07:38,53
+Yoshua Bengio: That presentation? Yeah, these are my slides, yeah. So basically, that's actually..
+
+88
+00:07:38,75 --> 00:07:40,88
+Interviewer: Oh, that's interesting.
+
+89
+00:07:40,88 --> 00:07:49,3
+Yoshua Bengio: ...It's showing how the image is going to be transformed in different stages,
+
+90
+00:07:49,53 --> 00:07:53,03
+and so what we mean by deep is basically just that there are many such stages.
+
+91
+00:07:54,54 --> 00:08:11,91
+So the classical way of doing neural networks, there was only two stages because we didn't know how to train them..
+
+92
+00:08:03,18 --> 00:08:11,58
+But we have found ways to train much deeper ones since then. That's basically started in 2006, this..
+
+93
+00:08:11,91 --> 00:08:17,06
+Interviewer: Global?.
+
+94
+00:08:12,91 --> 00:08:16,9
+Yoshua Bengio: Being able..
+
+95
+00:08:17,06 --> 00:08:17,56
+Interviewer: Canadian.
+
+96
+00:08:17,56 --> 00:08:18,38
+Yoshua Bengio: Yeah, yeah.
+
+97
+00:08:18,71 --> 00:08:37,12
+That's Canadian conspiracy, that's right.	Let me show you some more things that are fun.	So another interesting...oh,
+
+98
+00:08:38,68 --> 00:08:41,94
+actually, we're going to meet my brother, Sammy. Here's his picture.
+
+99
+00:08:42,37 --> 00:08:53,13
+And some of the work he's done in that field is to use these approaches to learn to transform both images
+
+100
+00:08:53,61 --> 00:08:57,52
+and text to the same space.
+
+101
+00:08:57,9 --> 00:09:04,22
+An image is transformed into a point in some space, and if you type something like,
+
+102
+00:09:04,31 --> 00:09:09,64
+"dolphin" is also transformed into the same space.
+
+103
+00:09:09,83 --> 00:09:14,81
+And if both the word and image go nearly near to each other,
+
+104
+00:09:15,24 --> 00:09:22,39
+and it's a good cue that they mean something related.	So if you are in Google image search,
+
+105
+00:09:23,15 --> 00:09:29,21
+and you're searching for images of dolphin, what's going to happen is,
+
+106
+00:09:29,62 --> 00:09:36,16
+it will computer this representation for the word, dolphin, and then look for images that have a representation nearby,
+
+107
+00:09:36,76 --> 00:09:42,86
+and then show you those images. So this notion of intermediate representation is very very important in deep learning.
+
+108
+00:09:43,05 --> 00:09:49,13
+That's really want makes the whole thing work. We're not trying to go directly from inputs to decisions.
+
+109
+00:09:49,49 --> 00:09:56,13
+We have these intermediate stages, intermediate computations, or intermediate representations, as we call them,
+
+110
+00:09:56,46 --> 00:10:00,52
+that can be more abstract, as we consider deeper systems.
+
+111
+00:10:00,52 --> 00:10:05,88
+Interviewer: Does it mean that you are on the right track? It completes the goal yet?
+
+112
+00:10:06,49 --> 00:10:08,36
+But you're on the right track, in the right direction?
+
+113
+00:10:08,36 --> 00:10:10,17
+Yoshua Bengio: Well, yeah, that's what we believe.
+
+114
+00:10:10,62 --> 00:10:12,9
+Future researchers will prove us wrong, as usual,
+
+115
+00:10:13,44 --> 00:10:23,62
+but currently the evidence is strongly suggesting that this idea of having multiple levels of representation is working
+
+116
+00:10:23,63 --> 00:10:24,39
+really well.
+
+117
+00:10:24,95 --> 00:10:29,02
+So we have both these kinds of experiments, as you've seen,
+
+118
+00:10:29,19 --> 00:10:33,32
+that show the system doing things thanks to these deep architectures.	Also,
+
+119
+00:10:35,49 --> 00:10:41,03
+we're starting to understand more theory why it's happening like that, although,
+
+120
+00:10:41,89 --> 00:10:44,54
+much more theory probably needs to be done.
+
+121
+00:10:46,3 --> 00:10:55,96
+But I think there are lots of good reasons to believe that this concept of having multiple levels of representation is
+
+122
+00:10:56,5 --> 00:10:57,37
+quite important.
+
+123
+00:10:57,92 --> 00:11:08,45
+And we have also the evidence from our brain that it's actually doing something similar.	So if you look at it kind of
+
+124
+00:11:08,45 --> 00:11:16,2
+like a map of what's happening in the visual cortex, which is the part of the brain that processes images,
+
+125
+00:11:17,09 --> 00:11:22,95
+and that's also the part that we understand the best, the information goes from your eye,
+
+126
+00:11:23,31 --> 00:11:28,95
+through different regions in your brain that have little names like LGN, B1, B2, B4, and so on,
+
+127
+00:11:29,3 --> 00:11:38,13
+and at each of those stages, they correspond to the layers in our simple models.
+
+128
+00:11:38,51 --> 00:11:43,78
+And the information becomes more represented in an abstract way.	So at the lower level,
+
+129
+00:11:45,11 --> 00:11:53,75
+the brain recognizes very local things like edges, and as you go higher up, it starts recognizing little pieces
+
+130
+00:11:53,76 --> 00:12:01,44
+and shapes and eventually, around here, it's actually recognizing actual objects, faces, and things like that,
+
+131
+00:12:01,56 --> 00:12:09,41
+pretty high level things.	Eventually, that information going to places where you're going to more actions
+
+132
+00:12:09,42 --> 00:12:14,97
+and decision-making, and so on. We understand some of the high level structure of the brain.
+
+133
+00:12:15,09 --> 00:12:18,71
+Like I said, it has helped us as a source of inspiration.
+
+134
+00:12:19,32 --> 00:12:24,39
+We still don't understand how the brain actually learns to do what it's doing.
+
+135
+00:12:24,61 --> 00:12:30,41
+We see the connections, we see information flowing, so that's kind of a fascinating topic.
+
+136
+00:12:30,41 --> 00:12:36,6
+Interviewer: But if you don't know how our brain learns, how can you possibly find out how a machine learns?
+
+137
+00:12:36,6 --> 00:12:47,16
+Yoshua Bengio: Oh, but for machines, we can design them based on mathematical concepts.
+
+138
+00:12:47,59 --> 00:12:52,54
+It's like if you're trying to build flying machines without seeing birds.
+
+139
+00:12:53,11 --> 00:12:57,54
+You could just based on the laws of physics that we know, and you could try to design something.
+
+140
+00:12:57,54 --> 00:13:04,78
+But of course, the way it happened is that the people who build those planes were highly inspired by birds,
+
+141
+00:13:05,06 --> 00:13:09,4
+maybe too much sometimes.	I have a nice slide about this,
+
+142
+00:13:09,9 --> 00:13:18,78
+which illustrates that sometimes it's not so good to imitate nature too closely. Let me think, where is it?
+
+143
+00:13:18,78 --> 00:13:24,31
+Maybe not, not in this presentation.
+
+144
+00:13:24,31 --> 00:13:49,38
+Interviewer: Like a person who attaches wings to back?.
+
+145
+00:13:32,12 --> 00:13:49,05
+Yoshua Bengio: Yeah, One of the first planes that was built in France by..
+
+146
+00:13:49,38 --> 00:13:55,78
+Interviewer: Is it possible for me to have a copy of this presentation?
+
+147
+00:13:55,78 --> 00:13:57,67
+Yoshua Bengio: Yeah, of course..
+
+148
+00:13:56,75 --> 00:13:57,63
+Interviewer: Because I..
+
+149
+00:13:57,67 --> 00:14:05,25
+Yoshua Bengio: Any of these things.	So he built this tentative plane by trying to imitate that,
+
+150
+00:14:06,73 --> 00:14:16,58
+and he called it Avion III. "Avion" means plane in French. Actually that's how the name, Avion, came up. It didn't fly.
+
+151
+00:14:17,35 --> 00:14:25,72
+He was trying to just copy, and he hadn't captured the required principles of flight.
+
+152
+00:14:25,91 --> 00:14:31,81
+So sometimes it's not enough to copy the details.	There are a lot of things we know about the brain in terms of details,
+
+153
+00:14:32,76 --> 00:14:36,9
+but we don't have enough of the big picture in terms of the principles.
+
+154
+00:14:36,9 --> 00:14:41,49
+Interviewer: Where does this all end?
+
+155
+00:14:41,49 --> 00:14:43,21
+Yoshua Bengio: Where does this land?
+
+156
+00:14:43,21 --> 00:14:48,41
+Interviewer: End..
+
+157
+00:14:43,83 --> 00:14:49,45
+Yoshua Bengio: End. Oh, you know, research never ends. We always...
+
+158
+00:14:48,41 --> 00:14:49,17
+Interviewer: Suppose you're right..
+
+159
+00:14:49,45 --> 00:14:51,52
+Yoshua Bengio: ...have more to learn.
+
+160
+00:14:51,52 --> 00:14:54,77
+Interviewer: Suppose you're right with your research, where does it end?
+
+161
+00:14:54,77 --> 00:14:56,8
+Yoshua Bengio: Why should it end?
+
+162
+00:14:56,8 --> 00:15:00,87
+Interviewer: Do you have a first goal? Something that you'd like to reach?
+
+163
+00:15:00,87 --> 00:15:05,86
+Yoshua Bengio: Well, it may be...it's hard for me to think of a day
+
+164
+00:15:05,87 --> 00:15:12,3
+when we will actually have researched this goal because it seems so far right now.
+
+165
+00:15:13,65 --> 00:15:18,91
+But yeah, it's possible to imagine one day that we fully understand the principles that make us intelligent,
+
+166
+00:15:21,26 --> 00:15:24,25
+and maybe we go onto other questions.
+
+167
+00:15:24,25 --> 00:15:27,22
+Interviewer: You know which questions?
+
+168
+00:15:27,22 --> 00:15:35,25
+Yoshua Bengio: Our descendants will have questions I'm sure. Humans always have questions.
+
+169
+00:15:35,25 --> 00:15:38,42
+Interviewer: Is a questions like, "What is love?" One like that?
+
+170
+00:15:38,42 --> 00:15:48,72
+Yoshua Bengio:  [laughs] Well, one thing that's true is that we're focusing on some aspect of who we are here,
+
+171
+00:15:48,96 --> 00:15:53,62
+like sort of pure understanding, pure intelligence learning.
+
+172
+00:15:54,25 --> 00:15:59,06
+Of course, we are much more than that, talking about love, emotions in general,
+
+173
+00:15:59,32 --> 00:16:04,34
+and people are starting to try to connect the dots for these aspects as well.
+
+174
+00:16:07,13 --> 00:16:19,58
+This is a kind of beginning, and also, connect to other related disciplines like sociology or anthropology
+
+175
+00:16:20,93 --> 00:16:26,46
+and how humans build societies and interact..
+
+176
+00:16:26,34 --> 00:16:26,44
+Interviewer: What do you think..
+
+177
+00:16:26,46 --> 00:16:38,38
+Yoshua Bengio: All of these aspects are not taking into consideration our understanding of how we are able to take
+
+178
+00:16:38,39 --> 00:16:41,94
+decisions because we don't understand that enough.
+
+179
+00:16:42,43 --> 00:16:46,43
+Of course, in psychology, there are lots of theories, and I won't diminish that at all.
+
+180
+00:16:46,74 --> 00:16:51,86
+Clearly we're missing a lot of that understand, and so when we make progress with that,
+
+181
+00:16:51,94 --> 00:16:58,11
+I think the connections with other sciences that have to do with humans will be important.
+
+182
+00:16:58,11 --> 00:17:02,22
+Interviewer: Do you think it's ever possible for a computer to love?
+
+183
+00:17:02,22 --> 00:17:06,6
+Yoshua Bengio: If we program them to, yes.
+
+184
+00:17:06,6 --> 00:17:09,29
+Interviewer: What yes?
+
+185
+00:17:09,29 --> 00:17:10,5
+Yoshua Bengio: Why?
+
+186
+00:17:10,5 --> 00:17:14,06
+Interviewer: What, yes? I try to...forget my question.
+
+187
+00:17:14,06 --> 00:17:18,28
+Yoshua Bengio: As far as I'm concerned, emotions are like anything else.
+
+188
+00:17:18,44 --> 00:17:23,63
+They can be understood, and we can have programs
+
+189
+00:17:23,63 --> 00:17:35,01
+or equations that follow the moves that correspond to the underlying mechanisms.	We have a tendency to put emotions as
+
+190
+00:17:35,02 --> 00:17:41,47
+something magical, that isn't accessible to science. I don't think so.
+
+191
+00:17:41,62 --> 00:17:48,3
+I think we're understanding more and more about them, and we will even more in the future.
+
+192
+00:17:50,17 --> 00:17:58,5
+Once we do that, it's good for us. We can be less stupid with our emotions, as [laughs] I think we are right now.
+
+193
+00:17:58,5 --> 00:18:02,72
+Interviewer:  [laughs] That's part of the charm of life.
+
+194
+00:18:02,72 --> 00:18:09,64
+Yoshua Bengio: Famous scientists like Einstein were saying things like,
+
+195
+00:18:10,15 --> 00:18:20,51
+"It's not incompatible to have understanding of the universe and how things work and feeling the charm of life
+
+196
+00:18:20,55 --> 00:18:25,36
+and the awe in front of the universe and its beauty," and so on. These are not incompatible.
+
+197
+00:18:25,64 --> 00:18:26,72
+In fact, it's the opposite.
+
+198
+00:18:27,12 --> 00:18:37,54
+The more we understand something, the more we can love something, and we can feel impressed or motivated,
+
+199
+00:18:38,52 --> 00:18:40,00
+or whatever the emotion.
+
+200
+00:18:40,00 --> 00:18:47,56
+Interviewer: You showed this magazine, can you take it?
+
+201
+00:18:47,56 --> 00:18:49,03
+Yoshua Bengio: Yeah, sure.
+
+202
+00:18:49,03 --> 00:18:50,8
+Interviewer: What does it say?
+
+203
+00:18:50,8 --> 00:18:57,63
+Yoshua Bengio: So they chose to highlight some progress in science,
+
+204
+00:18:57,87 --> 00:19:05,58
+and one thing that is true is that artificial intelligence research in the last year
+
+205
+00:19:05,59 --> 00:19:08,26
+or two has been making incredible progress.
+
+206
+00:19:09,00 --> 00:19:22,6
+And of course, that's one of the reasons why we hear so much about it in media, and also companies are investing.
+
+207
+00:19:19,23 --> 00:19:22,48
+and so on. They chose an advance..
+
+208
+00:19:22,6 --> 00:19:24,23
+Interviewer: What does it say on the cover?
+
+209
+00:19:24,23 --> 00:19:24,84
+Yoshua Bengio: Oh,
+
+210
+00:19:24,85 --> 00:19:34,69
+so it says this is a special issue that they do every year about ten discoveries of the year that they have selected,
+
+211
+00:19:35,38 --> 00:19:47,13
+and they chose to talk about some of the things we've done in my lab as well as in some of my colleagues' lab.
+
+212
+00:19:47,13 --> 00:19:50,13
+[inaudible 00:19:49] is actually at NYU.
+
+213
+00:19:50,13 --> 00:19:51,43
+Interviewer: Can you show it?
+
+214
+00:19:51,43 --> 00:19:53,14
+Yoshua Bengio: Yeah, yeah.
+
+215
+00:19:53,35 --> 00:20:00,3
+So is there no pictures except for me here, but what it's talking about is, in French here, it says,
+
+216
+00:20:00,43 --> 00:20:11,61
+"It's the end of a belief about neural networks."	One of the reasons why the whole approach to neural networks was kind
+
+217
+00:20:11,62 --> 00:20:28,24
+of abandoned for more than a decade is that people have this false belief that it would be very difficult to train,
+
+218
+00:20:21,87 --> 00:20:28,14
+because learning would have to get stuck in what we call local [inaudible 00:20:28]
+
+219
+00:20:28,45 --> 00:20:41,01
+where from which there's no small improvement that the system can make to improve itself.	We showed some evidence that
+
+220
+00:20:41,05 --> 00:20:49,00
+this is not the case. In fact, the bigger the neural net, the less likely this is going to be the case.
+
+221
+00:20:49,6 --> 00:21:00,06
+And we showed some empirical, some experimental evidence that in fact these local [inaudible 00:20:59]
+
+222
+00:21:00,54 --> 00:21:01,38
+people thought existed.
+
+223
+00:21:01,56 --> 00:21:04,49
+They do exist, but they correspond to very good configurations,
+
+224
+00:21:04,84 --> 00:21:15,63
+very good settings.	I think it helps to understand why these neural nets that we have now, especially the bigger ones,
+
+225
+00:21:16,16 --> 00:21:23,66
+are working so well, in spite of this belief that people thought it was hopeless just a few years ago.
+
+226
+00:21:23,66 --> 00:21:31,33
+Interviewer: For me to understand, or in a few words, what are the neural net?.
+
+227
+00:21:28,61 --> 00:21:31,13
+Yoshua Bengio: So, a neural net is a..
+
+228
+00:21:31,33 --> 00:21:32,8
+Interviewer: Just a moment.
+
+229
+00:21:32,8 --> 00:21:42,59
+Yoshua Bengio: A neural net is a computer program, or a computer simulation,
+
+230
+00:21:43,05 --> 00:21:49,44
+that's inspired buy the biological neural nets, that is able to learn from examples.
+
+231
+00:21:50,68 --> 00:22:00,43
+It has a structure, I can maybe find some slides that illustrate.	It's composed of little units, which make,
+
+232
+00:22:01,29 --> 00:22:12,47
+which compute. So we use a very cartoon neural net with some inputs...	There's another one.
+
+233
+00:22:15,01 --> 00:22:17,99
+Where is it?	...some inputs.
+
+234
+00:22:18,94 --> 00:22:24,72
+These are supposed to be standing for artificial neurons, or we call them units,
+
+235
+00:22:25,22 --> 00:22:28,08
+and they're connected to other neurons that are connected to other neurons.
+
+236
+00:22:28,28 --> 00:22:34,61
+And then some of these are actually the outputs that produce the actions,
+
+237
+00:22:35,00 --> 00:22:42,12
+and some of those would be the inputs that correspond to persecution.	The information flows in your brain through many
+
+238
+00:22:42,57 --> 00:22:43,75
+layers like this.
+
+239
+00:22:46,24 --> 00:22:55,39
+We have designed little equations that define what each of these artificial neurons is doing with computation.
+
+240
+00:22:55,39 --> 00:23:02,47
+It does very very simple things.	The connections between neurons are things that can be changed while the system is
+
+241
+00:23:02,47 --> 00:23:02,77
+learning.
+
+242
+00:23:03,06 --> 00:23:05,88
+And we have algorithms, so computer recipes,
+
+243
+00:23:06,42 --> 00:23:14,9
+that tell us how that change should be done so that next time the system sees another example,
+
+244
+00:23:15,92 --> 00:23:20,83
+it will be more likely to produce the right answer, or at least the answer that we wanted.
+
+245
+00:23:20,83 --> 00:23:26,39
+Interviewer: Another one, just for me to understand, can you explain to me what is a neuron?
+
+246
+00:23:26,39 --> 00:23:37,24
+Yoshua Bengio: Yes. So you can think...these are graphical depictions to neurons.
+
+247
+00:23:37,24 --> 00:23:46,35
+They're connected to other neurons through little filaments, and they connect to some places called synapses.
+
+248
+00:23:46,35 --> 00:23:50,01
+They're signals, electrical spikes, that travel
+
+249
+00:23:50,33 --> 00:23:57,27
+and allow these neurons to communicates with each other.	Each of these neurons is doing something very simple.
+
+250
+00:23:57,68 --> 00:24:03,05
+They're receiving those signals coming from other neurons, and they're just adding them up basically.
+
+251
+00:24:03,74 --> 00:24:09,87
+But they can give different importance to some of the signals that they're receiving.
+
+252
+00:24:10,18 --> 00:24:12,02
+These are called a synaped weights.
+
+253
+00:24:12,66 --> 00:24:19,03
+It's just a sum of products essentially, adding and multiplying, very simple things.
+
+254
+00:24:19,4 --> 00:24:23,36
+Of course, this is a simplification of what is going on in real neurons,
+
+255
+00:24:23,57 --> 00:24:31,16
+but it's a very useful simplification.	There are also some more complicated operations that are happening inside the
+
+256
+00:24:31,17 --> 00:24:42,06
+neuron that allow it to, at the end of the day, do a little piece of computation, such that if we many such neurons,
+
+257
+00:24:42,26 --> 00:24:46,85
+so we have a neural network, so a neural network is just a bunch of these neurons connected to each other,
+
+258
+00:24:47,31 --> 00:24:49,57
+they can actually compute very complicated things.
+
+259
+00:24:49,84 --> 00:24:54,93
+In fact, we can prove that if you have enough neurons, you can compute almost anything that a [inaudihble 00:24:55]
+
+260
+00:24:55,5 --> 00:24:59,03
+computer could compute.	The question then is,
+
+261
+00:24:59,31 --> 00:25:05,4
+how do we make sure that that neural network computes the things that we want, that are useful for us,
+
+262
+00:25:05,58 --> 00:25:13,81
+like recognizing objects, answering questions, understanding speech? That's where the learning comes.
+
+263
+00:25:15,94 --> 00:25:23,56
+The learning is about gradually changing those weights that control the importance that each neuron gives to the
+
+264
+00:25:23,57 --> 00:25:24,77
+neighbor to which they are connected.
+
+265
+00:25:24,77 --> 00:25:27,87
+Interviewer: But when you learn, then you also remember.
+
+266
+00:25:27,87 --> 00:25:29,56
+Yoshua Bengio: Yes, exactly.
+
+267
+00:25:29,56 --> 00:25:31,22
+Interviewer: How does it remember?
+
+268
+00:25:31,22 --> 00:25:41,00
+Yoshua Bengio: Well, it remembers because each time the network sees an example and makes some small changes,
+
+269
+00:25:41,78 --> 00:25:48,63
+it's going to be more likely to reproduce that kind of example, or produce the right answer for that example.
+
+270
+00:25:48,88 --> 00:25:54,59
+So it remembers what it should have done for this example, or at least, it remembers little bits.
+
+271
+00:25:54,97 --> 00:26:01,8
+If you repeat that example, then it basically learns it by heart. But it may learn things by heart.
+
+272
+00:26:01,91 --> 00:26:05,18
+It may be okay to teach it with some mistakes,
+
+273
+00:26:05,55 --> 00:26:14,22
+and it will kind of listen to the majority of what it sees to come up with a good general answer.
+
+274
+00:26:14,22 --> 00:26:22,78
+Interviewer: Okay. I think I understand. So what is the thing you are most excited about, yourself?
+
+275
+00:26:22,78 --> 00:26:27,57
+Yoshua Bengio: So what I'm most excited about what we call unsupervised learning.
+
+276
+00:26:28,54 --> 00:26:30,93
+That's the area of research,
+
+277
+00:26:31,17 --> 00:26:39,96
+which tries to make computers learn without having to tell them in detail what they should be doing.
+
+278
+00:26:41,43 --> 00:26:50,08
+We'd show the computer lots of text, or lots of videos, and it would learn about language
+
+279
+00:26:50,09 --> 00:27:00,39
+or about how images are formed just by these observations.	That's something that we know is really important for really
+
+280
+00:27:00,64 --> 00:27:10,21
+progressing towards the eye because one, we know that humans do that a lot; and two,
+
+281
+00:27:10,48 --> 00:27:17,2
+we can't afford to continue as we are doing now by providing the computer with very details prescription of what it
+
+282
+00:27:17,26 --> 00:27:21,16
+should be doing or how to interpret ate each answer or each sentence, and so on.
+
+283
+00:27:21,76 --> 00:27:27,25
+We can do some of it, but the computer would have access to a lot more information, a lot more data,
+
+284
+00:27:27,5 --> 00:27:31,88
+a lot more examples, if it was better at unsupervised learning.
+
+285
+00:27:31,88 --> 00:27:40,15
+Interviewer: Do you think in the near future, this computer, which is able to learn by itself,
+
+286
+00:27:41,07 --> 00:27:44,16
+can you say then that the computer comes alive?
+
+287
+00:27:44,16 --> 00:27:49,4
+Yoshua Bengio: Can you say that the computer comes alive?
+
+288
+00:27:49,68 --> 00:27:55,86
+Yeah, that's a good question.	There's some different definitions of life, of course,
+
+289
+00:27:56,53 --> 00:28:05,75
+and many of these definitions have been produced to fit life as we know it on Earth.
+
+290
+00:28:09,52 --> 00:28:12,23
+We would have to extend our notion of what life means.
+
+291
+00:28:12,76 --> 00:28:20,72
+But it's not inconceivable that if we're able to build machines that can learn more by themselves
+
+292
+00:28:21,35 --> 00:28:29,24
+and can take their own decisions, basically,
+
+293
+00:28:30,06 --> 00:28:37,29
+that it will start looking like a living being.	It will be hard to say that they're not alive,
+
+294
+00:28:37,86 --> 00:28:45,93
+except that if it's like today's machines, we can just turn them off whenever we want.
+
+295
+00:28:45,93 --> 00:28:49,13
+In fact, we only turn them on for the time of an experiment.
+
+296
+00:28:49,29 --> 00:28:54,39
+It's not like these things are sitting all the time, right?
+
+297
+00:28:54,99 --> 00:29:00,71
+We just run an experiments where, it's like, we have the machine start a new life,
+
+298
+00:29:00,71 --> 00:29:07,73
+and it goes through some experience and we test it, and then that's it.
+
+299
+00:29:08,85 --> 00:29:13,1
+There's no consciousness in these things and no lasting state.
+
+300
+00:29:13,1 --> 00:29:21,38
+Interviewer: But does it need consciousness?.
+
+301
+00:29:15,64 --> 00:29:21,18
+Yoshua Bengio: Not for most of the things we need those machines to do. We could have..
+
+302
+00:29:21,38 --> 00:29:25,55
+Interviewer: But for a machine to be alive, does it need consciousness because when it's alive
+
+303
+00:29:25,56 --> 00:29:29,02
+and without consciousness then we have a problem.
+
+304
+00:29:29,02 --> 00:29:32,95
+Yoshua Bengio: It depends, first of all, by what you mean by "alive,"
+
+305
+00:29:33,11 --> 00:29:38,94
+but I think we could have computers that are very very intelligent without being conscious,
+
+306
+00:29:39,43 --> 00:29:45,74
+without having a self-consciousness. They could be very very useful to us.
+
+307
+00:29:45,85 --> 00:29:55,51
+They could help us solve a lot of problems that we have around us and help us make our world better,
+
+308
+00:29:55,51 --> 00:29:59,83
+and that doesn't require consciousness. I don't think so.
+
+309
+00:30:00,28 --> 00:30:08,63
+But humans being what they are, I suppose one day people will try to put in some kind of consciousness in computers,
+
+310
+00:30:08,63 --> 00:30:10,47
+in intelligent machines.
+
+311
+00:30:10,47 --> 00:30:12,1
+Interviewer: It's just the question of time, I guess.
+
+312
+00:30:12,1 --> 00:30:18,35
+Yoshua Bengio: Yeah. I guess, but it's pretty far away.
+

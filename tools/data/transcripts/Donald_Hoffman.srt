@@ -1,0 +1,1864 @@
+1
+00:00:00,14 --> 00:00:01,38
+I'm Don Hoffman
+
+2
+00:00:01,38 --> 00:00:07,72
+and I'm at the University of California at Irvine in the department of cognitive sciences with joint appointments in
+
+3
+00:00:07,72 --> 00:00:14,43
+philosophy in computer science as well and I try to integrate all of those disciplines in the work that I do and when.
+
+4
+00:00:17,12 --> 00:00:26,82
+When you integrate all these disciplines how does this add up to something new. Well in the field of cognitive science I'm studying visual perception. How do we see a 3D World.
+
+5
+00:00:27,07 --> 00:00:31,93
+How do we see the colors of objects the shapes of objects the motions of objects.
+
+6
+00:00:32,03 --> 00:00:36,17
+What are the processes that are going on inside of our brains when we do that
+
+7
+00:00:36,86 --> 00:00:41,22
+and it turns out about a third of the brain's cortex is engaged just in vision.
+
+8
+00:00:41,44 --> 00:00:43,55
+So when you simply open your eyes and look around the room.
+
+9
+00:00:44,21 --> 00:00:47,82
+Billions of neurons and trillions of synapses are springing into action
+
+10
+00:00:49,06 --> 00:00:55,81
+and so one of the things we try to do in the cognitive neuroscience is just understand what's going on why all of this
+
+11
+00:00:55,81 --> 00:00:57,29
+horse power.
+
+12
+00:00:57,31 --> 00:01:04,49
+A third of your highest processing horse power is involved in visual perception that's a bit surprising So the question
+
+13
+00:01:04,49 --> 00:01:08,6
+is why do we need to have that much horse power in something that seems so simple.
+
+14
+00:01:08,87 --> 00:01:10,86
+Just open your eyes and see the world
+
+15
+00:01:11,62 --> 00:01:18,99
+and it turns out that we have to do a lot of computation because in some sense we're creating the worlds that we see.
+
+16
+00:01:19,54 --> 00:01:26,13
+And so computer science comes into it because we need to understand from a computational point of view what's going on
+
+17
+00:01:26,13 --> 00:01:30,1
+when you open your eyes and see the shapes of objects the colors and the motions of objects.
+
+18
+00:01:30,17 --> 00:01:31,56
+You're not just seeing them.
+
+19
+00:01:31,58 --> 00:01:42,6
+You're actually creating a virtual reality in in some sense for yourself you're a reality engine.
+
+20
+00:01:42,61 --> 00:01:49,01
+Is this true or is this your theory? What I'm saying now is pretty widely accepted in cognitive neurosciences they they almost every cognitive
+
+21
+00:01:49,01 --> 00:01:54,67
+neuroscientist will say that we are constructing what we see. In real time.
+
+22
+00:01:54,89 --> 00:02:01,13
+So you close your eyes you just see a gray field you open your eyes and it looks like you're just seeing a 3D.
+
+23
+00:02:01,13 --> 00:02:07,55
+World with objects and colors emotions as it is just like taking a snapshot.
+
+24
+00:02:07,57 --> 00:02:09,8
+But most cognitive neuroscientists will say
+
+25
+00:02:09,8 --> 00:02:15,44
+but that's not what's going on was happening really is that within about one hundred milliseconds about one tenth of a
+
+26
+00:02:15,44 --> 00:02:18,39
+second you're creating the 3D
+
+27
+00:02:18,39 --> 00:02:23,55
+World around you you're creating the objects and the colors and the motions you're doing it so quickly
+
+28
+00:02:23,55 --> 00:02:27,83
+and apparently so effortlessly that you're you know taken
+
+29
+00:02:27,83 --> 00:02:34,29
+in you think you're just seeing the world as it is that would say that's the majority the vast majority view in
+
+30
+00:02:34,29 --> 00:02:41,51
+cognitive neuroscience right now that we construct what we see. And so computer science comes into it in part because.
+
+31
+00:02:42,49 --> 00:02:47,48
+To make sure that we understand what we're doing that our theories about the construction process are accurate.
+
+32
+00:02:48,01 --> 00:02:52,75
+It's good for us to try to build them to actually build robotic vision systems that work.
+
+33
+00:02:52,92 --> 00:02:56,63
+So if you have a theory about how you see the 3D Structure of objects.
+
+34
+00:02:56,71 --> 00:03:02,96
+Well then build it and if you can actually have a computer that has video cameras giving inputs into the computer
+
+35
+00:03:03,77 --> 00:03:08,37
+and then software in the computer that creates inside the computer the 3D
+
+36
+00:03:08,37 --> 00:03:13,56
+Model of the object that is what you think it should have done then maybe you've got a good theory.
+
+37
+00:03:13,68 --> 00:03:18,36
+So the computer science comes in in the following way. We're trying to reverse engineer.
+
+38
+00:03:19,69 --> 00:03:21,67
+What's going on in the human brain.
+
+39
+00:03:21,69 --> 00:03:27,16
+Well enough that we can then implement it in a computer vision system and build robotic visions
+
+40
+00:03:27,16 --> 00:03:32,06
+and if you can do that in that that's an existence proof that you might actually have a good theory
+
+41
+00:03:33,02 --> 00:03:38,76
+and then the philosophy. Is that the new theory is that your theory
+
+42
+00:03:38,78 --> 00:03:48,06
+That's actually the person who is most famous for sort of pushing this point of view is a guy named David Marr who was
+
+43
+00:03:48,06 --> 00:03:53,38
+a professor at MIT the late seventy's and early nineteen eighties.
+
+44
+00:03:54,3 --> 00:04:00,01
+And David Marr he was in the Artificial Intelligence Laboratory at MIT and in what's now.
+
+45
+00:04:00,14 --> 00:04:02,64
+The brain and cognitive sciences department.
+
+46
+00:04:02,66 --> 00:04:06,73
+And he was the one that he had a background in mathematics and neuroscience
+
+47
+00:04:06,73 --> 00:04:13,44
+and worked in the AI lab Marvin Minsky invited him to come there because Marr had this new point of view that we should
+
+48
+00:04:13,44 --> 00:04:15,93
+you know vision is a constructive process
+
+49
+00:04:15,93 --> 00:04:21,09
+and we need to understand the mathematics of the construction well enough that we can actually build it.
+
+50
+00:04:21,2 --> 00:04:27,58
+So if you can build working systems robotic systems then which is in your contribution to artificial
+
+51
+00:04:27,58 --> 00:04:35,81
+intelligence then that will really show that you understand what's going on when we open our eyes and see. What is exactly what you are looking for
+
+52
+00:04:38,77 --> 00:04:55,74
+In the construction of vision. Yes. Our perspective of reality.  So well what Marr got us into what David Marr.
+
+53
+00:04:55,75 --> 00:05:03,52
+Got to feel to think about is trying to get our understanding of human vision human visual processing so rigorous that
+
+54
+00:05:03,52 --> 00:05:09,63
+we can actually build robotic vision systems so that means that that what seems to us like an immediate perception of
+
+55
+00:05:09,63 --> 00:05:13,89
+shapes and colors and motions is in fact a sophisticated computation.
+
+56
+00:05:13,91 --> 00:05:20,97
+And so that's where the computer science comes in we actually want to take raw images coming in from video from like
+
+57
+00:05:20,97 --> 00:05:26,86
+video cameras which is just a bunch of numbers if you look at it it's just an uninterpretable array of numbers.
+
+58
+00:05:27,47 --> 00:05:37,06
+Millions of numbers so the idea is that we want to build robotic vision systems that will take for example video
+
+59
+00:05:37,06 --> 00:05:40,69
+from cameras into the computer and that video.
+
+60
+00:05:40,73 --> 00:05:47,64
+If you look at it is just an array of numbers millions of numbers you look at it it's who knows what it means it's just a
+
+61
+00:05:47,64 --> 00:05:52,83
+bunch of numbers and you want to take those numbers and then create a world. What.
+
+62
+00:05:53,44 --> 00:05:58,2
+That those numbers are trying to describe to you like a boy riding a bicycle eating a hot dog
+
+63
+00:05:58,2 --> 00:05:59,82
+or whatever might be going on there.
+
+64
+00:06:00,14 --> 00:06:05,86
+So so to do that you can see going from those numbers to a three dimensional world with colors and objects
+
+65
+00:06:05,86 --> 00:06:08,4
+and boys riding bicycles is not a trivial thing.
+
+66
+00:06:08,62 --> 00:06:11,16
+And so that's what robotic vision
+
+67
+00:06:11,16 --> 00:06:17,54
+and computer vision has been doing ever since David Marr really got us going in this direction in the late mid to late
+
+68
+00:06:17,54 --> 00:06:21,02
+ninteen seventies. and It was his work that got me into this field.
+
+69
+00:06:21,2 --> 00:06:25,61
+I read his work when I was an undergraduate and said Where is this guy I'd like to work with him
+
+70
+00:06:25,61 --> 00:06:26,8
+and I ended up going
+
+71
+00:06:26,8 --> 00:06:34,48
+and being a student at MIT so so I were I got the pleasure of working with David Marr for a couple years the last two
+
+72
+00:06:34,48 --> 00:06:36,99
+years of his life until he died of leukemia.
+
+73
+00:06:37,79 --> 00:06:43,22
+While I was still a graduate student but he said he set the field on this on this new path
+
+74
+00:06:44,12 --> 00:06:51,3
+and ever since then there have been the majority of the field has been trying to build rigorous mathematical models
+
+75
+00:06:51,3 --> 00:06:52,08
+that you could in principle
+
+76
+00:06:53,04 --> 00:07:00,37
+or in practice actually build robotic vision systems from so now I've got an intelligent vision system on my car partly
+
+77
+00:07:00,38 --> 00:07:06,82
+as a result of this kind of work they can see if I'm on the on the road. Going over the lines and so forth.
+
+78
+00:07:06,87 --> 00:07:12,85
+It will beep at me so we're starting to get intelligent vision systems coming out of this where the the car itself can see.
+
+79
+00:07:12,26 --> 00:07:12,85
+in three D.
+
+80
+00:07:13,25 --> 00:07:19,62
+So so this is the result of this long decades long effort of trying to understand mathematically
+
+81
+00:07:19,62 --> 00:07:27,39
+and precisely how what why we have to spend a third of our brains cortex all that horsepower in seeing the 3D
+
+82
+00:07:27,39 --> 00:07:32,93
+World and objects and colors. Now where we're really understanding that. So that's the standard view.
+
+83
+00:07:33,08 --> 00:07:34,38
+I mean there are some dissenters
+
+84
+00:07:34,38 --> 00:07:50,78
+but I would say it's by far the the majority view that we create what we see we construct the worlds that we see.
+
+85
+00:07:51,62 --> 00:07:53,63
+Doesn't that mean that people's minds are like robots, like machines. You could a lot of people in artificial
+
+86
+00:07:53,63 --> 00:08:00,08
+intelligence would say exactly that that we are machines we're just carbon based machines. So that
+
+87
+00:08:00,14 --> 00:08:03,82
+Would be the standard view in artificial intelligence we we are complex machines
+
+88
+00:08:03,82 --> 00:08:07,99
+and they would say that we should not take that as an indication that we're not valuable
+
+89
+00:08:07,99 --> 00:08:17,72
+but we are just carbon based machines and we can reverse engineer the algorithms that are going on in the brain.
+
+90
+00:08:17,94 --> 00:08:23,99
+Once we reverse engineer those algorithms from the neural networks of the brain then we can implement them in
+
+91
+00:08:23,99 --> 00:08:30,76
+artificial neural networks for example in in silicon and so we transfer from carbon to silicon. But the algorithms.
+
+92
+00:08:30,89 --> 00:08:35,9
+If we've done it right are still the same or close to the our algorithms that are that are in the brain.
+
+93
+00:08:36,05 --> 00:08:37,96
+So that's sort of the idea
+
+94
+00:08:37,96 --> 00:08:48,04
+and then the idea then is that those algorithms do a good job of Truthfully reconstructing the true shapes the true
+
+95
+00:08:48,04 --> 00:08:52,73
+colors the true motions of objects in the world. That's the standard view.
+
+96
+00:08:52,8 --> 00:09:04,24
+So it's not my view now but that is the standard view.
+
+97
+00:09:05,93 --> 00:09:15,9
+So what is your view. Well my my view is that we do construct what we see so I agree with the field with the majority of the field that we
+
+98
+00:09:15,9 --> 00:09:20,92
+construct in real time all the shapes colors and motions and objects that we see.
+
+99
+00:09:20,93 --> 00:09:25,53
+But I don't think that we're reconstructing the truth.
+
+100
+00:09:25,66 --> 00:09:34,55
+So everybody in my field pretty much believes that we're reconstructing a good faithful reproduction of the true shapes
+
+101
+00:09:34,55 --> 00:09:40,04
+and colors and I don't think we are. Instead I think that what's going on is.
+
+102
+00:09:41,25 --> 00:09:44,21
+It's more like a desktop interface on your computer.
+
+103
+00:09:45,59 --> 00:09:49,09
+So if you have an icon for say you're writing a file
+
+104
+00:09:49,09 --> 00:09:52,15
+or editing a photograph so you're writing an e-mail to a friend.
+
+105
+00:09:52,37 --> 00:09:59,29
+And the icon for that file is blue and rectangular and in the middle of your screen.
+
+106
+00:10:00,14 --> 00:10:05,37
+That doesn't mean that the file itself in your computer is blue and rectangular
+
+107
+00:10:05,37 --> 00:10:11,03
+and in the middle of the computer that that's a silly notion anybody without that doesn't understand what the desktop
+
+108
+00:10:11,03 --> 00:10:13,53
+interface is for.
+
+109
+00:10:13,55 --> 00:10:19,89
+And I think that that's what we have our perceptions are like that desktop interface so space and time
+
+110
+00:10:20,77 --> 00:10:24,51
+are the desktop three dimensional space as you perceive it in time are the desktop
+
+111
+00:10:24,51 --> 00:10:33,42
+and then physical objects like a glass or a car a spoon. These are all just icons in that three dimensional desktop.
+
+112
+00:10:33,57 --> 00:10:39,7
+And the point of the interface the desktop and the icons is not to show you the truth.
+
+113
+00:10:39,88 --> 00:10:44,65
+The point is really to hide the truth right. If you had to know in the case of the computer.
+
+114
+00:10:44,67 --> 00:10:50,48
+If you had know all the diodes and resistors and voltages and you know magnetic fields.
+
+115
+00:10:50,92 --> 00:10:55,9
+If you had to know all that and deal with that you'd never finish writing your e-mail to your friend.
+
+116
+00:10:55,93 --> 00:11:02,71
+So you don't need to know the reality you want it in fact the desktop interface is there to hide that reality reality
+
+117
+00:11:02,71 --> 00:11:18,6
+gets in the way of what you really need to do. And so. It's very mind-boggling. So what you see is just an interface. It's not real. That's right.
+
+118
+00:11:18,69 --> 00:11:25,64
+What you see the whole three dimensional world that we perceive and all the physical objects that we perceive
+
+119
+00:11:25,64 --> 00:11:40,42
+and all their properties are just like the the colored icons on your desktop. So where we are right now. We are sitting on the couch. I think. I think you're sitting on a couch. That's right
+
+120
+00:11:40,59 --> 00:11:49,81
+And that's that's a very useful belief was very useful for me to know if you know to think that the icon is the file
+
+121
+00:11:49,81 --> 00:11:54,94
+and I can just double click on the file and it will open what I drag the file to the trash can. I can delete it.
+
+122
+00:11:55,08 --> 00:12:02,42
+So it's very it's a very nice and useful fiction allows me to do what I need to do. But it is just a useful fiction. But it allows me to see you as a person sitting on the couch.
+
+123
+00:12:04,75 --> 00:12:21,92
+In a house and there's a picture on the wall. that's right. and a glass of water. But you are telling me that somehow I am fooling myself.
+
+124
+00:12:21,92 --> 00:12:28,21
+You're fooling yourself if you believe that what you're seeing is a true replication of what is there
+
+125
+00:12:28,21 --> 00:12:32,29
+when you don't look. so I do think that there is an objective world
+
+126
+00:12:32,29 --> 00:12:35,95
+and I think there is a reality that exists whether or not I.
+
+127
+00:12:36,14 --> 00:12:40,46
+I'm here and whether or not I'm looking so there is some objective reality.
+
+128
+00:12:40,77 --> 00:12:49,23
+But the chances that my perceptions are reconstructing part of that reality. So I'm seeing the truth.
+
+129
+00:12:49,85 --> 00:12:56,57
+The chances are actually you can prove are zero and the argument comes from evolution.
+
+130
+00:12:56,73 --> 00:13:17,88
+So I started looking at evolution by natural selection and what it has to say about perception. We come to that a little bit later. OK sure. So for our viewers	
+
+131
+00:13:20,66 --> 00:13:49,92
+If you say everything around us is a representation. The idea that I can look around and see everything a an interface like on a computer. that it represents maybe something else And you don't even know what it represents.
+
+132
+00:13:52,58 --> 00:14:00,04
+Yeah that's it's a very alarming point of view. Yes. 
+
+133
+00:14:01,43 --> 00:14:06,38
+Yes So this this point of view is quite surprising the idea that what you're seeing
+
+134
+00:14:07,36 --> 00:14:17,19
+when you look around you see a fireplace you see a cup you see people. I see a beautiful woman and she is not beautiful. Well what you.
+
+135
+00:14:17,22 --> 00:14:25,57
+Yes What you're seeing is a representation that you construct. For one purpose.
+
+136
+00:14:25,59 --> 00:14:30,83
+The representation is there to keep you alive and to guide your behaviors.
+
+137
+00:14:30,95 --> 00:14:35,49
+So that you can stay alive long enough to reproduce it's an evolutionary hardware that we can go into
+
+138
+00:14:35,49 --> 00:14:45,78
+but the whole point is just like the desktop interface on your computer. You can end you sentence.
+
+139
+00:14:49,88 --> 00:15:27,76
+and then I'll continue my sentence to the end and then stop. But I want to stick to this alarming idea because that's. In the beginning of this portrait people want to know how this ends. The alarming idea that whatever you see around you is the representation of what you think is not the truth and different from other people's representations.
+
+140
+00:15:29,47 --> 00:15:33,45
+Yes well it. So exactly.
+
+141
+00:15:33,62 --> 00:15:39,68
+So what you see from this point of view what you're seeing when you see shapes of objects and their colors
+
+142
+00:15:39,68 --> 00:15:48,15
+and their motions in a 3D World around you is simply your interface your representation it's not the truth.
+
+143
+00:15:49,18 --> 00:15:52,34
+It's it's there to keep you alive long enough to reproduce.
+
+144
+00:15:53,78 --> 00:16:00,07
+There is a question Do other people see the same thing that you do and the answer is probably their perceptions
+
+145
+00:16:00,14 --> 00:16:03,64
+Are very very similar. So if I am seeing a red rose.
+
+146
+00:16:03,66 --> 00:16:04,32
+And you look at it
+
+147
+00:16:04,32 --> 00:16:09,9
+and you say that there is a red rose there's a good chance that your experiences of the Red Rose are very very similar
+
+148
+00:16:09,9 --> 00:16:15,83
+to to my experiences and the reason is not because there's an objective red rose in the world.
+
+149
+00:16:16,35 --> 00:16:23,6
+But because whatever the objective world is when I interact with it. I construct an interface.
+
+150
+00:16:23,81 --> 00:16:26,56
+That's very similar to the interface that you construct
+
+151
+00:16:26,56 --> 00:16:30,55
+when you interact with that world because we're members of the same species.
+
+152
+00:16:30,79 --> 00:16:35,61
+We're not exactly the same your genes are slightly different from mine. There are mutations.
+
+153
+00:16:35,63 --> 00:16:38,13
+And so we're not going to see exactly the same thing.
+
+154
+00:16:39,29 --> 00:16:44,17
+And there are cases where we actually know this for a fact in the case of color perception we know that roughly one
+
+155
+00:16:44,17 --> 00:16:51,52
+third of men have one ... for the red photoreceptor and the other two thirds have a different ...
+
+156
+00:16:51,52 --> 00:16:56,18
+and they actually see the red orange yellow end of the spectrum a little bit differently from each other.
+
+157
+00:16:56,3 --> 00:17:00,31
+It's a measurable difference so we know that there are differences in the D.N.A.
+
+158
+00:17:00,31 --> 00:17:03,77
+Which lead to measurable differences in the interface.
+
+159
+00:17:04,32 --> 00:17:23,61
+But nevertheless we could we could say that our perceptions are substantially similar. 
+
+160
+00:17:25,71 --> 00:17:34,4
+How do we know what we see? How do we know if we see the truth. So if I see a snake.
+
+161
+00:17:35,39 --> 00:17:42,6
+For example you might say well you know if you think that that snake is just an icon on your interface.
+
+162
+00:17:43,07 --> 00:17:45,91
+Why don't you touch it. Why don't you play with it because it will bite you.
+
+163
+00:17:46,09 --> 00:17:53,34
+And after you're dead you we will know that that snake was more than just an icon in your desktop interface it's real
+
+164
+00:17:53,34 --> 00:18:00,1
+it's a real part of objective reality. And I wouldn't touch that snake. For the same reason.
+
+165
+00:18:00,14 --> 00:18:07,73
+I wouldn't take my blue rectangular icon on my screen and drag it carelessly to the trash can on my screen.
+
+166
+00:18:09,81 --> 00:18:11,81
+I don't drag it carelessly to the trash can.
+
+167
+00:18:11,93 --> 00:18:18,3
+Not because I take the icon literally the file is not literally blue and rectangular but I do take it seriously.
+
+168
+00:18:18,51 --> 00:18:21,31
+If I drag that icon to the trash can. I could lose.
+
+169
+00:18:21,54 --> 00:18:25,16
+Who knows how much you know a year of work if it's a long paper I'm writing or a book or something.
+
+170
+00:18:25,46 --> 00:18:29,14
+Could be a lot of work that I lose. So the interface.
+
+171
+00:18:29,16 --> 00:18:35,09
+I don't take it literally like the files are blue and rectangular but I do take it seriously.
+
+172
+00:18:35,29 --> 00:18:39,52
+In the same thing is true about our perceptions in our everyday life. So if I see a snake.
+
+173
+00:18:39,93 --> 00:18:44,54
+That's an icon I better take quite seriously if you see a snake. Don't touch it.
+
+174
+00:18:44,64 --> 00:18:50,67
+If there's a train coming down the tracks don't step in front of it. So I take my my perceptions quite seriously.
+
+175
+00:18:51,33 --> 00:18:57,94
+But it's a logical error. To then say We must therefore take them literally.
+
+176
+00:18:58,5 --> 00:19:01,11
+That doesn't follow the fact we take them seriously
+
+177
+00:19:01,11 --> 00:19:06,29
+and must take them seriously does not entail that we have to take them literally that's a logical error
+
+178
+00:19:06,29 --> 00:19:12,6
+but it's one that we seem to be inclined to as a species we know that we have to be very very if you see a cliff don't
+
+179
+00:19:12,6 --> 00:19:17,44
+step off if you see a car don't step in front of it so we know that we have to take our perceptions quite seriously
+
+180
+00:19:17,44 --> 00:19:22,28
+and it's just natural for us. Somehow as human beings to say that means that we're seeing the truth.
+
+181
+00:19:22,7 --> 00:19:27,84
+Well no it doesn't it doesn't mean that at all psychologically it does but logically it doesn't.
+
+182
+00:19:27,84 --> 00:19:32,31
+And so that's the the error that we all fall into. It's.
+
+183
+00:19:32,32 --> 00:19:39,1
+It's very interesting very human error one that I feel mean this is very very unnatural for me as well I mean I know I assume
+
+184
+00:19:39,1 --> 00:19:46,09
+that because the car could hurt me. It's real. but no the car is just my interface to something out there.
+
+185
+00:19:46,2 --> 00:19:50,91
+I don't know what it is and my interface is telling me certain behaviors I better do
+
+186
+00:19:50,91 --> 00:19:56,61
+or not do so that that whatever that real world is out there doesn't have impacts on me that I don't like. But what is it then.
+
+187
+00:20:01,91 --> 00:20:10,28
+If you can't take it literally but you can get hit by this car so there is something out there. the car is just the interface. that's right.
+
+188
+00:20:10,33 --> 00:20:14,68
+So the first step then is that if you buy this interface idea space and time  
+
+189
+00:20:14,69 --> 00:20:23,92
+as we see them are not the nature of reality physical objects so matter momentum mass position all this stuff
+
+190
+00:20:23,92 --> 00:20:32,05
+that's not the nature of reality either. So the first step then is to just say what we thought was reality isn't reality.
+
+191
+00:20:32,06 --> 00:20:35,95
+There is some reality that's out there and the first step.
+
+192
+00:20:35,99 --> 00:20:39,49
+And we actually don't know what it is right as scientists we don't know what it is
+
+193
+00:20:39,49 --> 00:20:46,57
+and it's best for us to just recognize that we don't know what it is that even the very language of our perceptions the
+
+194
+00:20:46,57 --> 00:20:52,55
+language of space and time the language of matter position momentum spin
+
+195
+00:20:52,55 --> 00:21:00,77
+and so forth is in fact the wrong language to describe reality. You can't possibly describe reality in that language.
+
+196
+00:21:01,47 --> 00:21:06,32
+In in the same way that for example suppose I had a class A computer science class
+
+197
+00:21:07,1 --> 00:21:09,7
+and I gave the students the following assignment.
+
+198
+00:21:09,87 --> 00:21:16,31
+You can only use the language of the pixels on the desktop screen of your interface that's the only language you can
+
+199
+00:21:16,31 --> 00:21:22,07
+use the pixels and I want you to use that language to describe exactly how a computer works.
+
+200
+00:21:22,14 --> 00:21:26,28
+What's really going on inside a computer that's the only language. Well good luck. Everybody's going to fail.
+
+201
+00:21:26,39 --> 00:21:28,16
+You can't use the language of pixels.
+
+202
+00:21:28,32 --> 00:21:34,88
+It's the wrong language to describe the voltages and magnetic fields and so forth. That's that's inside the computer.
+
+203
+00:21:35,09 --> 00:21:42,63
+Similarly if we try to use the language of space and time and matter and motion particles
+
+204
+00:21:42,63 --> 00:21:45,51
+and so forth to describe ultimate reality.
+
+205
+00:21:45,53 --> 00:21:52,61
+We're guaranteed to fail because that language does not have the possibility to describe the truth of the world
+
+206
+00:21:52,61 --> 00:22:00,79
+around us as scientists then we have to step back and ask what language might work. 
+
+207
+00:22:00,81 --> 00:22:09,33
+It's also possible by the way that we don't have the concepts necessary to describe reality right.
+
+208
+00:22:11,5 --> 00:22:21,2
+We don't expect that monkeys have the language and the knowledge the concepts needed to understand quantum mechanics.
+
+209
+00:22:22,28 --> 00:22:24,25
+No one would ever try to teach quantum mechanics to a monkey.
+
+210
+00:22:24,31 --> 00:22:30,31
+They simply lack the concepts that are needed to even address the subject and it's quite possible that homo sapiens
+
+211
+00:22:30,31 --> 00:22:37,68
+our species has not evolved the concepts that are needed to understand the true nature of reality.
+
+212
+00:22:37,7 --> 00:22:45,38
+Now I can't dismiss that possibility. I mean we're just another species like the monkeys. I don't want to give up.
+
+213
+00:22:45,55 --> 00:22:50,32
+I mean as a scientist. I'm not going to say. Therefore I'm just you know let's let's have a drink and not worry.
+
+214
+00:22:50,79 --> 00:22:52,1
+I'm going to say let's let's try
+
+215
+00:22:52,1 --> 00:22:57,91
+but we need to be very very aware of the possibility of limitations in our conceptual system.
+
+216
+00:22:58,51 --> 00:23:00,7
+And limitations from our perceptual system.
+
+217
+00:23:00,87 --> 00:23:08,08
+What's very clear to me is that the the perceptual language that we've evolved has no chance of being the right
+
+218
+00:23:08,08 --> 00:23:10,33
+language to describe reality.
+
+219
+00:23:10,35 --> 00:23:16,99
+No chance that we can actually show that. the probability that our language of perception is the right language to
+
+220
+00:23:16,99 --> 00:23:50,93
+describe reality is zero is precisely zero. So what you are telling me what I see around me is not the truth. Then I think you're the smart guy probably you're right but I don't understand. But what do your colleagues say?
+
+221
+00:23:51,74 --> 00:24:02,69
+Well most of my colleagues believe that our perceptual systems evolved to tell us the Truth about reality around us.
+
+222
+00:24:02,92 --> 00:24:05,85
+Not all of the truth. No one thinks that we see all of the truth.
+
+223
+00:24:05,95 --> 00:24:11,75
+We can only see light in a narrow band we can't see cosmic rays or X-Rays or you know radio waves.
+
+224
+00:24:11,81 --> 00:24:16,36
+So no one believes that we see all of reality but most of vision scientists
+
+225
+00:24:16,36 --> 00:24:22,66
+and cognitive scientists think that our perceptual systems have evolved to report the truth because they feel that.
+
+226
+00:24:24,4 --> 00:24:29,94
+Sensory systems that report the truth give you a competitive advantage against 
+
+227
+00:24:29,94 --> 00:24:35,5
+when you're competing with other organisms so the organisms that see reality as it is are more fit
+
+228
+00:24:35,5 --> 00:24:39,58
+and more likely to pass on their genes to the next generation.
+
+229
+00:24:39,59 --> 00:24:45,22
+So that's the standard view in every generation the organisms that saw a reality.
+
+230
+00:24:46,06 --> 00:24:48,94
+More closely the way it is had a competitive advantage
+
+231
+00:24:48,94 --> 00:24:54,11
+and were more likely to pass on their genes that coded for their sensory systems to the next generation.
+
+232
+00:24:54,57 --> 00:25:00,57
+So after thousands of generations we can be pretty confident that we're the offspring of those who saw more truly in
+
+233
+00:25:00,57 --> 00:25:06,24
+each generation. So we can be confident that we see reality as it is not exhaustively but truly. Are you on your own?
+
+234
+00:25:09,12 --> 00:25:12,67
+I'm not completely on my own. I would say.
+
+235
+00:25:12,68 --> 00:25:22,91
+My estimate is that maybe five percent of my colleagues might be you know game they might believe
+
+236
+00:25:22,91 --> 00:25:26,69
+that we're not seeing reality as it is
+
+237
+00:25:26,69 --> 00:25:32,86
+and some very very very good colleagues so Jan Koenderink for example from the Netherlands.
+
+238
+00:25:32,88 --> 00:25:35,56
+Arguably the brightest vision scientist alive today.
+
+239
+00:25:36,13 --> 00:25:42,28
+Does agree with me he thinks that evolution by natural selection does not favor true perceptions
+
+240
+00:25:42,28 --> 00:25:49,81
+and that we just have interface perceptions in a number of my colleagues that I've talked with initially are quite
+
+241
+00:25:49,81 --> 00:25:50,1
+skeptical
+
+242
+00:25:51,26 --> 00:25:57,86
+and they even have the you know the reaction I thought you were a smart guy until you said that is really a stupid idea
+
+243
+00:25:57,86 --> 00:26:00,04
+that we don't see reality as it is. But 
+
+244
+00:26:00,14 --> 00:26:03,87
+After talking with them for an hour or two about evolution and the mathematics.
+
+245
+00:26:03,98 --> 00:26:11,63
+Then a lot of my colleagues do these come around to say well OK maybe I mean at least I can't reject this idea out of
+
+246
+00:26:11,63 --> 00:26:11,82
+hand.
+
+247
+00:26:12,02 --> 00:26:21,19
+But I think it's catching on my hope is actually not so much to get my generation of scientists to to follow this idea
+
+248
+00:26:21,19 --> 00:26:25,31
+but to get the graduate students the next generation that's what I'm really after 
+
+249
+00:26:25,31 --> 00:26:31,54
+and they seem to be quite open to it the next generation of scientists the young scientists have seen the Matrix.
+
+250
+00:26:31,73 --> 00:26:38,61
+They've seen movies like that their minds are more open to the possibility that we don't see reality as it is
+
+251
+00:26:38,61 --> 00:26:42,79
+and I think that the next generation is going to really catch on to this and
+
+252
+00:26:42,79 --> 00:26:47,92
+when we have. right now our desktops on our computers are flat but very very soon.
+
+253
+00:26:48,06 --> 00:26:51,22
+We're going to have holographic desktops you'll be interacting with a 3D
+
+254
+00:26:51,22 --> 00:26:53,8
+desktop you pull open your laptop and they'll be a 3D
+
+255
+00:26:53,8 --> 00:26:58,57
+Virtual world that opens up in front of you and you'll be moving icons around in 3D
+
+256
+00:26:58,57 --> 00:27:02,18
+and Suddenly the idea that a 3D
+
+257
+00:27:02,18 --> 00:27:10,3
+World could just be a virtual world just an interface and not the truth will become not a strange weird idea
+
+258
+00:27:10,3 --> 00:27:15,99
+but part of your everyday experience every time you open your laptop so I think that you know what I'm saying right now.
+
+259
+00:27:16,08 --> 00:27:16,54
+I mean.
+
+260
+00:27:17,2 --> 00:27:23,22
+In fifteen twenty years people will ask why was that so hard for people to even understand back then is so silly.
+
+261
+00:27:27,66 --> 00:27:36,94
+So what happens to the truth then is first we have to be very very careful in our claims about truth.
+
+262
+00:27:36,96 --> 00:27:40,86
+Any of the normal language we use of space and time and matter
+
+263
+00:27:40,86 --> 00:27:48,85
+and particles is almost surely the wrong language in the dimension that it's possible that we don't have the right language
+
+264
+00:27:48,85 --> 00:27:54,53
+that none of our concepts are adequate. But I don't want to be a solepsist.
+
+265
+00:27:54,81 --> 00:28:00,07
+So a solepsist from the philosophical point of view is someone who claims that nothing exists.
+
+266
+00:28:00,14 --> 00:28:10,18
+Except me in my perceptions. I'm not a solepsist I think that there does exist something besides me in my perceptions.
+
+267
+00:28:10,19 --> 00:28:19,55
+And I have to first say I don't know what it is so as a scientist right off the confession is now that I've given up
+
+268
+00:28:19,55 --> 00:28:25,04
+space and time and matter and physical objects as the nature of reality by I honestly don't know
+
+269
+00:28:25,04 --> 00:28:33,19
+what the nature of objective reality is but as a scientist. It's my job to theorize I can make proposals.
+
+270
+00:28:33,21 --> 00:28:34,59
+I'm probably going to be wrong
+
+271
+00:28:34,59 --> 00:28:43,56
+but the idea in science is to make specific precise mathematically precise if you can mathematically precise proposals
+
+272
+00:28:43,56 --> 00:28:44,25
+about the nature of reality.
+
+273
+00:28:45,4 --> 00:28:47,01
+Knowing full well that you're probably wrong
+
+274
+00:28:47,82 --> 00:28:51,7
+but being so precise that you can then do experiments to prove that you're wrong
+
+275
+00:28:53,21 --> 00:28:58,82
+and then figure out how you might change your theory so that you can get something that's not quite as wrong.
+
+276
+00:28:58,84 --> 00:29:07,71
+So that's what I've been working on and the direction I'm pursuing is motivated in the following way.
+
+277
+00:29:10,6 --> 00:29:17,04
+Perhaps I know nothing. There's a good chance that everything I believe is false but if I know anything at all.
+
+278
+00:29:20,19 --> 00:29:26,82
+I know that I'm experiencing headaches smells sounds visual perceptions
+
+279
+00:29:26,82 --> 00:29:33,68
+and so forth as experiences not as a truth about an external world just as my experiences.
+
+280
+00:29:33,85 --> 00:29:38,57
+So a headache is a good example because a headache is you know something that no one else can see
+
+281
+00:29:38,57 --> 00:29:41,63
+and you can't see my headache I can't see your headache I can't experience it.
+
+282
+00:29:42,19 --> 00:29:48,15
+It's my own personal experience and it's real as an experience.
+
+283
+00:29:49,03 --> 00:29:51,26
+It's not real as a claim about the external world
+
+284
+00:29:51,26 --> 00:29:56,63
+but it is real as an experience to me if you said oh your headache isn't real. I'd be very angry with you.
+
+285
+00:29:56,67 --> 00:30:05,4
+It is real headache and you know I might need aspirin for it. So my idea is to say I could be wrong about everything.
+
+286
+00:30:06,76 --> 00:30:13,86
+But if I'm not wrong. If I'm wrong about experiences about having experiences then it's really game over.
+
+287
+00:30:13,88 --> 00:30:16,9
+There's not really any place I can go.
+
+288
+00:30:16,92 --> 00:30:20,48
+So I'm going to start with that I'm going to start with there are experiences
+
+289
+00:30:22,24 --> 00:30:31,64
+and so have a mathematical model of what I call a conscious agent something like me they can have experiences conscious
+
+290
+00:30:31,64 --> 00:30:40,08
+experiences of smells and tastes and colors and sounds. Is that the structure of consciousness.
+
+291
+00:30:47,92 --> 00:30:59,83
+Yes the mathematical structure of it. That's what I was about to describe. Science of observation with the six elements.
+
+292
+00:30:59,98 --> 00:31:15,3
+So I'll try to describe them informally. 
+
+293
+00:31:15,35 --> 00:31:23,26
+So the idea then is to have what I call a conscious agent that has conscious experiences sights smells sounds
+
+294
+00:31:23,26 --> 00:31:28,96
+and tastes that can then make choices based on what it experiences
+
+295
+00:31:30,79 --> 00:31:39,41
+and then once it's made a choice about what it wants to do it can then act on the world whatever that world is and then
+
+296
+00:31:39,41 --> 00:31:46,78
+that world will again affect our experiences so there's a loop between the world affecting my experiences my experiences
+
+297
+00:31:46,78 --> 00:31:52,77
+affecting the decisions I make about how to act and then those actions down working on the world.
+
+298
+00:31:52,77 --> 00:31:53,18
+It's a loop
+
+299
+00:31:54,2 --> 00:32:00,22
+and then I also think about having a counter for every experience I have I can have my own little personal time which
+
+300
+00:32:00,22 --> 00:32:07,07
+is a counter of the experiences and in I've discussed it here informally but we've made this a mathematical model
+
+301
+00:32:07,07 --> 00:32:13,25
+and what we're trying to do is to develop this will we call theory of conscious agents in having networks so the so the
+
+302
+00:32:13,25 --> 00:32:18,79
+idea is there is a universe that exists independent of me whether or not I existed.
+
+303
+00:32:19,42 --> 00:32:25,94
+But it's a universe of consciousness of conscious agents agents that have experiences make decisions
+
+304
+00:32:25,94 --> 00:32:35,14
+and act interacting with each other so so I'm just one. I'm one participating in this.
+
+305
+00:32:35,24 --> 00:32:38,33
+And in fact I'm not just one i'm when we look at the whole theory.
+
+306
+00:32:38,47 --> 00:32:42,87
+I'm perhaps an infinite lattice of these conscious agents all interacting.
+
+307
+00:32:44,64 --> 00:32:49,31
+But and then so are you so as everybody is not just one can't you're one conscious agent
+
+308
+00:32:49,31 --> 00:32:53,48
+but you're also two roughly corresponding to the two hemispheres of your brain
+
+309
+00:32:54,72 --> 00:33:21,03
+and then within each hemisphere more conscious agents to perhaps an indefinite indefinitely large number. So our own consciousness doesn't exist but we are bodies who are influenced by another consciousness
+
+310
+00:33:21,05 --> 00:33:23,6
+That's right. So this theory.
+
+311
+00:33:23,74 --> 00:33:25,89
+Again I could be wrong
+
+312
+00:33:25,89 --> 00:33:33,19
+but what I'm proposing is that consciousness is fundamental it's the fundamental nature of reality and
+
+313
+00:33:33,2 --> 00:33:39,82
+but I don't want to just have that be some kind of loose. You know semi spiritual kind of idea.
+
+314
+00:33:40,33 --> 00:33:42,19
+I'm trying to get a mathematically precise idea.
+
+315
+00:33:42,34 --> 00:33:47,55
+So what do I mean by consciousness I'm getting a mathematical model of what I mean by consciousness that's absolute
+
+316
+00:33:47,55 --> 00:33:54,13
+precise mathematically precise and I call this mathematical model conscious agent and then it turns it.
+
+317
+00:33:55,11 --> 00:33:58,65
+It's all works out very very well actually the mathematics is all is quite clear
+
+318
+00:33:59,5 --> 00:34:07,00
+and we've published a paper with the mathematics has been out for a couple years. So you can describe consciousness as an equation.
+
+319
+00:34:07,02 --> 00:34:11,82
+Yes and as dynamical systems and we can write down the equations of the dynamics.
+
+320
+00:34:11,92 --> 00:34:14,75
+It's a very very rich mathematical area.
+
+321
+00:34:15,19 --> 00:34:19,4
+So you mean most of the time when you hear people say I think consciousness is fundamental.
+
+322
+00:34:19,45 --> 00:34:22,39
+It's more about well this meditating hold hands and
+
+323
+00:34:22,39 --> 00:34:27,9
+and things like that that what I'm trying to do is to take that idea and make it very very rigorous.
+
+324
+00:34:27,98 --> 00:34:32,84
+Here's a mathematical model of consciousness. These are the equations of the dynamics.
+
+325
+00:34:32,85 --> 00:34:40,39
+So the goal is to get a mathematically precise model of consciousness that we can then use.
+
+326
+00:34:41,19 --> 00:34:46,41
+To solve one of the biggest unsolved problems in science the so-called mind body problem.
+
+327
+00:34:46,42 --> 00:34:52,01
+This is a problem that has perplexed human beings for thousands of years.
+
+328
+00:34:52,6 --> 00:34:56,88
+And that is what is the relationship between our conscious experiences.
+
+329
+00:34:57,49 --> 00:35:04,73
+The taste of garlic the smell of an onion the sound of a trumpet and our physical bodies the physical world.
+
+330
+00:35:05,00 --> 00:35:12,82
+What is that relationship. How should we understand it. Most neuroscientists and philosophers of mind today are.
+
+331
+00:35:12,99 --> 00:35:20,37
+Trying to solve that problem by saying that neural activity in the brain is the foundation. That's the reality.
+
+332
+00:35:20,52 --> 00:35:29,71
+So neurons in space and time physical objects and their dynamics create or are they're identical to consciousness.
+
+333
+00:35:29,86 --> 00:35:34,71
+So somehow when you get a complicated system of neurons somehow their dynamics
+
+334
+00:35:34,71 --> 00:35:37,81
+or their properties boot up consciousness
+
+335
+00:35:38,99 --> 00:35:46,22
+but the surprising thing is that we've never been able to get a theory of of how that could be there are ideas maybe
+
+336
+00:35:46,22 --> 00:35:52,28
+some how information theoretic properties of the dynamics of neural networks.
+
+337
+00:35:52,44 --> 00:35:57,51
+Maybe somehow those could boot up consciousness we do have correlations right we know that
+
+338
+00:35:57,51 --> 00:36:04,39
+when you're conscious your brain has certain information theoretic properties of its dynamics that's certainly true. Now you turn it around 
+
+339
+00:36:06,33 --> 00:36:14,66
+By saying. It's the other way. The mind-body problem you didn't solve it so far. That's right. 
+
+340
+00:36:16,15 --> 00:36:21,6
+So instead of going from physics to the consciousness I'll start with consciousness and get physics I'll go the other way.
+
+341
+00:36:27,03 --> 00:36:31,35
+Can you say that again. Yeah so.
+
+342
+00:36:31,74 --> 00:36:38,74
+So most neuroscientists and philosophers of mind are trying to start with properties of neurons neural networks
+
+343
+00:36:38,74 --> 00:36:45,59
+and neural activity and to try to then get a theory of how consciousness could emerge from that
+
+344
+00:36:45,59 --> 00:36:48,93
+or somehow be identical to that neural activity.
+
+345
+00:36:48,95 --> 00:36:53,27
+And there are a lot of ideas about how we might get a scientific theory.
+
+346
+00:36:54,18 --> 00:37:01,8
+Information theoretic properties of of the dynamics certain quantum properties of microtubules maybe certain you know
+
+347
+00:37:01,8 --> 00:37:05,92
+frequencies of firings of neurons and things like that.
+
+348
+00:37:07,16 --> 00:37:12,78
+But there's not yet been any scientific theory that's actually been proposed which says.
+
+349
+00:37:12,99 --> 00:37:19,45
+This neural activity with these say information theoretic properties has to be the taste of chocolate.
+
+350
+00:37:19,46 --> 00:37:26,38
+It could not be the taste of a strawberry it could not be a headache and these are the mathematical reasons why.
+
+351
+00:37:26,42 --> 00:37:29,82
+So we need laws that take us from neural activity.
+
+352
+00:37:30,22 --> 00:37:32,37
+Whatever the properties of neural activity are that we want to propose
+
+353
+00:37:32,37 --> 00:37:38,85
+or the foundation takes us from those properties of the neurons into the specific conscious experiences
+
+354
+00:37:38,85 --> 00:37:47,38
+and explain exactly why this neural activity lawfully must be that conscious experience that has never been done.
+
+355
+00:37:47,54 --> 00:37:51,59
+So there. So it when I say there are no scientific theories. That's what I'm saying.
+
+356
+00:37:51,67 --> 00:37:56,84
+No one has ever proposed laws that say this neural activity.
+
+357
+00:37:56,85 --> 00:38:01,89
+Based on this law must be the taste of chocolate it could not be the smell of garlic.
+
+358
+00:38:02,9 --> 00:38:10,2
+Nothing is is even close to trying to do that. So I'll put it very boldly there are no scientific theories.
+
+359
+00:38:10,22 --> 00:38:15,37
+That start with a physical description of the brain neural activity and give you consciousness.
+
+360
+00:38:15,55 --> 00:38:20,47
+There's nothing remotely plausible and there are no good ideas about how that might be done.
+
+361
+00:38:20,54 --> 00:38:24,84
+That's the state of play and we should be very very frank about it. There are no scientific theories.
+
+362
+00:38:24,92 --> 00:38:32,07
+There are no remotely plausible ideas about how to do that and that's what got me thinking about this. I mean I tried.
+
+363
+00:38:32,16 --> 00:38:38,88
+I'm a physicalist but at heart like everybody else but when everybody's failing deeply
+
+364
+00:38:38,88 --> 00:38:43,94
+and I have no good ideas no one has any good ideas about how to start with a brain and get consciousness.
+
+365
+00:38:44,49 --> 00:38:45,73
+I decided let's try the other direction.
+
+366
+00:38:46,06 --> 00:38:51,5
+So let's try to solve the mind body problem with a theory of consciousness on its own terms.
+
+367
+00:38:51,92 --> 00:38:53,55
+So first start with consciousness
+
+368
+00:38:53,55 --> 00:39:01,16
+and say propose as a scientific hypothesis that consciousness is fundamental get a mathematical model of it
+
+369
+00:39:01,16 --> 00:39:04,03
+and then solve the mind body problem. The other direction.
+
+370
+00:39:04,41 --> 00:39:06,21
+So instead of starting with physics
+
+371
+00:39:06,21 --> 00:39:12,87
+and getting consciousness start with consciousness mathematically described not a hand wave a mathematical model of consciousness.
+
+372
+00:39:12,99 --> 00:39:15,23
+and get back all of quantum physics
+
+373
+00:39:15,23 --> 00:39:22,32
+and relativity theory that's that would be solving the mind body problem in the other direction. So you're combining theory. That's right.
+
+374
+00:39:22,39 --> 00:39:24,56
+So ultimately we as a scientist.
+
+375
+00:39:24,63 --> 00:39:31,25
+We want one theoretical framework that covers everything we know right from the physicalist point of view what most
+
+376
+00:39:31,25 --> 00:39:36,00
+people are you want to start with what we know about physics you know string theory relativity theory and so forth
+
+377
+00:39:36,8 --> 00:39:38,73
+and then neural networks and their activity
+
+378
+00:39:38,73 --> 00:39:42,86
+and get consciousness out so we have one big picture that of the universe that gets it all in
+
+379
+00:39:42,86 --> 00:39:49,54
+we haven't been able to do that because we can't get consciousness in so I'm trying to start with a mathematical
+
+380
+00:39:49,54 --> 00:39:55,93
+model of consciousness and its dynamics and then see if I can't get out. You know string theory.
+
+381
+00:39:56,45 --> 00:39:57,29
+Quantum gravity
+
+382
+00:39:58,08 --> 00:40:04,32
+and maybe ideally make some new predictions that the physicists haven't made if I can do that then we're off to a real
+
+383
+00:40:04,32 --> 00:40:07,41
+scientific adventure.
+
+384
+00:40:08,3 --> 00:40:13,47
+A breakthrough Yeah it would be it would be a scientific breakthrough if we could if we could do that because partly because it
+
+385
+00:40:13,47 --> 00:40:19,36
+would be unifying two things that we've never been able to unify namely consciousness or conscious experiences
+
+386
+00:40:19,36 --> 00:40:24,07
+and what we take to be the physical world. If this unification works.
+
+387
+00:40:24,3 --> 00:40:34,28
+What it would reveal is what we took to be an independent objective space time physical reality is simply a species
+
+388
+00:40:34,28 --> 00:40:42,06
+specific user interface and different species will have evolved different user interfaces.
+
+389
+00:40:42,22 --> 00:40:44,97
+Maybe they don't use space and time. Maybe they don't use color.
+
+390
+00:40:45,14 --> 00:40:50,84
+Maybe they use senses and formats of interfaces that we can't even imagine.
+
+391
+00:40:51,24 --> 00:40:59,58
+And it's very easy for us to blow out our imagination. But isn't that then the reason why we still survive. Right.
+
+392
+00:41:00,42 --> 00:41:05,17
+So we have our interface in terms of space and time and objects snakes
+
+393
+00:41:05,17 --> 00:41:08,02
+and trains that we have to avoid to keep us alive.
+
+394
+00:41:08,29 --> 00:41:13,49
+That's it's evolved to keep us alive but there are many ways to stay alive. Right.
+
+395
+00:41:13,52 --> 00:41:21,44
+Evolution shapes different organisms for different niches with different gambits different strategies for staying alive.
+
+396
+00:41:21,73 --> 00:41:23,78
+Ours is just one of millions.
+
+397
+00:41:24,16 --> 00:41:30,41
+We we know there have been many many millions of species that have lived even just on this one planet.
+
+398
+00:41:30,95 --> 00:41:39,51
+And we know that the nature of their perceptual experiences in general is very very different from ours.
+
+399
+00:41:39,53 --> 00:41:44,35
+There are snakes that see in infrared.
+
+400
+00:41:44,37 --> 00:41:49,37
+You know fish that see electric fields
+
+401
+00:41:49,37 --> 00:41:56,47
+and sense electrical things that we can't even imagine what it would be like and even birds for example that have four
+
+402
+00:41:56,47 --> 00:42:05,54
+color receptors. We only have three Try to imagine a specific color that you've never seen before.
+
+403
+00:42:08,27 --> 00:42:13,55
+Nothing happens right. You can't even imagine a specific concrete color that you've never seen before.
+
+404
+00:42:13,92 --> 00:42:22,13
+And yet apparently pigeons are in a a richer color world they're experiencing colors that perhaps no human can even
+
+405
+00:42:22,13 --> 00:42:30,34
+imagine and there are animals that even have more color receptors the mantis shrimp has ten or more color receptors.
+
+406
+00:42:30,79 --> 00:42:40,67
+So try to imagine their color I can't even imagine it in some sense. My my sensory systems are a window on the world.
+
+407
+00:42:40,69 --> 00:42:41,98
+But they're also a prism.
+
+408
+00:42:42,97 --> 00:42:45,42
+I can't actually see outside of it
+
+409
+00:42:45,42 --> 00:42:52,76
+and I can't even concretely imagine perceptual experience outside of it I can do it abstractly I could imagine
+
+410
+00:42:52,76 --> 00:42:58,84
+abstractly a world that's not three dimensional I can imagine a four dimensional world I mean Einstein did that.
+
+411
+00:42:59,2 --> 00:43:01,88
+And it's hard but you can you can imagine a four dimensional world
+
+412
+00:43:01,88 --> 00:43:07,47
+or you know mathematicians can go to any dimension you want. We can go there.
+
+413
+00:43:07,48 --> 00:43:12,79
+Conceptually but nobody not even the most brilliant mathematician can concretely.
+
+414
+00:43:12,99 --> 00:43:19,93
+imagine in their mind a four dimensional world just like you can't imagine concretely a specific new color
+
+415
+00:43:19,93 --> 00:43:27,48
+that you've never seen before. So our our desktop interface is a species specific interface.
+
+416
+00:43:28,13 --> 00:43:29,91
+It's our window on the world.
+
+417
+00:43:29,92 --> 00:43:38,05
+It's our way to stay alive it gives us the symbols we need in our particular niche homo sapiens has taken a particular
+
+418
+00:43:38,05 --> 00:43:44,7
+kind or set of niches. The paramecium E. coli all these various organisms.
+
+419
+00:43:44,77 --> 00:43:49,37
+They have different issues they don't need the same user interface that we have so the interface is going to vary
+
+420
+00:43:49,37 --> 00:43:56,07
+widely from from from organism to organism. But if I'm correct about this conscious agent thesis.
+
+421
+00:43:56,43 --> 00:44:03,15
+It's consciousness all the way down different different user interfaces that are allowing different conscious agents to
+
+422
+00:44:03,15 --> 00:44:20,78
+do what they need to do. But in their own format. So it's possible that different worlds exist together. That's right that I see. But you and I we are in the same world. You agree on that right.
+
+423
+00:44:22,34 --> 00:44:26,53
+You and I have very very similar interfaces is my assumption.
+
+424
+00:44:26,57 --> 00:44:33,44
+Again as a scientist I can never say I know for sure. Because it's a specieslike interface what you said. Exactly right. We are the same species
+
+425
+00:44:34,88 --> 00:44:43,16
+I think So because you and I are members of the same species.
+
+426
+00:44:44,32 --> 00:44:50,66
+It's reasonable for me to assume. Are we. yes that's right. Well that the yeah it's interesting.
+
+427
+00:44:50,86 --> 00:44:54,42
+My my perceptions have classified you as being similar to me
+
+428
+00:44:54,42 --> 00:44:58,35
+but again it's fallible as a scientist I never can say for sure.
+
+429
+00:44:58,73 --> 00:45:05,26
+Anything I can only give probabilities of about my statements but I think it's highly likely that
+
+430
+00:45:05,27 --> 00:45:12,73
+when I'm interacting with you I'm interacting with someone who's perceptions whose interface is.
+
+431
+00:45:12,99 --> 00:45:20,62
+Very very similar to mine. There's no way for me to actually prove that your experiences are identical to mine.
+
+432
+00:45:21,55 --> 00:45:26,75
+In fact I have a mathematical proof that I published about eight years ago that actually proves that we that we can't
+
+433
+00:45:26,75 --> 00:45:34,02
+do that. So it's actually a theorem that there's no way for us to verify that your experiences.
+
+434
+00:45:34,04 --> 00:45:45,16
+Are the same as mine even. Do you think the fact that I find it very hard to understand what you are trying to explain to me that we use a different interface.
+
+435
+00:45:45,18 --> 00:45:51,7
+You know the fact that I. You're more intelligent. Well I wouldn't say that I would say that the fact that maybe what I'm saying is a little
+
+436
+00:45:51,7 --> 00:45:52,37
+difficult for you
+
+437
+00:45:52,37 --> 00:45:57,88
+or other people to understand is not so much a matter of a difference of the user interface that we have
+
+438
+00:45:57,88 --> 00:46:04,87
+or a difference in intelligence. It's more just a matter of a difference in what we spend our time thinking about so.
+
+439
+00:46:05,24 --> 00:46:10,88
+So for example if if someone is crocheting I've never done any crocheting
+
+440
+00:46:12,23 --> 00:46:16,93
+and so things that are obvious to someone who spent their life crocheting are not obvious to me I could know I couldn't
+
+441
+00:46:16,93 --> 00:46:23,07
+pick up the darning needles and the threads and do it.
+
+442
+00:46:23,09 --> 00:46:26,28
+I wouldn't say that the person who is crocheting a smarter than me or dumber than me.
+
+443
+00:46:26,3 --> 00:46:29,38
+They just have had a different you know thing that they focused on
+
+444
+00:46:29,38 --> 00:46:32,24
+and so the same thing here with the user interface idea.
+
+445
+00:46:32,41 --> 00:46:41,42
+It's difficult to understand partly because our species seems to want to think that what we experience is the truth.
+
+446
+00:46:41,46 --> 00:46:44,42
+So we seem to have that inclination.
+
+447
+00:46:46,05 --> 00:46:53,41
+But I do think that you are very very similar to me in your in your perceptual experiences and but I could be wrong.
+
+448
+00:46:55,56 --> 00:47:02,93
+And I do know it's it's a theorem that even if in every experiment you behave exactly the same way as me.
+
+449
+00:47:03,13 --> 00:47:04,1
+So in every experiment.
+
+450
+00:47:05,52 --> 00:47:08,57
+Same color perception you give exactly the same answers as me
+
+451
+00:47:08,57 --> 00:47:14,03
+and we even do brain scans in your brain is behaving exactly the same way. As mine.
+
+452
+00:47:14,05 --> 00:47:19,5
+You might say well that must prove that your color experiences are identical to mine and it turns out.
+
+453
+00:47:19,72 --> 00:47:21,17
+No it doesn't prove that they're identical.
+
+454
+00:47:21,33 --> 00:47:28,3
+It makes it likely from my point of view as a scientist that  they're the same but it's not a proof.
+
+455
+00:47:28,39 --> 00:47:28,74
+Well
+
+456
+00:47:28,74 --> 00:47:33,84
+and in fact that might be one thing we could talk about is something called synesthesia So these are people who see
+
+457
+00:47:33,84 --> 00:47:39,72
+when when you see you just see but they also maybe hear something or if they see a letter they see a color
+
+458
+00:47:40,68 --> 00:47:42,88
+and so this mean these These are real people.
+
+459
+00:47:43,08 --> 00:47:48,76
+This is not real science fiction it's a synesthesia is real people that have what we call mixing of the senses
+
+460
+00:47:48,76 --> 00:48:01,23
+but that really shows that our user interface could be very very different. So we could talk about that. Yeah. Then.
+
+461
+00:48:06,82 --> 00:48:07,12
+That's right.
+
+462
+00:48:07,31 --> 00:48:17,64
+So it's one thing to say that our perceptions don't report the truth that they're just user interface
+
+463
+00:48:17,64 --> 00:48:19,57
+and anybody can say that in you might ask.
+
+464
+00:48:19,66 --> 00:48:25,59
+Well what's the logical argument on what grounds are you making such a wild claim. And.
+
+465
+00:48:25,6 --> 00:48:33,7
+The argument is based on evolution by natural selection most researchers in my field have the argument that I mentioned
+
+466
+00:48:33,7 --> 00:48:41,41
+earlier that. Those of us who saw reality as it is had a competitive advantage compared to those who don't.
+

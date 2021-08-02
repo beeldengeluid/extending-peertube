@@ -1,0 +1,3152 @@
+1
+00:00:00,41 --> 00:00:01,14
+OK.
+
+2
+00:00:01,19 --> 00:00:08,26
+My name is Sara Seager I'm a professor at MIT I am an astrophysicist I work on planets orbiting stars other than 
+
+3
+00:00:08,26 --> 00:00:19,94
+other than the sun we call them exoplanets. Other than the sun? Stars Yeah. So the sun is a star and there are more stars like the sun. Every star in the sky is the sun.
+
+4
+00:00:21,42 --> 00:00:26,23
+And there are literally billions of suns or stars in our galaxy. 
+
+5
+00:00:27,19 --> 00:00:35,33
+So like the Sun. So we see the sun as the center of the universe. Well the sun is more or less the center of our universe
+
+6
+00:00:35,33 --> 00:00:43,09
+but our sun is just one of billions of stars hundreds of billions of stars orbiting all bound together in a galaxy we
+
+7
+00:00:43,09 --> 00:00:52,14
+call the Milky Way. Yeah so many stars. And now we actually think that we think that every star has a planetary system.
+
+8
+00:00:53,44 --> 00:00:59,26
+So if there's hundreds of billions of stars there could be trillions of planets in our galaxy alone.
+
+9
+00:00:59,27 --> 00:01:18,66
+And actually there are hundreds of billions of galaxies out there. That's 1 followed by lots of zeros. Wow that's too much. One question and it's too much. So how do you know because it's unimaginable.
+
+10
+00:01:18,68 --> 00:01:23,82
+Well it took decades if not centuries or thousands of years you know for us to figure out what's out there.
+
+11
+00:01:25,55 --> 00:01:34,56
+But actually now astronomers have found planets thousands of them everywhere we look every star that our technology can
+
+12
+00:01:34,56 --> 00:01:38,69
+find a planet around we do find a planet. Almost every star.
+
+13
+00:01:38,71 --> 00:01:45,3
+And so we just are piecing it all together about the range of planets and what's out there. We also see.
+
+14
+00:01:45,32 --> 00:01:55,64
+Star forming discs. we see that when stars are. discs. We also see when stars are born. They're born with a gas.
+
+15
+00:01:55,75 --> 00:02:00,77
+They're born. We also see when stars are born. They have a disc around them
+
+16
+00:02:00,78 --> 00:02:05,7
+That's kind of full of junk leftover material and we see that around almost all stars
+
+17
+00:02:06,98 --> 00:02:09,51
+and out of that that junk that dust
+
+18
+00:02:09,51 --> 00:02:17,51
+and gas that's left over planets are going to form. like earth formed. like our planetary system formed.
+
+19
+00:02:17,67 --> 00:02:28,48
+Yes that's right. So then again: how do you know? How do I know myself? Do you have to believe it?
+
+20
+00:02:28,54 --> 00:02:33,33
+Actually you do you know that's kind of one of those complicated things in science because we can't repeat every experiment
+
+21
+00:02:33,33 --> 00:02:38,2
+ever done. Like for example my building at work you'll see it. You're going to love my office.
+
+22
+00:02:38,74 --> 00:02:41,18
+And if it's a clear day even if we're not filming up there.
+
+23
+00:02:41,2 --> 00:02:46,46
+I'm going to take you up to the roof because we can see the entire city skyline of Boston we can see over to the ocean
+
+24
+00:02:46,46 --> 00:02:48,62
+if we're lucky. if it's a clear day
+
+25
+00:02:48,62 --> 00:02:54,81
+and we climb up this little crow's nest ladder that leads to a little crow's nest we can see over to the White Mountains in
+
+26
+00:02:54,81 --> 00:02:58,22
+New Hampshire. Now I'm guessing you wouldn't want to jump off that building.
+
+27
+00:02:58,28 --> 00:03:04,44
+Because you believe in the laws of gravity. So some things are accessible to us we believe in gravity.
+
+28
+00:03:04,46 --> 00:03:09,2
+And we believe in some laws of physics but we believe in all the laws of physics but some of them are accessible to us.
+
+29
+00:03:09,39 --> 00:03:12,13
+So it's kind of a complicated thing to get into right away
+
+30
+00:03:12,13 --> 00:03:15,76
+but in science we believe on these building blocks starting with things that we experience
+
+31
+00:03:16,46 --> 00:03:18,7
+and some things get more complicated and more abstract.
+
+32
+00:03:19,35 --> 00:03:19,88
+And
+
+33
+00:03:19,88 --> 00:03:28,00
+when it comes to exoplanets in some cases the measurement of detection of that planet is incontrovertible we really can't
+
+34
+00:03:28,01 --> 00:03:29,97
+describe it to anything else but a planet.
+
+35
+00:03:30,5 --> 00:03:36,04
+In other cases we see like an indirect measurement of a planet and in that case.
+
+36
+00:03:36,12 --> 00:03:38,78
+Sometimes it's a bit of a leap of faith to believe it's a planet.
+
+37
+00:03:39,43 --> 00:03:45,5
+And in some even more extreme cases a planet detection will later be retracted because it looked like a planet was
+
+38
+00:03:45,5 --> 00:03:47,4
+there. But it turned out to be something else.
+
+39
+00:03:49,25 --> 00:03:57,83
+It's like noise like if you I can give you an analogy that will make sense to you if you take a picture and it's very grainy.
+
+40
+00:03:53,85 --> 00:03:59,99
+and blurry you think you see something like a U.F.O. And you know you you. You're not sure.
+
+41
+00:04:00,09 --> 00:04:03,8
+It kind of looks like something you can recognize you're not a hundred percent sure.
+
+42
+00:04:03,81 --> 00:04:09,41
+Later you go back and take better images and you see what you thought was there was just a. it was just noise.
+
+43
+00:04:09,62 --> 00:04:13,49
+It was just nothing. an artifact. So we sometimes see that as well. So what exactly is your position in this exploring?
+
+44
+00:04:21,4 --> 00:04:29,57
+I have many different positions in this field the one I started out in is studying planet atmospheres like on our own
+
+45
+00:04:29,57 --> 00:04:33,83
+Earth we have air that we breathe. All these other planets also have their version of air.
+
+46
+00:04:34,29 --> 00:04:38,93
+It might be hydrogen or helium or it might be carbon dioxide or something else
+
+47
+00:04:38,93 --> 00:04:41,44
+but it's to study these atmospheres of planets far away.
+
+48
+00:04:42,03 --> 00:04:46,45
+And to try to understand what those atmospheres are made of that's my main.
+
+49
+00:04:46,47 --> 00:04:54,33
+And that's one of the main things that I started out doing. And are you alone in that? There's lots of people working on this. Now when I started.
+
+50
+00:04:55,00 --> 00:04:59,76
+There were very few almost nobody was working on this but now it's amazing actually if I could.
+
+51
+00:05:01,82 --> 00:05:02,95
+Yes it's just remarkable.
+
+52
+00:05:03,37 --> 00:05:09,7
+Now that the things that I. Like there are. The field was so new when I started that
+
+53
+00:05:09,7 --> 00:05:16,57
+when people were finding planets other people accused the people finding planets of stamp collecting you're just
+
+54
+00:05:16,57 --> 00:05:19,35
+collecting these things were going to do with them. It's hard enough to find them.
+
+55
+00:05:19,91 --> 00:05:21,99
+And many of the findings people didn't believe .
+
+56
+00:05:22,08 --> 00:05:29,48
+So they're wondering why was I wanted to study their atmospheres which is even harder to do. So it's amazing.
+
+57
+00:05:29,49 --> 00:05:31,84
+Now that today. It's twenty years later.
+
+58
+00:05:32,88 --> 00:05:39,9
+Not only do we have dozens and dozens of planet atmospheres measured but it's so standard now. you can come to MIT
+
+59
+00:05:39,9 --> 00:05:44,8
+and go to a talk next Tuesday a visiting professor will be talking about exoplanet atmospheres
+
+60
+00:05:44,8 --> 00:05:47,71
+and how complex they are it's now bread and butter mainstream astronomy.
+
+61
+00:05:47,96 --> 00:06:03,74
+So there's lots of people working on it right now. What kind of proof do you have to deliver. Like an atmosphere. How can you tell people this is real. Do you have to show them a picture.
+
+62
+00:06:04,94 --> 00:06:11,77
+Yes really great question I wasn't expecting such a hard question. But actually again we build on many decades of work.
+
+63
+00:06:12,43 --> 00:06:13,69
+So for a long time.
+
+64
+00:06:13,95 --> 00:06:19,92
+Astronomers have used spectroscopy we break up the white light of the sun or star into different colors
+
+65
+00:06:19,92 --> 00:06:26,31
+and we look for lines that are missing little pieces of let's say the rainbow the spectrum that are gone
+
+66
+00:06:26,31 --> 00:06:28,64
+and from that we infer the presence of atoms and molecules.
+
+67
+00:06:29,16 --> 00:06:32,39
+So if you want to know the truth people before us did all the hard work
+
+68
+00:06:33,47 --> 00:06:37,42
+when they did all the hard work even looking at the sun
+
+69
+00:06:37,42 --> 00:06:41,95
+and stars we can see many different atoms in the photosphere of the sun and stars
+
+70
+00:06:41,95 --> 00:06:45,91
+and you know it took people a long time to believe that stars were made mostly of hydrogen and helium.
+
+71
+00:06:46,26 --> 00:06:50,61
+So the tools we use and the applied physics were using in the atomic
+
+72
+00:06:50,61 --> 00:06:53,47
+and molecular physics people worked hard to understand that
+
+73
+00:06:53,47 --> 00:06:59,25
+and fought with each other about what was believable and what was not so we're taking this decades old technique
+
+74
+00:06:59,25 --> 00:07:07,29
+and applying it to planets. And so we have two problems one is to get good enough data so we can see a robust signal.
+
+75
+00:07:08,99 --> 00:07:12,35
+Again like back to the image you could have a very blurry image in low light
+
+76
+00:07:12,35 --> 00:07:14,1
+and you could think you're seeing something
+
+77
+00:07:14,1 --> 00:07:19,14
+and you wouldn't be able to prove to someone else that you're really seeing the scene you think you're seeing.
+
+78
+00:07:19,35 --> 00:07:21,85
+So we have to have good enough data so everybody can look at the data.
+
+79
+00:07:22,34 --> 00:07:35,63
+Every astronomer and they'll say yes I do see a spectral feature I do see a signal above the noise. And that data is like. It's not a picture no. So what is it?
+
+80
+00:07:35,65 --> 00:07:46,9
+You know I could. Well I'm gonna think of how to explain this to you. I do have a. Because then you have to prove by interpretation of figures. Yes we do.
+
+81
+00:07:47,15 --> 00:07:50,82
+Like I wish I could show this to you. Maybe maybe tomorrow. I can show you a picture.
+
+82
+00:07:50,98 --> 00:07:55,17
+I have a nice print-out at my office but I'm just going to walk you through it now.
+
+83
+00:07:55,99 --> 00:07:59,18
+but what we do is. imagine for a moment you see a rainbow.
+
+84
+00:08:00,09 --> 00:08:04,81
+If you could look at that rainbow very closely you would see that some parts of the colors are missing.
+
+85
+00:08:05,71 --> 00:08:11,12
+You would see literally out of that rainbow color the red orange yellow green blue you would actually see little pieces
+
+86
+00:08:11,12 --> 00:08:14,86
+that look black black lines as if someone took a marker and just drew a black line.
+
+87
+00:08:15,11 --> 00:08:22,3
+And that's we do that in astronomy we break up the white light of the sun or stars and we see some lines missing.
+
+88
+00:08:22,48 --> 00:08:27,01
+But those lines aren't just sharp they may have a gradient at the edges so they'll be a bit fuzzy at the edges
+
+89
+00:08:27,01 --> 00:08:31,91
+and very dark in the center and believe it or not in the old days people would take photographic plates
+
+90
+00:08:31,91 --> 00:08:37,06
+and they would record these you know they would have a prism that broke up the light into colors
+
+91
+00:08:37,06 --> 00:08:41,34
+and they would literally see these dark lines and they put it on a table and shine a light through it
+
+92
+00:08:41,34 --> 00:08:44,82
+and then they would measure how much light gets through where these dark lines are
+
+93
+00:08:44,82 --> 00:08:55,65
+and from that they would make a curve. So now. No light. Let me think of this. OK so no lights getting wait.
+
+94
+00:08:56,08 --> 00:09:00,84
+They'd say no lights getting through than all the sudden a lot of light gets through you know it would be some kind of
+
+95
+00:09:00,84 --> 00:09:04,29
+curve that is some width. And then they'd have another little blip and then another one.
+
+96
+00:09:04,53 --> 00:09:07,02
+And that's how we make a measurement of the spectrum.
+
+97
+00:09:07,28 --> 00:09:12,71
+Not with photographic plates anymore it's all digital and from that yes we have to do interpretation.
+
+98
+00:09:12,73 --> 00:09:18,19
+But we understand how atoms and molecules absorb radiation both from calculations of quantum mechanics
+
+99
+00:09:18,19 --> 00:09:23,1
+and also from laboratory measurements and so yes it may seem like a leap of faith.
+
+100
+00:09:23,67 --> 00:09:27,95
+But we are building on knowledge and tools that have been used for decades for astronomy
+
+101
+00:09:27,95 --> 00:09:33,68
+and for Earth atmosphere observing. So now you are doing the hard work for future scientists. 
+
+102
+00:09:33,84 --> 00:09:40,95
+Yes in some ways yes we are doing the hard work for future scientists because the signals we're studying now are so weak
+
+103
+00:09:40,95 --> 00:09:47,96
+and so faint and the techniques we have to use are brand new compared to how we studied stars in our own earth's atmosphere.
+
+104
+00:09:53,56 --> 00:09:55,45
+So why are you so attracted to finding an exoplanet. I'm gonna have to think about that for a minute. let's see.
+
+105
+00:09:57,07 --> 00:10:01,02
+And by the way that's just a tough question to ask because each of you could ask yourself the same thing.
+
+106
+00:10:01,02 --> 00:10:06,27
+Why are you doing what you're doing you know at some level we just don't know I mean we do it because we just love doing it
+
+107
+00:10:06,27 --> 00:10:09,4
+and it seems exciting and fun and it's it's amazing.
+
+108
+00:10:09,47 --> 00:10:15,59
+But I have to say for myself even ever since I was a child I always wondered what is out there
+
+109
+00:10:15,59 --> 00:10:19,2
+when I saw the sky for the first time the dark sky really really dark.
+
+110
+00:10:19,84 --> 00:10:26,9
+Tons of stars like so many stars I couldn't believe it. No one had. I had never even known that that was out there.
+
+111
+00:10:26,92 --> 00:10:31,9
+Ever since I saw those stars part of me has always wondered what else is there.
+
+112
+00:10:31,92 --> 00:10:34,18
+But there's another attraction too that's a little more.
+
+113
+00:10:34,47 --> 00:10:36,74
+You know there's that one thing that sense of wonder
+
+114
+00:10:36,74 --> 00:10:40,33
+but that's not what happens on a daily basis because we're just you know getting through the day
+
+115
+00:10:40,33 --> 00:10:41,94
+and getting our tedious work done.
+
+116
+00:10:42,08 --> 00:10:44,85
+But there's this other really beautiful thing in science
+
+117
+00:10:44,85 --> 00:10:49,08
+and that is that you can explain the world around you with equations.
+
+118
+00:10:49,09 --> 00:10:54,87
+And just the fact that we can write down basically starting with some very basic laws of physics
+
+119
+00:10:55,97 --> 00:10:58,48
+and then some more complicated ones like with quantum mechanics.
+
+120
+00:10:59,14 --> 00:11:07,47
+And gravity and pressure and we can work through all these basic things these building blocks of physics
+
+121
+00:11:07,47 --> 00:11:14,32
+and describe an atmosphere far away and get data with the Hubble Space Telescope and actually interpret all that
+
+122
+00:11:14,32 --> 00:11:17,84
+and make sense from it using basic physics is very satisfying. I can imagine that. Is there also a chance that you will discover something.
+
+123
+00:11:27,05 --> 00:11:44,37
+I mean we have discovered a lot of things they're a little more academic in a way. What happens to you when you are studying all this data and suddenly you see something. It's not quite that.
+
+124
+00:11:44,38 --> 00:11:50,45
+You know that abrupt that you see something so I can try to think about. OK You know I can explain that.
+
+125
+00:11:50,52 --> 00:12:00,02
+Yeah let's see. Yes the times when we when we like my team or I you know get data and see something that is
+
+126
+00:12:00,09 --> 00:12:03,98
+Just so shockingly unexpected it's extremely exciting.
+
+127
+00:12:04,00 --> 00:12:08,46
+It doesn't happen very often and sometimes it happens and it turns out to be nothing when you go back
+
+128
+00:12:08,46 --> 00:12:14,14
+and take more observations but you know that moment of discovery is just amazing.
+
+129
+00:12:14,53 --> 00:12:21,78
+It doesn't happen often enough to be the main reason why you know why I'm a scientist. But it's definitely exciting.
+
+130
+00:12:21,8 --> 00:12:24,51
+I have a different type of excitement though and the reason why I do it is.
+
+131
+00:12:26,45 --> 00:12:30,17
+I can conceive of an idea of something that just seems truly unheard of and amazing.
+
+132
+00:12:30,88 --> 00:12:34,49
+And then it can take a year or two or more sometimes to just work through the possibility.
+
+133
+00:12:34,5 --> 00:12:40,96
+And when you find out that something that this crazy thing you thought of turns out to be right. That's a discovery.
+
+134
+00:12:41,16 --> 00:12:47,02
+I can maybe work on trying to articulate this but you know there is that sense of discovery of getting data
+
+135
+00:12:47,02 --> 00:12:51,61
+and seeing a signal and going Wow I just can't believe we found this I can't believe a planet like this
+
+136
+00:12:51,61 --> 00:12:56,09
+one I think I found exists. That's definitely an aha moment but there's another more complicated.
+
+137
+00:12:56,17 --> 00:13:01,06
+A ha moment where we conceive of something and work through a project.
+
+138
+00:13:01,58 --> 00:13:06,73
+And you find something just totally amazing that you hadn't thought of finding before and that is just so amazing
+
+139
+00:13:07,49 --> 00:13:12,45
+and actually one of these I'll just tell you a little bit about it because it's my favorite project right now
+
+140
+00:13:13,15 --> 00:13:15,58
+and you'll meet one of the team members tomorrow at work.
+
+141
+00:13:15,59 --> 00:13:18,26
+We'll talk and Remy had specifically asked us to talk about this
+
+142
+00:13:18,26 --> 00:13:24,35
+but it was actually I was working on a project about bio signature gases gases that life might produce
+
+143
+00:13:25,11 --> 00:13:25,7
+and at that time.
+
+144
+00:13:25,79 --> 00:13:28,81
+Charles and I we actually just were celebrating our first year of marriage
+
+145
+00:13:28,81 --> 00:13:33,59
+but at that time we were just kind of getting to know each other and he'd ask me a question
+
+146
+00:13:34,55 --> 00:13:39,19
+and Charles had asked me well out of all those molecules in our atmosphere in Earth's atmosphere.
+
+147
+00:13:39,58 --> 00:13:44,57
+How many of those does life produce and it was an amazing question because I looked it up.
+
+148
+00:13:44,69 --> 00:13:47,61
+I didn't know and I went through tables of what's in Earth's atmosphere
+
+149
+00:13:48,78 --> 00:13:55,55
+and I found that every gas in our atmosphere to the part per trillion level by volume so if you would capture.
+
+150
+00:13:55,56 --> 00:13:59,67
+Part per trillion. So if you would to capture like a canister of air.
+
+151
+00:14:01,63 --> 00:14:03,62
+And measure how much gas is in there
+
+152
+00:14:03,62 --> 00:14:09,17
+and like you know for every cubic centimeter one part in a trillion is a certain type of gas.
+
+153
+00:14:09,21 --> 00:14:11,43
+So all gases in our atmosphere just means many of them.
+
+154
+00:14:11,47 --> 00:14:16,22
+There's about three dozen of them up to that level of abundance. They're all produced by life.
+
+155
+00:14:17,47 --> 00:14:23,76
+Now most of them have a dominant production from some other source like geophysics like volcanoes
+
+156
+00:14:23,76 --> 00:14:28,39
+or photochemistry in the atmosphere but they're also all produced by life and this is amazing
+
+157
+00:14:29,22 --> 00:14:30,67
+and this is the type of thing that's like Ha.
+
+158
+00:14:30,92 --> 00:14:33,26
+Is that just some weird coincidence or does it have meaning
+
+159
+00:14:34,00 --> 00:14:39,52
+and so that actually worked with the project I was already working on about the range of gases that life on earth
+
+160
+00:14:39,52 --> 00:14:50,63
+produces it set off a kind of chain of events because I had a theory that I thought partly based on this question about
+
+161
+00:14:50,63 --> 00:14:53,93
+what's in our atmosphere that life produces all gases.
+
+162
+00:14:54,05 --> 00:14:57,64
+I thought perhaps life produces every single gas we can ever imagine.
+
+163
+00:14:58,94 --> 00:15:06,32
+And so I started on a long project I had to convince two of my biochemistry colleagues well I had to convince one of my
+
+164
+00:15:06,32 --> 00:15:10,46
+main colleagues. He works in biochemistry to do the project and he thought it was silly.
+
+165
+00:15:10,55 --> 00:15:17,03
+Actually that was the most silliest thing he'd ever heard. He refused to work on it. And then you think you are right.
+
+166
+00:15:17,08 --> 00:15:20,06
+Well then I managed to get another person interested
+
+167
+00:15:20,06 --> 00:15:22,9
+and I did a kind of scientific matchmaking between these two people
+
+168
+00:15:22,9 --> 00:15:24,94
+and we all three of us started to work on the project
+
+169
+00:15:25,85 --> 00:15:33,02
+and ultimately we collected a list of all molecules that are in gas form at temperatures we call them standard
+
+170
+00:15:33,02 --> 00:15:36,9
+temperature and pressure that's our like room temperature room pressure surface pressure on earth
+
+171
+00:15:37,67 --> 00:15:38,97
+and we found that it's not true actually.
+
+172
+00:15:39,24 --> 00:15:45,38
+So in this case despite this excitement that I might have come across this concept that life produces all gases it
+
+173
+00:15:45,38 --> 00:15:46,48
+turned out to be completely wrong.
+
+174
+00:15:46,69 --> 00:15:53,55
+Actually it's not so. it's only true that life produces about a quarter of those gases a quarter of everything
+
+175
+00:15:53,55 --> 00:15:58,8
+but we found something even more interesting actually on this journey that in the set of.
+
+176
+00:16:00,09 --> 00:16:00,82
+Molecules
+
+177
+00:16:00,82 --> 00:16:08,82
+or molecular fragments that exist in general that there are certain pattern amongst the fragments of molecules
+
+178
+00:16:08,82 --> 00:16:14,11
+that life doesn't produce so life seems to prefer producing some types of molecules
+
+179
+00:16:14,81 --> 00:16:21,99
+and other types of molecular fragments life never produces And so right now we're pursuing that avenue of research to
+
+180
+00:16:22,00 --> 00:16:27,48
+see what it entails and we think it may actually be very helpful in the end for toxicology
+
+181
+00:16:27,48 --> 00:16:35,38
+and perhaps even pharmacology so that actually is so exciting because we start out with one thing it's like we're
+
+182
+00:16:35,38 --> 00:16:38,65
+tracking to the South Pole we have a goal we're going to get there.
+
+183
+00:16:38,68 --> 00:16:41,32
+We have a destination want to go to the South Pole
+
+184
+00:16:41,32 --> 00:16:47,04
+but instead we discover something else that there's this mountain in Antarctica it's really worth exploring.
+
+185
+00:16:47,24 --> 00:16:50,81
+And we hike up that mountain then we went in the wrong way. Then we have to go a different way.
+
+186
+00:16:50,84 --> 00:16:54,8
+And finally we get somewhere that was just so breathtakingly amazing we never conceived of it
+
+187
+00:16:55,52 --> 00:16:57,6
+and we're in the process of doing that now.
+
+188
+00:16:57,61 --> 00:17:00,73
+And we're not at the point where we can say that we found something amazing
+
+189
+00:17:00,73 --> 00:17:12,33
+but I really feel strongly that this is going to be awesome. But do you have the impression that you are in some kind of wilderness? OK that's a good one.
+
+190
+00:17:16,45 --> 00:17:21,09
+Sometimes yes sometimes I feel like I'm in a wilderness. And how are you equipped.
+
+191
+00:17:22,92 --> 00:17:28,22
+Well in this particular wilderness The funny thing is we have to learn our skills as we go.
+
+192
+00:17:28,23 --> 00:17:32,56
+It's like we're only outfitted with the most rudimentary gear.
+
+193
+00:17:32,58 --> 00:17:35,57
+And we have to develop our tools and find out what we need as we go.
+
+194
+00:17:35,59 --> 00:17:41,43
+Actually it sort of reminds me too of a bit of exploring. I used to spend a lot more time in the outdoors than I do now.
+
+195
+00:17:41,63 --> 00:17:45,27
+When I was younger and you'd go on a trip and not know what you're doing.
+
+196
+00:17:46,36 --> 00:17:49,94
+We'd go on a trip and maybe you'd make a mistake and something would go wrong.
+
+197
+00:17:50,00 --> 00:17:54,00
+Maybe you're just wet all night because you couldn't your tent was leaking or you had some problem
+
+198
+00:17:54,00 --> 00:17:57,45
+and the next time you know you can go home and think through what you did wrong and go back out there
+
+199
+00:17:57,45 --> 00:18:03,03
+and do a better job stay out for longer. Be more comfortable. Be more skilled at navigating.
+
+200
+00:18:03,38 --> 00:18:07,52
+And so we have a chance to go back and learn things. I learned Python.
+
+201
+00:18:07,7 --> 00:18:13,43
+It's a language that everybody knows how to use so when it's. Python. OK so you guys don't know how to use it.
+
+202
+00:18:13,51 --> 00:18:16,33
+It's a computer language. Yeah computer language.
+
+203
+00:18:17,67 --> 00:18:22,43
+OK because if you said I just learned Python at MIT I'd be like really. You're like a child.
+
+204
+00:18:22,45 --> 00:18:27,92
+OK So what happened was it's like I'm liking that skill I need a new skill.
+
+205
+00:18:27,97 --> 00:18:32,67
+Because what we're dealing with is we call it's a big data problem and informatics problem.
+
+206
+00:18:33,11 --> 00:18:36,42
+And we have to we are still just like the explorer in the outdoors.
+
+207
+00:18:36,74 --> 00:18:41,36
+We can go back and outfit ourselves in a better way and that actually involves just learning a new skill.
+
+208
+00:18:42,00 --> 00:18:48,75
+So I did learn how to program Python I did like an online class. You can you know with Python and programming.
+
+209
+00:18:48,98 --> 00:18:51,7
+It's like learning a language like you can learn and try to you can go.
+
+210
+00:18:51,79 --> 00:18:56,84
+Let's say to somewhere foreign to us like let's say Asia. You could pick up a few words enough to get around.
+
+211
+00:18:57,34 --> 00:18:59,6
+Or you could decide you're going to learn that language very thoroughly
+
+212
+00:18:59,6 --> 00:19:08,73
+and do it right from the start so that you have what you need to get through whatever situation you'll encounter. So for you the tool was to learn the Python language. yes.
+
+213
+00:19:08,74 --> 00:19:14,27
+Python computer programming language. To better know how to interpret data.
+
+214
+00:19:14,29 --> 00:19:18,15
+Well it was more because we now have fourteen thousand molecules what are we going to do with them
+
+215
+00:19:18,15 --> 00:19:19,37
+or the fragments of molecules
+
+216
+00:19:20,23 --> 00:19:26,11
+and we have to now compare those to lists of toxicity molecules that are toxic we have to be able to go to websites
+
+217
+00:19:26,11 --> 00:19:30,61
+and get information by what we call scraping them and we have to go
+
+218
+00:19:30,61 --> 00:19:37,77
+and retrieve a lot of data we have to you know mass be able to mass compare things with each other in a way that this
+
+219
+00:19:37,77 --> 00:19:39,6
+particular language makes it very easy to do. Is there also a danger? 
+
+220
+00:19:42,85 --> 00:19:54,42
+Oh is there a danger let me think. Because you mentioned toxic. oh right in this case what I mean is what in this case what we're trying to do is see
+
+221
+00:19:55,12 --> 00:20:00,04
+whether the fragments of molecules are building blocks in any way for anything related to life on earth.
+
+222
+00:20:00,09 --> 00:20:10,01
+But if it's toxic. Well they're not toxic chemicals we're just doing things like in our computer. But I mean when something is toxic does it mean it cannot produce life? 
+
+223
+00:20:14,73 --> 00:20:16,55
+Well 
+
+224
+00:20:16,65 --> 00:20:17,61
+Let me explain a little better
+
+225
+00:20:17,61 --> 00:20:28,01
+but in this particular application it's not related to exoplanets what we're thinking is that this.
+
+226
+00:20:29,35 --> 00:20:36,6
+You know our ginormous database now that has molecular fragments and molecules that life that we know if life.
+
+227
+00:20:36,71 --> 00:20:40,74
+We don't know but we've tabulated from the literature that whether life produces it
+
+228
+00:20:40,74 --> 00:20:44,95
+or not if there's a bunch of molecules or fragments of molecules that life is not producing
+
+229
+00:20:46,00 --> 00:20:51,26
+and those same molecular fragments or molecules show up in toxic chemicals.
+
+230
+00:20:51,28 --> 00:20:58,68
+You know gives us a clue about new chemicals that may be toxic. Hope that was helpful.
+
+231
+00:20:58,85 --> 00:21:06,11
+We're just trying. we're just trying to see what this what we think we've got the information we've
+
+232
+00:21:06,11 --> 00:21:07,57
+gathered on molecules and whether or not.
+
+233
+00:21:07,65 --> 00:21:13,12
+Life on earth produces them whether it has some other applications somewhere in environmental science or
+
+234
+00:21:13,12 --> 00:21:26,56
+or in drug discovery here on Earth. So you are a physicist but you are also an astronomer. That's right. And what is your main quest? 
+
+235
+00:21:26,73 --> 00:21:35,73
+My main quest is to find another planet like earth and to study planets to see if any of them have signs of life.
+
+236
+00:21:38,74 --> 00:21:43,12
+That's a big question in science fiction. It's a big question in it's a great job.
+
+237
+00:21:43,31 --> 00:21:48,46
+It's a great quest because science fiction has laid out so many possibilities for us already.
+
+238
+00:21:49,47 --> 00:21:54,18
+And we like to say science fiction is becoming science fact. At least in terms of our research. Are you sure that there is life out there?
+
+239
+00:21:56,92 --> 00:21:59,92
+I'm sure there is life out there somewhere. 
+
+240
+00:22:00,09 --> 00:22:02,92
+There are hundreds of billions of stars in our Milky Way galaxy
+
+241
+00:22:04,1 --> 00:22:07,09
+and we think there are hundreds of billions of planets out there. Why do you think so?
+
+242
+00:22:07,11 --> 00:22:19,46
+Why because well, the ingredients for life are everywhere we look in astronomy. water is very common.
+
+243
+00:22:19,53 --> 00:22:21,76
+It's an extremely common planetary building block
+
+244
+00:22:21,76 --> 00:22:30,57
+when we look into interstellar space the disk the almost nothingness between stars we can. astronomers actually
+
+245
+00:22:30,57 --> 00:22:32,18
+still see complex organic molecules.
+
+246
+00:22:33,37 --> 00:22:39,81
+You know everywhere we look we see the ingredients for life. stars can provide energy. most. you know there will be
+
+247
+00:22:39,81 --> 00:22:41,36
+planets that have liquid water on them.
+
+248
+00:22:41,57 --> 00:22:47,52
+And so it seems inevitable that if life arose here on Earth that it should also be able to arise on another planet
+
+249
+00:22:47,52 --> 00:22:50,26
+somewhere else in our galaxy.
+
+250
+00:22:50,28 --> 00:22:53,97
+There's a harder problem though because I am convinced that life is out there somewhere
+
+251
+00:22:55,12 --> 00:23:02,88
+but the chance of us finding signs of life is a whole other question and that's a very very very challenging journey. Because if you look for life you look for the life we know.
+
+252
+00:23:05,66 --> 00:23:13,5
+it's not so much that that is also definitely a challenge. the challenging thing is that planets are so small
+
+253
+00:23:13,5 --> 00:23:18,21
+and faint it's extremely hard to observe them and we need to look at their atmospheres
+
+254
+00:23:18,21 --> 00:23:23,85
+and assess all the gases in the atmosphere and find gases that don't belong that are in huge abundance
+
+255
+00:23:23,85 --> 00:23:29,16
+and that the only way that gas could be in the atmosphere is because of life.
+
+256
+00:23:29,18 --> 00:23:32,99
+And that's a very hard thing to do because we can we can we found thousands of planets
+
+257
+00:23:32,99 --> 00:23:35,61
+and that we kind of have under control how to find them.
+
+258
+00:23:35,67 --> 00:23:42,03
+But how to find enough planets who's who are. how to find enough planets that are small like Earth
+
+259
+00:23:42,72 --> 00:23:50,59
+and how to study their atmospheres in enough detail that is a very hard hard thing to do. So do you have any idea how many planets there are like earth.
+
+260
+00:23:55,00 --> 00:23:59,2
+Right now we. astronomers are constantly trying to assess.
+
+261
+00:24:00,09 --> 00:24:04,12
+OK so you would not believe how much how many hours myself and my colleagues
+
+262
+00:24:04,12 --> 00:24:12,09
+and other people have spent on trying to evaluate how common earths might be.
+
+263
+00:24:13,03 --> 00:24:14,45
+And we actually don't have an answer right now.
+
+264
+00:24:14,67 --> 00:24:19,76
+The answer that we work on scientifically it can range anywhere from two percent.
+
+265
+00:24:19,78 --> 00:24:26,11
+That means like two in one hundred stars like the sun would have an Earth to one hundred percent that all stars like
+
+266
+00:24:26,11 --> 00:24:32,33
+the sun would have a planet like Earth we really really don't know. Wow that is pretty exciting.
+
+267
+00:24:32,34 --> 00:24:38,33
+Well there's a space telescope Kepler space telescope that was launched in two thousand and nine
+
+268
+00:24:38,33 --> 00:24:40,35
+and Kepler stared at one patch of the sky.
+
+269
+00:24:41,03 --> 00:24:47,36
+For four years and Kepler school was to answer the question How common are other earths that is Earth sized planets
+
+270
+00:24:47,36 --> 00:24:52,7
+and Earth like orbits about sun like stars and for various reasons Kepler fell short of that goal
+
+271
+00:24:52,7 --> 00:25:00,92
+but Kepler did tell us that small planets are extremely common small planets that are rocky around stars like the sun
+
+272
+00:25:00,92 --> 00:25:07,72
+are very very common. So did that convince you that there must be. Absolutely.
+
+273
+00:25:07,79 --> 00:25:13,7
+I mean we have no doubt that there are small rocky planets out there in great abundance. But the different. But I mean that there is life.
+
+274
+00:25:15,3 --> 00:25:21,81
+Oh I think. I have no doubt there is life out there somewhere.
+
+275
+00:25:22,84 --> 00:25:26,34
+But the problem we have right now is it's only the very nearest stars.
+
+276
+00:25:28,01 --> 00:25:31,76
+If they Who's if they have planets that are close enough and bright enough for us to study.
+
+277
+00:25:31,8 --> 00:25:34,59
+So I've no doubt there is life out there somewhere in our galaxy
+
+278
+00:25:34,59 --> 00:25:37,99
+or our universe it's almost inevitable just based on sheer numbers
+
+279
+00:25:37,99 --> 00:25:41,32
+and the fact that building blocks of life are very common
+
+280
+00:25:42,1 --> 00:25:49,92
+but if. the harder question is can we find that any time in the near future because we're limited to studying the very
+
+281
+00:25:49,92 --> 00:25:54,23
+nearest stars to our own sun. So.
+
+282
+00:25:55,1 --> 00:25:59,99
+But you know you can go and interview a biologist and ask them Do you think there's life out there and they might say.
+
+283
+00:26:00,09 --> 00:26:02,62
+No No way no evidence.
+
+284
+00:26:02,83 --> 00:26:10,00
+We don't understand how life on earth forms therefore we can't even speculate. But you must have a clue. Well I don't have any clues other than what I've given you. 
+
+285
+00:26:10,00 --> 00:26:40,6
+A lot of it's just pure faith admittedly. You're very convinced yourself that there's life out there. The idea alone raises the imagination. Enormously. Life out there. There are so many films and books and. 
+
+286
+00:26:40,78 --> 00:26:46,46
+Absolutely. We just watched the movie Aliens. I hadn't seen it before actually. Out of interest or just. 
+
+287
+00:26:46,48 --> 00:26:53,2
+Well the kids wanted to watch a family movie so were they just gotten old enough so we can all watch movies we all
+
+288
+00:26:53,2 --> 00:26:55,83
+like you know kids are really little they just wanna watch a cartoon
+
+289
+00:26:55,83 --> 00:26:59,13
+and Sigourny Weaver you know we watched the first alien.
+
+290
+00:26:59,79 --> 00:27:02,71
+And then just the other night I thought it was really scary actually.
+
+291
+00:27:02,95 --> 00:27:07,45
+There's this old ship that had crashed on a planet as these giant eggs
+
+292
+00:27:07,45 --> 00:27:09,15
+and everything has been dormant for a very long time.
+
+293
+00:27:09,36 --> 00:27:12,53
+Meanwhile there's a colony on the planet of people who didn't know about the ship.
+
+294
+00:27:13,01 --> 00:27:18,06
+Until Sigourny Weaver. Untill the main character Ripley her spacecraft was found
+
+295
+00:27:18,06 --> 00:27:22,76
+and she was revived from hibernation sixty years had gone by. And she told them about that.
+
+296
+00:27:22,92 --> 00:27:25,86
+So they sent apparently had sent the colonists to go investigate the ship
+
+297
+00:27:25,86 --> 00:27:28,19
+and all of a sudden they hear nothing from the colonists on the planet.
+
+298
+00:27:28,31 --> 00:27:30,58
+So she has to go back and see what's going on
+
+299
+00:27:30,58 --> 00:27:35,83
+and these are the most scary aliens around you know they are going to kill people
+
+300
+00:27:35,83 --> 00:27:43,24
+and they they basically capture the humans to act as incubators for their new life for their life forms.
+
+301
+00:27:43,26 --> 00:27:50,38
+So there are. there's a ton of them. people wanted life to be up there. And what do you explain to your children when you watch that. Well they weren't scared
+
+302
+00:27:50,38 --> 00:28:00,01
+and I was. so I don't have to explain it. This is your field of work. It's my field of work. Right. Well I will say we're not going to find big scary monsters
+
+303
+00:28:00,09 --> 00:28:02,01
+So you don't have to worry about that. How do you know? 
+
+304
+00:28:02,05 --> 00:28:08,34
+How do I know because the tools we have as astronomers right now we're just going to see gases produced by those aliens
+
+305
+00:28:09,47 --> 00:28:14,91
+gases that they breathe out or you know gases that are produced by the plants that they're eating.
+
+306
+00:28:14,93 --> 00:28:24,01
+And in fact we won't know what type of life is giving off those gases if it's just slime. giant giant fields of bacteria. But suppose they are big monsters.
+
+307
+00:28:24,03 --> 00:28:30,4
+Well if they're big monsters like those aliens. I guess they had. Supposed they are big monsters well.
+
+308
+00:28:34,36 --> 00:28:38,71
+If they're big monsters giving off gases we still won't know we'll just see the gases that don't belong.
+
+309
+00:28:38,97 --> 00:28:43,3
+We'll do our best to disentangle that from any volcano volcanic emmission
+
+310
+00:28:43,3 --> 00:28:51,15
+and we'll we'll try to understand if it's if it's created by by life or if it's just what we call false positive.
+
+311
+00:28:51,28 --> 00:28:54,65
+But how do I. You know that's a different question now.
+
+312
+00:28:54,94 --> 00:28:58,48
+Because then that question is can we go to the planet can they come here.
+
+313
+00:28:58,5 --> 00:29:12,99
+And that is still science fiction for now. how to get. You did love imagination. Is it allowed for you to use your fantasy? imagination in science you know it's different from
+
+314
+00:29:12,99 --> 00:29:21,3
+imagination in creating a film because in that case they can imagine away the big technological challenges you know
+
+315
+00:29:21,3 --> 00:29:24,91
+they don't have to explain how Ripley and the other crew can get on a ship
+
+316
+00:29:24,91 --> 00:29:29,88
+and hibernate for a while until they get to the new planet and land there and everything like that.
+
+317
+00:29:30,16 --> 00:30:00,5
+So we definitely do use our imagination but not quite in that same way. You have this theory or you know there are gases which must be produced by life. You come to a certain point, at some border in this wilderness that you cannot see much more and you have to use your imagination. 
+
+318
+00:30:02,84 --> 00:30:16,51
+Suppose I go to the left or to the right or it's too dark to go on. You need some other tools like imagination or maybe your fantasy. Is it something you can use? It's a tricky one. I'm gonna have to think about that for a minute.
+
+319
+00:30:21,89 --> 00:30:26,04
+Possibly you know we still need to use like our creativity and imagination in solving a problem.
+
+320
+00:30:26,61 --> 00:30:39,22
+We have to have a vision of what we think you know we're trying to get to. we have to have that. When you do, what do you see. What do I see.
+
+321
+00:30:39,27 --> 00:30:44,26
+Well depending on the day.
+
+322
+00:30:45,33 --> 00:30:50,54
+I mean I'm not sure actually that question's not an easy one for me to answer because I've not thought of.
+
+323
+00:30:51,41 --> 00:31:00,84
+Not thought of it that way in a very long time. Maybe you can come up with an answer later on. I'll have to think more about it.
+
+324
+00:31:15,41 --> 00:31:24,31
+Well there are definitely you know I'm not totally sure what you mean in terms of like creativity
+
+325
+00:31:24,31 --> 00:31:27,51
+or you know envisioning your fantasy of what could happen.
+
+326
+00:31:27,72 --> 00:31:33,48
+I mean it could come at any level like we have the Starshape Project a giant specially shape screen we want to put in
+
+327
+00:31:33,48 --> 00:31:37,59
+space and that wasn't my idea but the people who had thought of it in the nineteen sixties.
+
+328
+00:31:37,59 --> 00:31:46,33
+It is kind of a fantasy because. it is kind of a fantasy because it's so far fetched like even for that to even be
+
+329
+00:31:46,33 --> 00:31:52,28
+possible but over the decades we've whittled away at the Technological progress in trying to make that a reality.
+
+330
+00:31:53,26 --> 00:32:14,18
+But now I feel like I need to be more creative because of your question. Maybe if I rephrase it. Like you're on this border in the wilderness. You want to move on but you don't know how. Maybe it's not imagination or fantasy maybe it's instinct.
+
+331
+00:32:16,11 --> 00:32:27,69
+Yeah there's definitely a lot of instinct involved. How do you use your instinct. So there's you know in sometimes there's.
+
+332
+00:32:29,99 --> 00:32:34,71
+You know there's two different types of instinct. One of them is it's like when.
+
+333
+00:32:35,17 --> 00:32:38,84
+We're imaginening we're in the wilderness and I see this river and I know I've got to get down the river.
+
+334
+00:32:39,53 --> 00:32:42,83
+And there's giant rapids and I just I think I can do this.
+
+335
+00:32:43,08 --> 00:32:46,21
+And that's not a fact based intuition it's just a gut feeling
+
+336
+00:32:46,21 --> 00:32:49,87
+and part of it's a desperation I need to get down that river I'm not going to get to where I'm going
+
+337
+00:32:50,66 --> 00:32:52,6
+and you kind of take a leap of faith and just go for it.
+
+338
+00:32:53,48 --> 00:32:55,2
+That's definitely one kind of tool or
+
+339
+00:32:55,2 --> 00:33:00,00
+or instinct that I've used before actually. I have a vision of what I think will happen
+
+340
+00:33:00,00 --> 00:33:01,73
+but I have no idea how to get from A to B.
+
+341
+00:33:01,73 --> 00:33:07,64
+and I have to take a leap of faith that I can do it even I don't really have the tools I'm just going to go.
+
+342
+00:33:07,66 --> 00:33:14,37
+The other intuition I have experienced is one of accumulated succes 
+
+343
+00:33:14,46 --> 00:33:15,96
+with that first type of intuition
+
+344
+00:33:17,42 --> 00:33:21,41
+and then I know I can do it even though I still don't have the tools I know that I've been able to find the tools
+
+345
+00:33:21,41 --> 00:33:23,3
+and that I can still do that one more time again.
+
+346
+00:33:24,79 --> 00:33:35,54
+So I definitely intuition is a huge part of finding your way through here. Are you blessed with a big instinct? I think so yeah actually I think.
+
+347
+00:33:35,55 --> 00:33:37,47
+It's al little touchy because you know. OK.
+
+348
+00:33:38,15 --> 00:33:42,53
+I can't speak for my colleagues at MIT but I'm pretty sure we're all often accused of being arrogant.
+
+349
+00:33:42,83 --> 00:33:44,27
+So I don't want to come across as too arrogant
+
+350
+00:33:44,27 --> 00:33:52,22
+but yes I think I'm blessed with a special intuition in that because it's that everybody has it actually
+
+351
+00:33:52,22 --> 00:33:57,76
+and most people ignore it or it's hidden or they don't use it. It's that gut instinct of this is right.
+
+352
+00:33:57,82 --> 00:34:00,72
+I feel this is big. I'm going to do this.
+
+353
+00:34:01,9 --> 00:34:08,99
+I know this is going to be big and I've had that feeling many times and yeah it's not part of this interview
+
+354
+00:34:08,99 --> 00:34:12,14
+but I love talking about Charles because he and I had a great time we first met.
+
+355
+00:34:12,59 --> 00:34:17,74
+I had my gut instinct about him like from like almost the second I met him like that's a sort of different thing.
+
+356
+00:34:17,76 --> 00:34:19,9
+But many more people will you know will understand that.
+
+357
+00:34:20,42 --> 00:34:22,03
+But yes I have that in science
+
+358
+00:34:22,03 --> 00:34:28,67
+and I have that about this project that's not is related to finding life elsewhere of all the molecules.
+
+359
+00:34:28,69 --> 00:34:42,14
+And it's wonderful now because I'm able to trust my instinct. Is it like an instinct to survive. Does it have to do with survival.
+
+360
+00:34:43,29 --> 00:34:48,62
+More like success actually I think it would be more like an instinct to succeed because I think survival is just like
+
+361
+00:34:48,62 --> 00:34:52,13
+how do I get enough money to get food. I've got to make sure my children are safe.
+
+362
+00:34:53,6 --> 00:34:56,77
+I think those things also involve instinct but it's more it's like the next level.
+
+363
+00:34:56,94 --> 00:35:00,98
+Now that everything's OK and things function and I'm not worried about surviving.
+
+364
+00:35:01,34 --> 00:35:09,68
+What can I do to just be a super achiever and make impact and reach all my dreams. So now you are well equipped. I'm very well equipped now.
+
+365
+00:35:09,89 --> 00:35:15,29
+And so I'm having a moment of self reflection because now I feel like I need to do more.
+
+366
+00:35:16,47 --> 00:35:20,97
+That's the ambitious person's problem you always feel like you need to do more and get more done
+
+367
+00:35:20,97 --> 00:35:26,87
+and do bigger things I was in a bit of a rest period though in my career. Resting phase now.
+
+368
+00:35:28,31 --> 00:35:31,83
+So I wasn't thinking in that way sort of taking some time off not time off
+
+369
+00:35:31,83 --> 00:35:42,25
+but you know not working twenty four seven and going all out. But when you go all the way again what can we expect from you. Well my main thing I'm working on.
+
+370
+00:35:42,55 --> 00:35:48,74
+Well you know what you can expect is that in time I'll be able to report to you one way or the other whether
+
+371
+00:35:48,74 --> 00:35:57,75
+or not we think we have found signs of life on another planet. That's a strong one. But that wasn't tomorrow.
+
+372
+00:35:57,96 --> 00:35:59,45
+That's like twenty thirty years from now. You are sure?
+
+373
+00:36:02,24 --> 00:36:07,31
+I said I can report one way or the other so I may come back and say around the nearest thirty stars.
+
+374
+00:36:09,23 --> 00:36:12,58
+I might be able to say we have planets like Earth. We found five of them.
+
+375
+00:36:12,66 --> 00:36:16,95
+We've studied their atmospheres. one has a suggestion that it might have a sign of life
+
+376
+00:36:16,95 --> 00:36:19,62
+but it's not good enough for us to say anything for sure.
+
+377
+00:36:19,88 --> 00:36:23,07
+I might come back and report that but at least I would have answered it one way
+
+378
+00:36:23,07 --> 00:36:31,4
+or the other for the nearest stars that we have. Well that's pretty exciting. Right but it is ambitious it's like us saying here is a group.
+
+379
+00:36:31,61 --> 00:36:36,22
+We've just decided to go to the North Pole. We don't know how we're going to get there. But we think we can do it.
+
+380
+00:36:37,63 --> 00:37:04,7
+So a lot of things have to work. But when you compare it to colonizing the U.S. or discover it and you get here and you see all these indians and talk to them, communicate. That's not another life form but it was an alien in those days.  
+
+381
+00:37:04,92 --> 00:37:24,66
+Right. It was alien. But can you compare it with that kind of exploring for people who don't have these instincts or fantasy or imagination that don't understand what you are doing that it is like discovering a new world. 
+
+382
+00:37:24,81 --> 00:37:31,72
+OK Let me think. Is it like that? Finding another earth? like yes and no because we're not finding the earth like we're going to go there or not us.
+
+383
+00:37:31,98 --> 00:37:35,63
+Maybe someone in the future will figure that out but we're not going to go and go camping
+
+384
+00:37:35,63 --> 00:37:39,85
+or we're not going to go there and like you know work through the wilderness and find giant monsters.
+
+385
+00:37:40,49 --> 00:37:43,6
+It's just you know half of it's in our imagination. We're going to see a point of light.
+
+386
+00:37:44,59 --> 00:37:48,81
+Like just a pale blue dot or a pale red dot or just some little tiny thing.
+
+387
+00:37:48,82 --> 00:37:55,36
+And all the interpretation we get we're like we started out talking about were interpreting what we see we can't
+
+388
+00:37:55,36 --> 00:38:01,95
+guarantee this all. we're not getting pictures of civilizations or the Great Wall of China equivalent
+
+389
+00:38:01,95 --> 00:38:05,78
+or pyramids we're not going to see any features like that we can see a point of light.
+
+390
+00:38:05,91 --> 00:38:06,99
+We're going to know it's orbiting a star.
+
+391
+00:38:07,25 --> 00:38:11,75
+We're going to be able to say something about the mass and size of the planet and what's in the atmosphere.
+
+392
+00:38:12,03 --> 00:38:16,58
+What kind of air does that planet have and we're going to put a picture together based on scientific tools
+
+393
+00:38:17,59 --> 00:38:21,84
+and that's how we're going to know if we found another Earth. So it's our modern day version of exploring.
+
+394
+00:38:23,09 --> 00:38:27,88
+You know we've explored pretty much every landmass parts of the oceans remain unexplored
+
+395
+00:38:27,88 --> 00:38:29,45
+but we know our planet very well right now.
+
+396
+00:38:30,68 --> 00:38:56,22
+And space is a vast frontier that's still out there for us waiting to be explored. What do you think? You don't have to prove this. That in the future we will be living outside there? We will colonize other planets or be colonized. Is it possible to think like that? 
+
+397
+00:38:56,24 --> 00:38:57,93
+It is starting to be possible for sure.
+
+398
+00:38:58,09 --> 00:39:04,61
+I mean it's the first time ever in human history people have considered sending probes to other star systems.
+
+399
+00:39:04,63 --> 00:39:05,67
+It's still quite a ways off.
+
+400
+00:39:05,89 --> 00:39:10,29
+I believe some day humans will find a way to get there but it may be hundreds or thousands of years from now.
+
+401
+00:39:11,5 --> 00:39:17,93
+I think our desire to explore is just so tremendous. But as humans we want to go we want to explore.
+
+402
+00:39:17,94 --> 00:39:27,95
+We first have to go to Mars. Do you want to go? No. Me myself no I don't want to. You don't want to go to Mars or into space. I don't want to go to space.
+
+403
+00:39:28,02 --> 00:39:30,24
+Actually I know that sounds.
+
+404
+00:39:30,26 --> 00:39:34,19
+Thing is I don't like small spaces and I don't get along all that well with other people
+
+405
+00:39:34,19 --> 00:39:39,3
+and I just don't want to be confined to a little tiny spot for  you know for decades.
+
+406
+00:39:40,33 --> 00:40:22,79
+So a space ship of my own maybe. A one seater. Well let me have a look at the things I wrote down. A question I already asked. You said when you go to my office it is beautiful to see but what do you actually do. 
+
+407
+00:40:24,47 --> 00:40:30,57
+Well let's see. What do I actually do. Describe what we see. When I'm working there.
+
+408
+00:40:31,99 --> 00:40:39,00
+Well I often work on my computer which programming or just other things. meet with students
+
+409
+00:40:39,00 --> 00:40:47,62
+and my research team members we talk about things and try to figure things out. But I mean when you are at your office on your own and you only have your own mind. Oh I'm thinking Yeah.
+
+410
+00:40:49,05 --> 00:40:53,81
+I'm usually working and the best thing is I'm in the zone. You know when you're in the zone and the world goes away.
+
+411
+00:40:54,27 --> 00:40:55,6
+You know you're doing your best work. Try to explain that to me.
+
+412
+00:40:57,57 --> 00:41:02,43
+OK Well I think if it happens like when you do your very best work
+
+413
+00:41:02,43 --> 00:41:06,46
+and you're right where you're supposed to be then everything else goes away.
+
+414
+00:41:06,53 --> 00:41:08,7
+It's just like you and yourself and your work
+
+415
+00:41:10,55 --> 00:41:16,3
+and really just what happens is you might get a knock on the door or a phone call and you snap out of it you know.
+
+416
+00:41:16,36 --> 00:41:21,82
+Oh I didn't even realize but I wasn't aware of the world around me I was just involved with what I was thinking.
+
+417
+00:41:23,78 --> 00:41:30,95
+Then you are in. And then I'm in the zone. That sounds like a movie in itself. Actually.
+
+418
+00:41:32,81 --> 00:41:36,77
+One time. the first time I was in the zone actually that I realized it I was in high school
+
+419
+00:41:36,77 --> 00:41:38,63
+and I was played in the band.
+
+420
+00:41:38,65 --> 00:41:44,82
+And I had a piccolo It's like a flute but it's smaller actually I can't remember whether I was playing the piccolo or the flute but.
+
+421
+00:41:45,89 --> 00:41:49,59
+I had a. The flute sometimes gets a special role it's like the singing voice because it's so high
+
+422
+00:41:50,34 --> 00:41:54,68
+and at the very end of this piece I had to play it was just me so I was kind of obviously nervous and stuff
+
+423
+00:41:54,68 --> 00:41:57,05
+and one time even missed it entirely. 
+
+424
+00:41:57,72 --> 00:42:04,3
+I had to get that and I realized when I finished that little phrase with the flute.
+
+425
+00:42:04,54 --> 00:42:12,29
+I was like oh my gosh there's a world here there's an orchestra. But I had actually been lost in this sort of perfect
+
+426
+00:42:13,54 --> 00:42:20,88
+Non thought process of just being and playing the flute. Like a harmony. Like a harmony like things were just happening
+
+427
+00:42:20,88 --> 00:42:26,8
+and I wasn't aware of it at all. So if I can get in the zone. I know I'm getting my best work done.
+
+428
+00:42:28,23 --> 00:42:41,8
+So can you. is that a decision you make. This afternoon I'm entering the zone. we're almost entering it. you know when you enter it if we're just talking and these folks here go away
+
+429
+00:42:41,8 --> 00:42:47,06
+and I forget about Charles I'm not worried about the kids getting home like his phone just you didn't hear it but it.
+
+430
+00:42:47,11 --> 00:42:50,06
+I've looked at his phone it's his. one of the kids actually has a job.
+
+431
+00:42:50,76 --> 00:42:51,47
+He's eleven
+
+432
+00:42:51,47 --> 00:42:56,84
+but he has like a babysitting job down the street so that lady just wrote to him so I'm not in the zone if I can see
+
+433
+00:42:56,84 --> 00:42:58,36
+or hear that phone and I see.
+
+434
+00:42:58,39 --> 00:43:05,27
+she wrote to him or. what time is it now. we have a babysitter who's going to be coming soon
+
+435
+00:43:05,27 --> 00:43:08,24
+and like if I'm not think about that stuff and all I can see is you
+
+436
+00:43:08,24 --> 00:43:13,31
+and the question and I'm thinking about the question and I'm not that and then we're in the zone so we can get in the zone.
+
+437
+00:43:14,94 --> 00:43:18,61
+In fact the best like the best interviews
+
+438
+00:43:19,37 --> 00:43:25,26
+and like if you're. When people if they want to take my photograph it's very hard to do because you can't be like in the
+
+439
+00:43:25,26 --> 00:43:28,81
+zone with unless you can get in the zone and like really give to the camera.
+
+440
+00:43:28,96 --> 00:43:32,1
+You can't get the interviews or the pictures just don't come across right.
+
+441
+00:43:32,43 --> 00:43:36,75
+It's very difficult actually now how do we get in the zone like I need a good night's sleep.
+
+442
+00:43:36,77 --> 00:43:40,00
+I need to not be worried about other things I've got to put my phone away and not be distracted.
+
+443
+00:43:40,4 --> 00:43:42,23
+I need to clear out all the things I'm worried about.
+
+444
+00:43:42,73 --> 00:43:44,06
+That I've got to answer an e-mail
+
+445
+00:43:44,06 --> 00:43:49,67
+or get a phone call out of the way you know or if I have a negative confrontation that has to happen at work.
+
+446
+00:43:49,7 --> 00:43:55,17
+I've got to do all those things. So I can't force myself to be in the zone but I can create the right environment.
+
+447
+00:43:55,19 --> 00:44:03,49
+So that I can focus. It seems like you can focus very well right now. It's because you're such a great interviewer.
+
+448
+00:44:05,47 --> 00:44:26,37
+I wasn't expecting this level of questions so. I'm just curious because I have no knowledge at all. I just try to be in the position of the viewers and if I understand it they can understand it. It's so interesting what you tell about being in the zone. I can imagine something but
+
+449
+00:44:32,03 --> 00:44:37,85
+But I feel like everybody has it and you might not know it. That's what. 
+
+450
+00:44:38,6 --> 00:44:43,96
+That sometimes you are in a flow or in the zone. Yeah in a flow. Like I used to White Water paddle.
+
+451
+00:44:44,93 --> 00:44:47,99
+And if you're in like a hard rapid you have no choice but to be in the zone.
+
+452
+00:44:48,2 --> 00:44:51,23
+There's like you have to make these really quick decisions and there's big waves
+
+453
+00:44:51,23 --> 00:44:55,93
+and you feel like you're part of the river and everything's just happening then you finish like so happy
+
+454
+00:44:55,93 --> 00:44:59,45
+and you made it through and that thrill and that scaredness is kind of gone.
+
+455
+00:45:00,03 --> 00:45:04,55
+You just look around like wow OK but that moment you were in the rapids figuring out what to do and going
+
+456
+00:45:04,55 --> 00:45:08,98
+and it was just pure being like pure living.
+
+457
+00:45:09,41 --> 00:45:15,74
+I think olympic athletes must do it as well I think in their case they're in the zone you know they're
+
+458
+00:45:15,74 --> 00:45:33,32
+not thinking about dinner like what they have to do when they get home. But you must be very well equipped also with a character that you can allow yourself to be there.
+
+459
+00:45:40,96 --> 00:45:51,35
+You must not sense any problem or a common problem or any argument from somebody else or maybe something like I am on the wrong path. That's also possible. 
+
+460
+00:45:51,54 --> 00:45:56,79
+I think I'm just good at. Can you be in the wrong zone? A lot.
+
+461
+00:45:59,03 --> 00:46:03,1
+The zone is very special and doesn't happen all the time but I'm very good at compartmentalizing.
+
+462
+00:46:04,36 --> 00:46:09,39
+If I have a problem I can just not worry about it for a while. Unless it's a very big problem.
+
+463
+00:46:10,18 --> 00:46:13,02
+OK so I have thought about this but I haven't really talked about it before to anybody.
+
+464
+00:46:13,94 --> 00:46:16,48
+I do see being a scientist like being an olympic athlete.
+
+465
+00:46:16,65 --> 00:46:22,85
+Like I need big periods of rest or literally just do nothing and let my brain just like it's not watching T.V.
+
+466
+00:46:22,85 --> 00:46:26,11
+It's not reading a scary book. It's just like nothingness.
+
+467
+00:46:26,61 --> 00:46:28,1
+Because I've got to rest my brain
+
+468
+00:46:28,1 --> 00:46:33,77
+and I feel like I do know how do you know take care of myself so I can get where I need to be to do great work.
+
+469
+00:46:33,78 --> 00:46:37,09
+But it's like recharging your batteries. You know doing nothing.
+
+470
+00:46:37,31 --> 00:46:41,05
+Not really thinking just some quiet time I don't mean meditating or anything.
+
+471
+00:46:41,18 --> 00:46:45,99
+I'm just thinking like I'm at home really hours are going like what I did this morning just didn't really do anything
+
+472
+00:46:47,46 --> 00:46:52,81
+but to me it seems much harder thinking about nothing. 
+
+473
+00:46:53,19 --> 00:46:58,1
+Not necessarilly about nothing like I'm cleaning up more minor things that don't require a lot of brainpower.
+
+474
+00:46:58,97 --> 00:47:07,48
+You know cleaning up doing some laundry. You know making plans for whatever I have to do later.
+
+475
+00:47:07,5 --> 00:47:14,73
+So you're also parking your research. Yeah parking research exactly.
+
+476
+00:47:14,75 --> 00:47:19,48
+Like I liken it to an athlete who you can't be training all the time I mean that would be negative.
+
+477
+00:47:19,61 --> 00:47:30,03
+That would be negative for doing well actually. You need to rest a little. So when are your Olympics. When are my Olympics OK now I don't have anything
+
+478
+00:47:30,03 --> 00:47:33,05
+equivalent to the Olympics because we're not competing you know on a.
+
+479
+00:47:33,16 --> 00:47:40,66
+Just the one kilometer race or four hundred meter dash but when I want to be in the zone and do my best work.
+
+480
+00:47:40,9 --> 00:47:44,74
+I have to be you know. Ready for it.
+
+481
+00:47:44,81 --> 00:48:00,23
+So I'd say that would be my equivalent of the race is the time when I'm really trying to work. Is there something you would compare with a gold medal. Like proof that there is life out there.
+
+482
+00:48:00,25 --> 00:48:02,53
+That's probably not the best analogy actually.
+
+483
+00:48:04,36 --> 00:48:11,2
+But it does take a tremendous amount of energy to to think what sounds funny saying that but if I go to work
+
+484
+00:48:11,2 --> 00:48:14,34
+and I think really hard all day. I actually come home completely exhausted.
+
+485
+00:48:15,64 --> 00:48:17,6
+You know I've done no exercise haven't walked upstairs
+
+486
+00:48:17,6 --> 00:48:23,06
+or haven't you know hiked all day so it seems like people know if you're going all day hike
+
+487
+00:48:23,06 --> 00:48:24,61
+or you do some major thing physically.
+
+488
+00:48:25,25 --> 00:48:29,43
+You can just be wiped out at the end of the day and like ready to fall asleep in the instant but thinking actually
+
+489
+00:48:29,43 --> 00:48:38,27
+when I think very hard problem solve it takes up a huge amount of energy. does thinking never get you into problems. in what way.
+
+490
+00:48:38,32 --> 00:48:45,31
+Like give me a huge headache or just I can't solve a problem or. Or I think I am starting to get crazy or something. No I don't have that
+
+491
+00:48:45,31 --> 00:48:51,67
+when I'm thinking about work but sometimes I have it. In other situations actually I've seen my friends have it too.
+
+492
+00:48:51,69 --> 00:48:57,84
+I was just at a conference and four of us who were friends were all at the same conference we started talking
+
+493
+00:48:59,19 --> 00:49:04,37
+and one of them had that moment where she thought she was going crazy but two of us were talking rapidly
+
+494
+00:49:05,81 --> 00:49:10,57
+and we kept switching topics. Because we had been in an email chain about a project we're doing.
+
+495
+00:49:10,58 --> 00:49:12,99
+And she had thought she was just losing it.
+
+496
+00:49:13,07 --> 00:49:16,67
+But when we explained that we had two different conversations going on and we were jumping back
+
+497
+00:49:16,67 --> 00:49:22,58
+and forth she felt relief. Sometimes Overthinking gets you in trouble that way because.
+
+498
+00:49:23,3 --> 00:49:30,01
+You think you might of gotten very confused about something but you find out that it's it's not you it was the situation.
+
+499
+00:49:34,74 --> 00:49:51,63
+(conversation in Dutch) Whenever you doubt trying to figure it out and you don't succeed. Don't you ever get mad with yourself. OK Let me think about that one.
+
+500
+00:49:54,71 --> 00:49:58,71
+So there are a lot of cases like that where you go down a path.
+
+501
+00:49:59,79 --> 00:50:04,15
+Imagine it's like exploring in the wilderness and you just can't get through and you have to back off.
+
+502
+00:50:05,15 --> 00:50:08,45
+And you park it in a way I'm thinking I want to go there again in the future
+
+503
+00:50:09,36 --> 00:50:13,47
+and I do have one particular problem I can't figure out actually unfortunately we couldn't even
+
+504
+00:50:13,47 --> 00:50:20,65
+when I asked my best student from the past great with physics the two of us even couldn't solve this problem
+
+505
+00:50:20,65 --> 00:50:27,14
+and the reason is because. I can. Well we're.
+
+506
+00:50:27,16 --> 00:50:32,1
+We're trying to describe a situation in which the limits of planet can be stable. A planet can be unstable
+
+507
+00:50:32,1 --> 00:50:35,27
+and just evaporate if it doesn't have enough gravity it can't hold onto its material
+
+508
+00:50:36,27 --> 00:50:42,12
+but the equations we're using only describe a planet that is bound together so we don't even have the tools
+
+509
+00:50:42,12 --> 00:50:45,87
+and this is a good example we have no tools and we don't know how to handle this problem.
+
+510
+00:50:45,89 --> 00:50:48,38
+So I decided to leave that problem.
+
+511
+00:50:48,38 --> 00:50:52,34
+I didn't get mad and I kind of got a little mad I'll only get really mad if someone else figures it out
+
+512
+00:50:52,34 --> 00:50:58,28
+and publishes it. But for now. Instead of you. instead of me. because I know it's a great idea but I'm not one hundred percent.
+
+513
+00:50:58,67 --> 00:51:08,19
+It's a great idea. So I'm waiting for more data to accumulate so I can know whether or not this idea is good. You just mentioned the idea of parking a problem. 
+
+514
+00:51:13,23 --> 00:51:23,87
+How much does it happen that you have to park an idea. Often very often. Or. Often there's. Let me think for a second.
+
+515
+00:51:27,96 --> 00:51:33,99
+Sometimes it's a practical reason I don't have time or resources or people to carry out that particular problem.
+
+516
+00:51:34,68 --> 00:51:40,84
+Other times it's just not a priority one can have so many ideas and just not nearly enough time to pursue them
+
+517
+00:51:42,18 --> 00:51:43,4
+and other times it's just too hard.
+
+518
+00:51:44,3 --> 00:51:46,42
+The kind of tools that we'd have to develop to work on it
+
+519
+00:51:47,27 --> 00:51:52,97
+or just figuring out the right physics we need to solve the problem is just beyond what I can do.
+
+520
+00:51:54,15 --> 00:51:57,21
+Sometimes it gets parked forever. Sometimes it's parked until
+
+521
+00:51:57,21 --> 00:52:01,73
+I meet the person with the right skills like my biochemistry colleagues who I can work with.
+
+522
+00:52:02,5 --> 00:52:04,08
+Other times it's just parked until the summer.
+
+523
+00:52:04,36 --> 00:52:10,25
+Until I have time that I'm not teaching or dealing with university tasks to just have some time to think through it.
+
+524
+00:52:12,07 --> 00:52:22,83
+But I can also imagine that you feel sorry for having to park a problem. That you have an idea. And you think wow
+
+525
+00:52:22,85 --> 00:52:36,06
+this is promising there must be an answer there. If I just had some time or a team to help me explore this. Right.
+
+526
+00:52:36,94 --> 00:52:42,74
+Sometimes it's definitely frustrating. But part of life is choosing what's important and
+
+527
+00:52:43,01 --> 00:52:47,12
+What's not and so you know sometimes you just have to choose the one that's important. Go with it.
+
+528
+00:52:47,98 --> 00:52:51,99
+It's also harder now than it used to be I think when you're younger with less responsibility.
+
+529
+00:52:52,01 --> 00:52:56,75
+You can just drop everything and focus on that problem you think is so important and really make traction
+
+530
+00:52:56,75 --> 00:52:57,29
+and finish it.
+
+531
+00:52:58,22 --> 00:53:00,29
+And now there's just so much going on in just my job
+
+532
+00:53:00,29 --> 00:53:06,88
+and home that it's harder to just drop things to just focus on one thing.
+
+533
+00:53:09,51 --> 00:53:19,7
+When you are in the zone you are there at your deks. No one else. you're alone with your own mind 
+
+534
+00:53:21,96 --> 00:53:49,87
+and you are equipped thinking. Can you try to explain to me what happens then in your mind. Do you see something or do you try to see equations or do you see colors or do you feel something. What is the reality in the zone. 
+
+535
+00:53:51,5 --> 00:53:58,53
+Well I've never tried to articulate it before.
+
+536
+00:53:58,54 --> 00:54:04,14
+OK sometimes there's a flash of not colors or light or anything but there's a flash of thinking like a conclusion
+
+537
+00:54:04,36 --> 00:54:16,16
+gets reached in advance of getting there. yes it's kind of like I'll be working away at something
+
+538
+00:54:16,16 --> 00:54:26,00
+and then I'll kind of get that almost like the only way I can describe it in the best case is.
+
+539
+00:54:26,72 --> 00:54:35,25
+Like I realize what the answer is before I get there. And then you have to find out how to get there. I have to find out how to get there.
+
+540
+00:54:35,25 --> 00:54:39,78
+Sometimes it's a negative. Where in the zone I'm working I just realize it's not going to work.
+
+541
+00:54:40,7 --> 00:54:45,16
+But I still want to do my due diligence to make sure that this idea is not going to pan out. to be sure that it's not right. 
+
+542
+00:54:45,16 --> 00:54:49,59
+have to be sure that's not right or right even in that case. But when you close your eyes 
+
+543
+00:54:49,59 --> 00:55:08,96
+when you're in the zone what do you see. I don't know if I can answer that. Actually I don't know. Somehow I think
+
+544
+00:55:10,13 --> 00:55:15,26
+Scientists and artists have the same way of thinking. I think so.
+
+545
+00:55:16,13 --> 00:55:34,62
+Well what's the way the artists think in the zone. He's somehow looking for truth and expresses that into any kind of art. He has to make that painting or that sculpture or whatever. 
+
+546
+00:55:34,82 --> 00:55:43,03
+Because that's what for him means the truth or reality or anything. 
+
+547
+00:55:43,06 --> 00:56:02,47
+The only difference is that artists follow other rules. But they are also looking for truth. I think you are looking for truth. I think so.
+
+548
+00:56:04,36 --> 00:56:28,65
+Because you're always searching for truth you will never get to know how it looks. Isn't that frustrating? No. Really? Because the truth is always bigger or further away or.
+
+549
+00:56:28,65 --> 00:56:39,67
+The thing is I feel like I am one person out of a long chain of people in all directions.
+
+550
+00:56:40,58 --> 00:56:44,67
+And so I feel I'll be satisfied if I can accomplish. You know my goal or my life's work.
+
+551
+00:56:45,75 --> 00:56:48,14
+As long as the next person in front of me is ready to go.
+
+552
+00:56:48,22 --> 00:56:55,96
+So I may never reach what truth is or what I say even what I set out in the biggest sense of the word
+
+553
+00:56:55,96 --> 00:57:01,94
+but as long as I know it will be carried on or someone else will keep the search going I'm OK with it. 
+
+554
+00:57:06,37 --> 00:57:28,18
+Now maybe we go back to a little more concrete things, practical things. So you are researching data which come from. Where do they come from. 
+
+555
+00:57:28,19 --> 00:57:36,55
+The data that my team works with come from the Hubble Space Telescope and the Spitzer Space Telescope. And how do the data look like. 
+
+556
+00:57:41,49 --> 00:57:54,07
+Well the ultimate form we want to convert the data into look like points on a graph as a function of wavelength.
+
+557
+00:57:54,28 --> 00:57:58,72
+So we have visible wavelengths where I can see and infrared wavelengths where heat cameras can see
+
+558
+00:57:59,56 --> 00:58:08,48
+and each point has an arrowbar associated with it an uncertainty of the measurement. And so we just kind of have data.
+
+559
+00:58:08,5 --> 00:58:11,73
+That as a function of wavelength
+
+560
+00:58:11,73 --> 00:58:19,1
+and we look for patterns in the data. Another set of data we use is a time series of data.
+
+561
+00:58:19,11 --> 00:58:21,44
+And these data come from the Kepler space telescope.
+
+562
+00:58:22,13 --> 00:58:26,72
+And they are a data point taken every few seconds but it's pinned to thirty minutes
+
+563
+00:58:27,68 --> 00:58:36,75
+and it's on a time sequence so we have one point of a star how bright it is as a function of time. In seconds instead of.
+
+564
+00:58:36,77 --> 00:58:43,49
+These are mostly in minutes. Minutes or minutes. but each point will be every minute
+
+565
+00:58:43,49 --> 00:58:49,96
+or every thirty minutes depending on which mode that particular target star was observed in. And I would like to go to
+
+566
+00:58:51,38 --> 00:59:03,29
+This point where you can tell me about this. I don't know if it has a name but I call it the Sun shade. Right we call it the star shade. But I compare it to this thing we call it a sun shade for the camera.
+
+567
+00:59:07,47 --> 00:59:21,72
+OK the baffle. This black thing on the front. Yeah we call that a baffle. Because in 2017 or 2018 there will be a test satelite. test right. 
+
+568
+00:59:24,37 --> 00:59:30,7
+So what can you tell me about that. OK Well first of all just to back up a little there's many different telescopes
+
+569
+00:59:30,7 --> 00:59:36,45
+and projects that are ongoing. different groups of people all around the world have different projects they're trying to
+
+570
+00:59:36,45 --> 00:59:43,21
+move forward. The ones I'm involved with. One of them is called TEST: transiting Exoplanet Survey Satellite.
+
+571
+00:59:43,83 --> 00:59:46,17
+And TEST is the NASA mission.
+
+572
+00:59:46,19 --> 00:59:48,41
+It costs two hundred million dollars overall
+
+573
+00:59:49,33 --> 00:59:53,57
+but for space you have to imagine everything costs a hundred times more than on the ground.
+
+574
+00:59:53,58 --> 00:59:58,69
+TEST is a space. TEST is a satellite that will orbit earth.
+
+575
+00:59:59,06 --> 01:00:03,94
+It has a very elliptical orbit so it can spend most of its time away from Earth's the heat and light from Earth.
+
+576
+01:00:04,36 --> 01:00:11,01
+It will zoom around while it downlinks data and it will spend thirteen point six days away from Earth in a few hours.
+
+577
+01:00:11,09 --> 01:00:16,16
+zooming by. It will spend each of two orbits on one patch of the sky.
+
+578
+01:00:16,86 --> 01:00:22,09
+And in two years TEST will survey the whole sky looking at stars measuring their brightness as a function of time
+
+579
+01:00:23,42 --> 01:00:26,74
+searching for planets that transit their host stars they go in front of the star.
+
+580
+01:00:27,09 --> 01:00:34,09
+And they block out a tiny amount of starlight while they're transitting. And the goal for TEST actually.
+
+581
+01:00:34,62 --> 01:00:41,67
+Is to uncover a pool of planets of rocky planets transiting small stars stars much smaller than the sun.
+
+582
+01:00:42,32 --> 01:00:43,27
+And those stars
+
+583
+01:00:43,27 --> 01:00:50,77
+and their planets are the first ones that we will be able to search for signs of life in the atmosphere using the James
+
+584
+01:00:50,77 --> 01:00:54,44
+Webb Space Telescope which is the next Hubble Space Telescope if you will.
+
+585
+01:00:55,78 --> 01:01:01,79
+So we have actually we're working on our very practical plans to find the planets around stars that are close enough to
+
+586
+01:01:01,79 --> 01:01:01,92
+earth.
+
+587
+01:01:01,94 --> 01:01:09,18
+So they're bright enough and we'll look for signs of life in their atmosphere using the James Webb Space Telescope.
+
+588
+01:01:09,19 --> 01:01:23,32
+So again this TEST this satellite is able. Maybe you can explain again how it blocks the light. OK so the star shade is something totally different.
+
+589
+01:01:23,73 --> 01:01:31,78
+That is way next generation after TEST. TEST itself is actually you know what TEST is. it is just for
+
+590
+01:01:31,78 --> 01:01:36,96
+essentially specialized telephoto lenses. They don't focus they're just fixed.
+
+591
+01:01:37,08 --> 01:01:39,96
+They have about seven different lenses inside.
+
+592
+01:01:40,43 --> 01:01:45,01
+They're made almost to be perfectly for no vignetting they're athermal So they're not going to heat up
+
+593
+01:01:45,01 --> 01:01:49,43
+or cool down in weird ways and there's four of them attached to a single platform.
+
+594
+01:01:49,45 --> 01:01:55,43
+And those telescopes believe it or not those cameras they cover a strip of sky ninety degrees by twenty four degrees.
+
+595
+01:01:55,55 --> 01:02:02,54
+So it's like if you look at the night sky it's like from your horizon all the way to the pole almost that whole strip.
+
+596
+01:02:02,56 --> 01:02:04,58
+And it's going to do twelve of those all across the sky.
+
+597
+01:02:04,93 --> 01:02:10,48
+And what TEST is looking for is just measuring star brightness as a function of time every few minutes
+
+598
+01:02:10,48 --> 01:02:17,01
+or so it'll have a data point. And what TEST is looking for is a special configuration of planetary orbit.
+
+599
+01:02:17,27 --> 01:02:25,87
+We call it a transit. It's when if we have a star the planet goes in front of the star as seen from the telescope.
+
+600
+01:02:25,88 --> 01:02:31,53
+And while the star is just a point of light it will drop in brightness by a tiny tiny amount one percent
+
+601
+01:02:31,53 --> 01:02:34,38
+or a fraction of a percent when the planet goes in front of the star.
+
+602
+01:02:35,62 --> 01:02:41,3
+And that's what we're looking for. this is been pioneered already by the Kepler Space Telescope which found.
+
+603
+01:02:41,31 --> 01:02:43,91
+Which found thousands of planets that transit a star.
+
+604
+01:02:44,37 --> 01:02:54,13
+And TEST is repeating that experiment but with stars that are much closer to Earth than the Kepler stars are. And where does this star shade come in.
+
+605
+01:02:54,15 --> 01:03:00,64
+Well you know how the star shade comes in is right now I want you to know about these transiting planets are very important.
+
+606
+01:03:00,97 --> 01:03:05,37
+They're really the main thing we're doing on exoplanets because they're easy to find
+
+607
+01:03:06,8 --> 01:03:08,91
+but they have to be specially lined up.
+
+608
+01:03:08,93 --> 01:03:14,92
+Planets orbits and the stellar spin axes it's all random stars are born out of they can collapse this way
+
+609
+01:03:14,92 --> 01:03:18,32
+or they can collapse this way so transiting planets are very special
+
+610
+01:03:18,32 --> 01:03:24,1
+and they're also quite rare our own Earth for example is so far from our star.
+
+611
+01:03:24,11 --> 01:03:31,12
+That if we're looking for an Earth Sun twin only one in two hundred would transit.
+
+612
+01:03:31,14 --> 01:03:36,16
+An analogy for you is like throwing darts at a dartboard if you're really close to that dart board you can easily get
+
+613
+01:03:36,16 --> 01:03:40,02
+to the center of the dart board but the further away you go the harder it is because you're angle smaller.
+
+614
+01:03:41,1 --> 01:03:47,37
+So for Earth and Sun It's actually quite rare that they'll transit and so if we want to find an Earth twin.
+
+615
+01:03:47,39 --> 01:03:49,31
+If we want to go beyond transiting planets.
+
+616
+01:03:49,48 --> 01:03:53,01
+We actually eventually have to use a totally different technique than Kepler and TEST 
+
+617
+01:03:53,01 --> 01:03:58,26
+and things that are going on now we have to be able to block out the star light so we can see the planet directly.
+
+618
+01:03:59,75 --> 01:04:04,27
+So in exoplanets it's complicated. We have many different ways to find planets at least six different ways.
+
+619
+01:04:04,36 --> 01:04:07,17
+Maybe seven maybe thirty if you read wikipedia.
+
+620
+01:04:07,47 --> 01:04:13,36
+But it's so many different ways and they're all for a different goal. transits are something we can do right now today.
+
+621
+01:04:15,4 --> 01:04:17,52
+That they rely on a very special configuration
+
+622
+01:04:18,42 --> 01:04:24,13
+and just to be a little more technical for a transmitting planet the drop in brightness is related to the area of the
+
+623
+01:04:24,13 --> 01:04:30,41
+planet compared to the area of the star. Because that's how much light we're blocking out imagine like a big circle.
+
+624
+01:04:30,59 --> 01:04:37,29
+That's the star and a little circle little disk that's the planet our own Earth actually blocks out about one part in ten
+
+625
+01:04:37,29 --> 01:04:41,37
+thousand. the light of our sun. if there's an alien civilization looking back at us
+
+626
+01:04:41,37 --> 01:04:43,05
+and they have a Kepler space telescope.
+
+627
+01:04:43,21 --> 01:04:50,07
+They need to measure a star to precision so they can see a drop in brightness of one part in ten thousand
+
+628
+01:04:51,1 --> 01:05:01,55
+and it's pretty small. So we are undetectable. Well where we are detectable because our Kepler space telescope can detect. But they don't have a Kepler telescope. Who the aliens.
+
+629
+01:05:02,32 --> 01:05:07,15
+Oh they might they might actually because Kepler was the easiest telescope for us to build actually.
+
+630
+01:05:07,79 --> 01:05:12,19
+So I'm just setting the stage for you to see just how hard planet finding is. one part in ten thousand I mean do you have
+
+631
+01:05:12,19 --> 01:05:16,57
+ever have to measure anything to one part in ten thousand like when you're building a renovation
+
+632
+01:05:16,57 --> 01:05:21,92
+or you know you have an art project you're not measuring things to four decimal places. It's just not happening.
+
+633
+01:05:23,07 --> 01:05:26,31
+Now if we want to forget about transiting plants for a moment cause they're rare
+
+634
+01:05:27,42 --> 01:05:30,61
+and we may run out of them if we're looking for an earth around a nearby sun.
+
+635
+01:05:31,78 --> 01:05:34,24
+Now we have an even harder problem because our Earth
+
+636
+01:05:34,24 --> 01:05:41,26
+in reflected light in visible wavelengths that where our eyes can see and where stars are bright Earth is ten billion times
+
+637
+01:05:41,26 --> 01:05:46,43
+fainter than the Sun so it's no longer one part in ten thousand we're worried about it's one part in ten billion
+
+638
+01:05:47,31 --> 01:05:48,82
+and the reason is it's not just the area
+
+639
+01:05:48,82 --> 01:05:55,14
+but light drops off you know if you're shining a flashlight outside the beam is spreading out. the light is
+
+640
+01:05:55,14 --> 01:06:00,05
+dropping off actually it's weakening with distance and so the sunlight has to travel that distance to hit the earth
+
+641
+01:06:00,05 --> 01:06:04,02
+and that sunlight is weakening and so that reflected light.
+
+642
+01:06:04,36 --> 01:06:06,82
+From the Sun from an Earth sized planet is very very small.
+
+643
+01:06:08,15 --> 01:06:13,78
+So imagine we're looking for a planet like Earth and it's faint enough in itself.
+
+644
+01:06:15,09 --> 01:06:19,2
+But that fitness is not that our problem in astronomy it's the fact that the Earth out there.
+
+645
+01:06:19,2 --> 01:06:24,42
+We're looking for is right next to a very bright star the star is ten billion times brighter so we have to suppress the
+
+646
+01:06:24,42 --> 01:06:27,74
+star light or block out the star light to one part in ten billion.
+
+647
+01:06:27,76 --> 01:06:32,22
+So the star shade if you will is like our next step after we finish with transiting planets we're going to do what we
+
+648
+01:06:32,22 --> 01:06:35,75
+call direct imaging we're going to block out the star light so we can see the planets directly
+
+649
+01:06:35,75 --> 01:06:38,64
+and we already do this from ground based telescopes.
+
+650
+01:06:38,66 --> 01:06:43,02
+Only we're reaching one part in one hundred thousand not one part in ten billion.
+
+651
+01:06:44,44 --> 01:06:47,77
+So we have many more decimal places. still difficult.
+
+652
+01:06:48,16 --> 01:06:50,03
+So the star shade is going to go to space
+
+653
+01:06:51,47 --> 01:06:59,24
+and it's going to have to formation fly tens of thousands of kilometers away from the telescope and the star shade is a
+
+654
+01:06:59,24 --> 01:07:04,31
+very specially shape screen that's tens of meters across and this whole thing will line up
+
+655
+01:07:04,31 --> 01:07:07,99
+and block out the star light so that only the planet light is entering the telescope
+
+656
+01:07:09,11 --> 01:07:13,14
+and the star shade will move across the sky and realign with a new target star over and over again. That must be exciting if it works. 
+
+657
+01:07:17,36 --> 01:07:25,00
+It's going to be exciting. It's going to work. Was it your idea? The star shade was not my idea. But you work on it. Yes.
+
+658
+01:07:26,32 --> 01:07:32,65
+Recently I led the team that was running the Starshade project for about two years.
+
+659
+01:07:33,36 --> 01:07:38,44
+And we actually brought star shade from being a crazy concept like someone's vision or dream
+
+660
+01:07:38,44 --> 01:07:41,8
+or fantasy into mainstream astronomy
+
+661
+01:07:41,8 --> 01:07:48,08
+and we were able to pull together all the groups who've been working on Star shade making technology work here testing
+
+662
+01:07:48,08 --> 01:07:49,21
+star shade in the desert there
+
+663
+01:07:50,05 --> 01:07:54,89
+and we kind of brought everything up to a level now where it's surprising just in a couple of years.
+
+664
+01:07:54,89 --> 01:07:57,54
+Astronomers no longer say Star shade. That's dead.
+
+665
+01:07:57,61 --> 01:08:01,81
+It's never going to work there like of course we want to try to do star shade.
+
+666
+01:08:01,83 --> 01:08:04,02
+And this actually project I led was a study.
+
+667
+01:08:04,36 --> 01:08:08,89
+A NASA sponsored study we can get into more details if you want but that's how I was involved with Star shade. Maybe we can do that.
+
+668
+01:08:10,6 --> 01:08:14,38
+Yes because you know what's really cool is I have one of the petals of the star shade prototype.
+
+669
+01:08:14,51 --> 01:08:19,77
+It's five and a half meters. That big. Well because the whole star shade depending on what version you.
+
+670
+01:08:19,85 --> 01:08:24,11
+We will get funded in the future could be thirty meters across
+
+671
+01:08:25,51 --> 01:08:28,59
+and each petal is between. well these particular ones are five
+
+672
+01:08:28,59 --> 01:08:33,03
+and a half meters I can show you some videos later too that will help explain it.
+
+673
+01:08:34,06 --> 01:08:38,00
+Yes I have the star shade petal and I have another artifact.
+
+674
+01:08:38,06 --> 01:08:42,69
+I'm not sure if it'll get back on time because I was in Washington on the weekend.
+
+675
+01:08:42,7 --> 01:08:50,16
+But I have a one percent scale version. It's about one meter in diameter. From the whole star shade. It's a star shade one percent for size. And it moves.
+
+676
+01:08:51,16 --> 01:08:53,52
+It doesn't move this particular one was used in the desert.
+
+677
+01:08:53,84 --> 01:09:01,89
+It's just like a piece of metal cutout. it was used in desert testing where Northrop Grumman Corporation sent a team
+
+678
+01:09:01,89 --> 01:09:03,99
+repeatedly out to the desert in Nevada.
+
+679
+01:09:04,63 --> 01:09:09,76
+And they're trying to make sure that the math works that the star shade in the very special shape really does block light
+
+680
+01:09:09,76 --> 01:09:13,83
+the way we expect and they'd have a camera and L.E.D.
+
+681
+01:09:13,83 --> 01:09:20,5
+Fake star and planet and the star shade blocking out the light of the star so they can see the planets directly.
+
+682
+01:09:21,68 --> 01:09:47,43
+I can send you some photographs on this as well. So you have the whole story together. We are gonna have a look at it tomorrow. I will finish with some questions because we have been talking for 1,5 hours now. What do you dream about?
+
+683
+01:09:47,49 --> 01:09:51,09
+Like literally when I dream or you mean figuratively when I dream about the future. Literally.
+
+684
+01:09:53,87 --> 01:09:58,05
+Literally. The funny thing was yesterday I dreamed I was at a conference and just wanted to go home.
+
+685
+01:09:59,02 --> 01:10:03,17
+So that's kind of my usual life story. I'm on a trip somewhere and I just really don't want to be there.
+
+686
+01:10:05,43 --> 01:10:11,89
+One of the problems. Yes. So my dreams are really not that. That's very realistic. 
+
+687
+01:10:11,91 --> 01:10:17,84
+I know. That's not a dream. That's right. I have very realistic dreams just about my everyday life like
+
+688
+01:10:17,84 --> 01:10:24,15
+when I'm sleeping I'm not dreaming about you know some great adventure of meeting aliens and stuff like in this 
+
+689
+01:10:24,15 --> 01:10:29,59
+movie Aliens. Ripley the main character constantly is dreaming that she was harboring one of these aliens.
+
+690
+01:10:29,77 --> 01:10:32,88
+You know because they use human bodies as host and it's breaking out. So I don't really dream.
+
+691
+01:10:33,43 --> 01:10:36,74
+Literally dreaming like when I'm sleeping that I'm finding a planet or anything.
+
+692
+01:10:36,89 --> 01:10:51,28
+Unfortunately no my dreams are quite tedious. And when you dream about any future development or discovery. What do you dream in your wildest dreams.
+
+693
+01:10:54,35 --> 01:11:01,36
+OK Well I do. I have more. I'm a more pragmatic person actually so I have to. I can probably. I would actually need some time
+
+694
+01:11:01,36 --> 01:11:25,07
+to think about your questions. They're so good but if. Let me think. I do have a dream though. Take your time. OK I'll take my time.
+
+695
+01:11:25,09 --> 01:11:30,92
+Well in my dreams planets are everywhere they really are and they're just waiting for us to find them.
+
+696
+01:11:31,16 --> 01:11:34,13
+And I literally dream of the data we're going to be getting.
+
+697
+01:11:34,43 --> 01:11:38,54
+And I know it's not going to be spectacular data it's going to be you know our first try.
+
+698
+01:11:38,69 --> 01:11:42,2
+And I literally dream of the data coming down and finding what we're looking for.
+
+699
+01:11:43,26 --> 01:11:49,7
+And I believe in my dream so strongly. You know that we will be finding oxygen and other gases that don't belong.
+
+700
+01:11:49,72 --> 01:11:57,00
+But my dream goes a lot further because at some level I do know I may not accomplish everything I want in my
+
+701
+01:11:57,00 --> 01:12:01,59
+lifetime and so my dream extends to my students some of them who are really like my own children.
+
+702
+01:12:02,72 --> 01:12:05,93
+And I want them to carry the dream on actually.
+
+703
+01:12:06,5 --> 01:12:12,16
+And so I do dream of an amazing future well beyond what I'm going to accomplish in my life where we have
+
+704
+01:12:12,16 --> 01:12:14,43
+incredible things happening in space. We have self.
+
+705
+01:12:14,5 --> 01:12:15,49
+We have self-assembly
+
+706
+01:12:16,52 --> 01:12:22,82
+of space telescopes we can make telescopes that are bigger than anything we imagined fabrication in space.
+
+707
+01:12:22,85 --> 01:12:28,47
+We're building giant telescopes and I imagine the future of having just such great data.
+
+708
+01:12:28,75 --> 01:12:30,87
+That the generation just beyond me.
+
+709
+01:12:30,89 --> 01:12:36,19
+Can have unequivocal wonderful beautiful data that the signals are so strong
+
+710
+01:12:36,19 --> 01:12:38,77
+and there's no question that they're seeing spectral features
+
+711
+01:12:38,77 --> 01:12:42,53
+and that they can sort through all the different possibilities and make a robust claim of life.
+
+712
+01:12:43,08 --> 01:12:48,51
+On another world and in my dream I'm still alive then I'm just a hundred years old.
+
+713
+01:12:48,53 --> 01:12:51,02
+With my husband Charles you know traveling around to conferences
+
+714
+01:12:51,02 --> 01:13:00,28
+and getting to enjoy the success of the seeds that I planted and I wish my student Mary was around she's actually.
+
+715
+01:13:00,83 --> 01:13:05,01
+She actually was in the Netherlands actually at LOFAR this big radio telescope you have there.
+
+716
+01:13:05,04 --> 01:13:11,32
+It's spread out all across the country. Now she's in Belgium but she's one of my people actually my protege's.
+
+717
+01:13:12,1 --> 01:13:14,77
+I mean she'll probably. She's not here. No unfortunately she's in Europe right now
+
+718
+01:13:14,77 --> 01:13:19,38
+but I'm just saying that she would. Like there are some of my students I do really.
+
+719
+01:13:19,6 --> 01:13:21,22
+I'm really attached to actually when training.
+
+720
+01:13:21,29 --> 01:13:24,82
+I mean obviously they're not going to do just what I want them to do in their life just like real children you know.
+
+721
+01:13:25,03 --> 01:13:28,06
+They don't go and do what you have a plan for them and they usually don't do that plan
+
+722
+01:13:28,77 --> 01:13:41,53
+but I do see a great future. Like you didn't do what your father. Exactly like I didn't do what my father wanted me to yeah. So do you secretly wish your children
+
+723
+01:13:43,1 --> 01:13:49,66
+Follow your. you know the thing is like academic life is quite tough actually I mean you're going to see me so successful
+
+724
+01:13:49,66 --> 01:13:53,29
+and it looks like a great life and I have time and I can do whatever I want
+
+725
+01:13:53,29 --> 01:13:58,29
+and I have a lot of respect I can I can do whatever I want really and people won't cross me
+
+726
+01:13:59,16 --> 01:14:03,35
+but it's hard to get there and so I'm not sure if I wish that life for my children of just kind of struggling
+
+727
+01:14:03,35 --> 01:14:08,19
+and low pay for a while and really you know I want them to find something that they love doing that they're good at.
+
+728
+01:14:08,4 --> 01:14:10,64
+Because I think that's what one needs to be successful.
+
+729
+01:14:12,01 --> 01:14:13,89
+I think as a parent too it's a little more practical
+
+730
+01:14:13,89 --> 01:14:19,06
+and I hadn't realised this about why my dad had the reaction he did when I told him I wanted to be an astronomer.
+
+731
+01:14:19,72 --> 01:14:23,2
+Because as a parent you want your children to be self-sufficient. You know you want them to get out there.
+
+732
+01:14:23,77 --> 01:14:27,49
+So you don't have to support them. Later in their life you don't want them moving back home.
+
+733
+01:14:28,5 --> 01:14:32,08
+You want them to be out there and launched we call it and just doing their own thing.
+
+734
+01:14:33,04 --> 01:14:38,00
+So I have a vision for my children where I want them to be to find a job that works for them
+
+735
+01:14:38,00 --> 01:14:42,17
+and a lifestyle that they want and I recognize that might not be the same thing that I want for myself
+
+736
+01:14:43,12 --> 01:14:46,38
+but of course all that said I do secretly hope that one of them does carry on my dream.
+
+737
+01:14:46,7 --> 01:14:52,27
+Like the. I'm going to have to look into that I love the story of the parent and child like growing up and working together
+
+738
+01:14:53,17 --> 01:15:00,06
+but I feel like they need to carve their own path. Why are planets round objects?
+
+739
+01:15:13,98 --> 01:15:33,15
+Planets are round because they have so much mass there gravity wants to pull them into a sphere. All these exoplanets do they have names?
+
+740
+01:15:33,16 --> 01:15:44,45
+OK. Exoplanets scientifically get named after their parent star. So for example we have a star called Upsilon Andromeda.
+
+741
+01:15:44,47 --> 01:15:49,81
+And when planets were found. They're named Upsilon Andromeda B C D. Not too exciting.
+
+742
+01:15:50,45 --> 01:15:54,63
+And to confuse the matter planets aren't named in order of their distance from the star
+
+743
+01:15:54,63 --> 01:15:59,6
+but they are named in order of discovery. So you might have Planet B out here and then C. and Then D.
+
+744
+01:15:59,6 --> 01:16:00,96
+That makes it very confusing.
+
+745
+01:16:01,29 --> 01:16:06,75
+We have other stars where the stars themselves never had names until a planet was discovered.
+
+746
+01:16:06,9 --> 01:16:09,06
+Such as Kepler 186.
+
+747
+01:16:09,26 --> 01:16:25,58
+That would have been Kepler's 186th star with a planet found around it.
+
+748
+01:16:14,13 --> 01:16:27,62
+and those planets would be called Kepler 186 B. C. D. E. F. Can you explain to me what is the goldy locks zone. But I'm going to finish the naming question.
+
+749
+01:16:28,1 --> 01:16:32,37
+Because for a long time we wanted to just name the stars. name the planets ourselves
+
+750
+01:16:32,37 --> 01:16:36,12
+but astronomers don't have the right to do that even if I discover a planet.
+
+751
+01:16:36,14 --> 01:16:40,24
+I can't name after my child or pet or anything. It's actually not allowed.
+
+752
+01:16:40,29 --> 01:16:42,63
+And at one point astronomers started to name them
+
+753
+01:16:42,63 --> 01:16:48,27
+and other people other astronomers got angry Well you didn't discover that I work on that planet just as much as you do.
+
+754
+01:16:48,29 --> 01:16:49,47
+Why do you get the right to name it.
+
+755
+01:16:49,61 --> 01:16:55,81
+So people got all upset about it but recently I'm pleased to tell you that the International Astronomical Union.
+
+756
+01:16:55,83 --> 01:17:01,56
+The international body that's responsible for naming astronomical objects opened up a competition to the public
+
+757
+01:17:02,62 --> 01:17:07,67
+and they let different groups first register so individuals weren't allowed but you could be like an astronomy club
+
+758
+01:17:07,67 --> 01:17:13,9
+or a school group and not and suggest names and then people were allowed to vote on which names they liked
+
+759
+01:17:13,9 --> 01:17:20,18
+and so eventually a bunch of the planets were named. the stars and planets were given names. Were you also thinking about names.
+
+760
+01:17:20,2 --> 01:17:24,43
+Like I wasn't actually no no in fact we were not thinking of them to be honest.
+
+761
+01:17:25,03 --> 01:17:36,95
+To remember the name of five thousand different planets is way too hard and so in the scientific sense..
+
+762
+01:17:30,28 --> 01:17:36,95
+We actually like our original naming system. Because if the star is named HD189733B.
+
+763
+01:17:36,99 --> 01:17:40,92
+That's the planet name. We know that it's a sun like star because H.D.
+
+764
+01:17:40,92 --> 01:17:45,87
+Is after a catalog by a man named Henry Draper who went out and catalogued all the bright sun like stars.
+
+765
+01:17:46,00 --> 01:17:51,21
+If it's Gliese 581C. Gliese was another person who named all the red dwarf stars.
+
+766
+01:17:51,3 --> 01:17:54,35
+Then we know it's a red dwarf star. if it's Kepler 186F.
+
+767
+01:17:54,35 --> 01:17:59,2
+We know it's from the Kepler survey so the names as arcane as they may sound they actually work for us. It's more like a code. 
+
+768
+01:18:00,88 --> 01:18:24,26
+More like a code. The code is more useful than an actual name. I suppose you explore space the universe is it possible that you find something or have to conclude something that you are completely wrong. It's certainly possible. 
+
+769
+01:18:26,41 --> 01:18:29,84
+This happens has not happened to me yet but it has definitely happened in kind.
+
+770
+01:18:29,99 --> 01:18:32,32
+I'd like to give you an example of what happened in exoplanets.
+
+771
+01:18:33,31 --> 01:18:40,52
+One thing that we don't understand how planets form because we all expected going out there searching for planets that
+
+772
+01:18:40,52 --> 01:18:49,82
+we would simply find solar system copies a star Mercury Venus Earth Mars bigger planets Jupiter Saturn Uranus Neptune.
+
+773
+01:18:49,84 --> 01:18:50,49
+And wow.
+
+774
+01:18:50,64 --> 01:18:59,59
+Astronomers found Jupiters where an earth should be. Or Jupiter orbiting its star 10 times closer to its sun. we found
+
+775
+01:18:59,59 --> 01:19:05,98
+Jupiters ten times closer to their star than mercury is to our sun. we found what we call hot super Earths: planets
+
+776
+01:19:06,17 --> 01:19:10,04
+So close to their star the surface should be hot enough to melt rock
+
+777
+01:19:10,8 --> 01:19:16,71
+and we see planets with one day period orbits their year is only a day. so we found so many planets it's just crazy.
+
+778
+01:19:17,08 --> 01:19:19,02
+Now people who worked on planet formation.
+
+779
+01:19:20,11 --> 01:19:24,95
+First of all they never predicted this huge range of planetary systems and the funny thing is that.
+
+780
+01:19:25,03 --> 01:19:28,07
+That often these planet formation theorists would say.
+
+781
+01:19:28,53 --> 01:19:38,55
+We predict there will be no planets between one to four earth masses orbiting at some distance to their star
+
+782
+01:19:38,55 --> 01:19:44,76
+and they constantly made predictions like that that as soon as our telescopes our instruments could reach smaller planets
+
+783
+01:19:45,51 --> 01:19:47,05
+their predictions were just completely wrong.
+
+784
+01:19:48,17 --> 01:19:52,5
+So actually it has happened over and over again at least in that field where people predict things
+
+785
+01:19:52,5 --> 01:19:55,09
+and they end up being completely wrong. So I give you an example.
+
+786
+01:19:55,29 --> 01:20:03,00
+It's obviously easier to blame other people than it is to think of your own work but it always it is possible. OK.
+
+787
+01:20:03,61 --> 01:20:09,88
+It's certainly possible that you think of something and you have a plan you imagine something and you work it out
+
+788
+01:20:09,88 --> 01:20:12,57
+and you're sure you're going to find it and you don't find it can happen.
+

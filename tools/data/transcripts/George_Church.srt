@@ -1,0 +1,2484 @@
+1
+00:00:00,00 --> 00:00:02,45
+Speaker 1: I told [INAUDIBLE] you were in the player.
+
+2
+00:00:02,45 --> 00:00:03,61
+Speaker 2: Right.
+
+3
+00:00:03,61 --> 00:00:05,91
+Speaker 1: Do you think you fit in that one?
+
+4
+00:00:05,91 --> 00:00:10,9
+Speaker 2: Yeah, I think we have a very creative laboratory,
+
+5
+00:00:11,38 --> 00:00:19,24
+and I like pushing the boundaries into what's sort of called disruptive or transformative technology.
+
+6
+00:00:19,99 --> 00:00:26,02
+And we have artists in the lab. And yeah, I think player would fit.
+
+7
+00:00:26,02 --> 00:00:34,07
+Speaker 1: But also, I think the importance of the fun of playing with DNA, with just the science [CROSSTALK]
+
+8
+00:00:34,07 --> 00:00:38,1
+Speaker 2: Right, yeah, I mean, we don't take ourselves too seriously.
+
+9
+00:00:38,54 --> 00:00:47,68
+We try to do experiments that are both important for something societal, but they're also very playful
+
+10
+00:00:48,2 --> 00:00:55,56
+and illustrate an interesting way of looking at things. It usually makes people smile and surprised, yeah.
+
+11
+00:00:55,56 --> 00:00:57,7
+Speaker 1: And how come? Why is that, do you think?
+
+12
+00:00:57,7 --> 00:00:59,93
+Speaker 2: Why do we do that? [CROSSTALK] Why do they smile?
+
+13
+00:00:59,93 --> 00:01:00,47
+Speaker 1: Yeah.
+
+14
+00:01:00,47 --> 00:01:07,4
+Speaker 2: Well some of them are funny, like making 70 billion copies of my book.
+
+15
+00:01:07,4 --> 00:01:16,81
+That's more than all the most well purchased books in history. And it's kind of a funny idea.
+
+16
+00:01:17,06 --> 00:01:22,79
+And the idea that the DNA could last for 700,000 years or maybe a million years is fun.
+
+17
+00:01:23,28 --> 00:01:35,38
+And making a woolly mammoth, you can have a serious reason like the survival of the Asian elephant,
+
+18
+00:01:35,81 --> 00:01:42,15
+but also it just makes you smile to think that an old animal that's extinct comes back.
+
+19
+00:01:42,15 --> 00:01:44,44
+Speaker 1: That's one of the projects.
+
+20
+00:01:44,44 --> 00:01:45,47
+Speaker 2: Yes, right.
+
+21
+00:01:45,47 --> 00:01:45,79
+Speaker 1: That you're working with?
+
+22
+00:01:45,79 --> 00:01:46,62
+Speaker 2: Yes.
+
+23
+00:01:46,62 --> 00:01:55,14
+Speaker 1: And in what way is the personal genome project is part of your work? Can you explain?
+
+24
+00:01:55,14 --> 00:02:02,43
+Speaker 2: Right, yeah, so in a way, that's very serious in that when we started it ten years ago,
+
+25
+00:02:03,09 --> 00:02:10,55
+there were all these really scary and crazy rules that didn't really make sense.
+
+26
+00:02:11,94 --> 00:02:20,65
+That your medical information would never escape from the lab, even though there are multiple examples,
+
+27
+00:02:20,95 --> 00:02:22,39
+like WikiLeaks and so forth.
+
+28
+00:02:22,8 --> 00:02:26,49
+And then once it escaped, it would never be re-identified, even though it was a very rich data set,
+
+29
+00:02:26,61 --> 00:02:28,02
+and we know we can re-identify.
+
+30
+00:02:29,57 --> 00:02:33,7
+That if we'd learned something about you that could save your life,
+
+31
+00:02:33,88 --> 00:02:39,4
+we couldn't tell you because we couldn't give data back to you, just all sorts of crazy things like this.
+
+32
+00:02:40,09 --> 00:02:45,09
+And so we wanted to, again, be a little more playful and say, well,
+
+33
+00:02:45,1 --> 00:02:47,87
+what if we did just the opposite of all of those things?
+
+34
+00:02:48,05 --> 00:02:53,87
+If they sound a little crazy, let's do the opposite, maybe it will be either playful or super sane.
+
+35
+00:02:54,63 --> 00:03:04,18
+So it's the only project in the world now for ten years, where you can actually have free access to human biology,
+
+36
+00:03:04,8 --> 00:03:11,98
+genomes, environments, and traits. It's kind of like Wikipedia for human beings. So it's revolutionary and playful.
+
+37
+00:03:11,98 --> 00:03:14,6
+Speaker 1: And can you explain what it exactly is?
+
+38
+00:03:14,6 --> 00:03:21,36
+Speaker 2: It's a collection of big data of each individual person.
+
+39
+00:03:21,56 --> 00:03:24,98
+So it's not just big because there are a lot of people, it's big for each person.
+
+40
+00:03:25,27 --> 00:03:28,36
+And it's the way we think that medicine will be practiced in the future.
+
+41
+00:03:28,75 --> 00:03:37,64
+But we collect medical records, a whole variety of measurements that we do every year on DNA Day,
+
+42
+00:03:38,12 --> 00:03:41,24
+where the people come back every year and get a update.
+
+43
+00:03:41,86 --> 00:03:52,22
+Sometimes all sorts of new tests, and then the genomic sequence, and a number of other omics, microbiomics,
+
+44
+00:03:53,91 --> 00:03:59,75
+and viral sequences. The things in your environment that can greatly influence your health.
+
+45
+00:04:00,69 --> 00:04:08,38
+So we get this big collection and then we make it publicly available, so that anybody in the world can help analyze
+
+46
+00:04:08,75 --> 00:04:14,33
+and interpret and understand your genome, everybody's genome that's in the project.
+
+47
+00:04:14,33 --> 00:04:19,87
+Speaker 1: And what would that mean for future if the database is getting bigger and then better?
+
+48
+00:04:19,87 --> 00:04:26,19
+Speaker 2: Yeah, so, it's not intended to be a production project so much as an inspirational one.
+
+49
+00:04:26,44 --> 00:04:34,69
+Where we show people said you can't do this, it's impossible. And we showed well, it's actually not so hard to do it.
+
+50
+00:04:34,91 --> 00:04:37,13
+And so now, it changes the conversation.
+
+51
+00:04:37,13 --> 00:04:39,13
+And so many of the things that we thought were crazy,
+
+52
+00:04:39,58 --> 00:04:48,12
+now people agree that maybe we should be sharing data back with the individual, getting them properly educated upfront.
+
+53
+00:04:50,97 --> 00:04:55,74
+Admitting that we can't keep the data from getting out in any project anywhere in the world.
+
+54
+00:04:55,94 --> 00:05:02,08
+In fact, even medical records in a hospital, which have nothing to do with research, are extremely valuable now.
+
+55
+00:05:02,08 --> 00:05:05,9
+They're 20 times the value of your credit card on the black market.
+
+56
+00:05:06,34 --> 00:05:11,76
+So many of these things that we're talking about ten years ago are now accepted,
+
+57
+00:05:12,93 --> 00:05:15,39
+so that was the main thing we were going for.
+
+58
+00:05:16,24 --> 00:05:22,9
+But what will happen is once it's widely accepted, we may eventually have 7 billion people's genomes
+
+59
+00:05:22,91 --> 00:05:30,62
+and medical records available. And then you can find all kinds of correlations and what causes diseases and cures.
+
+60
+00:05:30,62 --> 00:05:35,53
+Speaker 1: And then you can almost personalize the medication and the solution, is that right?
+
+61
+00:05:35,53 --> 00:05:45,32
+Speaker 2: Yeah, not only personalized based on your DNA, but personalized based on your environment, as well.
+
+62
+00:05:45,7 --> 00:05:48,48
+And most importantly, I think, is prevention.
+
+63
+00:05:49,01 --> 00:05:54,91
+So, an awful lot of medicine is you wait until it's kind of too late where you've already got DNA,
+
+64
+00:05:54,91 --> 00:05:59,03
+that's where you get damage to your body or you've got cancer.
+
+65
+00:05:59,77 --> 00:06:04,86
+And even if you try to catch the cancer very, very early, it's really already too late because it's already start.
+
+66
+00:06:05,13 --> 00:06:11,16
+It's got its mechanism revved up to make more mutations.
+
+67
+00:06:11,16 --> 00:06:22,75
+Speaker 1: So basically, when you explain what you are doing to somebody that doesn't know, could you explain it?
+
+68
+00:06:22,75 --> 00:06:30,39
+Speaker 2: Sure, our lab develops radical technologies for reading and writing DNA, the same way you'd read
+
+69
+00:06:30,4 --> 00:06:37,07
+and write a book. We can do that with DNA, and we've brought the price down by about over a million-fold.
+
+70
+00:06:37,07 --> 00:06:44,28
+Speaker 1: And the consequence, when you look back the last ten years and
+
+71
+00:06:44,28 --> 00:06:50,08
+when you look further in the coming ten years, what do you foresee in the near future in ten years?
+
+72
+00:06:50,08 --> 00:06:51,25
+Speaker 2: Right.
+
+73
+00:06:51,25 --> 00:06:52,73
+Speaker 1: How would it look like?
+
+74
+00:06:52,73 --> 00:06:59,00
+Speaker 2: Yeah, well, we don't know if we can sustain this incredible, exponential speed, where it gets faster
+
+75
+00:06:59,01 --> 00:07:09,28
+and faster every year. But if we can, in ten years, we'll be unrecognizable in terms of the technologies we can do.
+
+76
+00:07:09,83 --> 00:07:18,47
+We'll be able to change agriculture, medicine, forensics, you name it.
+
+77
+00:07:19,11 --> 00:07:24,65
+Even information handling that you normally think is the realm of electronics will be molecular.
+
+78
+00:07:24,65 --> 00:07:25,99
+Speaker 1: Even networking.
+
+79
+00:07:25,99 --> 00:07:26,99
+Speaker 2: Yeah.
+
+80
+00:07:26,99 --> 00:07:34,33
+Speaker 1: And in what sense I understand crisp, what is crisp, first?
+
+81
+00:07:34,33 --> 00:07:34,61
+Speaker 2: Crisper?
+
+82
+00:07:34,61 --> 00:07:35,91
+Speaker 1: Yeah, crisper.
+
+83
+00:07:35,91 --> 00:07:47,59
+Speaker 2: So crisper is a buzz word that really is capturing the imagination,
+
+84
+00:07:47,74 --> 00:07:56,1
+but it represents a much broader set of tools. So we've had for a few years To engineer genomes.
+
+85
+00:07:56,4 --> 00:08:02,84
+So, in addition to the new ability to read genomes, CRISPR represents a way of editing genomes.
+
+86
+00:08:02,84 --> 00:08:06,82
+It's not the only way, but it's something that captures people's imagination.
+
+87
+00:08:07,35 --> 00:08:15,6
+And we helped invent that about three years ago now, and many people have improved on it.
+
+88
+00:08:15,69 --> 00:08:24,5
+About 70 labs have contributed to an open non-profit resource called Addgene
+
+89
+00:08:25,4 --> 00:08:28,61
+and then re-distributed it into 30,000 laboratories.
+
+90
+00:08:28,61 --> 00:08:29,68
+Speaker 1: What is CRISPR?
+
+91
+00:08:29,68 --> 00:08:30,96
+Speaker 2: Sorry.
+
+92
+00:08:32,1 --> 00:08:41,22
+So, CRISPR is the latest in a series of ways of manipulating a genome where the computer, the science,
+
+93
+00:08:41,22 --> 00:08:49,32
+define 20 base pairs- As, Cs, Gs and Ts in a particular order, chosen to be specific for one place in your genome,
+
+94
+00:08:49,56 --> 00:08:55,59
+in your DNA, and not anywhere else in your genome. So it's both positive and negative computer selection.
+
+95
+00:08:56,02 --> 00:09:02,64
+And then it will cut, it will search through the genome randomly and find the right place and make a,
+
+96
+00:09:02,99 --> 00:09:09,71
+cut both strands of the DNA, and then that either eliminates the gene that it just cut in
+
+97
+00:09:09,95 --> 00:09:13,1
+or it helps repair to whatever you want.
+
+98
+00:09:13,36 --> 00:09:19,09
+So that's precise gene editing is what people are so excited about, where you can change it into whatever you want.
+
+99
+00:09:19,48 --> 00:09:26,49
+And we were the first lab to do that in human stem cells, and those can be turned into almost any cell,
+
+100
+00:09:26,7 --> 00:09:31,93
+and it can be done in a whole variety of different organisms now. Almost every organism that's been tried, it works in.
+
+101
+00:09:31,93 --> 00:09:41,97
+Speaker 1: Yeah. And then because you use in the text that you are able to-
+
+102
+00:09:41,97 --> 00:09:42,97
+Speaker 2: Right.
+
+103
+00:09:44,12 --> 00:09:48,49
+So some people call editing just making a mess, making a break,
+
+104
+00:09:48,49 --> 00:09:56,48
+but I think that's like saying that ripping a page out of your journal is editing, and it's not really.
+
+105
+00:09:57,21 --> 00:10:05,43
+But this allows you very precise editing.,
+
+106
+00:09:59,31 --> 00:10:06,66
+Speaker 1: And the possibilities that it give, is that you really can prevent a lot, when [INAUDIBLE] is that correct?
+
+107
+00:10:06,66 --> 00:10:13,62
+Speaker 2: Right, right so you can now engineer agricultural species, wild species,
+
+108
+00:10:14,16 --> 00:10:16,08
+and you can do preventative medicine.
+
+109
+00:10:16,08 --> 00:10:23,68
+Speaker 1: It's not students, it's now really in a, this year it's really, also really growing, this technique.
+
+110
+00:10:24,02 --> 00:10:25,35
+It's developing hard,
+
+111
+00:10:25,35 --> 00:10:33,56
+Speaker 2: So it's a three year old technique, but it's been growing exponentially.
+
+112
+00:10:33,56 --> 00:10:42,52
+And the number of people adopting it is huge, and every new person that adopts it helps also make it work better.
+
+113
+00:10:42,52 --> 00:10:43,17
+Speaker 1: Yeah.
+
+114
+00:10:43,17 --> 00:10:43,83
+Speaker 2: Yeah.
+
+115
+00:10:43,83 --> 00:10:50,39
+Speaker 1: Then the consequences are endless, because you can prevent diseases, you can create, you can,
+
+116
+00:10:50,39 --> 00:10:56,32
+because of course people with this diseases that are very strong, you can help those people as well.
+
+117
+00:10:56,32 --> 00:10:57,44
+Speaker 2: Right.
+
+118
+00:10:57,83 --> 00:11:04,64
+So it's particular valuable for so-called rare diseases that are individually rare
+
+119
+00:11:04,65 --> 00:11:06,95
+but collectively there's a large number of them
+
+120
+00:11:07,2 --> 00:11:12,23
+and so you might have maybe 3-5% of the population is affected by these,
+
+121
+00:11:12,78 --> 00:11:16,62
+even though each one only affects 1 in 100,000, together there.
+
+122
+00:11:16,62 --> 00:11:22,2
+And, so if you have two parents that are carriers, and they have no
+
+123
+00:11:22,2 --> 00:11:29,17
+Speaker 2: They will have 25% of their children will be severely affected, very deterministic.
+
+124
+00:11:29,6 --> 00:11:32,58
+It's not really probabilistic. It's almost guaranteed.
+
+125
+00:11:33,3 --> 00:11:46,11
+And that means that the only real way that protects the family, including the children and family are healthy,
+
+126
+00:11:46,53 --> 00:11:51,11
+is abortion, which is not acceptable to many people in the world.
+
+127
+00:11:51,87 --> 00:11:58,34
+And so gene editing gives us the opportunity of changing the sperm, so that you don't have to affect the embryos.
+
+128
+00:11:58,59 --> 00:12:02,27
+You can do it without hurting or putting embryos at any risk.
+
+129
+00:12:02,62 --> 00:12:06,85
+So that's a new possibility that has yet to be demonstrated.
+
+130
+00:12:06,85 --> 00:12:07,85
+Speaker 1: Yeah.
+
+131
+00:12:07,85 --> 00:12:16,53
+That will also see an incredible future when this is further on developing because you can do a lot with it.
+
+132
+00:12:16,53 --> 00:12:28,26
+Speaker 2: Yeah, you can reduce disease without eliminating the gene variants..
+
+133
+00:12:22,42 --> 00:12:27,93
+Speaker 1: Okay, but you can also make viruses or bacteria that are with synthetic [INAUDIBLE]
+
+134
+00:12:28,26 --> 00:12:29,93
+Speaker 2: Right, right.
+
+135
+00:12:29,93 --> 00:12:30,59
+Speaker 1: [INAUDIBLE]
+
+136
+00:12:30,59 --> 00:12:43,91
+Speaker 2: So we've made biocontainment versions of bacteria that are stuck in the lab. They have very low escape rates.
+
+137
+00:12:44,98 --> 00:12:49,73
+And this is particularly important, if you put things into the bacteria that would give them an advantage in the wild,
+
+138
+00:12:49,73 --> 00:12:55,06
+like for example virus resistance, that could be very productive in an industrial setting
+
+139
+00:12:55,35 --> 00:12:56,93
+but you don't want it to get out of the wild.
+
+140
+00:12:57,11 --> 00:13:03,08
+So you have to have both the viral, anti-viral strategy and the biocontainment together.
+
+141
+00:13:04,63 --> 00:13:05,96
+That was actually done without CRISPR.
+
+142
+00:13:06,28 --> 00:13:11,09
+Quite a bit of the genome editing and genome engineering we do in our lab does not involve CRISPR.
+
+143
+00:13:11,56 --> 00:13:15,66
+And that's a perfect example of one where we've done probably the most radical
+
+144
+00:13:15,67 --> 00:13:22,19
+and extensive engineering of 4 million base pairs without CRISPR. Yeah.
+
+145
+00:13:22,19 --> 00:13:31,8
+Speaker 1: Where comes this energy that you have in your work? Where is it coming from? What's your source?
+
+146
+00:13:31,8 --> 00:13:36,72
+Speaker 2: The source of our industry
+
+147
+00:13:36,73 --> 00:13:46,48
+and enthusiasm is just knowing that you can answer very basic scientific questions at the same time you push,
+
+148
+00:13:46,79 --> 00:13:51,08
+you drive down the price of technology, democratizing it, making it available to many people.
+
+149
+00:13:51,68 --> 00:13:55,9
+And then the product, the applications of the technology,
+
+150
+00:13:56,43 --> 00:14:01,33
+can be even more societally impactful than the technology itself, such as transplantation,
+
+151
+00:14:04,37 --> 00:14:09,52
+solving the transplantation crisis, the malaria crisis, and aging crisis.
+
+152
+00:14:10,18 --> 00:14:14,38
+These are all things that are highly motivational, where millions of people are dying every year.
+
+153
+00:14:14,38 --> 00:14:17,43
+Speaker 1: Your personal source, your personal energy, where does it come from? [CROSSTALK]
+
+154
+00:14:17,43 --> 00:14:25,41
+Speaker 2: My personal energy comes from the threat, that all these people are going to die every year
+
+155
+00:14:26,95 --> 00:14:32,97
+and the curiosity, playfulness of the science that, so you could simultaneously play
+
+156
+00:14:32,98 --> 00:14:35,41
+and do something were serious which is saving millions of people.
+
+157
+00:14:35,41 --> 00:14:39,65
+Speaker 1: Yeah. And when did this start? When you were young? Do you still remember when you're-
+
+158
+00:14:39,65 --> 00:14:49,76
+Speaker 2: Yeah. I remember when I was a boy in Florida living on the water, in the mud.
+
+159
+00:14:50,35 --> 00:14:57,44
+I would play in the mud and I would pull the creatures out of the mud and wonder how they worked.
+
+160
+00:14:57,88 --> 00:15:05,02
+And I would look at my father's medical bag. It was full of drugs and instruments. And I said.
+
+161
+00:15:05,43 --> 00:15:12,3
+That was an inch, so one was very natural and was very artificial and I was in awe in both of them and then,
+
+162
+00:15:12,52 --> 00:15:15,3
+and then I went to a World's Fair in New York cCity.
+
+163
+00:15:15,68 --> 00:15:22,79
+From, all the way from Florida to New York city when I was ten years old and and they have created a simulated future.
+
+164
+00:15:23,61 --> 00:15:25,53
+They had gone really,
+
+165
+00:15:25,8 --> 00:15:33,27
+really far out on making a pretend world where they had robots that looked just like a human being.
+
+166
+00:15:34,88 --> 00:15:39,71
+And then, from that day, I could never go back to the past.
+
+167
+00:15:40,15 --> 00:15:44,98
+Even though they didn't have a real future, it was a fake future, I could not adjust any more.
+
+168
+00:15:45,58 --> 00:15:52,31
+Once I had seen the future, I had to work on it to make it happen because it seemed very attractive.
+
+169
+00:15:52,31 --> 00:15:54,44
+Speaker 1: It's exactly what my daughter also said.
+
+170
+00:15:54,44 --> 00:15:55,15
+Speaker 2: Yeah.
+
+171
+00:15:55,15 --> 00:15:58,47
+Speaker 1: Last week, when it was in the Scientific Museum in Amsterdam.
+
+172
+00:15:58,47 --> 00:15:59,19
+Speaker 2: Yeah.
+
+173
+00:15:59,19 --> 00:15:59,9
+Speaker 1: She saw-
+
+174
+00:15:59,9 --> 00:16:11,12
+Speaker 2: It's dangerous and very hopeful to create a fictitious future in such graphic terms,
+
+175
+00:16:11,38 --> 00:16:15,07
+where you can walk around, that you can taste it, you can feel it, you can see it.
+
+176
+00:16:15,4 --> 00:16:23,58
+They had touch pads in 1965 where you could draw something and then, it would print out the whatever you drew.
+
+177
+00:16:24,16 --> 00:16:31,29
+Not on paper, but in fabric you could actually make a scarf of a butterfly you would draw with a pen.
+
+178
+00:16:32,94 --> 00:16:39,6
+That took like forty years before there was anything even similar to that, that the average person could use.
+
+179
+00:16:39,6 --> 00:16:55,6
+Speaker 1: Where you would organize a museum or a fair where you would show the future of us in 40 years,
+
+180
+00:16:55,6 --> 00:16:58,99
+what would I see?
+
+181
+00:16:58,99 --> 00:17:03,42
+Speaker 2: Well, to some extent it doesn't have to be entirely accurate,
+
+182
+00:17:04,15 --> 00:17:07,45
+obviously it can't be because you can't see the future, but it just needs to be inspiring.
+
+183
+00:17:07,92 --> 00:17:12,79
+And to a 10 year old, is particularly easy to inspire.
+
+184
+00:17:12,79 --> 00:17:19,81
+So, you might see space colonies, I think, with humans that are adapted to space.
+
+185
+00:17:19,96 --> 00:17:22,13
+Right now, our biology is particularly, I mean,
+
+186
+00:17:22,2 --> 00:17:29,05
+it was not designed for space travel in terms of radiation resistance and the bone loss that happens at low gravity.
+
+187
+00:17:29,93 --> 00:17:39,37
+So, there might be some of that, there might be either conquering our microbiome, or completely eliminating it,
+
+188
+00:17:39,57 --> 00:17:45,05
+or getting to the point where we are resistant to everything, so we didn't eliminate it,
+
+189
+00:17:45,09 --> 00:17:49,51
+we just got better at vaccination, or something like that.
+
+190
+00:17:50,03 --> 00:17:56,21
+I mean, so, that you can, you can now go back to doing surgery without hygiene, you just doesn't even clean your hands.
+
+191
+00:17:56,21 --> 00:18:06,23
+Speaker 2: I think there are many things like this that would seem like science fiction,
+
+192
+00:18:06,42 --> 00:18:08,75
+but if you created it in a realistic enough-
+
+193
+00:18:08,75 --> 00:18:20,27
+Speaker 2: Fictional universe, kids especially will dream about it and make it happen.
+
+194
+00:18:20,27 --> 00:18:32,01
+Speaker 1: And there's already coming, information out that you didn't expect, as your own data?,
+
+195
+00:18:25,94 --> 00:18:40,95
+Speaker 2: Well, I expect everything [LAUGH] so it's fun. And I wouldn't say there's anything gigantically in it.
+
+196
+00:18:41,04 --> 00:18:47,98
+Well, my family was very concerned, because my father had died of senile dementia
+
+197
+00:18:48,43 --> 00:18:53,83
+and they were worried that I would have risk factors, and so far it looks like I have the opposite,
+
+198
+00:18:54,1 --> 00:19:01,43
+I have no risk factors. So, maybe that's suprising, maybe it's false assurance.
+
+199
+00:19:01,43 --> 00:19:06,11
+Speaker 1: It's good to have you now working in the lab for the future.
+
+200
+00:19:06,11 --> 00:19:10,04
+Because somehow the lab feels like you're on the fringes of knowledge. Do I see that right?
+
+201
+00:19:10,04 --> 00:19:13,85
+Speaker 2: It certainly feels that way to me.
+
+202
+00:19:14,08 --> 00:19:19,1
+Every day somebody walks in and gives me something that shocks me and it's not easy to shock me.
+
+203
+00:19:20,44 --> 00:19:23,37
+But it's very common that they'll come up with something that,
+
+204
+00:19:23,54 --> 00:19:31,36
+that really changes the way we approach biological research.
+
+205
+00:19:31,36 --> 00:19:34,82
+Speaker 1: Yeah, so could you give us example when [INAUDIBLE] kind of short.
+
+206
+00:19:34,82 --> 00:19:40,05
+Speaker 2: Well, for example, getting nanopol sequencing that was some,
+
+207
+00:19:40,54 --> 00:19:46,69
+it's a way of you got a handheld device that it's capable of sequencing DNA.
+
+208
+00:19:46,69 --> 00:19:51,97
+Speaker 2: Engineering mosquitos,
+
+209
+00:19:52,33 --> 00:20:03,08
+so that they can spread really good genes through the environment that would make them resistant to a malaria parasite.
+
+210
+00:20:04,41 --> 00:20:10,81
+Every little breakthrough in each of those two projects is remarkable.
+
+211
+00:20:10,81 --> 00:20:12,73
+Speaker 1: Yeah, and what do you think about the criticism that you also hear of course that it's not secure.
+
+212
+00:20:12,73 --> 00:20:18,8
+And that you can create also the other side with it. What do you think of that? How do you see that?
+
+213
+00:20:18,8 --> 00:20:25,5
+Speaker 2: I'm one of the biggest critics of it.
+
+214
+00:20:25,6 --> 00:20:28,88
+I try to raise consciousness and make people concerned,
+
+215
+00:20:29,88 --> 00:20:34,56
+because if you're not concerned things can be unintended consequences.
+
+216
+00:20:35,08 --> 00:20:40,45
+If you are concerned it helps you plan for alternatives.
+
+217
+00:20:42,41 --> 00:20:50,07
+But in particular, I suggested over the last 11 years, that 12 years,
+
+218
+00:20:50,39 --> 00:20:58,58
+that we should have a surveillance mechanism in place where anybody that participates in these powerful technologies
+
+219
+00:20:59,56 --> 00:21:07,87
+and all the ordering that they do of supplies should be monitored by the companies
+
+220
+00:21:07,88 --> 00:21:09,73
+and ideally by the governments as well.
+
+221
+00:21:09,73 --> 00:21:10,36
+Speaker 1: Why?
+
+222
+00:21:10,36 --> 00:21:13,82
+Speaker 2: I mean, you wouldn't want surveillance on your everyday activities,
+
+223
+00:21:14,11 --> 00:21:17,34
+but if you're dealing with synthetic DNA, that's not everyday activity.
+
+224
+00:21:17,86 --> 00:21:22,9
+And nobody forcing you to work on synthetic DNA, but if you choose to work on synthetic DNA then,
+
+225
+00:21:23,47 --> 00:21:32,47
+you need to be under surveillance because we're in a time where you don't know how powerful it is.
+
+226
+00:21:32,55 --> 00:21:36,13
+And so, it's better to just have everything under surveillance.
+
+227
+00:21:36,53 --> 00:21:41,99
+And a particular why I proposed, was looking for people synthesizing things that are extremely hazardous.
+
+228
+00:21:42,51 --> 00:21:50,94
+Things like smallpox, and polio, and anthrax, toxin, and things like that. Cuz there's no reason.
+
+229
+00:21:51,98 --> 00:21:57,57
+They should only be ordering that if they have permission from the government to order it and a very good reason.
+
+230
+00:21:57,57 --> 00:21:59,57
+Speaker 1: Because that's all possible.
+
+231
+00:21:59,57 --> 00:22:01,75
+Speaker 2: It's very easy.
+
+232
+00:22:02,9 --> 00:22:08,3
+And so, you not only have to monitor how they order it as DNA, but you need to monitor the machines
+
+233
+00:22:08,3 --> 00:22:10,7
+and the chemicals that they could use to do it themselves.
+
+234
+00:22:11,3 --> 00:22:15,77
+But if you monitor everything, then it greatly reduces the probability they could do it themselves.
+
+235
+00:22:15,77 --> 00:22:19,63
+Speaker 1: That's also the other side of CRISPR, you're able to on not a very simple way,
+
+236
+00:22:19,63 --> 00:22:22,3
+but you can in a way you can do anything.
+
+237
+00:22:22,3 --> 00:22:32,5
+Speaker 2: Yeah, CRISPR has a lot of power, but it's probably not the most dangerous, I mean,
+
+238
+00:22:33,04 --> 00:22:34,79
+I'm not trying to reassure people.
+
+239
+00:22:35,1 --> 00:22:36,67
+I'm just saying if you're going to worry,
+
+240
+00:22:36,87 --> 00:22:48,2
+worry about the right thing which is worry about ordinary pathogens that you can find all over the world because those
+
+241
+00:22:48,21 --> 00:22:51,24
+are much more powerful that anything you can do with CRISPR today.
+
+242
+00:22:51,24 --> 00:23:03,2
+CRISPR and all of our amazing technology for reading and writing DNA, is now you can use for better surveillance.
+
+243
+00:23:03,82 --> 00:23:08,29
+I mean, if its a million times cheaper, you can have it distributed work of surveillance.
+
+244
+00:23:08,84 --> 00:23:14,97
+You can make faster and better vaccines, that are very responsive to emerging threats for the natural and unnatural
+
+245
+00:23:15,46 --> 00:23:15,86
+and so forth.
+
+246
+00:23:15,98 --> 00:23:24,17
+I think that revolution in reading and writing DNA is much more easily used for protection
+
+247
+00:23:24,18 --> 00:23:26,36
+and prevention than it is for misuse.
+
+248
+00:23:26,51 --> 00:23:36,44
+With misuse you just go out and get somebody who's got some serious disease and weaponize them with ordinary methods,
+
+249
+00:23:36,68 --> 00:23:38,88
+not modern molecular biology.
+
+250
+00:23:38,88 --> 00:23:51,52
+Speaker 1: And so, in the way by making it cheap, by making it possible-
+
+251
+00:23:51,52 --> 00:23:52,17
+Speaker 2: Yeah.
+
+252
+00:23:52,17 --> 00:23:55,3
+Speaker 1: Millions of people use, it's like the internet in a way. Is this correct?
+
+253
+00:23:55,3 --> 00:23:57,26
+It's like you see that the date on the Internet is like it exploded. And then, it doesn't mean [CROSSTALK]
+
+254
+00:23:57,26 --> 00:24:00,09
+Speaker 2: Well a slight difference between this and the Internet,
+
+255
+00:24:00,29 --> 00:24:05,94
+I think is we have the opportunity of having a higher security, and safety.
+
+256
+00:24:05,94 --> 00:24:10,6
+And I think in the Internet early days, it wasn't a top priority,
+
+257
+00:24:12,03 --> 00:24:21,51
+and it ended up with kind of a culture that includes hackers, and computer viruses, and credit card,
+
+258
+00:24:21,9 --> 00:24:27,2
+or just identity theft, and stalking, and so forth.
+
+259
+00:24:28,79 --> 00:24:32,75
+I think if you had the equivalent thing in biology, it'd be much more serious.
+
+260
+00:24:33,00 --> 00:24:36,9
+So if you have a computer virus, that might cause billions of dollars of damage.
+
+261
+00:24:37,42 --> 00:24:42,05
+But a real virus could cause billions of dollars of damage and millions of lives.
+
+262
+00:24:42,28 --> 00:24:48,56
+So I think we need to create a culture of surveillance and good deeds.
+
+263
+00:24:48,56 --> 00:24:52,18
+Speaker 1: And that's happening now? What you're saying?
+
+264
+00:24:52,18 --> 00:25:01,4
+Speaker 2: Yes it is. But we need to keep raising consciousness and keep that motivation going. Yeah.
+
+265
+00:25:01,4 --> 00:25:04,72
+Speaker 1: It is good to stay critical also.
+
+266
+00:25:04,72 --> 00:25:06,62
+Speaker 2: Yes, right.
+
+267
+00:25:06,62 --> 00:25:14,00
+Speaker 1: And when you look at the future of, well,
+
+268
+00:25:15,04 --> 00:25:26,48
+I actually once said that the universe is getting conscious by itself, which of itself, and the past and future,
+
+269
+00:25:26,48 --> 00:25:30,24
+via the humans. What do you think of that idea?
+
+270
+00:25:30,24 --> 00:25:38,65
+Speaker 2: That was definitely the case that one of the distinguishing features of human beings is our ability to think
+
+271
+00:25:38,92 --> 00:25:48,51
+very deeply about the past and predict the future, and thereby avoid future existential risk to ourselves, our family,
+
+272
+00:25:48,84 --> 00:25:51,08
+and to in fact the entire planet.
+
+273
+00:25:52,05 --> 00:26:02,26
+So in particular, asteroids, and super volcanoes could destroy all of civilization, or, at least,
+
+274
+00:26:02,45 --> 00:26:09,61
+throw it back into the dark ages by eliminating the social fabric and cooperation.
+
+275
+00:26:12,71 --> 00:26:21,01
+That's even if we do nothing wrong at all, if we just don't create some killer virus, we don't pollute our atmosphere,
+
+276
+00:26:21,98 --> 00:26:26,9
+we don't create global warming. If we do everything right, we could still die as a species.
+
+277
+00:26:27,35 --> 00:26:35,62
+I think the antidote to that is to get us off the planet as a sort of a space genetics planetary species.
+
+278
+00:26:36,1 --> 00:26:41,06
+And we have to start spreading outside of the planet.
+
+279
+00:26:41,06 --> 00:26:45,12
+Speaker 1: Yeah there's also one of your goals I understand, is that correct?
+
+280
+00:26:45,12 --> 00:26:54,36
+Speaker 2: Yeah, and I think we have a consortium for space genetics centered here at Harvard, but international.
+
+281
+00:26:54,36 --> 00:27:01,54
+And if one is to raise consciousness about the needs, the special needs that you have,
+
+282
+00:27:02,24 --> 00:27:06,95
+that have to do with genetics in getting off the planet.
+
+283
+00:27:06,95 --> 00:27:10,52
+Speaker 1: Yeah, that's really the beauty of the human genome.
+
+284
+00:27:10,52 --> 00:27:13,07
+Speaker 2: The beauty of the human genome?
+
+285
+00:27:13,07 --> 00:27:15,07
+Speaker 1: Can you explain it?
+
+286
+00:27:15,07 --> 00:27:24,38
+Speaker 2: Well it's beautiful awe inspiring because it is in a certain sense very simple and very complicated.
+
+287
+00:27:25,12 --> 00:27:31,94
+There's parts of it we don't understand. There's parts of it amazingly predictive and we understand well enough.
+
+288
+00:27:32,67 --> 00:27:39,21
+It's beautiful, and it's a simple set of four letters, G, A, T, and C.
+
+289
+00:27:39,74 --> 00:27:48,75
+So, in a way, once you get a little education, you can read it just by looking at it. It didn't have to be that simple.
+
+290
+00:27:49,32 --> 00:27:51,39
+Everybody talks about how complicated it is
+
+291
+00:27:51,4 --> 00:27:57,2
+but really once you have a little bit of training it's amazing how much you can get out of human and other genomes.
+
+292
+00:27:58,42 --> 00:28:08,4
+It's a beautiful structure. It's very elegant in the two strands and the way it replicates by separating.
+
+293
+00:28:08,4 --> 00:28:13,8
+They're many things about DNA that's beautiful. You can build machines out of it. You can-
+
+294
+00:28:13,8 --> 00:28:14,84
+Speaker 1: Print books?
+
+295
+00:28:14,84 --> 00:28:16,99
+Speaker 2: And you can print books.
+
+296
+00:28:16,99 --> 00:28:23,79
+Speaker 1: But you and your team somehow are astronauts because you say it's very simple
+
+297
+00:28:23,79 --> 00:28:26,44
+but you are getting into the universe of the genome.
+
+298
+00:28:26,44 --> 00:28:27,76
+Speaker 2: Right, yeah.
+
+299
+00:28:27,76 --> 00:28:29,55
+Speaker 1: Everything that comes with it.
+
+300
+00:28:29,55 --> 00:28:30,32
+Speaker 2: Right.
+
+301
+00:28:30,32 --> 00:28:32,54
+Speaker 1: As an astronaut traveling through it, you discovering it-
+
+302
+00:28:32,54 --> 00:28:32,98
+Speaker 2: Right.
+
+303
+00:28:32,98 --> 00:28:41,54
+Speaker 1: More and more and more. So we are, it must be, how is that to be-
+
+304
+00:28:41,54 --> 00:28:42,72
+Speaker 2: Right.
+
+305
+00:28:42,72 --> 00:28:42,85
+Speaker 1: That far ahead?
+
+306
+00:28:42,85 --> 00:28:46,59
+Speaker 2: Right, yeah, so when I say it's simple, I'm doing it from an unusual standpoint.
+
+307
+00:28:47,61 --> 00:28:53,07
+It would be like an astronaut saying, it's simple to walk on the moon. Well maybe for you it is.
+
+308
+00:28:54,27 --> 00:28:59,78
+And what happens is once you get a certain number of technologies working with nobody else in the world can use not
+
+309
+00:28:59,79 --> 00:29:06,03
+because we've kept it a secret. I mean, we shared it openly it's a we're very interested and open asset.
+
+310
+00:29:06,51 --> 00:29:13,77
+It's just that nobody, even though it's open they can't necessarily practice it that easily or they don't trust it
+
+311
+00:29:13,78 --> 00:29:16,51
+or to be as easy as it looks.
+
+312
+00:29:16,97 --> 00:29:19,86
+And so then we have the opportunity of using it for a couple of years
+
+313
+00:29:20,38 --> 00:29:25,46
+and putting together another layer of invention and another on top of that.
+
+314
+00:29:25,67 --> 00:29:28,88
+And recombining them in various ways to get hybrid inventions.
+
+315
+00:29:29,38 --> 00:29:43,23
+And it just keeps in this positive feedback loop keeps going. And it's a very funny experience..
+
+316
+00:29:41,13 --> 00:29:46,4
+It's like diving off a cliff [LAUGH] You get faster and faster as you hit the water. Yeah.
+
+317
+00:29:46,4 --> 00:29:51,91
+Speaker 1: But you're not in the water yet..
+
+318
+00:29:48,73 --> 00:29:54,39
+Speaker 2: Yeah, there may not be any water [LAUGH] It may just be free fall, yeah.
+
+319
+00:29:54,39 --> 00:30:07,65
+Speaker 1: Yeah, and with the free fall, with a few people with you in a free fall cuz you're one of the few in a way,
+
+320
+00:30:07,65 --> 00:30:07,75
+still.
+
+321
+00:30:07,75 --> 00:30:16,1
+Speaker 2: Yeah, there's a large research community, but within that, as a smaller set that do technology,
+
+322
+00:30:16,85 --> 00:30:20,42
+and there's a even smaller set that does radical, basic enabling technology.
+
+323
+00:30:20,84 --> 00:30:25,64
+So some of the technology developers might develop a particular drug for a particular disease,
+
+324
+00:30:26,14 --> 00:30:32,34
+but then there's a tiny set that develop technology which can be applied to almost anything.
+
+325
+00:30:32,53 --> 00:30:38,55
+So, reading and writing DNA can be applied to any organism, and can be applied even to things that are not biological.
+
+326
+00:30:40,64 --> 00:30:48,97
+And those tools can be applied to themselves which is what creates this exponential of just grow, growing faster
+
+327
+00:30:48,98 --> 00:30:49,42
+and faster.
+
+328
+00:30:49,78 --> 00:30:55,96
+Is it the tools that you use to engineer DNA can be use to engineer the tools that you used to engineer DNA.
+
+329
+00:30:55,96 --> 00:31:04,98
+It is very cyclic and the, it's just that's playful.
+
+330
+00:31:04,98 --> 00:31:11,89
+Speaker 1: Yeah, and then exponentially growing means that, well, it grows very fast.
+
+331
+00:31:11,89 --> 00:31:15,38
+Speaker 2: And what, yeah, what will it bring us in few years?
+
+332
+00:31:15,38 --> 00:31:22,25
+Well, hopefully, what it'll bring us is higher safety, rather than less safety.
+
+333
+00:31:22,49 --> 00:31:27,82
+And that requires that we talk about it a lot and be very thoughtful about it
+
+334
+00:31:27,82 --> 00:31:37,85
+and encourage the new generation to be focused on safety security and modeling and extensive testing.
+
+335
+00:31:40,24 --> 00:31:45,39
+But other than that I mean it will bring us whatever we want. It's unlimited.
+
+336
+00:31:47,42 --> 00:31:52,19
+The question is not so much what it will do, it's what are the few things that it won't do.
+
+337
+00:31:52,73 --> 00:31:57,86
+For example, even computers, which currently now, are not biological. Those could easily be biological in the future.
+
+338
+00:31:58,31 --> 00:32:03,91
+The most amazing computer in the world, is the human mind.
+
+339
+00:32:05,01 --> 00:32:10,66
+And if the human mind starts modifying itself, then it becomes even more amazing.
+
+340
+00:32:11,83 --> 00:32:18,85
+Than a human trying to make a computer that can't yet think the way a human can.
+
+341
+00:32:18,85 --> 00:32:29,38
+Speaker 1: So we think everything can be created. It's like a parallel universe that can be made.
+
+342
+00:32:29,38 --> 00:32:37,13
+Speaker 2: Yeah, it could be revolutionary in terms of how unrecognizable it is a few years from now.
+
+343
+00:32:37,13 --> 00:32:40,81
+Speaker 1: Yeah, so organized to inspire ten-year-old kids.
+
+344
+00:32:40,81 --> 00:32:51,32
+That it's quite difficult to put to show what it will bring us.
+
+345
+00:32:51,32 --> 00:32:57,44
+Speaker 2: Right, yeah, I mean, it's much easier to illustrate the revolutions in mechanical and electrical engineering.
+
+346
+00:32:57,79 --> 00:33:07,81
+You can build like in the days of Edison, you could build a crude prototype for a motion picture camera and projector.
+
+347
+00:33:08,81 --> 00:33:13,39
+And you can touch that, you can feel that, you can understand how it works.
+
+348
+00:33:14,55 --> 00:33:20,88
+If you were to create a futuristic [INAUDIBLE] vision today, most of the mechanisms would be invisible.
+
+349
+00:33:21,73 --> 00:33:27,3
+They'd be so small that there's no real way of observing them directly.
+
+350
+00:33:28,2 --> 00:33:30,88
+And even if you could observe them it's hard to understand what they're doing.
+
+351
+00:33:31,00 --> 00:33:36,74
+Because we're not used to thinking the way that a molecule thinks.
+
+352
+00:33:36,74 --> 00:33:42,47
+A crisper molecule in order to cut it might jump around to 6 billion different places.
+
+353
+00:33:43,19 --> 00:33:49,99
+Randomly knocking on the same wrong door until it finally finds the right place and then it will act.
+
+354
+00:33:50,36 --> 00:33:57,16
+I mean that's very different from how you would build a cuckoo clock where it does exactly what you want it to do right?
+
+355
+00:33:57,16 --> 00:33:57,73
+Speaker 1: Yeah.
+
+356
+00:33:57,73 --> 00:34:01,18
+Speaker 2: So, I think people are not used to thinking molecularly
+
+357
+00:34:01,22 --> 00:34:04,44
+but I try to encourage my lab to think like a molecule.
+
+358
+00:34:04,44 --> 00:34:07,11
+Speaker 1: And how does a molecule think?
+
+359
+00:34:07,11 --> 00:34:15,32
+Speaker 2: Well, they don't. They're very random and they're fast.
+
+360
+00:34:15,88 --> 00:34:22,35
+And so you might try 400 times a second to do something
+
+361
+00:34:22,79 --> 00:34:30,27
+and only get it right about once in 20 like making proteins in ribosomes.
+
+362
+00:34:30,27 --> 00:34:34,73
+Speaker 1: Random is important.
+
+363
+00:34:34,73 --> 00:34:41,06
+Speaker 2: Random, yeah, but also the randomness at the atomic molecular scale.
+
+364
+00:34:41,58 --> 00:34:50,04
+But then all of the evolved machinery of life that overcomes that randomness and makes it very non random.
+
+365
+00:34:50,04 --> 00:34:55,68
+So for example when your chromosomes separate, when your daughter cells replicate.
+
+366
+00:34:56,76 --> 00:34:58,82
+It's almost perfect, it's not random.
+
+367
+00:34:59,24 --> 00:35:04,63
+And so what you're doing is you're using the random noise of the energy of the cell.
+
+368
+00:35:05,01 --> 00:35:09,08
+To make nearly perfect decisions that should be random.
+
+369
+00:35:09,08 --> 00:35:15,94
+Speaker 1: Yeah, and then going back to the idea of the different techniques that we have now.
+
+370
+00:35:15,94 --> 00:35:23,01
+The possibilities that it gives, is you really can create all kinds of, at the start, the sperm and the egg.
+
+371
+00:35:23,01 --> 00:35:27,97
+So there, you can already change things, or prepare, for [CROSSTALK]
+
+372
+00:35:28,19 --> 00:35:31,39
+Speaker 2: Well you can change it even before the sperm and the egg get together,
+
+373
+00:35:31,58 --> 00:35:33,87
+you can change it in the sperm itself.
+
+374
+00:35:33,87 --> 00:35:41,53
+Speaker 1: Yeah, but that's gonna create a human 2.0. You can create new-
+
+375
+00:35:41,53 --> 00:35:50,79
+Speaker 2: Right, I mean, you can alter, well, we are already altering adult humans with gene therapy.
+
+376
+00:35:52,9 --> 00:36:00,16
+Not just in ways that correct something that's wrong, that correct an inborn, inherited mutation.
+
+377
+00:36:00,75 --> 00:36:07,4
+There are even some where we augment them as adults. For example, making them resistant to HIV.
+
+378
+00:36:08,00 --> 00:36:13,33
+I mean, it's still medicine, because they might be at risk or already have AIDS.
+
+379
+00:36:14,53 --> 00:36:21,7
+But the way you do it is not by a chemical that kills the AIDS virus.
+
+380
+00:36:22,97 --> 00:36:33,03
+It's changing the human body so it no longer has the receptor for the HIV virus particles.
+
+381
+00:36:33,03 --> 00:36:34,03
+Speaker 1: Incredible.
+
+382
+00:36:34,03 --> 00:36:35,03
+Speaker 2: Yeah.
+
+383
+00:36:35,03 --> 00:36:39,5
+Speaker 1: It's like being [INAUDIBLE]
+
+384
+00:36:39,5 --> 00:36:52,04
+because we are now in the phase that you are in the middle of this scientific revolution.
+
+385
+00:36:52,04 --> 00:36:52,97
+Speaker 2: Yep.
+
+386
+00:36:52,97 --> 00:36:57,22
+Speaker 1: It must be incredible. Wow. I mean it's like-
+
+387
+00:36:57,22 --> 00:37:05,48
+Speaker 2: It's not hard to stay motivated when you have a lot of people in the lab that are enjoying themselves.
+
+388
+00:37:05,87 --> 00:37:16,16
+And making revolutionary breakthroughs on a regular basis. Very easy to get everybody motivated..
+
+389
+00:37:13,54 --> 00:37:15,82
+Speaker 1: Yeah, yeah because [INAUDIBLE]
+
+390
+00:37:16,16 --> 00:37:23,06
+Speaker 2: Right so the bleeding cutting edge of science and technology.
+
+391
+00:37:23,06 --> 00:37:28,01
+Speaker 1: Yeah so could you explain to me how your work?
+
+392
+00:37:28,01 --> 00:37:31,85
+Could you explain to me a working day in your [INAUDIBLE] cuz that's a very busy day.
+
+393
+00:37:31,85 --> 00:37:33,18
+Speaker 2: Right yeah.
+
+394
+00:37:33,18 --> 00:37:34,85
+Speaker 1: How do you work?
+
+395
+00:37:34,85 --> 00:37:38,92
+Speaker 2: It wasn't that different from regular days.
+
+396
+00:37:40,00 --> 00:37:51,86
+I usually get up around four o'clock in the morning without an alarm on my own, then I work until my wife and I walk in.
+
+397
+00:37:52,42 --> 00:37:58,63
+Together, we work on the same department in the same floor. It's just a short walk.
+
+398
+00:37:59,07 --> 00:38:06,28
+And so from about four in the morning till about nine, I get to do, I get to think
+
+399
+00:38:07,36 --> 00:38:10,27
+and work on without any interruptions.
+
+400
+00:38:11,22 --> 00:38:19,1
+And then my day is packed with talking some science with my students and post doctoral fellows.
+
+401
+00:38:20,43 --> 00:38:24,53
+And looking at their experiments designing and interpreting.
+
+402
+00:38:25,53 --> 00:38:36,77
+And then I usually don't take a break for lunch or anything. Then at the end of the day I walk back home with my wife.
+
+403
+00:38:36,98 --> 00:38:50,22
+And sometimes I get to visit with my daughter and granddaughter who live next door. And that's it.
+
+404
+00:38:50,22 --> 00:38:52,89
+Speaker 1: I understood that you need sleep?
+
+405
+00:38:52,89 --> 00:38:54,53
+Speaker 2: Yes.
+
+406
+00:38:54,53 --> 00:39:02,11
+Speaker 1: But that you dream your experiments or you dream your experience and can you elaborate on that?
+
+407
+00:39:02,11 --> 00:39:08,87
+Speaker 2: Well I'm narcoleptic, I have some kind of genetic problem that makes me fall asleep all the time.
+
+408
+00:39:09,37 --> 00:39:18,17
+And, during the day, even though I get a totally normal night's sleep, it's dark, it's quiet,
+
+409
+00:39:18,36 --> 00:39:23,75
+I fall asleep quickly at night. And I don't wake up in the middle of the night.
+
+410
+00:39:24,2 --> 00:39:31,37
+But nevertheless, during the day I fall asleep. And what happens is I superimpose the dream state on the reality.
+
+411
+00:39:31,98 --> 00:39:42,68
+And I can't always tell the difference, and I'll talk in my sleep. But sometimes it's very helpful.
+
+412
+00:39:43,52 --> 00:39:47,4
+Usually it's a nuisance, but sometimes it helps me solve problems,
+
+413
+00:39:47,72 --> 00:39:58,8
+and makes me look at things differently But you've seen it already? I've seen alternative ways of looking at it.
+
+414
+00:39:58,9 --> 00:40:07,71
+The dream state is very unusual and creative, and it allows you to get out of a rut,
+
+415
+00:40:07,71 --> 00:40:11,49
+what thinking about things the same way you've thought about them before.
+
+416
+00:40:11,84 --> 00:40:15,5
+Almost always look at them differently in dreams.
+
+417
+00:40:15,5 --> 00:40:17,72
+Speaker 1: Do you write them then afterwards? Are you writing them [CROSSTALK]
+
+418
+00:40:17,72 --> 00:40:26,36
+Speaker 2: No, no, no, it's just sometimes if I have a really difficult problem, I'll just shut down.
+
+419
+00:40:26,62 --> 00:40:34,29
+And then when I wake up, I have the answer. I don't have to write it down. I now know the answer.
+
+420
+00:40:34,84 --> 00:40:40,92
+In other cases, something strange will happen, I might write the few notes, but I'll just forget about it.
+
+421
+00:40:41,03 --> 00:40:45,56
+And then, a month later, I'll realize, yeah, that was actually something that was useful.
+
+422
+00:40:45,56 --> 00:40:55,17
+Speaker 1: Good, and when you look in the scientific field, what do you expect how your work
+
+423
+00:40:55,17 --> 00:40:57,17
+or field will develop itself,
+
+424
+00:40:57,17 --> 00:40:59,17
+Speaker 1: Or your scientific world?
+
+425
+00:40:59,17 --> 00:41:04,04
+Speaker 2: Yeah, our scientific world, I mean, it doesn't really develop itself.
+
+426
+00:41:04,33 --> 00:41:16,5
+It needs funding, it needs educated population to support it, and to add to join as the next generation.
+
+427
+00:41:17,09 --> 00:41:19,56
+So, it's very far from self-renewing.
+
+428
+00:41:24,13 --> 00:41:29,58
+But there is a component of it where we might inspire some of the other things that we need.
+
+429
+00:41:29,74 --> 00:41:34,16
+We might inspire people to fund this and we might inspire youth to join.
+
+430
+00:41:36,57 --> 00:41:44,47
+But a lot of it is a very unusual set of motivations and skills that not everybody has,
+
+431
+00:41:44,68 --> 00:41:50,5
+not everybody reacts to a statement as I'm gonna look that up.
+
+432
+00:41:51,04 --> 00:41:57,93
+Most people they say, I don't believe it or I do believe and I don't care. But they don't say I wanna look it up.
+
+433
+00:41:58,7 --> 00:42:05,45
+I'm gonna research it. Prove or disprove it, yeah. But that's almost, that's the natural response that we have.
+
+434
+00:42:06,1 --> 00:42:13,13
+And even if you look it up and you see evidence for it, online or in the literature, you say no,
+
+435
+00:42:13,33 --> 00:42:14,99
+I still need to check it.
+
+436
+00:42:15,11 --> 00:42:19,3
+I need to do a controlled double blind study to make sure that it's really,
+
+437
+00:42:19,78 --> 00:42:26,3
+there wasn't any research are bias that sort of thing. So science is a very unusual breed in that sense.
+
+438
+00:42:26,3 --> 00:42:36,37
+It really, some of them they don't need reminders that this is how they, this is really deep in their body
+
+439
+00:42:36,37 --> 00:42:47,11
+and their soul. It's how they think about the world with deep curiosity, playfulness, but this rigor of inquiry.
+
+440
+00:42:47,11 --> 00:42:55,42
+Speaker 1: Were you surprised that the techniques in a way are easy as you said? [INAUDIBLE] Research and understanding-
+
+441
+00:42:55,42 --> 00:42:56,41
+Speaker 2: Right.
+
+442
+00:42:56,41 --> 00:42:59,4
+Speaker 1: That it wasn't broadly picked up then.
+
+443
+00:43:00,06 --> 00:43:08,11
+That everybody was using it because in a way it was successful for everyone to use, other scientists,
+
+444
+00:43:08,11 --> 00:43:09,72
+were you surprised by that?
+
+445
+00:43:09,72 --> 00:43:16,59
+Speaker 2: Well, most of the technologies are not useable until a technologist makes them useable.
+
+446
+00:43:17,62 --> 00:43:19,13
+They may be derived from nature.
+
+447
+00:43:19,4 --> 00:43:25,34
+I mean in fact they may be very sophisticated machines so, for example, DNA polymerase, CRISPR.
+
+448
+00:43:25,97 --> 00:43:32,06
+These are all very, very complicated machines. It would be very hard to make from scratch.
+
+449
+00:43:32,31 --> 00:43:39,12
+From first principles on a drawing board and then manufacturing it. Once you see them you can make variations on them.
+
+450
+00:43:39,18 --> 00:43:42,78
+But making the first one without a hint would be very hard.
+
+451
+00:43:45,29 --> 00:43:50,22
+But then the technologist is needed to change that from a natural form into something that's useful.
+
+452
+00:43:51,06 --> 00:43:54,96
+And then to improve it and improve it until finally, it's usable by non-technologists.
+
+453
+00:43:57,18 --> 00:44:02,58
+And the usual reason they don't pick it up is because the technologist either hasn't really made it work.
+
+454
+00:44:02,79 --> 00:44:07,63
+I mean that sort of kind of works, works fall enough to polish but not enough for you to or someone else to use.
+
+455
+00:44:08,31 --> 00:44:12,96
+Or it works but it's not very well documented, not very user friendly.
+
+456
+00:44:15,14 --> 00:44:19,15
+So it's kind of a like you got to have a computer that works but it doesn't have any graphics,
+
+457
+00:44:19,15 --> 00:44:26,93
+it doesn't have any real way that on ordinary person could interface with it.
+
+458
+00:44:27,96 --> 00:44:30,98
+So it's not totally surprising when people don't pick up a technology.
+
+459
+00:44:31,3 --> 00:44:35,2
+What's more surprising is when you don't even have to give it a nudge.
+
+460
+00:44:35,68 --> 00:44:41,05
+It's like CRISPR, you just basically publish a paper and put some plasmids in Addgene
+
+461
+00:44:41,76 --> 00:44:44,81
+and suddenly everybody gets it to work.
+
+462
+00:44:46,42 --> 00:44:53,00
+That's the more unusual situation, out of maybe a couple of dozen of technologies I've developed,
+
+463
+00:44:53,00 --> 00:44:56,68
+maybe five of them are that easy for people to adopt.
+
+464
+00:44:56,68 --> 00:45:00,47
+Speaker 1: Why it come that CRISPR is that easy to be adopted?
+
+465
+00:45:00,47 --> 00:45:09,91
+Speaker 2: Well, some things require a new instrument, and new instruments require software,
+
+466
+00:45:10,26 --> 00:45:15,27
+and so you've got all the engineering, conventional, mechanical, electrical, and software engineering,
+
+467
+00:45:15,56 --> 00:45:21,89
+that you need to get that. So that takes about five years from the concept to something that people can use.
+
+468
+00:45:23,1 --> 00:45:27,02
+When you have something that's basically what you found in the wild,
+
+469
+00:45:28,26 --> 00:45:33,73
+then things that you find in nature tend to be highly evolved. It's as if an engineer made them.
+
+470
+00:45:34,1 --> 00:45:41,03
+But whether they were evolved or however they got that way, they're got a good user interface sometimes.
+
+471
+00:45:41,44 --> 00:45:43,03
+They do what you expect them to do.
+
+472
+00:45:43,03 --> 00:45:52,57
+Speaker 1: And so why was CRISPR then, so it was also the general public picked it up?
+
+473
+00:45:52,57 --> 00:45:57,89
+Speaker 2: Yeah, the general public, I mean, we know scientists picked it up because it's easy to program.
+
+474
+00:45:58,13 --> 00:46:04,34
+The GSATs and Cs I think the general public they're a little strange.
+
+475
+00:46:04,55 --> 00:46:13,04
+It's like the name is very cute name which wasn't nobody really intentionally made it a cute name recently anyway.
+
+476
+00:46:14,35 --> 00:46:24,21
+Part of it is because there was some odd patent issues having to do with it that got some people's attention.
+
+477
+00:46:26,12 --> 00:46:30,49
+I think part of it is just there was like it's like there was a,
+
+478
+00:46:30,49 --> 00:46:40,00
+Speaker 2: A pent-up, it's kind of an overdue slot machine. Or it's a tsunami that's coming off the shore.
+
+479
+00:46:40,28 --> 00:46:48,12
+And just before it is a whole bunch of technologies, that just before they hit shore, you blame it on one of them,
+
+480
+00:46:48,26 --> 00:46:49,8
+but it's really the whole collection.
+
+481
+00:46:49,8 --> 00:46:54,35
+And so I think it's a combination of those things, the name, the patents,
+
+482
+00:46:57,02 --> 00:47:00,88
+and a lot of other things that have been building up for decades.
+
+483
+00:47:00,88 --> 00:47:12,15
+Speaker 1: And CRISPR will revolutionize, or is revolutionizing the way we can work with the DNA?
+
+484
+00:47:12,15 --> 00:47:19,63
+Speaker 2: Well, what I think, yeah I think its ability to read and write DNA and some of it's editing
+
+485
+00:47:19,64 --> 00:47:21,88
+and some of it's rewriting DNA from scratch.
+
+486
+00:47:21,88 --> 00:47:24,32
+There is a whole collection of technologies,
+
+487
+00:47:24,32 --> 00:47:33,21
+there is suddenly many factors of ten maybe a million times easier to use more accurate and less expensive.
+
+488
+00:47:34,15 --> 00:47:40,6
+And CRISPR gets most of the credit but there's this whole other thing sometimes called next generation sequencing.
+
+489
+00:47:41,31 --> 00:47:43,8
+There are ways of synthesizing DNA on chips,
+
+490
+00:47:44,31 --> 00:47:49,4
+these things if you didn't have all these things CRISPR would be much less interested.
+
+491
+00:47:49,4 --> 00:47:50,4
+Speaker 1: Yeah now
+
+492
+00:47:50,4 --> 00:47:55,73
+when all these developments all coming together I still don't completely understand what it means now.
+
+493
+00:47:55,73 --> 00:47:56,73
+Speaker 2: Yeah.
+
+494
+00:47:56,73 --> 00:48:04,17
+Speaker 1: Cuz it's such a revolution that I can't.
+
+495
+00:48:04,17 --> 00:48:10,77
+Can you share what it means that this is happening now, and what it will mean for me and my family, and my daughter?
+
+496
+00:48:10,77 --> 00:48:13,17
+Speaker 2: Well, nobody really knows what it means.
+
+497
+00:48:13,37 --> 00:48:22,26
+In the same sense that if you asked even the greatest visionary in computer science in the 1950s what the computer
+
+498
+00:48:22,27 --> 00:48:27,55
+revolution meant, he or she would probably not guess right.
+
+499
+00:48:27,87 --> 00:48:36,42
+They probably would not guess Facebook, or maybe not even Google or search engines, or Google Maps.
+
+500
+00:48:37,72 --> 00:48:45,86
+They might have said, it will be used for calculating logarithms for rockets, so you can do warfare better.
+
+501
+00:48:46,05 --> 00:48:55,34
+Or you can do accounting better, so that you don't have to have human calculators. So I think the same thing.
+
+502
+00:48:55,34 --> 00:49:04,83
+Well, for what society will do with its enhanced ability to read and write DNA is we will modify ourselves
+
+503
+00:49:04,83 --> 00:49:12,54
+and our environment and the way we obtain food and [COUGH] all the materials that we use,
+
+504
+00:49:12,73 --> 00:49:14,75
+including very smart materials like computers.
+
+505
+00:49:15,27 --> 00:49:21,93
+All these things will be altered beyond recognition in a fairly short period of time.
+
+506
+00:49:21,93 --> 00:49:26,99
+Speaker 1: We'll all live that time or is it?
+
+507
+00:49:26,99 --> 00:49:37,59
+Speaker 2: Well, I was alive in the 1950s, so yeah, we might be in the equivalent time.
+
+508
+00:49:37,7 --> 00:49:43,02
+But everything's moving faster now and one of the things that's moving faster is our ability to reverse aging.
+
+509
+00:49:43,45 --> 00:49:49,15
+So if we can reverse aging, then yes, you will definitely be around to see all sorts of things,
+
+510
+00:49:49,35 --> 00:49:55,48
+because there's no law of physics that we know of that requires vision.
+
+511
+00:49:56,84 --> 00:50:05,4
+We know that there's a continuity of life that goes back 3 billion years, so there's no particular reason why,
+
+512
+00:50:05,4 --> 00:50:14,94
+Speaker 2: Humans or animals in general have to senesce and get old and break,
+
+513
+00:50:15,83 --> 00:50:21,45
+because some of the cells in the body keep on living in the next generation.
+
+514
+00:50:21,45 --> 00:50:25,4
+Speaker 1: That's also where your lab is, also active [INAUDIBLE]
+
+515
+00:50:25,62 --> 00:50:33,59
+Speaker 2: Yes, right, we have very active projects, plural, on aging reversal.
+
+516
+00:50:34,22 --> 00:50:41,14
+Not so much on longevity, where you don't wanna prolong the end of life, which is unpleasant and expensive.
+
+517
+00:50:41,84 --> 00:50:48,1
+And where you become a less productive member of society, less engaged.
+
+518
+00:50:48,78 --> 00:50:54,3
+What you wanna do is reverse it back to a time where you were at your optimum performance,
+
+519
+00:50:55,2 --> 00:50:58,84
+a young person like 65 years old. [LAUGH]
+
+520
+00:50:58,84 --> 00:51:01,5
+Speaker 1: And do you think that's possible?
+
+521
+00:51:01,5 --> 00:51:07,39
+Speaker 2: Well, it's not only possible, it's been done in animals.
+
+522
+00:51:08,23 --> 00:51:11,99
+Now those animals may or may not be good models for human.
+
+523
+00:51:12,18 --> 00:51:19,6
+But certainly the time is ripe for testing things that either cause longevity in animals or aging reversal in animals.
+
+524
+00:51:20,24 --> 00:51:25,74
+And then test to see if they can cause aging reversal in larger animals and humans.
+
+525
+00:51:25,74 --> 00:51:27,88
+Speaker 1: How can you do the aging-
+
+526
+00:51:27,88 --> 00:51:29,14
+Speaker 2: Well,
+
+527
+00:51:29,48 --> 00:51:36,57
+there are many things that have been shown to increase animal lifespan by a factor of two to a factor of ten.
+
+528
+00:51:37,35 --> 00:51:44,13
+There are things that involve, I mean, not to get too technical, but mitochondria, the tips of chromosomes,
+
+529
+00:51:44,13 --> 00:51:53,26
+the telomeres, the growth factors and muscle related proteins, like myostatin pathway.
+
+530
+00:51:53,9 --> 00:51:56,00
+So there's all these pathways that are pretty well understood.
+
+531
+00:51:56,51 --> 00:52:02,65
+And if you harness a little of each for gene therapy, then you could try them separately and in combinations.
+
+532
+00:52:02,65 --> 00:52:07,5
+Gene therapy is particularly easy to go from an idea to a test of it.
+
+533
+00:52:08,04 --> 00:52:16,46
+You don't have to take a side route where you randomly screen through millions of pharmaceutical compounds.
+
+534
+00:52:16,77 --> 00:52:23,39
+And we talk about reverse aging, how does that affect the fact that you are able to, how far are we in that?
+
+535
+00:52:23,39 --> 00:52:25,16
+Speaker 1: You have gene therapy for that?
+
+536
+00:52:25,16 --> 00:52:31,45
+Speaker 2: Well, we have lots of demonstrations in animals, both in extreme extensional longevity,
+
+537
+00:52:31,99 --> 00:52:36,15
+and reversal in some cases. Many different ways of doing that.
+
+538
+00:52:36,6 --> 00:52:42,3
+And so we're collecting all those that are known for small animals and we're applying them to large animals
+
+539
+00:52:42,3 --> 00:52:50,67
+and to humans. Coming off the gene therapy trials is much easier, but we're still just beginning on that.
+
+540
+00:52:51,31 --> 00:52:54,86
+It's looking very promising, but it's too early to say.
+
+541
+00:52:55,52 --> 00:52:59,04
+And something that might even work for large animals may still not work for humans.
+
+542
+00:52:59,04 --> 00:53:08,74
+Speaker 1: Yeah, what is in the line of work you're now which really thing, or in research project,
+
+543
+00:53:08,74 --> 00:53:17,49
+or your project where you're working where you really feel like I hope this will develop as soon as possible?
+
+544
+00:53:17,49 --> 00:53:30,31
+Speaker 2: Well, I mean, top priority, I guess, would be transplantation of organs, malaria for developing countries,
+
+545
+00:53:30,31 --> 00:53:38,32
+and aging reversal for industrialized nations, and preventative medicine in general is the strategy.
+
+546
+00:53:39,6 --> 00:53:47,78
+And then right behind all of those, once those are all working and we improve our basic human condition,
+
+547
+00:53:49,39 --> 00:53:51,34
+then space genetics.
+
+548
+00:53:51,34 --> 00:53:53,00
+Speaker 1: One second. [INAUDIBLE]
+
+549
+00:53:53,00 --> 00:54:04,52
+Speaker 2: Sure, yeah.
+
+550
+00:54:04,52 --> 00:54:10,04
+Speaker 1: So when you looked at the projects, what were you-
+
+551
+00:54:10,04 --> 00:54:13,98
+Speaker 2: So the projects that I find most compelling and exciting, in terms of applications,
+
+552
+00:54:14,44 --> 00:54:21,17
+are transplantation of organs. There's a gigantic need for that.
+
+553
+00:54:21,17 --> 00:54:28,19
+Speaker 2: Gene drives to eliminate malaria, and then for developing nations.
+
+554
+00:54:28,45 --> 00:54:34,59
+And then aging reversal for industrialized nations where most of the morbidity
+
+555
+00:54:34,6 --> 00:54:38,8
+and mortality is due to diseases of aging.
+
+556
+00:54:38,8 --> 00:54:44,34
+You want to get at the core of that, and then once you have all those things which are drains on our economy,
+
+557
+00:54:44,62 --> 00:54:47,25
+if you can solve all those, then you can reduce.
+
+558
+00:54:47,38 --> 00:54:53,79
+Then you have more money available for things like space where we really need to get off the planet to avoid super
+
+559
+00:54:53,8 --> 00:54:58,39
+volcanoes and asteroids. And that has a genetic component as well.
+
+560
+00:54:58,39 --> 00:54:58,51
+Speaker 1: Okay, in what way? What's the genetic component?
+
+561
+00:54:58,51 --> 00:55:11,24
+Speaker 2: Well, we have radiation sensitivity, and our bones rot at low gravity.
+
+562
+00:55:11,99 --> 00:55:22,61
+And so even, not only in traveling, let's say, to Mars, but even once you arrive there, its gravity is 38% of Earth's.
+
+563
+00:55:23,07 --> 00:55:27,15
+And so our body was designed for normal gravity.
+
+564
+00:55:27,58 --> 00:55:31,18
+And as soon as you don't have normal gravity, you have muscle
+
+565
+00:55:31,19 --> 00:55:38,5
+and bone wasting because the body thinks it's doing a physiological feedback loop to keep everything right.
+
+566
+00:55:39,02 --> 00:55:49,44
+But you need to have muscles and bones even in low gravity because when you touch something with weak bones,
+
+567
+00:55:49,67 --> 00:55:54,56
+you'll crush your bones and And you need muscles to move things around.
+
+568
+00:55:54,72 --> 00:56:01,18
+So, anyway, those are some of the things that are problematic.
+
+569
+00:56:01,4 --> 00:56:06,56
+And also, there's questions like what do we bring with us? Do we bring all the species of the Earth?
+
+570
+00:56:07,32 --> 00:56:16,44
+Or do we leave out the giant sequoia, and the bowhead whale, and smallpox. Do we [COUGH].
+
+571
+00:56:13,76 --> 00:56:16,17
+Speaker 1: We can create that again on Mars [INAUDIBLE]
+
+572
+00:56:16,44 --> 00:56:26,05
+Speaker 2: We could, yeah, but we haven't done that yet. We have not really recreated.
+
+573
+00:56:27,46 --> 00:56:29,62
+And so it's a big decision, is whether you take it with you.
+
+574
+00:56:29,69 --> 00:56:33,86
+In fact, some of them, it could be that their ecosystem is fragile enough,
+
+575
+00:56:34,08 --> 00:56:36,7
+that you can't really make it with our current knowledge.
+
+576
+00:56:37,11 --> 00:56:43,14
+So having the complete DNA sequence of everything in the planet may not be enough to recreate some of the more complex
+
+577
+00:56:43,15 --> 00:56:43,95
+ecosystems.
+
+578
+00:56:43,95 --> 00:56:46,86
+Speaker 1: Yeah, but when you create it [INAUDIBLE]
+
+579
+00:56:46,86 --> 00:56:52,91
+Speaker 2: Yes, that's correct. Yeah, yes, we're big on double two sides on,
+
+580
+00:56:52,91 --> 00:56:53,58
+Speaker 1: [INAUDIBLE]
+
+581
+00:56:53,58 --> 00:56:55,58
+Speaker 2: Yeah, the story?
+
+582
+00:56:55,58 --> 00:56:59,85
+Speaker 1: Yeah what's the story [CROSSTALK]
+
+583
+00:56:59,85 --> 00:57:08,55
+Speaker 2: So a nine year old girl sent us two copies of that poster and we put it on the wall.
+
+584
+00:57:10,02 --> 00:57:14,94
+But it's based on our, she had read about our project in the news.
+
+585
+00:57:15,56 --> 00:57:16,66
+It's small project
+
+586
+00:57:16,66 --> 00:57:23,47
+and it mainly benefits from the technology that we've developed for other projects like human medical research.
+
+587
+00:57:24,13 --> 00:57:29,64
+But these things, we bring the price down a million-fold, and then, you can use it for reading
+
+588
+00:57:29,65 --> 00:57:31,63
+and writing DNA from ancient samples.
+
+589
+00:57:32,78 --> 00:57:39,47
+And [INAUDIBLE] mammoth is that the Asian elephant is the closest relative to the mammoth.
+
+590
+00:57:39,69 --> 00:57:43,87
+And it's so close in fact they're both closer to each other than they are to the African elephant.
+
+591
+00:57:44,27 --> 00:57:48,56
+And the Asian elephant can breed and make offspring children with African elephants.
+
+592
+00:57:48,72 --> 00:57:53,9
+So probably, the Asian elephant and the mammoth are basically very close to being interfertile.
+
+593
+00:57:55,2 --> 00:58:03,43
+And so, one way of focusing on modern day species is to extend the range of the Asian Elephant.
+
+594
+00:58:03,73 --> 00:58:04,89
+It will already play in the snow.
+
+595
+00:58:05,05 --> 00:58:13,58
+But you could extend it all the way out to -40 degrees in the tundra of Canada, Russia, and Alaska.
+
+596
+00:58:14,22 --> 00:58:16,35
+And furthermore, so you get a benefit to the elephant.
+
+597
+00:58:16,87 --> 00:58:21,28
+But you also get a benefit to the tundra, because the tundra is melting.
+
+598
+00:58:21,75 --> 00:58:23,14
+And there's experiments
+
+599
+00:58:23,14 --> 00:58:33,51
+and field studies that indicate that a mammoth-like creature could keep the temperature colder by up to 20 degrees in
+
+600
+00:58:33,52 --> 00:58:34,38
+temperature.
+
+601
+00:58:34,38 --> 00:58:35,05
+Speaker 1: [INAUDIBLE]
+
+602
+00:58:35,05 --> 00:58:45,83
+Speaker 2: So the experiments for the idea followed by experiments is that trees absorb about twice as much light
+
+603
+00:58:45,84 --> 00:58:57,02
+and so that's a warming effect and the grasses have roots that protect from erosion and then punching down the snow.
+
+604
+00:58:57,35 --> 00:59:00,32
+The big fluffy insulating layer of snow in the winter time,
+
+605
+00:59:00,49 --> 00:59:05,31
+if you punch that down you can get penetration of the cold winter air.
+
+606
+00:59:06,21 --> 00:59:11,24
+And these three things put the mammoths or sorry the elephants or mammoths will knock down trees
+
+607
+00:59:11,25 --> 00:59:16,25
+and replace them with grass A, much richer ecosystem full of some small animals.
+
+608
+00:59:17,71 --> 00:59:25,04
+Anyway, we did the experiment replacing mammoths with a combination of caribou, which is one of the biggest mammals,
+
+609
+00:59:26,02 --> 00:59:32,82
+and tanks, Soviet tanks, that would knock down the trees cuz carabao can't knock down trees but elephants, [INAUDIBLE].
+
+610
+00:59:32,82 --> 00:59:40,28
+Anyway, it was about 15 to 20 degrees, it's the difference between the experimental and the control site.
+
+611
+00:59:40,28 --> 00:59:43,58
+Speaker 1: Well, there's a variety of projects we are talking about here.
+
+612
+00:59:43,58 --> 00:59:46,41
+Speaker 2: Yes, right. Yes, yeah.
+
+613
+00:59:46,41 --> 00:59:46,43
+Speaker 1: Or working.
+
+614
+00:59:46,43 --> 00:59:48,43
+Speaker 2: Well, we haven't scratched the surface yet.
+
+615
+00:59:48,43 --> 00:59:49,43
+Speaker 1: Can you-
+
+616
+00:59:49,43 --> 00:59:50,77
+Speaker 2: Keep going?
+
+617
+00:59:50,77 --> 00:59:51,43
+Speaker 1: [INAUDIBLE]
+
+618
+00:59:51,43 --> 01:00:00,83
+Are there any particular things that you would like to share with the- I think we've covered a good sampling of it.
+
+619
+01:00:00,83 --> 01:00:09,28
+Speaker 2: We covered the personal genome project, data incorporation in the DNA-
+
+620
+01:00:09,28 --> 01:00:11,27
+Speaker 1: The future.
+
+621
+01:00:11,27 --> 01:00:13,31
+Speaker 2: The future. Yeah, I think we covered it.
+

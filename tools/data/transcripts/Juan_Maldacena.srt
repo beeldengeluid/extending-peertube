@@ -1,0 +1,3056 @@
+1
+00:00:00,00 --> 00:00:14,82
+Interviewer: I will ask a lot of questions, but I prefer it to be like a conversation, so interrupt me if you like.
+
+2
+00:00:14,82 --> 00:00:16,13
+Juan Maldacena: Right, good.
+
+3
+00:00:16,13 --> 00:00:18,15
+Interviewer: The first thing, can you introduce yourself?
+
+4
+00:00:18,15 --> 00:00:22,97
+Juan Maldacena: Yeah, I'm Juan Maldacena, I'm the Carl Feinberg professor here at the Institute for Advanced Study.
+
+5
+00:00:22,97 --> 00:00:28,83
+Interviewer: What exactly is your field of research?
+
+6
+00:00:28,83 --> 00:00:33,54
+Juan Maldacena: My field of research is in trying to understand the fundamental laws of nature,
+
+7
+00:00:33,54 --> 00:00:39,29
+trying to develop theories that connect space-time and quantum mechanics,
+
+8
+00:00:39,29 --> 00:00:43,23
+and the main objective is to understand the beginning of the Big Bang.
+
+9
+00:00:43,23 --> 00:00:48,08
+Interviewer: Well, that's a big question.
+
+10
+00:00:48,08 --> 00:00:48,48
+Juan Maldacena: Yeah.
+
+11
+00:00:48,48 --> 00:00:50,88
+Interviewer: Did you say the laws of nature?
+
+12
+00:00:50,88 --> 00:00:56,47
+Juan Maldacena: Yeah. Physics is about studying the laws of nature, so how nature works.
+
+13
+00:00:56,87 --> 00:00:59,77
+Through the years we've learned a lot about how nature works,
+
+14
+00:01:00,48 --> 00:01:04,16
+and currently we have theories that are incredibly successful.
+
+15
+00:01:05,38 --> 00:01:08,65
+One of the theories is the theory that describes gravity.
+
+16
+00:01:08,65 --> 00:01:12,91
+It was originally developed by Newton, and then improved by Einstein.
+
+17
+00:01:12,91 --> 00:01:19,23
+Einstein gave us the current equations that govern the behavior of space-time.
+
+18
+00:01:19,23 --> 00:01:23,24
+We'll discuss perhaps a bit more about what space-time is made of,
+
+19
+00:01:23,24 --> 00:01:29,64
+or what the theory of Einstein tells us about space-time. That's one very successful theory.
+
+20
+00:01:29,95 --> 00:01:39,83
+It explained things like the expansion of the universe, the formation of black holes..
+
+21
+00:01:36,04 --> 00:01:39,66
+Its phenomena that before the theory was introduced, were ..
+
+22
+00:01:39,83 --> 00:01:54,51
+People didn't even think about them.	On the other hand we the whole set of theories that describe matter,
+
+23
+00:01:54,78 --> 00:01:57,04
+the behavior of matter and the structure of matter.
+
+24
+00:01:57,04 --> 00:01:57,21
+These theories were rational,
+
+25
+00:01:57,21 --> 00:02:02,96
+especially rational quantum mechanical study being developed in the beginning of the 20th century.
+
+26
+00:02:03,98 --> 00:02:08,84
+The quantum is very important for the description of matter.
+
+27
+00:02:08,84 --> 00:02:15,39
+It's what keeps matter stable and prevents it from collapsing. Prevents atoms from collapsing, and so on.
+
+28
+00:02:15,39 --> 00:02:20,77
+This theory, well, it was further developed through the 20th century
+
+29
+00:02:20,77 --> 00:02:26,71
+and it's now come to what we call the standard model of particle physics.
+
+30
+00:02:26,71 --> 00:02:28,02
+Interviewer: Particle physics.
+
+31
+00:02:28,02 --> 00:02:33,75
+Juan Maldacena: It's basically the basic structures, the basic constituents of matter.
+
+32
+00:02:33,75 --> 00:02:40,54
+Matter is made out of little, small particles that behave according to the so-called quantum mechanics.
+
+33
+00:02:42,89 --> 00:02:46,88
+What is remarkable is that this list of constituents is very small.
+
+34
+00:02:46,88 --> 00:02:51,59
+So a very small number of particles make up all the matter that we see.
+
+35
+00:02:51,59 --> 00:02:58,66
+Interviewer: Really? So everything is built up from just a small number of particles?
+
+36
+00:02:58,66 --> 00:03:00,92
+Juan Maldacena: Yes, small number of kinds of particles.
+
+37
+00:03:01,37 --> 00:03:08,46
+We have the particles, the electron is one of them, and then we have the particles that make up the nuclei,
+
+38
+00:03:09,65 --> 00:03:13,58
+the nuclei of the atom. Within the nuclei are some particles called quarks, but they are small, little particles.
+
+39
+00:03:14,05 --> 00:03:20,59
+For most of matter they are made out of just two kinds, so-called up and down quark.
+
+40
+00:03:21,15 --> 00:03:28,62
+Then there are some particles that mediate the forces within them. The photon, electromagnetic waves, and so on.
+
+41
+00:03:28,62 --> 00:03:31,59
+Then the weak force and the strong force.
+
+42
+00:03:32,61 --> 00:03:39,76
+The strong force keeps the nucleus together, and with these particles and these forces we can describe all of matter.
+
+43
+00:03:39,76 --> 00:03:42,45
+Interviewer: You know that, or you think so?
+
+44
+00:03:42,45 --> 00:03:46,03
+Juan Maldacena: No, well we know it experimentally,
+
+45
+00:03:46,03 --> 00:03:56,9
+and the latest experiment was the experiment in the large hydro collider, which discovered the so-called Higgs boson,
+
+46
+00:03:56,9 --> 00:03:59,83
+which was one of the missing particles in the standard model.
+
+47
+00:04:00,35 --> 00:04:03,91
+Now we have whole set of particles that describes everything.
+
+48
+00:04:04,32 --> 00:04:08,83
+I briefly told you about the particles that make up most all named matter,
+
+49
+00:04:08,83 --> 00:04:17,58
+but there are other unstable particles which are similar, but the structure gets replicated a few times,
+
+50
+00:04:17,58 --> 00:04:25,72
+and while so now we have a complete set of particles with a logically consistent theory that uses the structure of
+
+51
+00:04:25,91 --> 00:04:28,35
+something called relativistic quantum mechanics.
+
+52
+00:04:28,35 --> 00:04:30,93
+[crosstalk 00:04:30] Relativistic quantum mechanics,
+
+53
+00:04:30,93 --> 00:04:37,87
+there's quantum mechanics plus the principle of special relativity.	We can discuss perhaps special relativity a little
+
+54
+00:04:37,93 --> 00:04:44,84
+more. Let me discuss perhaps these theories a little more.
+
+55
+00:04:44,84 --> 00:04:45,38
+Interviewer: Yes, that's okay.
+
+56
+00:04:45,38 --> 00:04:51,26
+Juan Maldacena: Then I can go on into discussing perhaps the more current issues.
+
+57
+00:04:53,62 --> 00:04:58,9
+First, well we have these notions of space and time. Right?
+
+58
+00:04:59,41 --> 00:05:09,99
+In principle space and time seem totally disconnected from each other..
+
+59
+00:05:02,88 --> 00:05:09,8
+The very intuitive notion of space, while time looks a little more mysterious to us, and a bit ..
+
+60
+00:05:09,99 --> 00:05:12,6
+Certainly different from space.
+
+61
+00:05:12,74 --> 00:05:18,79
+The first point I'd like to explain is why physicists talk about space-time, why they put these two words together.
+
+62
+00:05:18,79 --> 00:05:25,00
+Why don't they talk about space temperature, space I don't know. Price of [solar 00:05:27] or whatever.
+
+63
+00:05:25,00 --> 00:05:36,77
+They talk about these two things because the way you perceive time depends on how you are moving through space.	If you
+
+64
+00:05:36,77 --> 00:05:42,16
+have two observers moving relative to each other, the two observers perceive time differently.
+
+65
+00:05:44,52 --> 00:05:48,07
+If you have a clock here, another clock that is moving,
+
+66
+00:05:48,77 --> 00:05:54,62
+the second clock will appear to this observer as moving slower than the clock here that's at rest.
+
+67
+00:05:54,96 --> 00:05:58,26
+The other observer will see the other clock also moving slower.
+
+68
+00:05:58,26 --> 00:06:04,04
+This can happen because space and time sort of get mixed by motion.
+
+69
+00:06:06,87 --> 00:06:12,42
+This is the consequence of a principle, which is the principle that light,
+
+70
+00:06:13,00 --> 00:06:19,1
+the speed of light is constant for these two observers. This is something that is not totally intuitive.
+
+71
+00:06:20,47 --> 00:06:25,59
+You have one observer that is stationary and you have a light beam that travels this way,
+
+72
+00:06:25,96 --> 00:06:29,8
+and you have another observer that moves in this direction, naively,
+
+73
+00:06:30,25 --> 00:06:34,21
+according to your intuition you will expect that this observer should see the light moving slower.	Right?
+
+74
+00:06:35,73 --> 00:06:41,26
+If instead of talking about the light beam we were talking about the train, that would be the case.
+
+75
+00:06:42,65 --> 00:06:50,95
+But it turns out that experimentally the speed of light is constant, so it is the same for all observers.
+
+76
+00:06:50,95 --> 00:06:53,38
+Interviewer: Oh really, so compared to the train?
+
+77
+00:06:53,38 --> 00:07:00,89
+Juan Maldacena: Yes, so if instead of a train we had a beam of light, the two observers,
+
+78
+00:07:00,89 --> 00:07:12,29
+one is stationary the other is moving, both would see the light going at the same speed,..
+
+79
+00:07:04,57 --> 00:07:12,14
+so the light would be moving this way .. This happens because the rate of ..
+
+80
+00:07:12,59 --> 00:07:16,59
+How time and space are perceived by the two observers are different.
+
+81
+00:07:16,89 --> 00:07:22,9
+The price you have to pay for this constancy of the speed of light is that time is now relative.
+
+82
+00:07:22,9 --> 00:07:28,9
+In the theory of relativity the speed of light is absolute, but time is relative.
+
+83
+00:07:28,9 --> 00:07:32,1
+Time is relative to who's measuring it.
+
+84
+00:07:32,1 --> 00:07:45,41
+Interviewer: I can try to understand what you are saying. What I hear is that you say the speed of light is constant.
+
+85
+00:07:46,49 --> 00:07:52,93
+So time is not constant.
+
+86
+00:07:52,93 --> 00:07:54,72
+Juan Maldacena: Right, time is relative.
+
+87
+00:07:55,23 --> 00:08:03,83
+The flow of time depends on how you are moving through space-time, so it's similar to let's say space, right?
+
+88
+00:08:03,83 --> 00:08:11,26
+So we are standing in space, there is some direction we call forward and some direction we call go right.
+
+89
+00:08:11,26 --> 00:08:15,17
+But if you have another person who's looking in a different direction what's forward to him
+
+90
+00:08:15,17 --> 00:08:21,88
+and what's to the right is different. So it's exactly the same but for two moving observers.
+
+91
+00:08:21,88 --> 00:08:28,25
+You have two moving observers but one calls time and space is different from what the other calls time and space.
+
+92
+00:08:29,07 --> 00:08:37,34
+That's why is more convenient to think about space-time as something that's both time and space,
+
+93
+00:08:37,59 --> 00:08:41,69
+and that thing is the same for both.
+
+94
+00:08:41,69 --> 00:08:44,01
+What one calls time and space is different,
+
+95
+00:08:44,02 --> 00:08:52,61
+but space-time is the same.	It's the universal structure in which particles move.
+
+96
+00:08:57,74 --> 00:09:05,06
+The laws of physics have to have this symmetry of the constancy of speed of light
+
+97
+00:09:05,61 --> 00:09:09,8
+and the fact that the laws of physics should be independent of how you're moving.
+
+98
+00:09:09,91 --> 00:09:15,48
+When you combine quantum mechanics and this principle of special relativity,
+
+99
+00:09:15,48 --> 00:09:17,69
+you get the modern theory of quantum physics.
+
+100
+00:09:17,69 --> 00:09:21,49
+Well you get the structure, which is called quantum [field 00:09:21] theory,
+
+101
+00:09:21,49 --> 00:09:28,04
+and used in special cases of the structure, putting in which particles you have and the interactions and so on.
+
+102
+00:09:28,05 --> 00:09:32,5
+You get the models for particle physics and they are incredibly successful
+
+103
+00:09:32,5 --> 00:09:46,78
+and they describe all the experiments that you can do..
+
+104
+00:09:36,46 --> 00:09:46,53
+Interviewer: In the beginning you raised the big question, how did the universe ..
+
+105
+00:09:46,78 --> 00:09:52,44
+Juan Maldacena: Let me first say a few words about general relativity.
+
+106
+00:09:56,5 --> 00:10:02,9
+According to our intuition, so space is sort of absolute and there is some [inaudible 00:10:03]
+
+107
+00:10:02,9 --> 00:10:08,12
+in space where particles move and objects move.
+
+108
+00:10:09,09 --> 00:10:14,36
+That's probably the theory of [mutant 00:10:13] we learned in school, that planets move and so on.
+
+109
+00:10:14,36 --> 00:10:20,34
+They are moving in some space that was preexisting and it's not affected at all by the motion of these planets.
+
+110
+00:10:20,34 --> 00:10:29,11
+But in the theory of [inaudible 00:10:25] what Einstein postulates is that space or space
+
+111
+00:10:29,11 --> 00:10:33,85
+and time because they have to come together because of the principle of special relativity.
+
+112
+00:10:33,85 --> 00:10:42,67
+They are actually structured that is dynamic because it can be bent by the presence of matter.	He further says that the
+
+113
+00:10:42,67 --> 00:10:54,46
+force of gravity is due to this bend in our space-time. This is a new, very interesting conceptual idea.
+
+114
+00:10:54,72 --> 00:11:01,03
+Again, it describes gravity as we see it, and it describes deviations from Newton's gravity.
+
+115
+00:11:01,03 --> 00:11:09,7
+It describes new things that were not known at the time of Einstein, like the expansion of the universe,
+
+116
+00:11:09,71 --> 00:11:13,24
+the formation of black holes in extreme circumstances.
+
+117
+00:11:13,24 --> 00:11:20,82
+Well, some of it's predictions are have now been confirmed, like the discovery of gravity waves, very recently,
+
+118
+00:11:20,82 --> 00:11:23,27
+just a week ago it was announced.
+
+119
+00:11:23,27 --> 00:11:25,44
+Interviewer: Yeah, I saw that, were you excited about it.
+
+120
+00:11:25,44 --> 00:11:28,58
+Juan Maldacena: Yeah, that's really exciting, very interesting.
+
+121
+00:11:28,58 --> 00:11:33,92
+Interviewer: Did you know about that they were going to announce this?
+
+122
+00:11:33,92 --> 00:11:37,24
+Juan Maldacena: Yeah, there were rumors that they were going to announce it.
+
+123
+00:11:37,24 --> 00:11:42,58
+Of course the experiment had been going for a couple of decades.
+
+124
+00:11:42,58 --> 00:11:45,25
+Interviewer: For a couple of billion years.
+
+125
+00:11:45,25 --> 00:11:49,91
+Juan Maldacena: Well, the gravity waves were going on for a long time,
+
+126
+00:11:49,91 --> 00:11:54,84
+but the the experiments trying to detect them also took a lot of effort.
+
+127
+00:11:54,84 --> 00:11:58,78
+We're getting [dramatic 00:11:57] confirmation of both Einstein's theories.
+
+128
+00:12:00,01 --> 00:12:03,61
+Moreover, the [seasons 00:12:02] of black holes.
+
+129
+00:12:03,61 --> 00:12:09,01
+This theory of special relativity of general relativity, well Einstein the other equations,
+
+130
+00:12:09,01 --> 00:12:13,4
+but then there was a lot of research trying to understand the solutions of equations.
+
+131
+00:12:13,41 --> 00:12:24,02
+The physical interpretation of the solutions. For example, black holes were really only understood in the ‘60s.
+
+132
+00:12:24,02 --> 00:12:24,5
+Even theoretically.
+
+133
+00:12:24,5 --> 00:12:29,29
+Then understanding them better then led to understanding what things you should look for in the sky,
+
+134
+00:12:29,29 --> 00:12:35,33
+and some objects in the sky were recognized as probably endings of black holes,
+
+135
+00:12:35,33 --> 00:12:43,06
+and now we have this guy with the world detection which appears to come from the coalition of two black holes.
+
+136
+00:12:43,06 --> 00:12:46,21
+Interviewer: You think so?
+
+137
+00:12:46,21 --> 00:12:53,41
+Juan Maldacena: That’s a model to describe it. The only announce one coalition.
+
+138
+00:12:53,41 --> 00:13:03,49
+Probably they see more, it will become more and more convincing..
+
+139
+00:12:59,3 --> 00:13:03,3
+Interviewer: Yeah. Because this is the first one. It’s a question of time that more of this [crosstalk 00:13:04]
+
+140
+00:13:03,49 --> 00:13:05,05
+Juan Maldacena: You would hope.
+
+141
+00:13:05,05 --> 00:13:06,05
+Interviewer: Yeah.
+
+142
+00:13:06,05 --> 00:13:11,43
+Juan Maldacena: That’s all about Einstein theory of relativity.
+
+143
+00:13:11,43 --> 00:13:16,00
+Einstein theory of general relativity is a theory where space time is dynamical. It’s something that moves.
+
+144
+00:13:16,00 --> 00:13:23,66
+It’s not the starting thing. It’s an actor in physics. It’s not the stage in which physics happens.
+
+145
+00:13:24,89 --> 00:13:28,86
+It is the stage for all particle physics. For all the matter and so on.
+
+146
+00:13:29,47 --> 00:13:32,31
+You have the space time and then matter moves in that space time.
+
+147
+00:13:32,93 --> 00:13:37,67
+Also space time reacts to the presence of matter, and it moves itself.
+
+148
+00:13:39,62 --> 00:13:44,39
+Through cosmology, this expansion of the space time is very important.
+
+149
+00:13:44,39 --> 00:13:47,62
+Space time expands and it cools because of that expansion.
+
+150
+00:13:47,7 --> 00:13:53,15
+Expansion of space time is very important for getting to the universe.
+
+151
+00:13:53,15 --> 00:13:59,69
+What it is and structure of matter to what it is.	This expansion is important for cooling the universe
+
+152
+00:13:59,69 --> 00:14:04,71
+and then further the force of gravity creates the structures that we have in the universe.
+
+153
+00:14:04,71 --> 00:14:20,84
+Such as galaxies and planets and so on. It’s important for explaining nature as we said..
+
+154
+00:14:13,58 --> 00:14:20,71
+Theory of relativity in some sense is incomplete. Because it [crosstalk 00:14:21]
+
+155
+00:14:20,84 --> 00:14:21,21
+Interviewer: Incomplete?
+
+156
+00:14:21,21 --> 00:14:22,57
+Juan Maldacena: Incomplete.
+
+157
+00:14:26,27 --> 00:14:33,39
+In the sense that if you start out with some initial conditions which are reasonable, the system evolves
+
+158
+00:14:33,39 --> 00:14:37,58
+and creates so called singularities. You can solve the equations.
+
+159
+00:14:37,58 --> 00:14:41,51
+You find situations where the curvature of space time becomes infinite.
+
+160
+00:14:41,51 --> 00:14:45,78
+This happens for example when black hole collapses.
+
+161
+00:14:45,78 --> 00:14:50,92
+In the interior of the black hole, there’s a region with infinite space time curvature.
+
+162
+00:14:50,92 --> 00:14:56,5
+Space time becomes so curved, and so … The force of gravity somehow becomes infinite there.
+
+163
+00:14:56,5 --> 00:15:00,26
+If you were to fall in there, you would be ripped apart.
+
+164
+00:15:04,96 --> 00:15:08,05
+We don’t have a theory that … The current theory is like general theory
+
+165
+00:15:08,05 --> 00:15:12,58
+and particle physics do not explain what happens in that situation.
+
+166
+00:15:12,58 --> 00:15:18,96
+Interviewer: Are you looking for the explanation?
+
+167
+00:15:18,96 --> 00:15:28,21
+Juan Maldacena: Yeah. Those are the theories we have..
+
+168
+00:15:21,74 --> 00:15:30,42
+I think maybe we can make a small bit of smile [crosstalk 00:15:25] Maybe I want to tell them to be quiet.
+
+169
+00:15:30,42 --> 00:15:36,14
+Interviewer: We were at the point that you were trying to connect the theories.
+
+170
+00:15:36,14 --> 00:15:42,88
+Juan Maldacena: Yeah. The Einstein theory works very well for many, many things we observe.
+
+171
+00:15:43,69 --> 00:15:49,31
+The equations themselves fail in some situations. One situation is when matter collapses in a black hole.
+
+172
+00:15:49,31 --> 00:15:53,77
+The interior of the black hole, we got the region with very high curvature.
+
+173
+00:15:55,04 --> 00:15:57,61
+If you were to fall in there, you would be ripped apart.
+
+174
+00:15:57,61 --> 00:16:03,43
+The equations don’t allow us to [the eye 00:16:02] what happens to matter when that happens.
+
+175
+00:16:04,05 --> 00:16:06,79
+Another interesting situation is if you evolve the equations backwards,
+
+176
+00:16:06,79 --> 00:16:12,94
+and you try to find out what happened in the very beginning of the big bang. Also the current theories don’t explain.
+
+177
+00:16:12,94 --> 00:16:17,73
+It cannot explain what happened.	Again the expansion would be so rapid,
+
+178
+00:16:18,28 --> 00:16:27,37
+that space expanding so rapidly you couldn’t … You cannot … The eye what happens.
+
+179
+00:16:27,37 --> 00:16:34,02
+The equations themselves, the curvature becomes infinite, and the equations fail. The reason … Yeah?
+
+180
+00:16:34,02 --> 00:16:40,61
+Interviewer: If I try to imagine of course what’s happening inside your head trying to connect these theories,
+
+181
+00:16:41,06 --> 00:16:42,25
+what happens?
+
+182
+00:16:42,25 --> 00:16:47,9
+Juan Maldacena: The main reason for these inconsistencies is the fact that they … Einstein’s theories so called
+
+183
+00:16:47,9 --> 00:16:59,4
+Classical Theory, which is a good theory when things are very big.
+
+184
+00:17:00,14 --> 00:17:05,63
+Basically very short distances, you have to take into account the quantum.
+
+185
+00:17:06,24 --> 00:17:09,48
+The same way that matter of long distances can be described, also classically.
+
+186
+00:17:09,61 --> 00:17:14,6
+When you go to short distances, you have to describe it using the quantum mechanical description.
+
+187
+00:17:14,6 --> 00:17:16,51
+Space time is similar.
+
+188
+00:17:16,51 --> 00:17:22,28
+When you go to very short distance in space time, you also would need quantum mechanical description.
+
+189
+00:17:22,95 --> 00:17:35,18
+For matter, when we go to short distances, we go to the atoms, the elementary particles and so on.	For space time,.
+
+190
+00:17:28,19 --> 00:17:35,05
+we should go again to something that will be atoms of space time. I think that the [crosstalk 00:17:35]
+
+191
+00:17:35,18 --> 00:17:35,83
+Interviewer: What is that?
+
+192
+00:17:35,83 --> 00:17:45,93
+Juan Maldacena: We think that we went to such a theory, we could do this. We could perhaps understand the big bang..
+
+193
+00:17:42,69 --> 00:17:45,83
+Or, the situations which we cannot understand [crosstalk 00:17:46]
+
+194
+00:17:45,93 --> 00:17:47,87
+Interviewer: Define the atoms of space time.
+
+195
+00:17:47,87 --> 00:17:57,57
+Juan Maldacena: I can’t define the atoms of space time. We’re trying to find what they are.
+
+196
+00:18:02,18 --> 00:18:08,05
+One idea that is wrong, is the idea that there would be atoms at each different locations in space, and so on.
+
+197
+00:18:08,05 --> 00:18:10,6
+Space time is not like continuing matter.
+
+198
+00:18:10,6 --> 00:18:17,72
+Because, one important property that was understood theoretically is that,
+
+199
+00:18:18,39 --> 00:18:24,09
+when you have the number of configurations in original space time, that number configurations,
+
+200
+00:18:24,09 --> 00:18:28,41
+does not grow like the volume. As it would with only matter.
+
+201
+00:18:28,73 --> 00:18:31,43
+The number of atoms somehow wherever they are, of space time,
+
+202
+00:18:31,64 --> 00:18:34,33
+we know that their number grows like the area of the surface.
+
+203
+00:18:34,83 --> 00:18:46,77
+Rather than the volume.	That’s an interesting property of this so called atoms of space time.
+
+204
+00:18:46,77 --> 00:18:53,38
+By atoms of space time I mean, well basically vague idea but I try to motivate it in this way.
+
+205
+00:18:53,84 --> 00:19:00,94
+The search for a theory that describes space time at the quantum mechanical level. Using the laws of quantum mechanics.
+
+206
+00:19:00,94 --> 00:19:06,6
+The laws of quantum mechanics are laws which are intrinsically probabilistic.
+
+207
+00:19:06,6 --> 00:19:09,12
+That’s the main difference from the laws of classical physics.
+
+208
+00:19:09,22 --> 00:19:16,72
+Classical physics, if you know the initial conditions, you can then calculate what would happen in the future..
+
+209
+00:19:16,35 --> 00:19:16,54
+[crosstalk 00:19:17]
+
+210
+00:19:16,72 --> 00:19:18,58
+Interviewer: Because you cannot do an experiment you mean?
+
+211
+00:19:18,58 --> 00:19:21,41
+Juan Maldacena: No, in quantum mechanics you can do experiments.
+
+212
+00:19:21,65 --> 00:19:26,6
+The results you can prepare the initial conditions always in the same way.
+
+213
+00:19:26,77 --> 00:19:31,91
+The results of the climates will be different each time you experiment, you’ll get a different answer.
+
+214
+00:19:31,91 --> 00:19:39,31
+All you can predict according to quantum mechanics is not the precise answer of the experiment,
+
+215
+00:19:39,31 --> 00:19:49,28
+but the probabilities for the different answers. You do an experiment, it’s like flipping a coin.
+
+216
+00:19:49,28 --> 00:19:58,08
+You can calculate and you can say, maybe I’ll get 50% one result. 50% of the time one result and 50% the other.
+
+217
+00:19:58,08 --> 00:20:05,95
+Or maybe it’s 30, 70 and so on. Quantum mechanics allows you to calculate those percentages.
+
+218
+00:20:05,95 --> 00:20:15,26
+Quantum mechanics doesn’t allow you to give definite answers to some questions. It is intrinsically this way.
+
+219
+00:20:15,26 --> 00:20:18,59
+Interviewer: That’s a rather big question you ask yourself.
+
+220
+00:20:18,59 --> 00:20:26,51
+Besides the part that you are this scientist trying to research this.
+
+221
+00:20:26,51 --> 00:20:39,37
+I’m also interested why is it you asking this question? What’s your … Why do you ask this question?
+
+222
+00:20:39,51 --> 00:20:41,3
+Why do you do this?
+
+223
+00:20:41,3 --> 00:20:48,57
+Juan Maldacena: Certainly I’m not the first to ask this question. This question was asked many years ago.
+
+224
+00:20:48,57 --> 00:20:54,4
+Probably Planck was the first to realize that there was a connection between the quantum and gravity.
+
+225
+00:20:54,82 --> 00:21:03,7
+At some point gravity would fail, and calculated what distance scale you would [inaudible 00:21:01] was a century ago.
+
+226
+00:21:04,28 --> 00:21:10,61
+Since then, people have had various ideas by thinking about this problem.
+
+227
+00:21:13,34 --> 00:21:17,13
+It’s a problem that is hard to access it fundamentally directly.
+
+228
+00:21:17,33 --> 00:21:20,35
+This distance in which the quantum is important is super tiny.
+
+229
+00:21:20,35 --> 00:21:25,16
+It’s much smaller than the smallest distances we can see today will accelerate this.
+
+230
+00:21:25,16 --> 00:21:36,11
+By a group of people who are trying to investigate this from the theoretical point of view,
+
+231
+00:21:36,11 --> 00:21:43,35
+trying to find the structure of mathematical theory that would put these two things together.	We’re trying to do
+
+232
+00:21:43,35 --> 00:21:50,48
+something similar to what Einstein did when he joined special relativity with Newtonian gravity.
+
+233
+00:21:50,57 --> 00:21:57,29
+He realize that the theory of Newton was not consistent with this idea that the speed of light is the maximum speed of
+
+234
+00:21:57,29 --> 00:22:03,1
+propagation of signals. That it should be the same for all observers.
+
+235
+00:22:03,1 --> 00:22:06,54
+Putting those two things together, he managed to create the structure. The structure of general relativity.
+
+236
+00:22:07,12 --> 00:22:15,9
+Here we are trying to replicate that from theoretical points of view,.
+
+237
+00:22:11,47 --> 00:22:23,86
+try to find the connections between the quantum and space time, and [crosstalk 00:22:17].
+
+238
+00:22:15,9 --> 00:22:23,84
+Interviewer: Are you sure you’re going to find the answers or [crosstalk 00:22:20]
+
+239
+00:22:23,86 --> 00:22:30,31
+Juan Maldacena: No. We’re not 100% sure, but we’re confident that we have a high probability.
+
+240
+00:22:30,31 --> 00:22:35,35
+The equation is so interesting, that we should try to investigate it.
+
+241
+00:22:35,35 --> 00:22:38,93
+Interviewer: You know that you’re on the right path?
+
+242
+00:22:38,93 --> 00:22:39,7
+Juan Maldacena: Yeah.
+
+243
+00:22:40,22 --> 00:22:49,88
+What gives us some confidence that we’re in the right path is that, we’re not investigating this in the vacuum
+
+244
+00:22:49,88 --> 00:22:58,47
+or without … We now have some very concrete theories. The nicest one is the theory of strength theory.
+
+245
+00:22:59,58 --> 00:23:05,02
+That is a theory based on the construction that works very nicely in some situations.
+
+246
+00:23:05,02 --> 00:23:09,52
+That manages to join the quantum with space time.
+
+247
+00:23:10,01 --> 00:23:17,65
+Is a theory under construction, and a theory which is continued to be developed and we’re trying to understand it.
+
+248
+00:23:17,65 --> 00:23:18,24
+Interviewer: Strength theory.
+
+249
+00:23:18,24 --> 00:23:24,91
+Juan Maldacena: Yeah. Strength theory. It seems to connect the quantum with space time in a very interesting way.
+
+250
+00:23:24,91 --> 00:23:33,85
+By investigating strength theory, people have found very interesting mathematical relations. That are true mathematics.
+
+251
+00:23:34,00 --> 00:23:37,98
+They found the connections between different physical theories.
+
+252
+00:23:38,7 --> 00:23:43,13
+For example, between the theory of strong interactions and some theories of space time.
+
+253
+00:23:46,27 --> 00:23:55,47
+The fact that the disconnections were found,,
+
+254
+00:23:49,59 --> 00:23:55,3
+gives us some confidence that at least the structure that we’re investigating is interesting and [great 00:23:56]
+
+255
+00:23:55,47 --> 00:23:59,39
+and it could be the answer to this question of quantum gravity.
+
+256
+00:23:59,39 --> 00:24:03,71
+Which is really the main question we’re trying to answer.
+
+257
+00:24:03,71 --> 00:24:12,5
+Interviewer: Do you work in a group of people who are on the same level theoretically?
+
+258
+00:24:12,5 --> 00:24:13,5
+Juan Maldacena: Yeah.
+
+259
+00:24:13,5 --> 00:24:24,38
+Interviewer: How is it for you to … Now you have to explain it to me, and I don’t understand.
+
+260
+00:24:24,52 --> 00:24:29,71
+You have to transfer your thoughts or your ideas to people who don’t understand.
+
+261
+00:24:29,95 --> 00:24:35,01
+Because it’s so difficult even for yourself, it’s difficult. How is that?
+
+262
+00:24:35,01 --> 00:24:39,72
+Juan Maldacena: Well, for us it’s difficult to find the equations,
+
+263
+00:24:40,52 --> 00:24:46,3
+but I think what I’m trying to compare is the problem we’re trying to understand
+
+264
+00:24:46,3 --> 00:24:48,18
+and I think the problem is understandable.
+
+265
+00:24:48,19 --> 00:24:55,74
+It’s just joining two theories of physics that are out there, and putting them together.
+
+266
+00:24:56,03 --> 00:24:58,19
+They are not completely compatible with each other.
+
+267
+00:24:58,35 --> 00:25:02,04
+In the history of physics, when there were two kinds of theories that were not quite compatible,
+
+268
+00:25:02,04 --> 00:25:06,31
+and you find a structure that puts them together, it might be the right structure.
+
+269
+00:25:06,31 --> 00:25:09,12
+Interviewer: This theory might be the strength theory?
+
+270
+00:25:09,12 --> 00:25:14,96
+Juan Maldacena: Yeah. The strength theory is the main tool and the main thing that we’re investigating.
+
+271
+00:25:15,11 --> 00:25:22,95
+We think that it is not the right structure. It’s probably close to the right structure..
+
+272
+00:25:20,81 --> 00:25:22,79
+It could be the stepping stone to the right structure. [crosstalk 00:25:25]
+
+273
+00:25:22,95 --> 00:25:26,55
+Interviewer: For a lot of people, the strength theory is un-understandable,
+
+274
+00:25:26,55 --> 00:25:34,85
+but you all have to understand this theory just to use it as a possible?
+
+275
+00:25:34,85 --> 00:25:35,52
+Juan Maldacena: Yeah.
+
+276
+00:25:35,52 --> 00:25:38,09
+Strength theory might sound complicated,
+
+277
+00:25:38,59 --> 00:25:53,12
+but it’s something that someone who’s doing his PhD in physics can learn in a year, a couple of years,.
+
+278
+00:25:46,92 --> 00:25:55,86
+and they can [crosstalk 00:25:47] That’s right...
+
+279
+00:25:53,45 --> 00:25:55,6
+Interviewer: Maybe [crosstalk 00:25:54] Can you explain to me what [crosstalk 00:25:56]
+
+280
+00:25:55,86 --> 00:25:58,02
+Juan Maldacena: There is … It’s like playing the piano.
+
+281
+00:25:58,02 --> 00:26:01,76
+You’re not going to be able to play the piano in five minutes.
+
+282
+00:26:01,76 --> 00:26:08,01
+Someone can tell you, oh you have to press keys and so on but you won’t be able to play the piano
+
+283
+00:26:08,01 --> 00:26:08,93
+or to produce nice music.
+
+284
+00:26:08,93 --> 00:26:10,52
+Interviewer: It sounds awful.
+
+285
+00:26:10,52 --> 00:26:18,33
+Juan Maldacena: Here also, it takes a while to get familiar. To familiarize yourself with the ideas.
+
+286
+00:26:18,68 --> 00:26:23,59
+One reason we have this is because you really have to learn a lot of the physics that precedes it.
+
+287
+00:26:24,00 --> 00:26:32,18
+You have to learn well general relativity, you have to learn well particle theory of interacting particles.
+
+288
+00:26:32,18 --> 00:26:34,17
+You have to do this.
+
+289
+00:26:34,17 --> 00:26:39,71
+Interviewer: Isn’t it a fact that if different people from different backgrounds come together
+
+290
+00:26:41,26 --> 00:26:51,32
+and discuss this strength theory, that in the event that they all know what you’re talking about,
+
+291
+00:26:51,32 --> 00:26:57,51
+or understand the strength theory, doesn’t make it then true?
+
+292
+00:26:57,51 --> 00:27:05,19
+Juan Maldacena: No. What makes a physical theory true, as a physics theory of physics is comparison with experiment.
+
+293
+00:27:05,19 --> 00:27:12,96
+Interviewer: If you all understand the strength theory and then you think it’s true, you understand what it means,
+
+294
+00:27:12,96 --> 00:27:18,52
+it took some years but different other people took some years and they understand strength theory.
+
+295
+00:27:18,52 --> 00:27:21,08
+Juan Maldacena: Strength theory today is a mathematical structure.
+
+296
+00:27:21,24 --> 00:27:25,89
+It’s a mathematical structure which has some physical interpretation.
+
+297
+00:27:26,05 --> 00:27:28,75
+We don’t yet know whether it’s the right theory of physics.
+
+298
+00:27:28,9 --> 00:27:38,69
+We think it’s in the right track, and we’re motivated enough to continue stirring it. That doesn’t make it true.
+
+299
+00:27:38,69 --> 00:27:41,99
+That just makes it a very interesting mathematical theory.
+
+300
+00:27:41,99 --> 00:27:45,83
+Interviewer: Can you explain to me what is meant by this strength theory?
+
+301
+00:27:45,83 --> 00:27:49,00
+Juan Maldacena: Well,
+
+302
+00:27:49,00 --> 00:27:57,65
+mainly strength theory is a theory which some laws that can describe space time at the quantum mechanical level.
+
+303
+00:27:58,05 --> 00:28:09,38
+Using the laws of quantum mechanics. That it reduces to Einstein theory for big distances. That’s its main advantage.
+
+304
+00:28:09,38 --> 00:28:12,05
+Now, maybe you are asking why is it called strength.
+
+305
+00:28:12,05 --> 00:28:19,27
+Well, this comes in the fact that [man 00:28:18] formulation of the theory,
+
+306
+00:28:19,62 --> 00:28:23,29
+you have little tiny vibrating loops of strength.
+
+307
+00:28:23,29 --> 00:28:30,81
+Instead of having particles which are point like, as we have in theory of particles, or innate particles,
+
+308
+00:28:32,13 --> 00:28:37,32
+the elementary objects are a little strengths. One dimension objects.
+
+309
+00:28:37,69 --> 00:28:40,67
+That’s … Using those,
+
+310
+00:28:41,19 --> 00:28:48,58
+you can describe ripples of space time interacting.	All those gravity waves that we discussed before in the experiment,
+
+311
+00:28:49,09 --> 00:28:57,95
+when they interact in a quantum mechanical way. They can do so in a way that’s not generating any inconsistency.
+
+312
+00:28:57,95 --> 00:29:09,92
+Interviewer: Is there a theory of your own which you are investigating or researching?
+
+313
+00:29:09,92 --> 00:29:19,13
+Juan Maldacena: I’ve been researching some relationship between strength theory and particle physics.
+
+314
+00:29:19,13 --> 00:29:23,47
+There’s a relationship which is part of this connections that I was describing before.
+
+315
+00:29:24,12 --> 00:29:25,73
+That the strength theory led to.
+
+316
+00:29:25,73 --> 00:29:32,19
+This is a connection between theories of gravity in the interior of the space time,
+
+317
+00:29:32,19 --> 00:29:35,63
+and the theory of particles on the boundary of the space time.
+
+318
+00:29:36,67 --> 00:29:42,28
+In this relationship, the idea is that the so called atoms of space time in the interior,
+
+319
+00:29:42,28 --> 00:29:46,28
+are like particles on the boundary. That’s roughly one way to say.
+
+320
+00:29:47,99 --> 00:29:51,11
+Another analogy people make sometimes is the idea of the hologram.
+
+321
+00:29:51,11 --> 00:29:58,87
+That you can … A hologram is a two dimensional photographic plate.	That when you illuminate it in the light,
+
+322
+00:29:58,87 --> 00:30:00,69
+you see three dimensional picture.
+
+323
+00:30:00,69 --> 00:30:08,97
+The idea is that you can have the dynamics of this particle on the boundary or space time so far away.
+
+324
+00:30:08,97 --> 00:30:15,47
+Can have an alternative description as objects moving in the interior. Subject to the force of gravity.
+
+325
+00:30:15,47 --> 00:30:23,17
+Interviewer: The atoms of space time are reflected or projected?
+
+326
+00:30:23,17 --> 00:30:30,72
+Juan Maldacena: Yeah. The real atoms would be on the boundary. The real elementary particles, another thing.
+
+327
+00:30:31,56 --> 00:30:37,79
+Then we’ve got some effective description … approximate description in terms of a space time in the interior.
+
+328
+00:30:38,39 --> 00:30:41,22
+In this picture, space time is … This is just an approximation.
+
+329
+00:30:41,22 --> 00:30:46,82
+It’s an approximation to the dynamics of lots of particles.
+
+330
+00:30:47,18 --> 00:30:55,95
+In the same way that properties of microscopic objects come from similar approximations, like the scarcity of water
+
+331
+00:30:55,95 --> 00:30:58,55
+or just the behavior of water waves and so on.
+
+332
+00:30:58,55 --> 00:31:07,82
+It comes from the collective motion of many of the concentrated molecules.
+
+333
+00:31:07,82 --> 00:31:12,67
+Interviewer: The thing you’re explaining to me how it works this hologram again? As simple as possible.
+
+334
+00:31:12,67 --> 00:31:19,97
+Juan Maldacena: This idea is the idea that you can describe gravitational physics,
+
+335
+00:31:19,97 --> 00:31:24,64
+or dynamics of space time at the quantum level. Which is something we don’t understand too well how to do it.
+
+336
+00:31:24,64 --> 00:31:29,52
+In terms of theory of particles. That lives on the boundary of that space time.
+
+337
+00:31:29,52 --> 00:31:34,1
+The theory of particles is very similar to the theory of particles we use for particle physics.
+
+338
+00:31:34,53 --> 00:31:45,07
+Or, some similar to the theory we use in the quantum mechanics. That’s a disconnection.
+
+339
+00:31:45,07 --> 00:31:52,73
+It connects for example black holes, to come on systems of particles that find the temperature.
+
+340
+00:31:56,28 --> 00:32:05,39
+If you assume … It’s a conjecture that these two things are related.	It’s a conjecture that people work a lot on
+
+341
+00:32:05,39 --> 00:32:11,06
+and they found lots of ideas that this correct at least in very specific cases.
+
+342
+00:32:11,06 --> 00:32:16,84
+It’s a conjecture a conjecture between two let’s say mathematical theories.
+
+343
+00:32:16,99 --> 00:32:23,24
+One is the mathematics of strength theory in the space times, or quantum mechanical dynamical space times.
+
+344
+00:32:23,24 --> 00:32:28,85
+That’s described through strength theory, and ordinary theories of particle physics.
+
+345
+00:32:29,5 --> 00:32:35,57
+Many cases we can approximately describe each of the two sides, and then check mathematically that they’re correct.
+
+346
+00:32:35,57 --> 00:32:42,04
+The idea is to understand this further.
+
+347
+00:32:42,04 --> 00:32:47,06
+To understand better how space … What this implies for space time,
+
+348
+00:32:47,06 --> 00:32:54,27
+and how to build better theories of space time.	In particular how to solve some of the problems we have with black
+
+349
+00:32:54,27 --> 00:32:54,93
+holes.
+
+350
+00:32:54,93 --> 00:33:09,05
+Black holes are understood reasonably well with the theory of Einstein’s … With Einstein’s theory of relativity.
+
+351
+00:33:09,05 --> 00:33:11,09
+Black holes have also give rise to some quantum mechanical effects.
+
+352
+00:33:11,99 --> 00:33:15,15
+More precisely once you take into account quantum mechanics.
+
+353
+00:33:15,77 --> 00:33:19,52
+Black holes can start to emit some kind of radiation Hawking discovered.
+
+354
+00:33:19,52 --> 00:33:25,98
+He discovered this theoretically, and it’s called Hawking radiation.
+
+355
+00:33:25,98 --> 00:33:32,23
+This implies that black holes are they form, and then they start emitting this radiation.
+
+356
+00:33:32,23 --> 00:33:34,69
+They emit a kind of soft glow.
+
+357
+00:33:36,34 --> 00:33:41,54
+Just to highlight how surprising this radiation is,
+
+358
+00:33:41,54 --> 00:33:48,8
+black holes were called black because they don’t emit any light.	Anything that goes in has to fall in
+
+359
+00:33:48,8 --> 00:33:50,35
+and nothing can be emitted.
+
+360
+00:33:50,35 --> 00:33:51,83
+Interviewer: Can get out?
+
+361
+00:33:51,83 --> 00:33:56,46
+Juan Maldacena: Cannot get out. This radiation is something that is somehow getting out.
+
+362
+00:33:56,46 --> 00:34:00,29
+You can even have the [inaudible 00:33:58] situation of having a white black hole.
+
+363
+00:34:00,29 --> 00:34:03,99
+You have a black hole which is very tiny.
+
+364
+00:34:04,94 --> 00:34:09,66
+The size of the wave length of light, or the size of a bacteria roughly speaking.
+
+365
+00:34:09,66 --> 00:34:15,83
+That black hole will look white to our eyes. These black holes don’t form naturally in nature.
+
+366
+00:34:15,83 --> 00:34:19,8
+Black holes that form naturally in nature, are very big and have a very low temperature.
+
+367
+00:34:20,24 --> 00:34:25,00
+If you could form such a tiny black hole, theories predict that it should look white.
+
+368
+00:34:25,00 --> 00:34:29,34
+Here you see that there’ll be little conflict between Einstein’s theory of relativity,
+
+369
+00:34:29,58 --> 00:34:36,06
+in the beginning of a conflict you see it. One says it should be black, and the other one says it should be white.
+
+370
+00:34:36,06 --> 00:34:37,32
+Interviewer: White hole.
+
+371
+00:34:37,32 --> 00:34:43,06
+Juan Maldacena: Yeah. This is different from what people call a white hole, but this is a white black hole.
+
+372
+00:34:43,06 --> 00:35:01,67
+Here you see the beginning of some slight conflict between the two, and if you go deeper in,.
+
+373
+00:34:54,4 --> 00:35:03,4
+there are some laws of thermodynamics that should apply to any option that emits thermal .. This radiation is thermal.
+
+374
+00:35:03,4 --> 00:35:11,14
+It gets emitted at a certain temperature. That’s why you needed to make it very small, to make it look white.
+
+375
+00:35:11,36 --> 00:35:14,88
+Because the temperature becomes higher. The smaller the black hole is.
+
+376
+00:35:15,27 --> 00:35:18,94
+Small black hole is hotter than a bigger black hole.
+
+377
+00:35:18,94 --> 00:35:23,02
+I should make the black hole smaller,
+
+378
+00:35:23,02 --> 00:35:30,83
+it gets hotter.	If you apply it with the laws of thermodynamics as we usually understand them,
+
+379
+00:35:31,37 --> 00:35:34,11
+they seem to hold for such black holes.
+
+380
+00:35:35,24 --> 00:35:40,17
+They are … They seem to be in some conflict with another fact that we know from general relativity.
+
+381
+00:35:40,78 --> 00:35:46,37
+Which is that if you solve the Einstein’s equations in black hole, there is a surface that we call the horizon.
+
+382
+00:35:46,8 --> 00:35:51,74
+Which is a surface basically right on the outside, and the inside. It’s an imaginary surface.
+
+383
+00:35:51,74 --> 00:35:57,21
+It’s not a real surface. It’s kind of point of no return.
+
+384
+00:35:58,07 --> 00:36:06,54
+If you cross the horizon, in the interior, you cannot send anything to the outside. You cannot even escape.
+
+385
+00:36:06,54 --> 00:36:12,78
+You’ll be doomed to fall in the singularity.	You don’t feel anything when you cross the horizon.
+
+386
+00:36:12,78 --> 00:36:19,75
+It’s a perfectly reasonable surface. That’s what Einstein’s theory predicts.
+
+387
+00:36:23,44 --> 00:36:29,38
+This fact seems to somehow be in some conflict with this thermal properties of black holes,
+
+388
+00:36:29,38 --> 00:36:40,68
+and how to fully resolve this conflict. Is one of the things I and some other people are working on.
+
+389
+00:36:40,68 --> 00:36:44,25
+Interviewer: Is it something that you can call your life work?
+
+390
+00:36:44,25 --> 00:36:53,87
+Juan Maldacena: I would say that I’ve been mostly investigating this relationship between the interior
+
+391
+00:36:53,87 --> 00:37:01,48
+and the boundary. Also, trying to understand these problems with black holes. These problems with black holes.
+
+392
+00:37:01,48 --> 00:37:03,48
+The aspects of black holes.
+
+393
+00:37:03,48 --> 00:37:16,5
+Interviewer: Is this like your life researching this? Or is this just a job?
+
+394
+00:37:16,5 --> 00:37:24,79
+Juan Maldacena: It is a passion and I would like to really find the problem, and find a solution to the problem.
+
+395
+00:37:30,83 --> 00:37:32,08
+I hope it gets solved soon.
+
+396
+00:37:32,08 --> 00:37:34,03
+Interviewer: Are you close?
+
+397
+00:37:34,03 --> 00:37:38,16
+Juan Maldacena: Yeah. We seem to be close. Hopefully yes.
+
+398
+00:37:38,16 --> 00:37:50,67
+Interviewer: What I try to imagine, is because it’s also theoretical. You must have a big imagination.
+
+399
+00:37:52,02 --> 00:37:54,3
+When you think about it, what do you see?
+
+400
+00:37:55,92 --> 00:38:08,00
+Is it … And I don’t want you to explain the theory, but how do you represent this in your head? In your brain?
+
+401
+00:38:08,88 --> 00:38:11,77
+In colors, or in shapes, or in?
+
+402
+00:38:11,77 --> 00:38:12,68
+Juan Maldacena: Yeah.
+
+403
+00:38:12,68 --> 00:38:17,82
+Probably in terms of …By the way, we imagine formulas and their properties,
+
+404
+00:38:17,82 --> 00:38:21,65
+and we make a little mental image for these formulas.
+
+405
+00:38:21,65 --> 00:38:28,76
+We … For example, already for Einstein theory of relativity you have to imagine space time as some kind of membrane.
+
+406
+00:38:28,76 --> 00:38:31,47
+Interviewer: How do you imagine that?
+
+407
+00:38:31,47 --> 00:38:35,25
+Juan Maldacena: I imagine it same for classical space time for example, as a membrane
+
+408
+00:38:35,25 --> 00:38:41,47
+and the quantum one a membrane that is fluctuating. Those are the kind of mental images that we …
+
+409
+00:38:41,47 --> 00:38:42,73
+Interviewer: Sorry, a membrane?
+
+410
+00:38:42,73 --> 00:38:50,58
+Juan Maldacena: Well, space time is like a membrane that has certain shape. Has some dynamics of the shape can change.
+
+411
+00:38:51,26 --> 00:38:58,13
+If you get very close, this membrane has some oscillations and some structure.
+
+412
+00:38:58,77 --> 00:39:09,29
+That’s what we have at short distances. That’s a picture of the smallest standard for how to think about this.
+
+413
+00:39:09,29 --> 00:39:20,68
+One of the interesting things that we’ve been trying to understand and many people have begun to notice is that,
+
+414
+00:39:20,68 --> 00:39:26,3
+there is some connection between a certain property of quantum mechanics called entanglement.
+
+415
+00:39:26,3 --> 00:39:36,4
+Entanglement is a funny kind of correlation you can have in quantum mechanical systems.	Which in some sense stronger
+
+416
+00:39:36,4 --> 00:39:37,73
+than classical correlations.
+
+417
+00:39:40,55 --> 00:39:44,46
+Before we discuss the fact that in some quantum mechanical systems you cannot predict the answer to certain experiments.
+
+418
+00:39:45,05 --> 00:39:54,61
+You might sometimes find 50% chance of one, or 50% chance of the other.
+
+419
+00:39:54,61 --> 00:40:00,08
+You’re going to have systems where you have two particles, and they’re separated.
+
+420
+00:40:00,08 --> 00:40:03,97
+You’re going to experiment here and you have 50% chance of each outcome.
+
+421
+00:40:03,97 --> 00:40:09,44
+You can do another experiment here and it’s again 50% chance of any outcome.
+
+422
+00:40:09,44 --> 00:40:18,64
+It might turn out that the outcomes of the two experiments are correlated.	Let’s say the experiment is like flipping
+
+423
+00:40:18,64 --> 00:40:21,17
+a coin, it comes out heads here and it also comes out heads here.
+
+424
+00:40:21,17 --> 00:40:26,19
+If it comes tails here, it also will come out tails here. They’re perfectly correlated.
+
+425
+00:40:26,63 --> 00:40:28,73
+That’s an example of a classical correlation.
+
+426
+00:40:28,73 --> 00:40:35,44
+Entanglement is the fact that you can also measure another property at the same time.
+
+427
+00:40:35,55 --> 00:40:39,72
+If this coin which is not heads or tails but it’s the color, this is another analogy.
+
+428
+00:40:39,72 --> 00:40:45,16
+If the property is quantum mechanical that cannot be measure at the same time as the original property.
+
+429
+00:40:47,17 --> 00:40:49,64
+That’s one of the features also. Quantum mechanics.
+
+430
+00:40:50,15 --> 00:41:01,37
+That sometimes you can have two properties which you cannot measure at the same time.	You can ask this coin whether
+
+431
+00:41:01,37 --> 00:41:02,55
+it’s heads or tails.
+
+432
+00:41:02,55 --> 00:41:08,02
+Or whether it says it’s black or white but you cannot ask where it’s black, and where it’s heads or tails.
+
+433
+00:41:08,02 --> 00:41:16,33
+It’s not a perfect analogy, or a classical variables are not of this kind. They’re mutually incompatible.
+
+434
+00:41:16,33 --> 00:41:24,69
+You can do that with this quantum let’s say properties, and again you can have two particles so that,
+
+435
+00:41:24,69 --> 00:41:29,64
+if you now measure, not only whether it’s heads or tails, but also black or white,
+
+436
+00:41:29,98 --> 00:41:32,73
+you have the same perfect correlation with the other.
+
+437
+00:41:34,15 --> 00:41:41,32
+That some kind of correlation that is not possible in classical physics, but it’s possible in quantum physics..
+
+438
+00:41:40,81 --> 00:41:41,28
+We think that [crosstalk 00:41:43]
+
+439
+00:41:41,32 --> 00:41:42,35
+Interviewer: Even though there’s a big distance?
+
+440
+00:41:42,35 --> 00:41:45,02
+Juan Maldacena: Yeah. Even though there is a big distance.
+
+441
+00:41:45,02 --> 00:41:51,33
+Again, with classical correlations, we can have these correlations because the two … You prepare the two kinds first,
+
+442
+00:41:51,33 --> 00:41:56,56
+and then you take them apart. Then you look at it. In classical physics, there’s no problem with this correlation.
+
+443
+00:41:58,05 --> 00:42:04,64
+What is interesting is that you can have correlation between variables that are mutually incompatible locally.
+
+444
+00:42:04,64 --> 00:42:10,56
+By compatible I mean that you either measure one or the other, but nevertheless you have a correlation.
+
+445
+00:42:10,56 --> 00:42:19,07
+Sometimes [inaudible 00:42:17] surprising property quantum mechanics, when it was noticed,
+
+446
+00:42:19,07 --> 00:42:26,44
+it was noticed in that paper by Einstein [inaudible 00:42:22] in the 1930s.	Then while this was property,
+
+447
+00:42:29,75 --> 00:42:38,24
+and now it’s quite central notion for quantum information theory and people are using it in more practical ways.
+
+448
+00:42:39,31 --> 00:42:44,09
+To build … I mean, it would be essential for building quantum mechanical computer systems.
+
+449
+00:42:45,51 --> 00:42:50,69
+It also seems to be connected with the connections in space time.
+
+450
+00:42:50,69 --> 00:42:56,67
+Things that are closer to getting space time are more entangled with each other.
+
+451
+00:42:57,92 --> 00:43:06,07
+In some sense when you have the quantum field theory vacuum. The vacuum in the theory of particle physics.
+
+452
+00:43:06,07 --> 00:43:08,63
+If you want to split it in two parts,
+
+453
+00:43:08,63 --> 00:43:19,45
+the fundamental degrees of freedom are quantum variables that describe it.	Are quite entangled with each other.
+
+454
+00:43:19,45 --> 00:43:25,84
+We think that in some circumstances if you take two separate systems, and you entangle them very strongly,
+
+455
+00:43:26,23 --> 00:43:32,63
+so you could also generate some kind of quantum connect. You can generate geometric connection between them.
+
+456
+00:43:32,64 --> 00:43:47,04
+In some cases. In some sense, through the entanglement is connected to the connectivity of space time. You can, yeah.
+
+457
+00:43:47,04 --> 00:43:54,8
+Interviewer: I want to try to get back to the beginning again.
+
+458
+00:43:58,14 --> 00:44:10,43
+Because it’s rather difficult and I doubt you told me a lot about it. I try to recapture a little bit if I’m right.
+
+459
+00:44:13,05 --> 00:44:31,39
+I would like to ask you to give definitions of the ingredients. Definitions for normal people.
+
+460
+00:44:31,39 --> 00:44:35,71
+What is time, what is space and what is relativity?
+
+461
+00:44:35,71 --> 00:44:44,6
+Juan Maldacena: Okay, good. Let’s start with time. Time is what the clock measures.
+
+462
+00:44:44,6 --> 00:44:48,15
+Now, this sounds like a circular definition,
+
+463
+00:44:48,16 --> 00:44:54,53
+but of course what’s not obvious is that different blocks made in different ways measure the same time.
+
+464
+00:44:54,53 --> 00:45:01,65
+It turns out if you have different kinds of clocks, and you make them,
+
+465
+00:45:01,66 --> 00:45:05,26
+they will all measure the same … They’ll measure the same … They’ll give the same answer.
+
+466
+00:45:05,26 --> 00:45:10,9
+That you can synchronize clocks and they stay synchronize and so on.
+
+467
+00:45:10,9 --> 00:45:14,27
+It looks like there is something that is being measured by these clocks.
+
+468
+00:45:14,27 --> 00:45:17,37
+This something is the abstraction we call time.
+
+469
+00:45:17,93 --> 00:45:21,83
+We have the time we feel psychologically which is not a perfect clock,
+
+470
+00:45:21,83 --> 00:45:30,57
+but certainly agrees with more precise physical clocks.	All clocks that measure time are made of physical particles,
+
+471
+00:45:30,57 --> 00:45:35,45
+and that’s how we measure time. That’s how we define it.
+
+472
+00:45:35,45 --> 00:45:44,89
+It’s an abstraction but this is the thing that all these clocks are measuring. What is space?
+
+473
+00:45:44,89 --> 00:45:54,7
+Space is somehow the distance between the … Let’s say the nothingness that exists between two objects.
+
+474
+00:45:55,23 --> 00:46:07,95
+Now, it’s what’s missing when you go into a crowded bus. That’s space. What’s this relativity?
+
+475
+00:46:08,05 --> 00:46:09,78
+Let’s first discuss special relativity.
+
+476
+00:46:10,21 --> 00:46:15,14
+Before when I was discussing time, I said that all clocks measure the same time.
+
+477
+00:46:15,44 --> 00:46:19,79
+That is only true for clocks that are stationary. If you have a clock here.
+
+478
+00:46:19,79 --> 00:46:23,4
+Another clock here, and both stay at rest relative to each other,
+
+479
+00:46:23,42 --> 00:46:31,54
+then they will measure the same time.	If you have a clock here. Another clock moving, they will measure different time.
+
+480
+00:46:32,07 --> 00:46:37,93
+Relativity, special relative that’s how different is this other time the clock measures.
+
+481
+00:46:37,93 --> 00:46:43,82
+It’s a simple law for how to find out how to.
+
+482
+00:46:46,1 --> 00:46:54,1
+The theory of relativity is the theory that postulates the speed of light. It’s constant. It’s absolute.
+
+483
+00:46:54,1 --> 00:47:00,62
+If you could also have call it absolute something.
+
+484
+00:47:00,62 --> 00:47:05,23
+What’s relative is time, but that doesn’t mean everything is relative.
+
+485
+00:47:05,23 --> 00:47:07,48
+Interviewer: This envisioning what is light?
+
+486
+00:47:07,48 --> 00:47:14,8
+Juan Maldacena: Well, you could replace light by other things like gravity where it’s also propagated the speed.
+
+487
+00:47:15,25 --> 00:47:20,75
+More precisely, I should have said it’s the maximum speed of propagation of signals.
+
+488
+00:47:20,75 --> 00:47:26,11
+The idea is that there is a maximum speed for the propagation of signals.
+
+489
+00:47:27,09 --> 00:47:29,03
+So happens that light propagates at this speed.
+
+490
+00:47:29,03 --> 00:47:34,78
+If you had a massive particle, it would generally propagate at a lower speed.
+
+491
+00:47:35,24 --> 00:47:38,69
+If you try to push a massive particle to move it faster and faster and faster,
+
+492
+00:47:39,05 --> 00:47:45,62
+you could not make it move faster than this maximum speed. Which is also coincides with the speed of light.
+
+493
+00:47:45,62 --> 00:47:47,7
+Interviewer: That’s why it’s absolute?
+
+494
+00:47:47,7 --> 00:47:52,23
+Juan Maldacena: Yeah. Different observers would measure exactly the same speed.
+
+495
+00:47:52,23 --> 00:48:05,1
+Interviewer: Why do you want to have an explanation for how life started?
+
+496
+00:48:05,1 --> 00:48:11,32
+Juan Maldacena: Well, it’s not an explanation about how life started, but how the beginning of space time started.
+
+497
+00:48:11,91 --> 00:48:18,12
+How time originated and what happened at the beginning of the big bang.
+
+498
+00:48:18,12 --> 00:48:22,64
+We’re trying to understand it because that’s something we don’t know.
+
+499
+00:48:22,64 --> 00:48:25,53
+Science is always about pushing the boundaries.
+
+500
+00:48:26,49 --> 00:48:31,85
+We don’t … It’s not just the fact that we don’t know how it happened,
+
+501
+00:48:31,86 --> 00:48:36,76
+but even we don’t have a theory that is [self 00:48:36] consistent that could describe it.
+
+502
+00:48:36,76 --> 00:48:44,71
+We are even trying to find theories that could in principle describe the big bang,.
+
+503
+00:48:43,26 --> 00:48:47,28
+then we’ll have the problem of finding .. That’s the way the big bang actually happened.	Yeah.
+
+504
+00:48:50,02 --> 00:48:55,16
+That’s why we think the problem may be solved by thinking about it, and finding the theory
+
+505
+00:48:55,16 --> 00:48:59,19
+and then perhaps making some new predictions that we could test experimentally.
+
+506
+00:48:59,19 --> 00:49:06,87
+Interviewer: Yeah, but all the time the same question arises again. What happened before the big bang?
+
+507
+00:49:07,1 --> 00:49:11,92
+Questions like that. How do you deal with this almost impossible …
+
+508
+00:49:11,92 --> 00:49:21,41
+Juan Maldacena: The idea is to make a theory, and maybe you can make a theory which has a time before.
+
+509
+00:49:21,41 --> 00:49:26,47
+Maybe you can make a theory where time actually starts in the big bang,
+
+510
+00:49:26,72 --> 00:49:32,12
+and does not have any meaning before … Sort of the question doesn’t have a meaning.
+
+511
+00:49:32,65 --> 00:49:38,63
+We don’t know what the right answer is. That’s what we’re trying to find out with this concept.
+
+512
+00:49:38,63 --> 00:49:45,98
+People imagine now maybe there was a time before, and somehow we went through a big bang. These are just words.
+
+513
+00:49:45,98 --> 00:49:52,32
+They are not self-consistent equations where you can have such a thing.
+
+514
+00:49:52,4 --> 00:49:58,46
+If you try to make a theory where the universe was contracting, and then expanding again for example,
+
+515
+00:49:58,87 --> 00:50:04,57
+they violate some principles that we think should be true in the theory of quantum gravity.
+
+516
+00:50:04,57 --> 00:50:09,86
+Interviewer: When did yourself ask this question for the first time?
+
+517
+00:50:09,86 --> 00:50:16,54
+Juan Maldacena: I guess as I started learning more about physics.
+
+518
+00:50:16,54 --> 00:50:24,44
+I started recognizing where the boundaries of physics were, and there are boundaries of physics in many directions.
+
+519
+00:50:24,44 --> 00:50:28,33
+In the direction of very complex systems, in very different directions.
+
+520
+00:50:28,63 --> 00:50:36,6
+This is one of the directions in which we see a boundary. I wanted to go to the frontier in this direction.
+
+521
+00:50:38,73 --> 00:50:44,83
+I guess the physics they’re trying to roll was expanding. Push the frontier further and further away.
+
+522
+00:50:44,83 --> 00:50:47,3
+Interviewer: Right now you are as a frontier?
+
+523
+00:50:47,3 --> 00:50:50,02
+Juan Maldacena: Yeah. This is certainly one of the frontiers.
+
+524
+00:50:50,02 --> 00:50:53,36
+Interviewer: What do you see when you look ahead?
+
+525
+00:50:53,36 --> 00:50:59,83
+Juan Maldacena: I see confusion. I see lack of understanding.
+
+526
+00:50:59,83 --> 00:51:07,5
+The idea is to find patterns in this confusion, and to move forward.
+
+527
+00:51:07,5 --> 00:51:12,82
+To understand things that we currently don’t understand [crosstalk 00:51:11] bit by bit.
+
+528
+00:51:12,92 --> 00:51:19,94
+Usually you advance one step at a time, and get a little further, and a little further, and.
+
+529
+00:51:19,94 --> 00:51:23,38
+Interviewer: Do you feel something like a competitor?
+
+530
+00:51:24,46 --> 00:51:34,00
+Or, something like a challenge or something which challenges some things … Some works.
+
+531
+00:51:34,63 --> 00:51:41,95
+Somebody who challenges you to try to find it. Something like that.
+
+532
+00:51:41,95 --> 00:51:47,67
+Juan Maldacena: Yeah. Certainly we were trying to find this answer, and we really want to get the answer.
+
+533
+00:51:48,24 --> 00:51:51,4
+Sometimes you feel, sometimes its close.
+
+534
+00:51:51,4 --> 00:51:58,44
+Then you realize maybe I made a mistake, and you … It’s all happening also personally,
+
+535
+00:51:58,45 --> 00:52:01,9
+but within a community of researchers who’s trying to find this.
+
+536
+00:52:02,54 --> 00:52:08,21
+You criticize the ideas of others, and others criticize your ideas and this way you make progress.
+
+537
+00:52:08,55 --> 00:52:10,65
+Because it’s a difficult problem
+
+538
+00:52:10,65 --> 00:52:20,11
+and you need the … You need insights from many people that know different aspects of theoretical phases of physics in
+
+539
+00:52:20,11 --> 00:52:22,03
+general and can inform this.
+
+540
+00:52:22,03 --> 00:52:32,29
+Interviewer: Is it possible to think of something like an entity who is on the other side of this frontier?.
+
+541
+00:52:29,67 --> 00:52:32,16
+Or, maybe not an entity but [crosstalk 00:52:33]
+
+542
+00:52:32,29 --> 00:52:36,5
+Juan Maldacena: Well, there might be another intelligence in our universe who has already figured out this.
+
+543
+00:52:36,5 --> 00:52:43,65
+He has figured this out, and has understood these problems. At least it’s not known to us.
+
+544
+00:52:43,65 --> 00:52:58,84
+Interviewer: When you are on the frontier like the west was [won 00:52:58] here in the United States.
+
+545
+00:52:59,12 --> 00:53:02,23
+You don’t know what’s out there, but you go there and you find things.
+
+546
+00:53:03,77 --> 00:53:10,58
+It’s because you didn’t know that there were Indians, and there was another Coast and another ocean.
+
+547
+00:53:10,58 --> 00:53:17,09
+There is some awareness on the other side of the frontier. Only we don’t know.
+
+548
+00:53:17,21 --> 00:53:20,75
+What kind of awareness is on the other side of your frontier?
+
+549
+00:53:20,75 --> 00:53:23,66
+Juan Maldacena: Well, by awareness you mean the Indians.
+
+550
+00:53:23,66 --> 00:53:30,09
+Well, you’re putting too many anthropomorphical things that were not present in this discussion.
+
+551
+00:53:31,32 --> 00:53:38,96
+We only known intelligence in the universe, only known being that is trying to understand the universe.
+
+552
+00:53:38,96 --> 00:53:40,62
+We are just expanding.
+
+553
+00:53:41,69 --> 00:53:43,17
+When I say expanding the frontier,
+
+554
+00:53:43,17 --> 00:53:47,46
+it’s just understanding the questions that they’re understanding laws of physics better.
+
+555
+00:53:47,46 --> 00:53:50,08
+These entities are very simple things.
+
+556
+00:53:50,23 --> 00:53:54,58
+One of the features of physics is that I think is amazingly interesting,
+
+557
+00:53:55,06 --> 00:53:58,32
+is how simple the fundamental physics laws are.
+
+558
+00:53:58,32 --> 00:54:05,25
+Of course you might say, if it takes a couple of years to understand it, and you need to study or maybe more,
+
+559
+00:54:05,25 --> 00:54:08,02
+maybe you need to understand, study physics for five years to understand.
+
+560
+00:54:08,02 --> 00:54:08,41
+Then,
+
+561
+00:54:08,41 --> 00:54:13,63
+why are you saying they are simple?	They are simple in the sense that the actual laws that govern the emotional zone,
+
+562
+00:54:13,63 --> 00:54:20,79
+are really simple. You don’t have to come up with rules and lots of books and so on.
+
+563
+00:54:20,79 --> 00:54:27,47
+It’s been very different than the laws that you find in the senators,
+
+564
+00:54:27,47 --> 00:54:32,00
+and people produce where there are exceptions here and there.
+
+565
+00:54:33,84 --> 00:54:40,00
+Here there’s a very simple statement, and this is followed by everything we know.
+
+566
+00:54:40,00 --> 00:54:40,71
+Interviewer: It’s true?
+
+567
+00:54:40,71 --> 00:54:45,65
+Juan Maldacena: It’s true to the extent that we’ve been able to experimentally verify,
+
+568
+00:54:47,21 --> 00:54:53,47
+and the statements have simple learning language which is unfamiliar. A language which takes a long time to learn.
+
+569
+00:54:53,69 --> 00:55:03,33
+That’s what takes a long time. It’s just to learn this language in which the formula is the laws..
+
+570
+00:54:58,55 --> 00:55:03,27
+Once the laws are formulated, they’re in a very simple way. Once you [crosstalk 00:55:04]
+
+571
+00:55:03,33 --> 00:55:04,73
+Interviewer: Which one do you like the most?
+
+572
+00:55:04,73 --> 00:55:08,97
+Juan Maldacena: Well, I think the general relativity is the most beautiful theory.
+
+573
+00:55:09,42 --> 00:55:16,64
+Because it translates physics into geometry. This is a very nice theory.
+
+574
+00:55:16,64 --> 00:55:27,86
+We don’t know how to make such a beautiful theory out of quantum mechanics. Maybe it will exist at some point.
+
+575
+00:55:27,86 --> 00:55:38,82
+Interviewer: For you as a child for example, what led to this position you have right now on this frontier?
+
+576
+00:55:38,82 --> 00:55:40,41
+Where did it start?
+
+577
+00:55:40,41 --> 00:55:47,02
+Juan Maldacena: Well, as a child I was watching my father for example fixing the washing machine,
+
+578
+00:55:47,27 --> 00:55:56,32
+and trying to learn how to do it myself. Again, understanding how everyday objects work.
+
+579
+00:55:56,32 --> 00:56:01,34
+Like the washing machine, the car, the radio and so on.
+
+580
+00:56:01,34 --> 00:56:08,42
+You learn a little bit about technology and how technology exploits the laws of physics.
+
+581
+00:56:08,83 --> 00:56:21,08
+That got me interested in understanding the laws of physics which underlie technology. Seeing how far they understood..
+
+582
+00:56:17,27 --> 00:56:21,06
+What things are known, what things are not known, and [crosstalk 00:56:22]
+
+583
+00:56:21,08 --> 00:56:22,72
+Interviewer: How did you do that as a child?
+
+584
+00:56:22,72 --> 00:56:27,83
+Juan Maldacena: Well, as a child I was mostly interested in technology and how things worked.
+
+585
+00:56:27,83 --> 00:56:36,1
+Then, when I was in high school I got a little more interested in the laws of physics and chemistry.
+
+586
+00:56:35,5 --> 00:56:35,9
+and [crosstalk 00:56:37]
+
+587
+00:56:36,1 --> 00:56:40,05
+Interviewer: What did you do to explore as a child?
+
+588
+00:56:40,05 --> 00:56:48,83
+Juan Maldacena: Mainly taking things apart and seeing how they worked. That’s basically the process.
+
+589
+00:56:48,83 --> 00:56:50,08
+Interviewer: Yeah? Putting them together again?
+
+590
+00:56:50,08 --> 00:56:52,61
+Juan Maldacena: Yeah. I was taking them apart, putting them together.
+
+591
+00:56:52,96 --> 00:56:56,38
+Just learning how to fix the household appliances.
+
+592
+00:56:56,38 --> 00:57:09,91
+Interviewer: That’s practical. I mean, if you try to find out how it’s made and why it works. Of course, I guess?
+
+593
+00:57:09,91 --> 00:57:15,58
+Juan Maldacena: Right. I was always curious in understanding how things work. I mean, how does a TV work?
+
+594
+00:57:15,58 --> 00:57:21,26
+How does a radio work? What’s the actual principle it uses.
+
+595
+00:57:21,26 --> 00:57:22,88
+Interviewer: Do you know now?
+
+596
+00:57:22,88 --> 00:57:30,55
+Juan Maldacena: Yeah. I think I know the basics. I wouldn’t know all the details..
+
+597
+00:57:27,34 --> 00:57:30,22
+I guess the technology which I again [crosstalk 00:57:30]
+
+598
+00:57:30,55 --> 00:57:40,36
+Interviewer: You know, you can … You know how a television works because you understand the physics inside?
+
+599
+00:57:40,36 --> 00:57:52,15
+Or is it like comparing it to the laws of physics?
+
+600
+00:57:52,15 --> 00:57:58,1
+Juan Maldacena: Well, the TV or any simple … Any machine,
+
+601
+00:57:59,02 --> 00:58:02,82
+even simpler perhaps is better to think out the simpler machine first.
+
+602
+00:58:02,98 --> 00:58:07,78
+Has different parts, and they work together to … Each part is there for a reason,
+
+603
+00:58:08,32 --> 00:58:19,18
+and they work together to make the machine work.
+
+604
+00:58:19,18 --> 00:58:22,18
+Most of our everyday machines are … Television is made out of electronic circuits.
+
+605
+00:58:22,18 --> 00:58:34,27
+They’ll move currents around, and they do … They show the light on the screen and so on..
+
+606
+00:58:29,83 --> 00:58:33,97
+That makes a television work, and you have to understand how this [crosstalk 00:58:35]
+
+607
+00:58:34,27 --> 00:58:38,54
+Interviewer: Does a child who was your age did that?
+
+608
+00:58:38,54 --> 00:58:45,25
+Juan Maldacena: Well, maybe I was perhaps from eight to 12 would be doing this thing of taking machines apart
+
+609
+00:58:45,25 --> 00:58:47,42
+and putting them together
+
+610
+00:58:47,42 --> 00:58:51,95
+Interviewer: What did your parents say about that? Don’t do it again?
+
+611
+00:58:51,95 --> 00:58:57,1
+Juan Maldacena: No. My dad liked to do this himself, so.
+
+612
+00:58:57,1 --> 00:58:59,29
+Interviewer: Taking things apart you learned from your father?
+
+613
+00:58:59,29 --> 00:59:01,69
+Juan Maldacena: Yeah. That’s right..
+
+614
+00:59:00,34 --> 00:59:01,35
+Interviewer: What [crosstalk 00:59:02]
+
+615
+00:59:01,69 --> 00:59:10,25
+Juan Maldacena: My mother liked to give things fixed, so. My dad always liked to fix things.
+
+616
+00:59:10,25 --> 00:59:14,5
+He was very practical, and he liked the challenge of fixing.
+
+617
+00:59:14,5 --> 00:59:14,64
+Sometimes,
+
+618
+00:59:14,64 --> 00:59:22,46
+you don’t know how it works so it’s nice to have to fix something that you don’t know exactly how it works..
+
+619
+00:59:19,82 --> 00:59:22,4
+Then you manage to understand how it works [crosstalk 00:59:23]
+
+620
+00:59:22,46 --> 00:59:26,51
+Interviewer: When you are on the road, and your car has a problem you can fix it?
+
+621
+00:59:26,51 --> 00:59:33,63
+Juan Maldacena: Well, I was able to do that in the past. Now, cars got more complicated. I don’t know.
+
+622
+00:59:33,75 --> 00:59:37,68
+This car hasn’t broken down recently, so I can’t tell for sure.
+
+623
+00:59:37,68 --> 00:59:48,7
+Interviewer: It all started at a young age, and it’s almost you inherited from your father.
+
+624
+00:59:50,98 --> 00:59:52,55
+Now you are here at Princeton Advanced Studies Institute.
+
+625
+00:59:52,63 --> 01:00:08,57
+In a position where you are allowed to think as much as you can?
+
+626
+01:00:08,57 --> 01:00:14,14
+Juan Maldacena: Right. I’m encouraged to think and do research all the time.
+
+627
+01:00:14,14 --> 01:00:21,33
+Interviewer: Is it too simple to say that your job is thinking?
+
+628
+01:00:21,33 --> 01:00:23,66
+Juan Maldacena: Yeah. It’s thinking. It’s discussing.
+
+629
+01:00:23,66 --> 01:00:30,71
+Its learning what other people are thinking and reading what other people write. Trying to make a progress.
+
+630
+01:00:30,71 --> 01:00:31,64
+Interviewer: Are you thinking all the time?
+
+631
+01:00:31,64 --> 01:00:38,51
+Juan Maldacena: Well, I mean no. I’m reading what other people write.
+
+632
+01:00:38,51 --> 01:00:48,48
+I’m listening to other people’s ideas and presentations, and discussing with my colleagues..
+
+633
+01:00:45,62 --> 01:00:48,14
+We are writing formulas, and [crosstalk 01:00:51]
+
+634
+01:00:48,48 --> 01:00:56,85
+Interviewer: Can you decide, now I start thinking? Or does it happen? Or, how does it work? This thinking process.
+
+635
+01:00:56,85 --> 01:01:04,44
+Juan Maldacena: I guess the thinking normally you try to … This problem sounds very vague and grand.
+
+636
+01:01:04,61 --> 01:01:08,01
+We try to think on very concrete problems where we can make progress.
+
+637
+01:01:08,01 --> 01:01:12,61
+There are the questions that are extremely interesting, but almost impossible to solve.
+
+638
+01:01:12,61 --> 01:01:15,99
+There are questions which are perhaps too easy to solve. We try to be in between.
+
+639
+01:01:16,09 --> 01:01:20,56
+Try to find the most difficult or interesting questions that you can actually say something useful about.
+
+640
+01:01:20,56 --> 01:01:24,94
+Lots of thinking is trying to focus on such questions.
+
+641
+01:01:24,94 --> 01:01:31,6
+Try to imagine very simple toy models, or simple models where we can say something new.
+
+642
+01:01:31,6 --> 01:01:37,32
+Interviewer: Maybe a few easy answers together might solve a more difficult answer?
+
+643
+01:01:37,32 --> 01:01:41,07
+Juan Maldacena: Yeah. This thing that I was saying before. You do a step at a time.
+
+644
+01:01:41,23 --> 01:01:43,5
+We have to figure out where we do the next step.
+
+645
+01:01:43,75 --> 01:01:48,1
+Next step is in something we more or less know, but moves us in the right direction.
+
+646
+01:01:48,65 --> 01:01:52,58
+From which we can get a better view of what the next step would be.
+
+647
+01:01:52,58 --> 01:02:00,94
+Interviewer: When do you do your best thinking?.
+
+648
+01:01:55,94 --> 01:02:04,08
+Juan Maldacena: Well, I think during the day and [crosstalk 01:02:03].
+
+649
+01:02:00,94 --> 01:02:07,7
+Interviewer: Is all that you are the way [inaudible 01:02:04] For example, when you’re outside, or.
+
+650
+01:02:06,79 --> 01:02:07,58
+when you’re in the shower [crosstalk 01:02:10]
+
+651
+01:02:07,7 --> 01:02:12,88
+Juan Maldacena: It’s mostly I would say in my office, talking to other people.
+
+652
+01:02:14,11 --> 01:02:25,08
+Normally when you talk to other people, you get new ideas.
+
+653
+01:02:20,12 --> 01:02:24,83
+and usually many times ideas come together in this [crosstalk 01:02:25]
+
+654
+01:02:25,08 --> 01:02:30,81
+Interviewer: Those colleagues are gone and then you have to write down the idea?.
+
+655
+01:02:29,03 --> 01:02:30,47
+Or, do you have to [crosstalk 01:02:32]
+
+656
+01:02:30,81 --> 01:02:38,2
+Juan Maldacena: We write them together, and we certainly write articles with other people. This is important.
+
+657
+01:02:38,71 --> 01:02:42,8
+Most of my … Are with other people. We are collaborators.
+
+658
+01:02:42,8 --> 01:02:57,3
+Interviewer: Yes. Once someone said it’s hard to sit. It’s hard to sit and not to think.
+
+659
+01:02:57,3 --> 01:03:03,96
+It’s so hard to shut down your thinking. How do you think about that?
+
+660
+01:03:03,96 --> 01:03:04,96
+Juan Maldacena: Well,
+
+661
+01:03:04,96 --> 01:03:10,99
+it’s something … I guess you have to be a little obsessive sometimes to work on these problems.
+
+662
+01:03:11,23 --> 01:03:14,59
+Because you want to think of these problems and you have to know other things.
+
+663
+01:03:14,59 --> 01:03:18,76
+It’s easy to get distracted and think about something else. When you’re not making progress.
+
+664
+01:03:18,76 --> 01:03:25,38
+If you’re trying to solve a problem and you’re not making progress, it’s easy to get distracted.
+
+665
+01:03:25,38 --> 01:03:31,66
+Sometimes you need to keep trying to find solutions to that problem you initially set out to do.
+
+666
+01:03:31,66 --> 01:03:35,64
+Being slightly obsessive about it. Then you can make some progress.
+
+667
+01:03:35,64 --> 01:03:36,94
+Interviewer: You are obsessive?
+
+668
+01:03:36,94 --> 01:03:41,07
+Juan Maldacena: Slightly, yeah.
+
+669
+01:03:41,07 --> 01:03:46,81
+Interviewer: When there’s something distractive, what is your distraction?
+
+670
+01:03:46,81 --> 01:03:54,56
+Juan Maldacena: Well, it could be some other interesting idea in some other slightly different field.
+
+671
+01:03:54,56 --> 01:04:06,57
+Sometimes it’s good to be distracted. Maybe the problem you’re trying to solve was bad, and so it’s a balance.
+
+672
+01:04:06,57 --> 01:04:16,14
+Interviewer: Or, you can say this is what you’re good at, and you make progress and solutions or answers.
+
+673
+01:04:16,14 --> 01:04:31,83
+Is there also an area in which you are able to find the answers? The opposite of your talent?
+
+674
+01:04:31,83 --> 01:04:49,75
+Juan Maldacena: Yeah. I’m not sure. Fashion..
+
+675
+01:04:43,14 --> 01:04:49,42
+Interviewer: Yeah. You cannot describe that into one [crosstalk 01:04:50]
+
+676
+01:04:49,75 --> 01:04:51,09
+Juan Maldacena: That’s right.
+
+677
+01:04:51,09 --> 01:04:56,17
+Interviewer: I mean in your character.
+
+678
+01:04:56,17 --> 01:05:04,02
+If you are obsessive in finding answers in this theoretical field, but it’s also
+
+679
+01:05:04,02 --> 01:05:18,09
+when you find it you can write it down in one line. Then it’s true..
+
+680
+01:05:09,09 --> 01:05:17,9
+Unlike political laws with all the kinds of … What is the area in which [crosstalk 01:05:17]
+
+681
+01:05:18,09 --> 01:05:21,86
+Juan Maldacena: I think the process is not that you write down a formula and then it is true.
+
+682
+01:05:21,86 --> 01:05:30,01
+Normally in physics, the process is that for some physical theory to be true, you have to be compared to experiment..
+
+683
+01:05:28,34 --> 01:05:29,68
+Interviewer: I’m sorry [crosstalk 01:05:30]
+
+684
+01:05:30,01 --> 01:05:36,16
+Juan Maldacena: It’s checked against experiment. Then we become more sure that it’s probably true.
+
+685
+01:05:36,16 --> 01:05:39,46
+Can always be some other experiment that contradicts it.
+
+686
+01:05:40,02 --> 01:05:47,57
+As many experiments that agree with it, you feel more and more confident..
+
+687
+01:05:43,18 --> 01:05:48,81
+Interviewer: Yeah. I’m sorry to say that, then I say that it’s true [crosstalk 01:05:47] They agree on it.
+
+688
+01:05:48,81 --> 01:05:49,55
+Juan Maldacena: Yeah.
+
+689
+01:05:50,04 --> 01:06:00,85
+Many times … A lot of our work sometimes is to … There are some mathematical relations like … The reason for this
+
+690
+01:06:00,85 --> 01:06:08,09
+is that some of our work is mathematics, is because the laws of physics are written in this mathematical language.
+
+691
+01:06:09,01 --> 01:06:16,38
+Sometimes even laws which are in principle simple like this equations of Einstein, which are simple to write down,
+
+692
+01:06:16,38 --> 01:06:18,95
+but they’re very difficult to solve.
+
+693
+01:06:18,95 --> 01:06:27,67
+You need your computers, and with time engineers, ideas to solve the questions,
+
+694
+01:06:27,67 --> 01:06:31,78
+and …Once you find for example some solution of the equation, you can check that it is the solution.
+
+695
+01:06:31,78 --> 01:06:38,92
+Then it becomes a true solution. That’s an example way.	That’s where you could say, well its mathematics.
+
+696
+01:06:38,92 --> 01:06:43,2
+It’s within the … If you assume the questions are the correct description of physics,
+
+697
+01:06:43,49 --> 01:06:45,36
+this is a solution of the equations.
+
+698
+01:06:45,36 --> 01:06:48,72
+Interviewer: Correct me if I’m wrong,
+
+699
+01:06:48,99 --> 01:06:56,41
+but mathematics is like an instrument for you to understand what you need to understand. What you want to understand?
+
+700
+01:06:56,41 --> 01:07:00,7
+Juan Maldacena: Exactly. Before we were talking about the language in which these laws are written.
+
+701
+01:07:00,82 --> 01:07:07,9
+This is a language that is fairly mathematical..
+
+702
+01:07:04,32 --> 01:07:07,66
+You need to know enough mathematics to be able to understand the [crosstalk 01:07:08]
+
+703
+01:07:07,9 --> 01:07:13,98
+Interviewer: I can imagine that this mathematics, you are talented for using it.
+
+704
+01:07:15,26 --> 01:07:21,17
+It’s a way to look around you and follow your obsession.
+
+705
+01:07:22,04 --> 01:07:29,11
+There are also very much a lot of areas in which mathematics just doesn’t work.
+
+706
+01:07:30,47 --> 01:07:40,52
+Then you … Which areas are that, that you cannot use math?
+
+707
+01:07:40,52 --> 01:07:45,17
+Juan Maldacena: There are many areas I really like where we don’t necessarily use math.
+
+708
+01:07:45,17 --> 01:07:50,16
+If I want to learn the piano, math is not very useful.
+
+709
+01:07:50,16 --> 01:07:56,93
+Or if I want to play soccer, I learned to play soccer but math is not very useful.
+
+710
+01:07:56,93 --> 01:07:58,2
+You just have to practice playing soccer.
+
+711
+01:07:58,52 --> 01:08:08,22
+If I want to cook [data 01:08::01] in my lunch or cook a nice meal, math is also not very useful..
+
+712
+01:08:06,21 --> 01:08:08,01
+There are lots of areas but [crosstalk 01:08:08]
+
+713
+01:08:08,22 --> 01:08:11,76
+Interviewer: What are the things which you are not good at?
+
+714
+01:08:11,76 --> 01:08:17,95
+Juan Maldacena: Playing soccer, and sports.
+
+715
+01:08:17,95 --> 01:08:20,92
+Interviewer: Do you like it?
+
+716
+01:08:20,92 --> 01:08:22,92
+Juan Maldacena: I do it sometimes.
+
+717
+01:08:22,92 --> 01:08:31,25
+Interviewer: Is that an aspect of mathematics as well? That you can like it?
+
+718
+01:08:31,25 --> 01:08:36,16
+Juan Maldacena: If I like mathematics because of some aspect?
+
+719
+01:08:36,16 --> 01:08:43,32
+I like some aspects of mathematics because first it’s a nice tool to describe physics and,
+
+720
+01:08:44,25 --> 01:08:47,17
+I certainly like it’s interesting.
+
+721
+01:08:47,17 --> 01:08:53,24
+While mathematics is also a subject on its own and it’s huge, I know a little bit of mathematics,
+
+722
+01:08:53,24 --> 01:08:57,43
+and I write down the mathematics I think would be useful for this problem.
+
+723
+01:08:59,53 --> 01:09:05,1
+Sometimes people need to learn, invent some new mathematics to solve these problems.
+
+724
+01:09:05,1 --> 01:09:15,69
+Interviewer: Yeah. For example, I’m much more comfortable when I talk to people, trying to understand people.
+
+725
+01:09:17,44 --> 01:09:20,96
+I’m not comfortable when I talk with other people about mathematics.
+
+726
+01:09:21,71 --> 01:09:32,98
+Because it’s not my thing, or my talent, or … I choose the things in which I’m comfortable,
+
+727
+01:09:33,32 --> 01:09:34,92
+and that’s what I’m doing right now.
+
+728
+01:09:34,92 --> 01:09:39,86
+I’m [firmly 01:09:36] interviewing people, trying to have that person at work.
+
+729
+01:09:39,86 --> 01:09:43,56
+Juan Maldacena: Right. That’s true.
+
+730
+01:09:44,35 --> 01:09:51,41
+We all know what our strengths are, and we try to do an activity where we can really use our talents.
+
+731
+01:09:51,41 --> 01:09:59,12
+Yeah, certainly I would be a very bad interviewer. To know what the other person is thinking or trying to guess it.
+
+732
+01:09:59,12 --> 01:10:02,12
+Yeah, we all do these various talents.
+
+733
+01:10:04,31 --> 01:10:11,5
+Our natural … Well, we develop some talents and I guess through part of our lives, we continue developing them
+
+734
+01:10:11,51 --> 01:10:13,72
+and we get better at those areas.
+
+735
+01:10:13,72 --> 01:10:28,27
+Interviewer: Anna, told me about … Because I don’t want to forget that one.
+
+736
+01:10:29,48 --> 01:10:37,85
+Two stories she told about the mountain and a valley, and about Romeo and Juliet.
+
+737
+01:10:37,85 --> 01:10:41,54
+Juan Maldacena: Okay.
+
+738
+01:10:41,54 --> 01:10:52,49
+Interviewer: Do you think it’s interesting to tell that? For understanding your theory?
+
+739
+01:10:52,49 --> 01:10:56,92
+Juan Maldacena: Yeah. I’m trying to remember what the story about the mountain and the valley was.
+
+740
+01:10:56,92 --> 01:11:06,12
+Interviewer: That if you live in a mountain … a valley,.
+
+741
+01:11:01,27 --> 01:11:05,96
+and you have no reason to go up on the mountain because you cannot go [crosstalk 01:11:07]
+
+742
+01:11:06,12 --> 01:11:12,59
+Juan Maldacena: Oh, yeah. This was … I think the original question was, was this useful for anything?
+
+743
+01:11:12,59 --> 01:11:19,53
+Or, what are the technological applications of this research, or this area of research?
+
+744
+01:11:22,43 --> 01:11:27,04
+This area of research doesn’t have a direct technological application that we know of.
+
+745
+01:11:29,76 --> 01:11:33,22
+We do it because we want to know wand we want to understand.
+
+746
+01:11:34,49 --> 01:11:39,46
+An analogy is that to think that we have, let’s say, a town that lives in a valley.
+
+747
+01:11:39,46 --> 01:11:44,23
+The valley’s fertile and they grow corn, and their grow food in the valley.
+
+748
+01:11:44,23 --> 01:11:49,34
+There’s a nearby mountain and there’s mountains surrounding the valley.
+
+749
+01:11:49,82 --> 01:11:56,19
+Someone might decide to go up the mountain just to see what’s there.	The expedition of going up the mountain might be
+
+750
+01:11:56,19 --> 01:12:01,65
+totally useless for growing better corn, or you’ll not plant anything nice in the mountains.
+
+751
+01:12:01,65 --> 01:12:07,74
+Certainly going up the mountain might give you better view of the valley.
+
+752
+01:12:07,74 --> 01:12:12,61
+Might help you understand where this valley is located. It might allow you to see another valley.
+
+753
+01:12:13,11 --> 01:12:16,51
+This is not guaranteed. Maybe there are all mountains, and there are no other valleys.
+
+754
+01:12:16,51 --> 01:12:21,4
+It’s certainly part of the curiosity of seeing where we are,
+
+755
+01:12:21,54 --> 01:12:32,19
+and to extend the frontier to really understand better where we are sitting in the universe.
+
+756
+01:12:32,19 --> 01:12:36,21
+This is one direction in which we can go and certainly that’s where we … I mean,
+
+757
+01:12:36,45 --> 01:12:39,27
+it’s like a mountain that it’s there.	We’re trying to go to the summit
+
+758
+01:12:39,27 --> 01:12:49,24
+and try to understand the summit is understanding the big bang singularity..
+
+759
+01:12:43,36 --> 01:12:49,14
+Is understanding the beginning of the big bang. I will try to climb this mountain the whole way. [crosstalk 01:12:50]
+
+760
+01:12:49,24 --> 01:12:52,84
+Interviewer: Are you on the mountain?
+
+761
+01:12:52,84 --> 01:12:55,32
+Juan Maldacena: Well, we don’t know. Because we don’t have a view of the mountain from outside.
+
+762
+01:12:55,32 --> 01:13:00,02
+We only know that we are climbing. I think we are confident we are climbing. We are not going down.
+
+763
+01:13:00,02 --> 01:13:02,02
+There must be a summit.
+
+764
+01:13:02,02 --> 01:13:03,69
+Interviewer: It’s a nice one.
+

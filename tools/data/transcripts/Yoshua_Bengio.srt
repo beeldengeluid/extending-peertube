@@ -1,0 +1,3680 @@
+1
+00:00:00,00 --> 00:00:04,5
+Yoshua: Yes, my name is Yoshua Bengio. And I am a professor here at the University of Montreal.
+
+2
+00:00:05,61 --> 00:00:09,86
+I also lead an institute called the Montreal Institute for Learning Algorithms,
+
+3
+00:00:10,38 --> 00:00:18,08
+that is specializing in my area of science, which is machine learning, how computers learn from examples.
+
+4
+00:00:18,08 --> 00:00:27,68
+Speaker 2: And what is the difference between, you say, machine learning?
+
+5
+00:00:27,68 --> 00:00:27,7
+Yoshua: Yes.
+
+6
+00:00:27,7 --> 00:00:27,78
+Speaker 2: But there's also this new thing called deep learning.
+
+7
+00:00:27,78 --> 00:00:27,8
+Yoshua: Right.
+
+8
+00:00:27,8 --> 00:00:31,21
+Speaker 2: What's the easiest way to,
+
+9
+00:00:31,21 --> 00:00:39,9
+Yoshua: Yes, so deep learning is inside machine learning, it's one of the approaches to machine learning.
+
+10
+00:00:40,63 --> 00:00:45,29
+Machine learning is very general, it's about learning from examples.
+
+11
+00:00:45,4 --> 00:00:51,41
+And scientists over the last few decades have proposed many approaches for allowing computers to learn from examples.
+
+12
+00:00:51,75 --> 00:01:03,09
+Deep learning is introducing a particular notion that the computer learns to represent information
+
+13
+00:01:03,09 --> 00:01:07,3
+and to do so at multiple levels of abstraction.
+
+14
+00:01:07,3 --> 00:01:10,65
+What I'm saying is a bit abstract, but to make it easier,
+
+15
+00:01:10,65 --> 00:01:17,07
+you could say that deep learning is also heavily inspired by what we know of the brain, of how neurons compute.
+
+16
+00:01:17,91 --> 00:01:26,32
+And it's a follow up on decades of earlier work, on what's called neural networks, or artificial neural networks.
+
+17
+00:01:26,32 --> 00:01:31,98
+Speaker 2: So, what is your background that you can relate to this?
+
+18
+00:01:31,98 --> 00:01:40,44
+Yoshua: I got interested in neural networks and machine learning, right at the beginning of my graduate studies.
+
+19
+00:01:40,7 --> 00:01:43,91
+So when I was doing my master's, I was looking for a subject
+
+20
+00:01:43,91 --> 00:01:46,09
+and I started reading some of these papers on neural networks.
+
+21
+00:01:46,37 --> 00:01:50,89
+And this was the early days of the so-called Connectionist Movement.
+
+22
+00:01:51,32 --> 00:01:54,58
+And I got really, really excited and I started reading more.
+
+23
+00:01:54,75 --> 00:02:02,28
+And I told the professor who was gonna supervise me that this is what I want to do.
+
+24
+00:02:02,28 --> 00:02:04,94
+And that's what I did, and I continued doing it and I'm still doing it.
+
+25
+00:02:04,94 --> 00:02:14,52
+Speaker 2: And do you think with your research, that you are on a route or a mainline, main thinking line,
+
+26
+00:02:19,46 --> 00:02:22,08
+which will get you somewhere?
+
+27
+00:02:22,08 --> 00:02:24,93
+Yoshua: So, say it's funny that you ask this question, cuz it depends.
+
+28
+00:02:24,93 --> 00:02:34,06
+It's like some days I feel very clearly that I know where I'm going and I can see very far.
+
+29
+00:02:34,22 --> 00:02:44,34
+I have the impression that I'm seeing far in the future and I see also where I've been and there's a very clear path.
+
+30
+00:02:44,34 --> 00:02:50,68
+And sometimes maybe I get more discouraged and I feel, where am I going? [LAUGH]
+
+31
+00:02:50,68 --> 00:02:55,99
+Yoshua: It's all exploration, I don't know where the future, what the future holds, of course.
+
+32
+00:02:56,00 --> 00:02:59,65
+So I go between these two states, which you need.
+
+33
+00:02:59,65 --> 00:03:01,65
+Speaker 2: Where are you now?
+
+34
+00:03:01,65 --> 00:03:11,2
+Yoshua: Right now I'm pretty positive about a particular direction.
+
+35
+00:03:11,2 --> 00:03:20,02
+I've moved to some fundamental questions that I find really exciting, and that's kind of driving a lot of my thinking,
+
+36
+00:03:21,28 --> 00:03:22,62
+looking forward.
+
+37
+00:03:22,62 --> 00:03:27,67
+Speaker 2: Can you tell me, I'm a not a scientist, most of our viewers are not as well.
+
+38
+00:03:27,93 --> 00:03:39,75
+But can you describe for me where you think your path leads to?
+
+39
+00:03:39,75 --> 00:03:42,21
+Because you sometimes you have a clear goal, you know where you're going.
+
+40
+00:03:42,21 --> 00:03:42,71
+Yoshua: Right.
+
+41
+00:03:42,71 --> 00:03:43,69
+Speaker 2: Where are you going?
+
+42
+00:03:43,69 --> 00:03:45,7
+Yoshua: So,
+
+43
+00:03:45,7 --> 00:03:53,14
+Yoshua: My main quest is to understand the principles that underlie intelligence.
+
+44
+00:03:53,14 --> 00:03:59,57
+And I believe that this happens through learning, that intelligent behavior arises in nature
+
+45
+00:03:59,57 --> 00:04:02,45
+and in the computers that we're building through learning.
+
+46
+00:04:02,6 --> 00:04:09,71
+The machine, the animal, the human becomes intelligent because it learns.
+
+47
+00:04:10,37 --> 00:04:19,96
+And understanding the underlying principles is like understanding the laws of aerodynamics for building airplanes,
+
+48
+00:04:19,96 --> 00:04:20,5
+right?
+
+49
+00:04:21,04 --> 00:04:29,72
+So I and others in my field are trying to figure out what is the equivalent of the laws of aerodynamics
+
+50
+00:04:29,73 --> 00:04:30,79
+but for intelligence.
+
+51
+00:04:31,53 --> 00:04:37,75
+So that's the quest, and we are taking inspiration from brains,
+
+52
+00:04:38,71 --> 00:04:46,17
+we're taking inspiration from a lot of our experiments that we're doing with computers trying to learn from data.
+
+53
+00:04:46,76 --> 00:04:58,5
+We're taking inspiration from other disciplines, from physics, from psychology, neuroscience.
+
+54
+00:05:00,46 --> 00:05:09,38
+And other fields, even electrical engineering, of course statistics, I mean, it's a very multi-disciplinary area.
+
+55
+00:05:09,38 --> 00:05:11,35
+Speaker 2: So you must have a clue?
+
+56
+00:05:11,35 --> 00:05:21,35
+Yoshua: Yes, I do. [LAUGH] So, one of the, well, may not be so easy to explain.
+
+57
+00:05:21,35 --> 00:05:25,02
+But one of the big mysteries about how brains manage to do what they do,
+
+58
+00:05:25,17 --> 00:05:29,45
+is what scientists have called for many decades the question of credit assignment.
+
+59
+00:05:30,16 --> 00:05:38,64
+That is, how do neurons in the middle of your brain, hidden somewhere, get to know how they should change.
+
+60
+00:05:38,92 --> 00:05:44,27
+What they should be doing that will be useful for the whole collective, that is, the brain.
+
+61
+00:05:44,81 --> 00:05:52,43
+And we don't know how brains do it, we now have algorithms that do a pretty good job at it.
+
+62
+00:05:52,71 --> 00:05:55,00
+They have their limitations
+
+63
+00:05:55,44 --> 00:06:01,47
+but one of the things I'm trying to do is to better understand this credit assignment question.
+
+64
+00:06:01,47 --> 00:06:09,00
+And it's crucial for deep learning, because deep learning is about having many levels of neurons talking to each other.
+
+65
+00:06:09,01 --> 00:06:15,12
+So that's why we call them deep, there are many layers of neurons. That's what gives them their power.
+
+66
+00:06:15,23 --> 00:06:22,97
+But the challenge is, how do we train them, how do they learn? And it gets harder the more layers you have.
+
+67
+00:06:23,52 --> 00:06:29,91
+So, in the 80s people found how train networks with a single, hidden layer.
+
+68
+00:06:30,73 --> 00:06:35,01
+So just not very deep, but they were already able to do interesting things.
+
+69
+00:06:35,52 --> 00:06:40,46
+And about ten years ago we started discovering ways to train much deeper networks,
+
+70
+00:06:40,69 --> 00:06:44,2
+and that's what led to this current revolution called deep learning.
+
+71
+00:06:44,2 --> 00:06:51,74
+Speaker 2: And this revolution, I didn't read it in the papers, so it's not front page news,
+
+72
+00:06:51,74 --> 00:06:53,87
+but for the science world it's a breakthrough.
+
+73
+00:06:53,87 --> 00:07:03,51
+Yoshua: Yes, so in the world of artificial intelligence there has been a big shift brought by deep learning.
+
+74
+00:07:04,04 --> 00:07:10,95
+So there has been some scientific advances but then it turned into advances in application.
+
+75
+00:07:11,26 --> 00:07:20,03
+So very quickly these techniques turned out to be very useful for improving how computers understand speech for example,
+
+76
+00:07:20,03 --> 00:07:21,19
+that speech recognition.
+
+77
+00:07:21,2 --> 00:07:27,27
+And then later much bigger, I would say, in terms of impact, effect fact happened
+
+78
+00:07:27,45 --> 00:07:33,88
+when we discovered that these algorithms could be very good for object recognition from images.
+
+79
+00:07:34,18 --> 00:07:40,25
+And now many other tasks in computer vision are being done using these kinds of networks.
+
+80
+00:07:40,26 --> 00:07:41,43
+These deep networks
+
+81
+00:07:41,43 --> 00:07:47,31
+or some specialized version of deep networks called convolutional networks that work well for images.
+
+82
+00:07:48,58 --> 00:07:53,56
+And then it moves on, so now people are doing a lot of work on natural language.
+
+83
+00:07:53,99 --> 00:08:03,23
+Trying to have the computer to understand English sentences, what you mean Being able to answer some questions
+
+84
+00:08:03,23 --> 00:08:10,99
+and so on. So these are applications but they have a huge economic impact and even more in the future.
+
+85
+00:08:11,8 --> 00:08:20,1
+That has attracted a lot of attention from other scientists, from the media,
+
+86
+00:08:20,61 --> 00:08:26,02
+and from of course business people who are investing billions of dollars into this right now.
+
+87
+00:08:26,02 --> 00:08:31,81
+Speaker 2: Yeah, is it exciting for you to be in the middle of this new development?
+
+88
+00:08:31,81 --> 00:08:37,07
+Yoshua: It is, it is very exciting and it's not something I had really expected.
+
+89
+00:08:37,75 --> 00:08:43,3
+Because ten years ago when we started working on this there were very few people in the world,
+
+90
+00:08:43,47 --> 00:08:45,96
+maybe a handful of people interested in these questions.
+
+91
+00:08:46,49 --> 00:08:53,87
+And initially it started very slowly we, it was difficult to get money for these kinds of things.
+
+92
+00:08:53,88 --> 00:08:59,32
+It was difficult to convince students to work on these kinds of things.
+
+93
+00:08:59,32 --> 00:09:05,41
+Speaker 2: Well maybe you can explain to me the ten years, or whatever,
+
+94
+00:09:05,41 --> 00:09:06,41
+12 years ago you were three people because it was not popular [CROSSTALK]
+
+95
+00:09:06,41 --> 00:09:09,4
+Yoshua: Right, that's right, that's right. Yes, that's right.
+
+96
+00:09:09,4 --> 00:09:18,09
+So there has been a decade before the last decade where this kind of research essentially went out of fashion.
+
+97
+00:09:18,63 --> 00:09:20,1
+People moved on to other interests.
+
+98
+00:09:20,11 --> 00:09:29,3
+They lost the ambition to actually get AI, to get machines to be as intelligent as us,
+
+99
+00:09:30,92 --> 00:09:35,76
+and also the connection between neuroscience and machine learning, it got divorced.
+
+100
+00:09:36,4 --> 00:09:45,87
+But a few people including myself and Jeff Hinton and Yann Lecun continued doing this and we started to have good results.
+
+101
+00:09:46,02 --> 00:09:52,84
+And other people in the world were also doing this and more people joined us.
+
+102
+00:09:53,27 --> 00:10:01,01
+And in a matter of about five years it started to be a more accepted area and then the applications,
+
+103
+00:10:02,17 --> 00:10:06,38
+the success in applications started to happen, and now it's crazy.
+
+104
+00:10:07,78 --> 00:10:14,22
+We get hundreds of applicants, for example, for doing grad studies here and companies are hiring like crazy
+
+105
+00:10:16,44 --> 00:10:20,01
+and buying scientists for their research labs.
+
+106
+00:10:20,01 --> 00:10:24,03
+Speaker 2: Do you notice that. Do they approach you as well?
+
+107
+00:10:24,03 --> 00:10:25,62
+Yoshua: Yeah.
+
+108
+00:10:25,62 --> 00:10:26,49
+Speaker 2: Big companies.
+
+109
+00:10:26,49 --> 00:10:27,15
+Yoshua: Yes. [LAUGH]
+
+110
+00:10:27,15 --> 00:10:31,3
+Yoshua: So I could be much richer. [LAUGH]
+
+111
+00:10:31,3 --> 00:10:33,41
+Yoshua: But I chose to stay in academia.
+
+112
+00:10:33,41 --> 00:10:43,8
+Speaker 2: So you've made some good thinking? And now it has become popular.
+
+113
+00:10:43,8 --> 00:10:44,26
+Yoshua: Yes.
+
+114
+00:10:44,26 --> 00:10:46,83
+Speaker 2: But, it has become valuable as well.
+
+115
+00:10:46,83 --> 00:10:49,57
+Yoshua: Yes, very valuable, yes.
+
+116
+00:10:49,57 --> 00:10:51,02
+Speaker 2: Why? Maybe-
+
+117
+00:10:51,02 --> 00:11:05,68
+Yoshua: Basically it's at the heart of what companies like Google, Microsoft, IBM, Facebook, Samsung, Amazon, Twitter.
+
+118
+00:11:05,68 --> 00:11:05,87
+Speaker 2: Why?
+
+119
+00:11:05,87 --> 00:11:14,34
+Yoshua: All of these companies they see this as a key technology for their future products
+
+120
+00:11:14,34 --> 00:11:16,59
+and some of the existing products already.
+
+121
+00:11:16,59 --> 00:11:17,26
+Speaker 2: And
+
+122
+00:11:17,26 --> 00:11:18,92
+Speaker 2: Are they right?
+
+123
+00:11:18,92 --> 00:11:30,37
+Yoshua: Yeah, they are. Of course, I don't have a crystal ball.
+
+124
+00:11:30,38 --> 00:11:38,03
+So there are a lot of research questions which remain unsolved, and it might take just a couple of years
+
+125
+00:11:38,03 --> 00:11:44,46
+or decades to solve them, we don't know. But even if, say, scientific research on the topic stopped right now.
+
+126
+00:11:44,98 --> 00:11:52,82
+And you took the current state of the arts in terms of the science, and you just applied it, right,
+
+127
+00:11:53,85 --> 00:11:59,92
+collecting lots of data sets because these items need a lot of data.
+
+128
+00:11:59,92 --> 00:12:03,84
+Just applying the current science would already have a huge impact on society.
+
+129
+00:12:04,19 --> 00:12:09,2
+So I don't think they're making a very risky bet,
+
+130
+00:12:10,53 --> 00:12:14,65
+but it could be even better because we could actually approach human level intelligence.
+
+131
+00:12:14,65 --> 00:12:17,05
+Speaker 2: You know that or you think so?
+
+132
+00:12:17,05 --> 00:12:18,88
+Yoshua: We could.
+
+133
+00:12:18,95 --> 00:12:31,88
+I think that we'll have other challenges to deal with and some of them we currently know are in front of us,
+
+134
+00:12:31,88 --> 00:12:34,66
+others we probably will discover when we get there.
+
+135
+00:12:34,66 --> 00:12:43,97
+Speaker 2: So now you're in the middle of a field of exciting research.
+
+136
+00:12:43,97 --> 00:12:44,48
+Yoshua: Yeah.
+
+137
+00:12:44,48 --> 00:12:47,28
+Speaker 2: That you know you're right and you have the goal and sometimes you see it clearly,
+
+138
+00:12:47,28 --> 00:12:48,23
+and it has become popular around people who want to study here.
+
+139
+00:12:48,23 --> 00:12:48,45
+Yoshua: Yep.
+
+140
+00:12:48,45 --> 00:12:50,19
+Speaker 2: And the companies want to invest in you.
+
+141
+00:12:50,19 --> 00:12:51,95
+Yoshua: Yes.
+
+142
+00:12:51,95 --> 00:12:55,83
+Speaker 2: So you must feel a lot of tension or a lot of-
+
+143
+00:12:55,83 --> 00:12:58,56
+Yoshua: It's true, it's true. Sudden.
+
+144
+00:12:58,56 --> 00:13:02,81
+Speaker 2: How does it feel to be in the middle of this development?
+
+145
+00:13:02,81 --> 00:13:11,79
+Yoshua: So initially it's exhilarating to have all this attention, and it's great to have all this recognition.
+
+146
+00:13:11,8 --> 00:13:21,17
+And also, its great to attract really the best minds that are coming here for doing PhD's and things like that.
+
+147
+00:13:21,89 --> 00:13:29,81
+It's absolutely great. But sometimes I feel that it's been too much, that I don't deserve that much attention.
+
+148
+00:13:30,4 --> 00:13:41,74
+And that all these interactions with media and so on are taking time away from my research
+
+149
+00:13:41,74 --> 00:13:47,23
+and I have to find the right balance here.
+
+150
+00:13:47,41 --> 00:13:55,18
+I think It is really important to continue to explain what we're doing so that more people can learn about it
+
+151
+00:13:55,18 --> 00:13:58,91
+and take advantage of it, or become researchers themselves in this area.
+
+152
+00:13:59,18 --> 00:14:07,74
+But I need to also focus my main strength which is not speaking to journalists.
+
+153
+00:14:07,74 --> 00:14:17,43
+My main strength is to come up with new ideas, crazy schemes, and interacting with students to build new things.
+
+154
+00:14:17,43 --> 00:14:20,82
+Speaker 2: Have you thought of the possibility that you're wrong?
+
+155
+00:14:20,82 --> 00:14:33,98
+Yoshua: Well, of course, science is an exploration. And I'm often wrong.
+
+156
+00:14:33,98 --> 00:14:38,68
+I propose ten things, nine of which end up not working.
+
+157
+00:14:39,14 --> 00:14:51,92
+But we make progress, so I get frequent positive feedback that tells me that we're moving in the right direction.
+
+158
+00:14:51,92 --> 00:14:53,11
+Speaker 2: If your right enough to go on.
+
+159
+00:14:53,11 --> 00:15:00,93
+Yoshua: Yes, yes, yes and these days because the number of people working on this has grown really fast,
+
+160
+00:15:01,24 --> 00:15:05,87
+the rate at which advances come is incredible.
+
+161
+00:15:06,11 --> 00:15:15,12
+The speed of progress in this field has greatly accelerated and mostly because there are more people doing it.
+
+162
+00:15:15,12 --> 00:15:17,66
+Speaker 2: And this is also reflected in what the companies do with it.
+
+163
+00:15:17,66 --> 00:15:25,32
+Yoshua: Yes, so companies are investing a lot in basic research in this field which is unusual.
+
+164
+00:15:25,84 --> 00:15:30,9
+Typically companies would invest in applied research where they take existing algorithms
+
+165
+00:15:31,3 --> 00:15:34,87
+and try to make them use them for products.
+
+166
+00:15:34,88 --> 00:15:40,19
+But right now there's a big war between these big IT companies to attract talent.
+
+167
+00:15:40,7 --> 00:15:46,88
+And also they understand that there is the potential impact,
+
+168
+00:15:47,31 --> 00:15:52,78
+the potential benefit of future research is probably even greater than what we have already achieved.
+
+169
+00:15:52,78 --> 00:16:00,01
+So for these two reasons, they have invested a lot in basic research and they are basically making offers to.
+
+170
+00:16:00,24 --> 00:16:00,48
+Professors
+
+171
+00:16:00,48 --> 00:16:07,35
+and students in the field to come work with them in an environment that looks a little bit like what you have in
+
+172
+00:16:07,57 --> 00:16:13,36
+universities where they have a lot of freedom, they can publish, they can go to conferences and talk with their peers.
+
+173
+00:16:13,7 --> 00:16:20,96
+So it's a good time for the progress of science because companies are working in the same direction as universities
+
+174
+00:16:20,96 --> 00:16:23,81
+towards really fundamental questions.
+
+175
+00:16:23,81 --> 00:16:25,58
+Speaker 2: But then they own it, that's the difference?
+
+176
+00:16:25,58 --> 00:16:32,44
+Yoshua: Yeah, that's something that's one of the reasons why I'm staying in academia.
+
+177
+00:16:32,44 --> 00:16:40,02
+I want to make sure that what I do is going to be, not owned by a particular person, but available for anyone.
+
+178
+00:16:40,02 --> 00:16:42,36
+Speaker 2: But is that the risk?
+
+179
+00:16:42,36 --> 00:16:49,69
+Is it really a risk that because the knowledge is owned by a company that, why would it be a risk?
+
+180
+00:16:49,69 --> 00:17:04,55
+Yoshua: I don't think it's a big deal right now, so the major research, industrial research centers,
+
+181
+00:17:04,55 --> 00:17:10,52
+they publish a lot of what they do.
+
+182
+00:17:10,88 --> 00:17:15,02
+And they do have patents, but they say that these patents are protective so in case somebody would sue them.
+
+183
+00:17:15,02 --> 00:17:19,78
+But they won't prevent other people, other companies using their technologies. At least that's what they say.
+
+184
+00:17:20,1 --> 00:17:30,65
+So right now there's a lot of openness in the business environment for this field.
+
+185
+00:17:30,66 --> 00:17:32,39
+We'll see how things are in the future.
+
+186
+00:17:32,39 --> 00:17:38,7
+There's always a danger of companies coming to a point where they become protective.
+
+187
+00:17:38,7 --> 00:17:43,69
+But then what I think is that companies who pull themselves out of the community,
+
+188
+00:17:43,69 --> 00:17:50,17
+and not participate to the scientific progress and exchange with the others. They will not progress as fast.
+
+189
+00:17:50,17 --> 00:17:57,93
+And I think that's the reason, they understand that, if they want to see the most benefits from this progress,
+
+190
+00:17:58,07 --> 00:18:04,82
+they have to be part of the public game of exchanging information and not keeping information secret.
+
+191
+00:18:04,82 --> 00:18:06,45
+Speaker 2: Part of the mind of the universe.
+
+192
+00:18:06,45 --> 00:18:15,97
+Yoshua: Yes, exactly. Part of the collective that we're building of all our ideas and our understanding of the world.
+
+193
+00:18:17,00 --> 00:18:24,2
+There is something about doing it personally into in that enables us to be more powerful and understanding.
+
+194
+00:18:24,2 --> 00:18:27,00
+If we're just trying to be consumers of ideas.
+
+195
+00:18:27,29 --> 00:18:31,87
+We're not mastering those ideas as well as if we're actually trying to improve them.
+
+196
+00:18:32,81 --> 00:18:32,98
+So
+
+197
+00:18:32,98 --> 00:18:43,02
+when we do research we get on top of things much more than if we're simply trying to understand some existing paper
+
+198
+00:18:43,02 --> 00:18:45,22
+and trying to use it for some product.
+
+199
+00:18:45,73 --> 00:18:53,91
+So there's something that is strongly enabling for companies to do that kind of thing, but that's new.
+
+200
+00:18:54,53 --> 00:19:01,92
+One decade ago for example many companies were shutting down their research labs and so on,
+
+201
+00:19:01,93 --> 00:19:03,64
+so it was a different spirit.
+
+202
+00:19:03,75 --> 00:19:14,33
+But right now, the spirit is openness, sharing, and participating in the common development of ideas through science
+
+203
+00:19:14,33 --> 00:19:16,53
+and publication and so on.
+
+204
+00:19:16,53 --> 00:19:22,6
+Speaker 2: It's funny that you said basic research is the same thing as fundamental research
+
+205
+00:19:22,6 --> 00:19:24,67
+Yoshua: Yes, yes. Yes.
+
+206
+00:19:24,67 --> 00:19:27,67
+Speaker 2: And that it becomes popular in some way.
+
+207
+00:19:27,67 --> 00:19:30,95
+Yoshua: Well, I think first of all it's appealing.
+
+208
+00:19:30,95 --> 00:19:39,06
+I mean as a person, I find researchers, PhD's candidate or professor or something.
+
+209
+00:19:39,66 --> 00:19:45,53
+It's much more appealing to me to know that what I do will be a contribution to humanity, right,
+
+210
+00:19:45,53 --> 00:19:49,22
+rather than something secret that only I and a few people would know about
+
+211
+00:19:49,22 --> 00:19:55,24
+and maybe some people will make a lot of money out of it that. I don't think it's as satisfying.
+
+212
+00:19:56,21 --> 00:20:01,3
+And as I said I think there are circumstances right now, that even from purely economic point of view,
+
+213
+00:20:01,3 --> 00:20:06,99
+is more interesting for companies to share right now. And be part of the research.
+
+214
+00:20:06,99 --> 00:20:25,87
+Speaker 2: So I think first to understand what you're really into I would like to know from you some basic definitions.
+
+215
+00:20:25,87 --> 00:20:26,8
+Yoshua: Yes.
+
+216
+00:20:26,8 --> 00:20:28,14
+Speaker 2: For example.
+
+217
+00:20:28,14 --> 00:20:37,94
+Speaker 2: What in your way of thinking is, and would you describe thinking?
+
+218
+00:20:37,94 --> 00:20:38,94
+Yoshua: Yes.
+
+219
+00:20:38,94 --> 00:20:39,61
+Speaker 2: What is thinking?
+
+220
+00:20:39,61 --> 00:20:43,67
+Yoshua: Right, well obviously we don't know. Because the brain-
+
+221
+00:20:43,67 --> 00:20:44,61
+Speaker 2: What do we don't know?
+
+222
+00:20:44,61 --> 00:20:48,99
+Yoshua: We don't know how the brain works. We have a lot of information about it.
+
+223
+00:20:51,14 --> 00:20:59,61
+Too much maybe, but not enough of the kind that allows us to figure out the basic principles of how we think,
+
+224
+00:20:59,81 --> 00:21:07,57
+and what does it mean at a very abstract level. But of course, I have my own understanding, so I can share that.
+
+225
+00:21:07,57 --> 00:21:16,46
+And with the kinds of equations I drew on the board there, and other people in my field.
+
+226
+00:21:16,63 --> 00:21:32,49
+There's this notion that what thinking is about is adjusting your mental configuration to be more coherent,
+
+227
+00:21:32,88 --> 00:21:37,94
+more consistent with everything you have observed, right?
+
+228
+00:21:38,29 --> 00:21:44,71
+And more typically, the things you're thinking about, or what you are currently observing.
+
+229
+00:21:44,72 --> 00:21:53,12
+So if I observe a picture, my neurons change their state to be in agreement with that picture and agreement,
+
+230
+00:21:53,43 --> 00:21:58,75
+given everything that the brain already knows, means that they are looking or an interpretation for that image.
+
+231
+00:21:59,07 --> 00:22:04,42
+Which may be related to things I could do that are related like I see this,
+
+232
+00:22:04,48 --> 00:22:08,54
+I need to go there because it tells me a message that matters to me.
+
+233
+00:22:08,55 --> 00:22:14,94
+So everything we know is somehow built in this internal model of the world that our brain has
+
+234
+00:22:14,94 --> 00:22:21,62
+and you get all these pieces of evidence each time we hear something, we listen to something
+
+235
+00:22:21,9 --> 00:22:30,89
+and our brain is actuating all of that stuff and then what it does is try to make sense of it,
+
+236
+00:22:30,89 --> 00:22:39,15
+reconcile the pieces like a piece of a puzzle. And so sometimes you know, it happens to you, something clicks right.
+
+237
+00:22:39,15 --> 00:22:43,73
+Suddenly you see a connection that explains different things.
+
+238
+00:22:44,3 --> 00:22:52,15
+Your brain does that all the time and not always that you get at this conscious impression, and thinking is this,
+
+239
+00:22:52,47 --> 00:23:05,6
+according to me, it's finding structure, and meaning, and the things that we observing and we've seen,
+
+240
+00:23:06,72 --> 00:23:08,64
+and that's also what science does, right?
+
+241
+00:23:08,75 --> 00:23:12,91
+Science is about finding explanations for what is around us,
+
+242
+00:23:13,49 --> 00:23:18,52
+but thinking it's happening in our head where science is a social thing.
+
+243
+00:23:18,52 --> 00:23:20,18
+Speaker 2: It's outside your head.
+
+244
+00:23:20,18 --> 00:23:25,89
+Yoshua: Science has a part inside.
+
+245
+00:23:25,89 --> 00:23:32,66
+Yeah, science has a part inside of course, because we are thinking when we do science. But science has a social aspect.
+
+246
+00:23:33,13 --> 00:23:37,74
+Science is a community of minds working together,
+
+247
+00:23:37,74 --> 00:23:44,89
+and the history of minds having discovered concepts that explain the world around us,
+
+248
+00:23:45,27 --> 00:23:48,61
+and sharing that in ways that are efficient. [talk in Dutch]
+
+249
+00:23:48,61 --> 00:24:12,95
+Yoshua: One thing I could talk about too is learning, right.
+
+250
+00:24:23,29 --> 00:24:36,88
+You asked me about thinking but I think a very important concept in my area is learning, I think.
+
+251
+00:24:37,21 --> 00:24:43,55
+I can explain how that can happen in those models or brains. [talk in Dutch] Yeah, yeah.
+
+252
+00:24:43,55 --> 00:24:56,97
+Speaker 2: Okay [Dutch] So you explained what thinking is. Now we'd like to know what is intelligence?
+
+253
+00:24:56,97 --> 00:25:01,7
+Yoshua: That's a good question. I don't think that there's a consensus on that either.
+
+254
+00:25:01,7 --> 00:25:02,2
+Speaker 2: On what?
+
+255
+00:25:02,2 --> 00:25:04,55
+Yoshua: On what is intelligence.
+
+256
+00:25:04,55 --> 00:25:07,00
+Speaker 2: If you reframe my question that I can.
+
+257
+00:25:07,00 --> 00:25:09,66
+Yoshua: Okay. So what is intelligence?
+
+258
+00:25:09,67 --> 00:25:16,95
+That's a good question and I don't think that there's a consensus but in my area of research people generally,
+
+259
+00:25:17,8 --> 00:25:24,16
+understand intelligence as the ability to take good decisions. And what good decisions.
+
+260
+00:25:24,16 --> 00:25:24,9
+Speaker 2: What's good?
+
+261
+00:25:24,9 --> 00:25:27,47
+Yoshua: Good for me. Right?
+
+262
+00:25:27,47 --> 00:25:28,41
+Speaker 2: Okay.
+
+263
+00:25:28,41 --> 00:25:36,89
+Yoshua: Good in the sense that they allow me to achieve my goals, to, If I was a animal to survive my predators,
+
+264
+00:25:37,27 --> 00:25:45,5
+to find food, to find mates. And for humans good might be achieving social status, or being happy, or whatever.
+
+265
+00:25:45,7 --> 00:25:49,21
+It's hidden in your mind. What is it that's good for you.
+
+266
+00:25:49,22 --> 00:25:58,35
+But somehow we are striving to take decisions that are good for us and, in order to do that,
+
+267
+00:25:58,35 --> 00:26:02,05
+it's very clear that we need some form of knowledge.
+
+268
+00:26:02,58 --> 00:26:10,13
+So, even a mouse that's choosing to go left or right in a maze is using knowledge,
+
+269
+00:26:10,53 --> 00:26:16,47
+and that kind of knowledge is not necessarily the kind of knowledge you find in the book, right?
+
+270
+00:26:16,57 --> 00:26:19,2
+A mouse cannot read a book, cannot write a book,
+
+271
+00:26:19,54 --> 00:26:28,63
+but in the mouse's brain there is knowledge about how to control the mouses' body in order to survive in order to find
+
+272
+00:26:28,63 --> 00:26:35,65
+food and so on. So the mouse is actually very intelligent in the context of the life of a mouse.
+
+273
+00:26:35,66 --> 00:26:42,65
+If you were suddenly teleported in a mouse, you would probably find it difficult to do the right things.
+
+274
+00:26:44,44 --> 00:26:47,78
+So, intelligence is about taking the right decision and it requires knowledge.
+
+275
+00:26:48,21 --> 00:26:53,96
+And now the question is to build intelligent machines or to understand how humans and animals are intelligent,
+
+276
+00:26:54,52 --> 00:26:59,13
+where are we getting the knowledge? Where can we get the knowledge?
+
+277
+00:26:59,55 --> 00:27:03,77
+And some of it is hard-wired in your brain from birth.
+
+278
+00:27:04,66 --> 00:27:10,74
+And some of it is going to be learned through experience, and that's the thing that we're studying in my field.
+
+279
+00:27:10,75 --> 00:27:18,49
+How do we learn or rather what are the mathematical principles for learning that could be applied to computers
+
+280
+00:27:18,49 --> 00:27:22,29
+and not just trying to figure out what animals, how animals learn.
+
+281
+00:27:22,29 --> 00:27:25,27
+Speaker 2: Then we get to the point the learning.
+
+282
+00:27:25,27 --> 00:27:26,26
+Yoshua: Right.
+
+283
+00:27:26,26 --> 00:27:38,96
+Speaker 2: So can you explain To me, because for everybody else, you think of learning, you learn at school?
+
+284
+00:27:38,96 --> 00:27:39,27
+Yoshua: Yeah.
+
+285
+00:27:39,27 --> 00:27:42,8
+Speaker 2: You read books, and there's someone telling you how the world works.
+
+286
+00:27:47,14 --> 00:27:50,47
+So what, in your concept, is the definition of learning?
+
+287
+00:27:50,47 --> 00:27:57,21
+Yoshua: Yes, my definition of learning is not the kind of learning that people think about when they're in school
+
+288
+00:27:57,21 --> 00:28:01,28
+and listening to a teacher. Learning is something we do all the time.
+
+289
+00:28:01,28 --> 00:28:08,84
+Our brain is changing all the time in response to what we're seeing, experiencing. And it's an adaptation.
+
+290
+00:28:08,84 --> 00:28:18,73
+And we are not just storing in our brain our experiences, it's not learning by heart, that's easy,
+
+291
+00:28:18,73 --> 00:28:23,08
+a file in a computer is like learning by heart. You can store facts.
+
+292
+00:28:23,37 --> 00:28:27,77
+But that's trivial, that's not what learning really is about.
+
+293
+00:28:28,27 --> 00:28:38,07
+Learning is about integrating the information we are getting through experience into some more abstract form that
+
+294
+00:28:38,47 --> 00:28:43,67
+allows us to take good decisions. That allow us to predict what will happen next.
+
+295
+00:28:43,67 --> 00:28:51,8
+That allow us to understand the connections between things we've seen. So, that's what's learning is really about.
+
+296
+00:28:52,23 --> 00:28:56,81
+In my field, we talk about the notion of generalization.
+
+297
+00:28:56,82 --> 00:29:05,36
+So, the machine can generalize from things it has seen and learned from, to new situations.
+
+298
+00:29:05,64 --> 00:29:08,83
+That's the kind of learning we talk about in my field.
+
+299
+00:29:09,35 --> 00:29:17,38
+And the way we typically do it in machines and how we think it's happening in the brain is that it's a slow,
+
+300
+00:29:17,97 --> 00:29:26,6
+gradual process. Each time you live an experience, one second of your life, there's gonna be some changes in your brain.
+
+301
+00:29:26,61 --> 00:29:37,95
+Small changes. So it's like your whole system is gradually shifting towards what would make it take better decisions.
+
+302
+00:29:38,02 --> 00:29:40,05
+So that's how you get to be intelligent, right?
+
+303
+00:29:40,05 --> 00:29:49,77
+Because you learn, meaning you changed the way you perceive and act, so that next time you would see something,
+
+304
+00:29:49,77 --> 00:29:54,95
+you will have some experience similar to what happened before, you would act better
+
+305
+00:29:54,95 --> 00:29:57,84
+or you would predict better what would have happened.
+
+306
+00:29:57,84 --> 00:29:59,42
+Speaker 2: So, it's very experienced based.
+
+307
+00:29:59,42 --> 00:30:03,4
+Yoshua: Yes, learning is completely experienced based.
+
+308
+00:30:03,69 --> 00:30:13,05
+Of course, in school we think of learning as, teaching knowledge from a book or some blackboard.
+
+309
+00:30:13,05 --> 00:30:16,96
+But, that's not the really the main kind of learning.
+
+310
+00:30:18,31 --> 00:30:23,9
+There is some learning happening when the student integrates all that information and tries to make sense of it.
+
+311
+00:30:23,91 --> 00:30:30,99
+But just storing those facts is kind of useless.
+
+312
+00:30:30,99 --> 00:30:32,46
+Speaker 2: It's a difference that you have to have an interest in it.
+
+313
+00:30:32,46 --> 00:30:36,24
+Yoshua: Well motivation for humans is very important. Because we are wired like this.
+
+314
+00:30:36,32 --> 00:30:45,47
+The reason we are wired like this is there are so many things happening around us that emotions help us to filter
+
+315
+00:30:45,47 --> 00:30:49,99
+and focus on some aspects more than others, those that matter to us, right?
+
+316
+00:30:50,12 --> 00:30:53,25
+That's a motivation, might be fear as well sometimes.
+
+317
+00:30:53,25 --> 00:31:02,18
+But for computers, basically they will learn what we ask them to learn, we don't need to introduce motivation
+
+318
+00:31:02,8 --> 00:31:05,89
+or emotions. These, up to now, we haven't needed to do that.
+
+319
+00:31:05,89 --> 00:31:08,89
+Speaker 2: But when you explain this deep learning.
+
+320
+00:31:08,89 --> 00:31:12,09
+Yoshua: Yes, yes.
+
+321
+00:31:12,09 --> 00:31:20,4
+Speaker 2: Maybe from the perspective of a machine and a human, you can learn computer experience
+
+322
+00:31:20,4 --> 00:31:29,63
+I think, but not interest or.
+
+323
+00:31:29,63 --> 00:31:35,81
+Yoshua: Well you can, emotions are something you're born with.
+
+324
+00:31:35,81 --> 00:31:46,91
+We're born with circuits that make us experience emotions because some situations matter more to us.
+
+325
+00:31:47,38 --> 00:31:51,95
+So, in the case of the computer, we also, in a sense,
+
+326
+00:31:51,95 --> 00:31:57,14
+hardwire these things by telling the computer Well this matters more than that
+
+327
+00:31:57,14 --> 00:32:00,62
+and you have to learn well to predict well here and here it matters less.
+
+328
+00:32:01,23 --> 00:32:06,86
+So we don't call that emotions but it could play a similar role.
+
+329
+00:32:06,86 --> 00:32:08,23
+Speaker 2: It looks like emotions.
+
+330
+00:32:08,23 --> 00:32:08,91
+Yoshua: Right.
+
+331
+00:32:08,91 --> 00:32:10,5
+Speaker 2: But then it's still program.
+
+332
+00:32:10,5 --> 00:32:13,4
+Yoshua: Absolutely so AI is completely programmed.
+
+333
+00:32:13,4 --> 00:32:14,4
+Speaker 2: Yeah.
+
+334
+00:32:14,4 --> 00:32:27,36
+But as I understand it well, you are reaching searching in this area where this program, which is beyond programming.
+
+335
+00:32:27,36 --> 00:32:27,36
+That they start to think for themselves.
+
+336
+00:32:27,36 --> 00:32:29,96
+Yoshua: Okay. So there's an interesting connection between learning and programming.
+
+337
+00:32:29,96 --> 00:32:33,18
+So the traditional way of putting knowledge into computers,
+
+338
+00:32:33,18 --> 00:32:37,04
+Is to write a program that essentially contains all our knowledge.
+
+339
+00:32:37,31 --> 00:32:43,3
+And step by step you tell the computer, if this happens you do this, and then you do that, and then you do that,
+
+340
+00:32:43,3 --> 00:32:46,69
+and then this happens you do that, and so on and so on. That's what a program is.
+
+341
+00:32:47,27 --> 00:32:55,81
+But when we allow the computer to learn we also program it, but the program that is there is different.
+
+342
+00:32:55,81 --> 00:33:00,07
+It's not a program that contains the knowledge we want a computer to have.
+
+343
+00:33:00,51 --> 00:33:05,14
+We don't program the computer with the knowledge of doors and cars and images and sounds.
+
+344
+00:33:05,36 --> 00:33:11,18
+We program the computer with the ability to learn and then the computer experiences.
+
+345
+00:33:11,18 --> 00:33:21,05
+You know, images, or videos, or sounds, or texts and learns the knowledge from those experiences.
+
+346
+00:33:21,07 --> 00:33:27,25
+So you can think of the learning program as a meta program and we have something like that in our brain.
+
+347
+00:33:28,02 --> 00:33:31,19
+If one part of your cortex dies you have an accident,
+
+348
+00:33:31,59 --> 00:33:40,49
+that part used to be doing some job like maybe interpreting music or some types of songs or something.
+
+349
+00:33:40,49 --> 00:33:46,67
+Well, if you continue listening to music then some other part will take over
+
+350
+00:33:47,3 --> 00:33:52,29
+and that function may have been sort of impaired for some time
+
+351
+00:33:52,29 --> 00:33:57,6
+but then it will be taken by some other part of your cortex. What does that mean?
+
+352
+00:33:57,68 --> 00:34:04,44
+It means that the same program that does the learning, works there in those two regions of your cortex.
+
+353
+00:34:04,45 --> 00:34:07,6
+The one that used to be doing the job, and the one that does it now.
+
+354
+00:34:08,21 --> 00:34:19,06
+And that means that your brain has this general purpose learning recipe that it can apply to different problems
+
+355
+00:34:19,06 --> 00:34:24,83
+and that this different parts of your brain will be specialized on different tasks.
+
+356
+00:34:25,08 --> 00:34:28,79
+Depending on what you do and which how the brain is connected.
+
+357
+00:34:29,23 --> 00:34:35,57
+If we remove that part of your brain then some other parts will start doing the job,
+
+358
+00:34:35,58 --> 00:34:39,01
+if the job is needed because you do those experiences, right?
+
+359
+00:34:39,22 --> 00:34:47,06
+So if I had a part of my brain that was essentially dealing with playing tennis and that part dies,
+
+360
+00:34:47,06 --> 00:34:55,81
+I'm not gonna be able to play tennis anymore. But if I continue practicing it's gonna come back.
+
+361
+00:34:55,81 --> 00:35:03,37
+And that means that the same learning, general purpose learning recipe is used everywhere at least in the cortex.
+
+362
+00:35:04,44 --> 00:35:07,12
+And this is important not just for understanding brains,
+
+363
+00:35:07,13 --> 00:35:10,96
+but for companies building products because we have this general purpose recipe
+
+364
+00:35:11,69 --> 00:35:16,92
+or family recipes that can be applied for many tasks.
+
+365
+00:35:17,18 --> 00:35:23,07
+The only thing that really differs between those different tasks is the data, the examples that the computer sees.
+
+366
+00:35:23,07 --> 00:35:28,14
+So that's why companies are so excited about this because they can use this for many problems that they wanna solve so
+
+367
+00:35:28,14 --> 00:35:30,92
+long as they can teach the machine by showing it examples.
+
+368
+00:35:30,92 --> 00:35:34,26
+Speaker 2: Is it always, is learning always positive?
+
+369
+00:35:34,26 --> 00:35:51,28
+Yoshua: Learning is positive by construction in the sense that it's moving the learner towards a state of understanding
+
+370
+00:35:51,28 --> 00:35:59,71
+of its experiences. So in general, yes, because learning is about improving something.
+
+371
+00:36:00,01 --> 00:36:05,05
+Now, if the something you're improving is not the thing you should be improving, you could be in trouble.
+
+372
+00:36:06,9 --> 00:36:12,89
+People can be trained into a wrong understanding of the world and they start doing bad things,
+
+373
+00:36:14,74 --> 00:36:17,75
+so that's why education is so important for humans.
+
+374
+00:36:18,26 --> 00:36:25,45
+And for machines right now the things we are asking the machines to do are very simple like understanding the content
+
+375
+00:36:25,45 --> 00:36:26,49
+of images and texts and videos and things like that.
+
+376
+00:36:26,49 --> 00:36:30,05
+Speaker 2: So learning is not per se positive because also you can learn wrong things.
+
+377
+00:36:30,05 --> 00:36:40,69
+Yoshua: Right but if you're just observing things around you and taken randomly then it's just what the world is right.
+
+378
+00:36:40,69 --> 00:36:45,87
+Speaker 2: And that's the state of the some kind of primitive learning of computers right now or?
+
+379
+00:36:45,87 --> 00:36:52,72
+Yoshua: Right now, yeah the learning the computers do is very primitive. It's mostly about perception.
+
+380
+00:36:53,37 --> 00:37:00,42
+And in the case of language some kind of semantic understanding, but it's still a pretty low level understanding.
+
+381
+00:37:00,42 --> 00:37:11,54
+Speaker 2: Is it possible for you to explain that in a simple way how is it possible for a computer to learn?
+
+382
+00:37:11,54 --> 00:37:22,14
+Yoshua: So the way that the computer is learning is by small iterative changes, right?
+
+383
+00:37:22,14 --> 00:37:29,09
+So let's go back to my artificial neural network, which is a bunch of neurons connected to each other,
+
+384
+00:37:29,2 --> 00:37:33,23
+and they're connected through these synaptic connections.
+
+385
+00:37:33,74 --> 00:37:39,64
+At each of these connections there is the strength of the connection which controls how a neuron influences another
+
+386
+00:37:39,64 --> 00:37:48,3
+neuron. So you can think that strength as a knob. And what happens during learning is those knobs change.
+
+387
+00:37:48,39 --> 00:37:52,54
+We don't know how they change in the brain, but in our algorithms, we know how they change.
+
+388
+00:37:52,54 --> 00:37:58,21
+And we understand mathematically why it makes sense to do that and they change little bit each time you see an example.
+
+389
+00:37:58,22 --> 00:38:03,78
+So i show the image of a cat but the computer says it's a dog.
+
+390
+00:38:03,78 --> 00:38:10,25
+So, I'm going to change those knobs so that it's going to be more likely that the computer is going to say cat.
+
+391
+00:38:10,62 --> 00:38:15,72
+Maybe the computer outputs a score for dog and a score for cat.
+
+392
+00:38:15,73 --> 00:38:21,56
+And so what we want to do is decrease the score for dog and increase the score for cat.
+
+393
+00:38:21,97 --> 00:38:32,44
+So that the computer, eventually, after seeing many millions of images, starts seeing the right class more often
+
+394
+00:38:32,44 --> 00:38:35,3
+and eventually gets it as well as humans.
+
+395
+00:38:35,3 --> 00:38:42,72
+Speaker 2: That still sounds like putting just enough data or less data for a computer to recognize something.
+
+396
+00:38:43,05 --> 00:38:48,64
+But how do you know that the computer is learning? How do you know 
+
+397
+00:38:48,64 --> 00:38:50,65
+Yoshua: Well, you can test it on new images.
+
+398
+00:38:51,01 --> 00:38:55,72
+So if the computer was only learning by heart, copying the examples that it has seen,
+
+399
+00:38:56,31 --> 00:39:04,6
+it wouldn't be able to recognize a new image of say, new breed of dog, or a new angle, new lighting.
+
+400
+00:39:04,84 --> 00:39:11,05
+At the level of pixels, those images could be very, very different.
+
+401
+00:39:11,05 --> 00:39:15,76
+But, if the computer really figured catness,
+
+402
+00:39:15,76 --> 00:39:25,11
+at least from the point of view of images it will be able to recognize new images of new cats, taking on new postures
+
+403
+00:39:25,11 --> 00:39:27,46
+and so on and that's what we call generalization.
+
+404
+00:39:28,07 --> 00:39:35,63
+So we do that all the time, we test the computer to see if it can generalize to new examples, new images,
+
+405
+00:39:35,63 --> 00:39:40,42
+new sentences Can you show that to us, not right now but-
+
+406
+00:39:40,42 --> 00:39:43,86
+Speaker 2: Yeah. You can show that proof of learning skills.
+
+407
+00:39:43,86 --> 00:39:49,01
+Yoshua: Yeah, yeah I'll try to show you some examples of that, yeah.
+
+408
+00:39:49,01 --> 00:39:57,23
+Speaker 2: Great, so is there something, I'm missing that right now for understanding deep learning?
+
+409
+00:39:57,23 --> 00:39:59,45
+Yoshua: Yes.
+
+410
+00:39:59,45 --> 00:40:00,25
+Speaker 2: Okay, tell me.
+
+411
+00:40:00,25 --> 00:40:04,89
+Yoshua: I thought this was a statement, not a question.
+
+412
+00:40:04,89 --> 00:40:09,55
+Well, but yes, of course I [LAUGH] think there are many things that you are missing.
+
+413
+00:40:10,68 --> 00:40:14,67
+So there are many, many interesting questions in deep learning
+
+414
+00:40:14,68 --> 00:40:24,62
+but one of the interesting challenges has to do with the question of supervised learning versus unsupervised learning.
+
+415
+00:40:25,54 --> 00:40:30,37
+Right now, the way we teach the machine to do things
+
+416
+00:40:30,37 --> 00:40:37,12
+or to recognize things is we use what's called supervised learning where we tell the computer exactly what it should do
+
+417
+00:40:37,43 --> 00:40:41,26
+or what output it should have for a given input.
+
+418
+00:40:41,27 --> 00:40:48,5
+So let's say I'm showing it the image of a cat again, I tell the computer, this is a cat.
+
+419
+00:40:49,58 --> 00:40:53,21
+And I have to show it millions of such images.
+
+420
+00:40:53,21 --> 00:41:00,91
+That's not the way humans learn to see and understand the world or even understand language.
+
+421
+00:41:00,92 --> 00:41:11,55
+For the most part, we just make sense of what we observe without having a teacher that is sitting by us
+
+422
+00:41:11,55 --> 00:41:16,28
+and telling us every second of our life. This is a cow, this is a dog.
+
+423
+00:41:16,28 --> 00:41:16,74
+Speaker 2: A supervisor.
+
+424
+00:41:16,74 --> 00:41:18,6
+Yoshua: That's right. There is no supervisor.
+
+425
+00:41:19,12 --> 00:41:25,05
+We do get some feedback but it's pretty rare and sometimes it's only implicit.
+
+426
+00:41:25,41 --> 00:41:37,29
+So you do something and you get a reward but you don't know exactly what it was you did that gave you that reward.
+
+427
+00:41:37,77 --> 00:41:44,99
+Or you talk to somebody, the person is unhappy and you're not sure exactly what you did that was wrong
+
+428
+00:41:44,99 --> 00:41:48,35
+and the persons not gonna tell you in general what you should have done.
+
+429
+00:41:48,67 --> 00:41:54,21
+So this is called reinforcement learning when you get some feedback but it's a very weak type.
+
+430
+00:41:54,42 --> 00:41:56,36
+You did well or you didn't do well.
+
+431
+00:41:56,6 --> 00:42:05,67
+You have an exam and you achieved 65% but you don't know, if you don't know what the errors were
+
+432
+00:42:05,67 --> 00:42:08,94
+or what the right answers are it's very difficult to learn from that.
+
+433
+00:42:08,94 --> 00:42:16,65
+But we are able to learn from that, from very weak signals or no reinforcement at all, no feedback,
+
+434
+00:42:16,66 --> 00:42:21,16
+just by observation and trying to make sense of all of these pieces of information.
+
+435
+00:42:21,23 --> 00:42:22,79
+That's called unsupervised learning.
+
+436
+00:42:23,25 --> 00:42:32,54
+And we're not yet, we are much more advanced with supervised learning than with unsupervised learning.
+
+437
+00:42:32,54 --> 00:42:38,06
+So all of the products that these companies are building right now, it's mostly based on supervised learning.
+
+438
+00:42:38,06 --> 00:42:41,06
+Speaker 2: So the next step is unsupervised learning?
+
+439
+00:42:41,06 --> 00:42:42,72
+Yoshua: Yes, yes.
+
+440
+00:42:42,72 --> 00:42:47,39
+Speaker 2: Does that mean that unsupervised learning that the computer can think for themselves?
+
+441
+00:42:47,39 --> 00:42:56,86
+Yoshua: That means the computer will be more autonomous, in some sense. That we don't need.
+
+442
+00:42:56,86 --> 00:42:57,85
+Speaker 2: That's a hard one.
+
+443
+00:42:57,85 --> 00:42:59,19
+Yoshua: More autonomous.
+
+444
+00:42:59,19 --> 00:43:00,02
+Speaker 2: Autonomous computer?
+
+445
+00:43:00,02 --> 00:43:04,86
+Yoshua: Well more autonomous in its learning. We're are not talking about robots here, right?
+
+446
+00:43:04,86 --> 00:43:12,67
+We are just talking about computers gradually making sense of the world around us by observation.
+
+447
+00:43:13,04 --> 00:43:19,91
+And we probably will still need to give them some guidance, but the question is how much guidance.
+
+448
+00:43:20,1 --> 00:43:27,97
+Right now we have to give them a lot of guidance. Basically we have to spell everything very precisely for them.
+
+449
+00:43:27,98 --> 00:43:34,62
+So we're trying to move away from that so that they can essentially become more intelligent because they can take
+
+450
+00:43:34,62 --> 00:43:44,04
+advantage of all of the information out there which doesn't come with a human that explains every bits and pieces.
+
+451
+00:43:44,04 --> 00:43:47,04
+Speaker 2: But when a computer starts to learn.
+
+452
+00:43:47,04 --> 00:43:48,04
+Yoshua: Yes.
+
+453
+00:43:48,04 --> 00:43:51,71
+Speaker 2: Is it possible to stop the computer from learning? [LAUGH]
+
+454
+00:43:51,71 --> 00:43:54,22
+Yoshua: Sure.
+
+455
+00:43:54,22 --> 00:43:58,17
+Speaker 2: How? It sounds like if it starts to learn, then it learns.
+
+456
+00:43:58,17 --> 00:44:05,76
+Yoshua: It's just a program running. It's stored in files. There's nothing like, there's no robot.
+
+457
+00:44:05,96 --> 00:44:08,7
+There is no, I mean at least in the work we do,
+
+458
+00:44:08,7 --> 00:44:19,03
+it's just a program that contains files that contain those synaptic weights for example.
+
+459
+00:44:19,05 --> 00:44:26,97
+And as we see more examples we change those files so that they will correspond to taking the right decisions.
+
+460
+00:44:27,13 --> 00:44:44,33
+But there's no, those computers don't have a consciousness, there's no such thing right now, at least, for a while.
+
+461
+00:44:44,33 --> 00:44:51,15
+Speaker 2: Is it right when I say, well, deep learning or self learning computer is becoming more autonomous.
+
+462
+00:44:51,15 --> 00:44:54,89
+Yoshua: Autonomous in its learning, right?
+
+463
+00:44:54,89 --> 00:44:56,42
+Speaker 2: Yes, free.
+
+464
+00:44:56,42 --> 00:45:04,66
+Yoshua: Again, it's probably gonna be a gradual thing where the computer requires less and less of our guidance.
+
+465
+00:45:04,66 --> 00:45:09,51
+That we probably, so, If you think about humans, we still need guidance.
+
+466
+00:45:09,52 --> 00:45:15,53
+If you take a human baby nobody wants to do that experiment.
+
+467
+00:45:15,53 --> 00:45:24,32
+But you can imagine a baby being isolated from society. That child probably would not grow to be very intelligent.
+
+468
+00:45:24,32 --> 00:45:33,91
+Would not understand the world around us as well as we do. That's because we've had parents, teachers and so on, guide us.
+
+469
+00:45:34,87 --> 00:45:37,32
+And we've been immersed in culture.
+
+470
+00:45:37,47 --> 00:45:44,79
+So all that matters, and it's possible that it will also be required for computers to reach our level of intelligence.
+
+471
+00:45:44,8 --> 00:45:48,99
+The same kind of attention we're giving to humans, we might need to give to computers.
+
+472
+00:45:48,99 --> 00:45:53,75
+But right now, the amount of attention we have to give to computers for them to learn about very simple things,
+
+473
+00:45:53,96 --> 00:45:56,86
+is much larger than what we need to give to humans.
+
+474
+00:45:57,32 --> 00:46:01,77
+Humans are much more autonomous in their learning than machines are right now.
+
+475
+00:46:01,79 --> 00:46:04,46
+So we have a lot of progress to do in that direction.
+
+476
+00:46:04,46 --> 00:46:09,37
+Speaker 2: Is the difference also just the simple fact that we have biology?
+
+477
+00:46:09,37 --> 00:46:16,42
+Yoshua: Well biology is not magical. Biology is, can be understood.
+
+478
+00:46:17,42 --> 00:46:19,08
+It's what biologists are trying to do
+
+479
+00:46:19,08 --> 00:46:25,03
+and we understand a lot but there As far as the brain is concerned there's still big holes in our understanding.
+
+480
+00:46:25,03 --> 00:46:28,03
+Speaker 2: A baby grows but a computer doesn't.
+
+481
+00:46:28,03 --> 00:46:39,39
+Yoshua: Sure it can, we can give it more memory and so on right? So you can grow the size of the model.
+
+482
+00:46:40,36 --> 00:46:42,52
+That's not a big obstacle.
+
+483
+00:46:42,52 --> 00:46:50,88
+I mean computing power is an obstacle, but I'm pretty confident that over the next few years we're gonna see more
+
+484
+00:46:50,88 --> 00:46:54,44
+and more computing power available as it has been in the past,
+
+485
+00:46:55,31 --> 00:47:00,75
+that will make it more possible to train models to do more complex tasks.
+
+486
+00:47:00,75 --> 00:47:10,4
+Speaker 2: So how do you tackle all the people who think this is a horror scenario?
+
+487
+00:47:10,4 --> 00:47:15,29
+Of course, people start to think about growing computers and it's not about that.
+
+488
+00:47:15,29 --> 00:47:18,43
+Yoshua: So I think.
+
+489
+00:47:18,43 --> 00:47:20,69
+Speaker 2: You have to have a stand point.
+
+490
+00:47:20,69 --> 00:47:33,99
+Yoshua: That's right. I do. So first of all, I think there's been a bit of excessive expression of fear about AI.
+
+491
+00:47:34,33 --> 00:47:40,96
+Maybe because the progress has been so fast, it has made some people worried.
+
+492
+00:47:40,96 --> 00:47:46,14
+But if you ask people like me who are into it every day.
+
+493
+00:47:46,65 --> 00:47:51,39
+They're not worried, because they can see how stupid the machines are right now.
+
+494
+00:47:51,68 --> 00:47:54,58
+And how much guidance they need to move forward.
+
+495
+00:47:55,52 --> 00:48:00,98
+So to us, it looks like we're very far from human level intelligence
+
+496
+00:48:01,57 --> 00:48:11,93
+and even have no idea whether one day computers will be smarter than us. Now that may be a short term view.
+
+497
+00:48:11,93 --> 00:48:18,92
+What will happen in the future is hard to say, but we can think about it.
+
+498
+00:48:18,93 --> 00:48:23,5
+And I think it's good that some people are thinking about the potential dangers.
+
+499
+00:48:25,58 --> 00:48:31,5
+I think it's difficult right now to have a grasp on what could go wrong.
+
+500
+00:48:31,5 --> 00:48:36,15
+But with the kind of intelligence that we're building in machines right now, I'm not very worried.
+
+501
+00:48:37,16 --> 00:48:46,04
+It's not the kind of intelligence that I can foresee exploding, becoming more and more intelligent by itself.
+
+502
+00:48:46,05 --> 00:48:51,61
+I don't think that's plausible for the kinds of deep learning methods and so on.
+
+503
+00:48:51,91 --> 00:48:56,9
+Even if they were much more powerful and so on, it's not something I can envision.
+
+504
+00:48:56,9 --> 00:49:02,26
+That being said, it's good that there are people who are thinking about these long term issues.
+
+505
+00:49:02,27 --> 00:49:11,18
+One thing I'm more worried about is the use of technology now, or in the next couple of years or five or ten years.
+
+506
+00:49:11,74 --> 00:49:19,04
+Where the technology could be developed and used in a way that could either be very good for many people
+
+507
+00:49:19,04 --> 00:49:21,22
+or not so good for many people.
+
+508
+00:49:21,22 --> 00:49:28,95
+And so for example, military use and other uses, which I think I would consider not appropriate,
+
+509
+00:49:28,95 --> 00:49:31,43
+are things we need to worry about.
+
+510
+00:49:31,43 --> 00:49:35,5
+Speaker 2: All right, can you name examples of that?
+
+511
+00:49:35,5 --> 00:49:37,97
+Yoshua: Yeah, so there's been a fuss
+
+512
+00:49:37,97 --> 00:49:48,28
+and a letter signed by a number of scientists who tried to tell the world we should have a ban on the use of AI for
+
+513
+00:49:48,28 --> 00:49:52,76
+autonomous weapons that could essentially take the decision to kill by themselves.
+
+514
+00:49:53,68 --> 00:49:59,53
+So that's something that's not very far fetched in terms of technology and the given science.
+
+515
+00:49:59,53 --> 00:50:02,77
+Basically, the science is there, it's a matter of building these things.
+
+516
+00:50:03,72 --> 00:50:09,27
+But it's not something we would like to see, and there could be an arms race of these things.
+
+517
+00:50:09,44 --> 00:50:18,74
+So we need to prevent it, the same way that, collectively, the nations decided to have bans on biological weapons
+
+518
+00:50:18,74 --> 00:50:25,22
+and chemical weapons and, to some extent, on nuclear weapons. The same thing should be done for that.
+
+519
+00:50:25,22 --> 00:50:30,7
+And then there are other uses of this technology, especially as it matures,
+
+520
+00:50:30,71 --> 00:50:32,88
+which I think are questionable from an ethical point of view.
+
+521
+00:50:32,95 --> 00:50:39,84
+So I think that the use of these technologies to convince you to do things, like with publicity,
+
+522
+00:50:40,31 --> 00:50:48,59
+and trying to influence, maybe think about influencing your vote, right?
+
+523
+00:50:50,47 --> 00:50:52,79
+As the technology becomes really stronger,
+
+524
+00:50:53,32 --> 00:51:00,9
+you could imagine people essentially using this technology to manipulate you in ways you don't realize.
+
+525
+00:51:01,37 --> 00:51:05,37
+That is good for them, but is not good for you.
+
+526
+00:51:05,89 --> 00:51:14,03
+And I think we have to start being aware of that and all the issues of privacy are connected to that as well.
+
+527
+00:51:14,65 --> 00:51:21,3
+But in general, because we're training currently, companies are using these systems for advertisements.
+
+528
+00:51:21,3 --> 00:51:29,34
+Where they're trying to predict what they should show you, so that you will be more likely to buy some product, right?
+
+529
+00:51:29,68 --> 00:51:41,29
+So it seems not so bad, but if you push it, they might bring you into doing things that are not so good for you.
+
+530
+00:51:41,3 --> 00:51:45,05
+I don't know, like smoking or whatever, right?
+
+531
+00:51:45,05 --> 00:52:10,9
+Speaker 2: Well, we just stopped at a point where I was going to ask you about,.
+
+532
+00:51:54,16 --> 00:52:11,56
+is that why you wrote the manifest about diversity and thinking? Because I'll show you, [FOREIGN] Okay.
+
+533
+00:52:11,56 --> 00:52:12,9
+Speaker 2: Because computers,
+
+534
+00:52:12,9 --> 00:52:24,45
+Speaker 2: You can learn them a lot of things, but it's almost unimaginable that you can learn them diversity.
+
+535
+00:52:24,51 --> 00:52:26,65
+Am I correct that that has a connection?
+
+536
+00:52:26,65 --> 00:52:34,87
+Yoshua: If you want, I will elaborate now. So you're asking me about diversity,
+
+537
+00:52:34,87 --> 00:52:39,88
+Yoshua: And I can say several things.
+
+538
+00:52:40,59 --> 00:52:48,39
+First of all, people who are not aware of the kinds of things we do in AI, with machine learning, deep learning, and so on.
+
+539
+00:52:48,51 --> 00:53:00,08
+May not realize that the algorithms, the methods we're using already include a lot of what may look like diversity,
+
+540
+00:53:00,08 --> 00:53:05,65
+creativity. So for the same input, the computer could produce different answers.
+
+541
+00:53:05,65 --> 00:53:08,35
+And so there's a bit of randomness, just like for us.
+
+542
+00:53:08,9 --> 00:53:12,28
+Twice in the same situation, we don't always take the same decision.
+
+543
+00:53:12,32 --> 00:53:17,99
+And there are good reasons for that, both for us and for computers. So that's the first part of it.
+
+544
+00:53:17,99 --> 00:53:23,12
+But there's another aspect of diversity, which I have studied in a paper a few years ago,
+
+545
+00:53:23,12 --> 00:53:34,34
+which is maybe even more interesting. Diversity is very important, for example, for evolution to succeed.
+
+546
+00:53:35,41 --> 00:53:46,42
+Because evolution performs a kind of search in the space of genomes of the blueprint of each individual.
+
+547
+00:53:46,42 --> 00:53:56,29
+Yoshua: And up to now, machine learning is considered what happens in a single individual, how we learn,
+
+548
+00:53:57,04 --> 00:53:58,76
+how a machine can learn.
+
+549
+00:53:59,28 --> 00:54:08,13
+But has not really investigated much the role of having a group of individuals learning together, so a kind of society.
+
+550
+00:54:09,69 --> 00:54:19,32
+And in this paper a few years ago, I postulated that learning in an individual could get stuck.
+
+551
+00:54:19,32 --> 00:54:25,85
+That if we were alone learning by observing the world around us, we might get stuck with a poor model of the world.
+
+552
+00:54:26,4 --> 00:54:32,06
+And we get unstuck by talking to other people and by learning from other people,
+
+553
+00:54:32,28 --> 00:54:39,32
+in the sense of they can communicate some of the ideas they have, how they interpret the world.
+
+554
+00:54:39,49 --> 00:54:45,46
+And that's what culture is about. Culture has many meanings, but that's the meaning that I have.
+
+555
+00:54:45,46 --> 00:54:54,21
+That it's not just the accumulation of knowledge, but how knowledge gets created through communication and sharing.
+
+556
+00:54:54,21 --> 00:55:02,27
+Yoshua: And what I postulated in that paper is that there is a, it's called an optimization problem,
+
+557
+00:55:02,52 --> 00:55:08,03
+that can get the learning of an individual to not progress anymore.
+
+558
+00:55:08,15 --> 00:55:13,06
+In a sense that, as I said before, learning is a lot of small changes,
+
+559
+00:55:13,4 --> 00:55:19,69
+but sometimes there's no small change that really makes you progress.
+
+560
+00:55:19,7 --> 00:55:24,93
+So you need some kind of external kick that brings a new light to things.
+
+561
+00:55:25,65 --> 00:55:32,44
+And another connection to evolution, the connection to evolution, actually,
+
+562
+00:55:32,44 --> 00:55:42,58
+is that this small kick we get from others is like we are building on top of existing solutions that others have come
+
+563
+00:55:42,58 --> 00:55:47,53
+up with. And of course, the process of science is very much like this. We're building on other scientists' ideas.
+
+564
+00:55:47,87 --> 00:55:49,71
+But it's true for culture, in general.
+
+565
+00:55:50,46 --> 00:55:59,74
+And this actually makes the whole process of building more intelligent beings much more efficient.
+
+566
+00:55:59,74 --> 00:56:10,72
+In fact, we know that since humans have made progress, thanks to evolution and not just. thanks to culture
+
+567
+00:56:10,72 --> 00:56:17,78
+and not just to evolution, we've been making. our intelligence has been increasing much faster.
+
+568
+00:56:18,14 --> 00:56:24,45
+So, evolution is slow whereas you can think of culture,
+
+569
+00:56:24,45 --> 00:56:31,46
+the evolution of culture as a process that's much more efficient. Because we are manipulating the right objects.
+
+570
+00:56:31,46 --> 00:56:32,87
+So what does this mean in practice?
+
+571
+00:56:33,18 --> 00:56:40,62
+It means that just like evolution needs diversity to succeed, because there are many different.
+
+572
+00:56:40,95 --> 00:56:49,11
+Variants of the same type of genes that are randomly chosen and tried,
+
+573
+00:56:49,44 --> 00:56:56,25
+and the best ones combine together to create new solutions just like this in cultural evolution.
+
+574
+00:56:56,26 --> 00:57:02,17
+Which is really important for our intelligence as I was saying, we need diversity,
+
+575
+00:57:02,18 --> 00:57:09,66
+we need not just one school of thought, we need to allow all kinds of exploration, most of which made fail.
+
+576
+00:57:09,84 --> 00:57:16,06
+So, in science we need to be open to new ideas, even if it's very likely it's not gonna work,
+
+577
+00:57:16,06 --> 00:57:20,57
+it's good that people explore, otherwise we're gonna get stuck.
+
+578
+00:57:20,57 --> 00:57:27,72
+In some, in the space of possible interpretations of the world, it may take forever before we escape.
+
+579
+00:57:27,72 --> 00:57:31,98
+Speaker 2: It is like doing basic research but you don't have-
+
+580
+00:57:31,98 --> 00:57:33,54
+Yoshua: Yes.
+
+581
+00:57:33,54 --> 00:57:33,79
+Speaker 2: A specific goal.
+
+582
+00:57:33,79 --> 00:57:38,83
+Yoshua: That's right so basic research is exploratory, it's not trying to build a product.
+
+583
+00:57:38,83 --> 00:57:43,08
+It's just trying to understand and it's going in all possible directions.
+
+584
+00:57:43,08 --> 00:57:48,84
+According to our intuitions of what may be more interesting but without a strong constraint.
+
+585
+00:57:48,84 --> 00:58:00,92
+So, yeah basic research is like this, but there's a danger because humans they like fashionable things, and trends,
+
+586
+00:58:00,92 --> 00:58:09,74
+and compare each other, and so on, that we're not giving enough freedom for exploration.
+
+587
+00:58:10,42 --> 00:58:15,2
+And it's not just science, it's in general, right in society we should allow a lot more freedom.
+
+588
+00:58:15,6 --> 00:58:22,21
+We should allow marginal ways of being and doing things to coexist.
+
+589
+00:58:22,21 --> 00:58:23,88
+Speaker 2: But if you allow this freedom,
+
+590
+00:58:23,88 --> 00:58:27,42
+of course most people think well let's don't go that way because then you have autonomous, self-thinking computers
+
+591
+00:58:27,42 --> 00:58:28,54
+Speaker 2: Creating their own diversity,
+
+592
+00:58:28,91 --> 00:58:46,86
+and so there are a lot of scenarios which people think of because they don't know, and which scare them, so this.
+
+593
+00:58:46,86 --> 00:58:52,65
+Yoshua: Well, it's a gamble and I'm more on the positive side.
+
+594
+00:58:52,66 --> 00:58:59,09
+I think that the rewards we can get by having more intelligence in our machines is immense.
+
+595
+00:58:59,1 --> 00:59:04,19
+And the way I think about it is, it's not a competition between machines and humans.
+
+596
+00:59:05,01 --> 00:59:14,71
+Technology is expanding what we are, thanks to technology we're now already much stronger
+
+597
+00:59:14,71 --> 00:59:17,52
+and more intelligent than we were.
+
+598
+00:59:18,14 --> 00:59:26,74
+in the same way that the industrial revolution has kinda increased our strength and our ability to do things physically.
+
+599
+00:59:26,96 --> 00:59:34,97
+The sort of computer revolution and now the AI revolution is gonna increase, continue to increase our cognitive abilities.
+
+600
+00:59:34,97 --> 00:59:41,37
+Speaker 2: That sounds very logical, but I can imagine you must get tired of all those people who don't,
+
+601
+00:59:41,37 --> 00:59:42,77
+who fear this development.
+
+602
+00:59:42,77 --> 00:59:44,02
+Yoshua: Right,
+
+603
+00:59:44,02 --> 00:59:53,8
+but I think we should be conscious that a lot of that fear is due to a projection into things we are familiar with.
+
+604
+00:59:53,81 --> 00:59:58,89
+So, we are thinking of AI like we see them in movies,
+
+605
+00:59:58,89 --> 01:00:03,26
+we're thinking of AI like we see some kind of alien from another planet, like we see animals.
+
+606
+01:00:03,57 --> 01:00:10,12
+When we think about another being, we think that other being is like us and so we're greedy.
+
+607
+01:00:10,82 --> 01:00:16,69
+We want to dominate the rest and if our survival is at stake, we're ready to kill right.
+
+608
+01:00:16,84 --> 01:00:25,2
+So, we project that some machine is gonna be just like us, and if that machine is more powerful then we are,
+
+609
+01:00:25,2 --> 01:00:26,53
+then we're in deep trouble, right?
+
+610
+01:00:26,53 --> 01:00:35,06
+So, it's just because we are making that projection, but actually the machines are not some being that has an ego
+
+611
+01:00:35,42 --> 01:00:41,07
+and a survival instinct. It's actually something we decide to put together.
+
+612
+01:00:41,07 --> 01:00:44,53
+It's a program and so we should be smart enough
+
+613
+01:00:44,53 --> 01:00:52,48
+and wise enough to program these machines to be useful to us rather than go towards the wrong needs.
+
+614
+01:00:52,49 --> 01:00:56,39
+They will cater to our needs because we will design them that way.
+
+615
+01:00:56,39 --> 01:01:03,04
+Speaker 2: I understand that, but then there's also this theory of suppose you can develop machines
+
+616
+01:01:03,04 --> 01:01:17,09
+or robots that can self-learn. So, if that grows with this power of.
+
+617
+01:01:17,09 --> 01:01:18,09
+Yoshua: Yes.
+
+618
+01:01:18,09 --> 01:01:27,05
+Speaker 2: There is some acceleration in their intelligence or that's.
+
+619
+01:01:27,05 --> 01:01:32,21
+Yoshua: Maybe, maybe not, I don't, that's not the way I,
+
+620
+01:01:32,21 --> 01:01:36,72
+what you're saying is appealing if I was to read a science fiction book.
+
+621
+01:01:36,73 --> 01:01:47,5
+But it doesn't correspond to how I see AI, and the kind of AI we're doing, I don't see such acceleration,
+
+622
+01:01:47,5 --> 01:01:56,4
+in fact what I see is the opposite. What I foresee is more like barriers than acceleration. So our-
+
+623
+01:01:56,4 --> 01:01:57,08
+Speaker 2: Slowing you down?
+
+624
+01:01:57,08 --> 01:02:01,79
+Yoshua: Yes, so our experience in research is that we make progress.
+
+625
+01:02:01,88 --> 01:02:07,13
+And then we encounter a barrier, a difficult challenge, a difficulty, the algorithm goes so far
+
+626
+01:02:07,13 --> 01:02:13,75
+and then can't make progress. Even if we have more computer power, that's not really the issue.
+
+627
+01:02:13,76 --> 01:02:21,71
+The issue are more, are basically computer science issue that things get Harder as you try to solve,
+
+628
+01:02:21,71 --> 01:02:26,97
+exponentially harder, meaning much, much harder as you try to solve more complex problems.
+
+629
+01:02:27,3 --> 01:02:30,68
+So, it's actually the opposite I think that happens that.
+
+630
+01:02:30,82 --> 01:02:37,16
+And I think that would also explain maybe to some extent why we're not super intelligent ourselves.
+
+631
+01:02:37,16 --> 01:02:44,92
+I mean, the sense that our intelligence is kind of limited. There are many things for which we make the wrong decision.
+
+632
+01:02:44,92 --> 01:02:46,46
+And then it's true also of animals.
+
+633
+01:02:46,56 --> 01:02:53,09
+Why is it like that some animals have much larger brains than we do and they're not that smart?
+
+634
+01:02:54,95 --> 01:02:59,23
+You could come up with a bunch of reasons but it's not they have a bigger brain.
+
+635
+01:02:59,9 --> 01:03:08,02
+And their brain, a mammal's brain is very very close to ours. So it's hard to say.
+
+636
+01:03:08,23 --> 01:03:14,19
+Now I think it's fair to consider the worst scenarios and to study it
+
+637
+01:03:14,19 --> 01:03:21,46
+and have people seriously considering what could happen and how we could prevent any dangerous thing.
+
+638
+01:03:21,46 --> 01:03:24,01
+I think it's actually important that some people do that.
+
+639
+01:03:24,26 --> 01:03:31,69
+But, right now I see this as a very long term potential, and the most plausible scenario is not that,
+
+640
+01:03:31,69 --> 01:03:32,56
+according to my vision.
+
+641
+01:03:32,56 --> 01:03:42,42
+Speaker 2: Does it have to do with the fact that you tried to develop this deep learning That if you know how it works,
+
+642
+01:03:42,42 --> 01:03:49,96
+then you also know how to deal with it. Is that why you are confident in not seeing any problem?
+
+643
+01:03:49,96 --> 01:03:53,7
+Yoshua: You're right that I think we are more afraid of things we don't understand.
+
+644
+01:03:54,48 --> 01:04:03,49
+And scientists who are working with deep learning everyday don't feel that they have anything to fear because they
+
+645
+01:04:03,49 --> 01:04:04,5
+understand what's going on.
+
+646
+01:04:04,5 --> 01:04:11,27
+And they can see clearly that there is no danger that's foreseeable, so you're right that's part of it.
+
+647
+01:04:11,27 --> 01:04:17,1
+There's the psychology of seeing the machine as some other being. There's the lack of knowledge.
+
+648
+01:04:17,1 --> 01:04:18,54
+There's influence of science fiction.
+
+649
+01:04:18,54 --> 01:04:23,74
+So all these factors come together and also the fact that the technology has been making a lot of progress recently.
+
+650
+01:04:23,74 --> 01:04:27,8
+So all of that I think creates kind of an exaggerated fear.
+
+651
+01:04:27,8 --> 01:04:31,19
+I'm not saying we shouldn't have any fear I'm just saying it's exaggerated right now.
+
+652
+01:04:31,19 --> 01:04:52,26
+Speaker 2: Is your main part of life, or your, how you fill the day, is it thinking? Is your work thinking?
+
+653
+01:04:52,26 --> 01:04:54,27
+What do you physically do?
+
+654
+01:04:54,27 --> 01:04:57,56
+Yoshua: I'm thinking all the time, yes.
+
+655
+01:04:57,56 --> 01:05:03,23
+And whether I'm thinking on the things that matter to me the most, maybe not enough.
+
+656
+01:05:03,88 --> 01:05:09,64
+Managing a big institute, with a lot of students, and so on, means my time is dispersed, but.
+
+657
+01:05:10,23 --> 01:05:18,7
+When I can focus, or when I'm in a scientific discussion with people, and so on.
+
+658
+01:05:18,71 --> 01:05:24,07
+Of course there's a lot of thinking, and it's really important, that's how we move forward.
+
+659
+01:05:24,07 --> 01:05:30,26
+Speaker 2: Yeah, what does that mean? The first question I asked you was about what is thinking.
+
+660
+01:05:30,26 --> 01:05:31,06
+Yoshua: Yes.
+
+661
+01:05:31,06 --> 01:05:33,52
+Speaker 2: And now we are back to that question.
+
+662
+01:05:33,52 --> 01:05:34,43
+Yoshua: Yeah, yeah, so, so.
+
+663
+01:05:34,43 --> 01:05:40,31
+Speaker 2: You are a thinker so what happens.
+
+664
+01:05:40,31 --> 01:05:40,85
+Yoshua: Okay.
+
+665
+01:05:40,85 --> 01:05:41,75
+Speaker 2: During the day?
+
+666
+01:05:41,75 --> 01:05:42,29
+Yoshua: Yes.
+
+667
+01:05:42,29 --> 01:05:43,01
+Speaker 2: With you?
+
+668
+01:05:43,01 --> 01:05:48,69
+Yoshua: So when I listen to somebody explaining something.
+
+669
+01:05:48,69 --> 01:05:53,49
+Maybe one of my students talking about an experiment, or another researcher talking about their idea.
+
+670
+01:05:55,9 --> 01:06:00,34
+Something builds up in my mind to try to understand what is going on.
+
+671
+01:06:03,01 --> 01:06:12,54
+And that's already thinking but then things happen so other pieces of information and understanding connect to this.
+
+672
+01:06:12,87 --> 01:06:24,1
+And I see some flaw or some connection and that's where the creativity comes in.
+
+673
+01:06:24,27 --> 01:06:39,2
+And how I have the impulse of talking about it. And that's just one turn in a discussion. And we go like this. And,
+
+674
+01:06:39,2 --> 01:06:43,69
+Yoshua: New ideas spring like this. And it's very, very rewarding.
+
+675
+01:06:43,69 --> 01:06:47,96
+Speaker 2: Is it possible for you not to think?
+
+676
+01:06:47,96 --> 01:06:55,69
+Yoshua: Well, yes. Yes, it is possible not to think.
+
+677
+01:06:56,18 --> 01:07:06,74
+It's hard, but if you really relax or you are experiencing something very intensely,
+
+678
+01:07:06,74 --> 01:07:18,96
+then you're not into your thoughts, you're just into some present-time experience.
+
+679
+01:07:18,96 --> 01:07:22,45
+Speaker 2: Like it's more emotional rather than rational?
+
+680
+01:07:22,45 --> 01:07:28,33
+Yoshua: For example, yes, but thinking isn't just rational.
+
+681
+01:07:28,86 --> 01:07:31,28
+A lot of it is, I don't mean it's irrational,
+
+682
+01:07:31,28 --> 01:07:36,55
+but a lot of the thinking is something that happens somehow behind the scenes.
+
+683
+01:07:36,55 --> 01:07:48,49
+It has to do with intuition that has to do with analogies and it's not necessarily a causes b causes c.
+
+684
+01:07:49,19 --> 01:07:54,09
+It's not that kind of logical thinking that's going on in my mind most of the time.
+
+685
+01:07:54,55 --> 01:08:03,86
+It's much softer and that's why we need the math in order to filter and fine tune the ideas,
+
+686
+01:08:03,86 --> 01:08:15,25
+but the raw thinking is very fuzzy. But it's very rich because it's connecting a lot of things together.
+
+687
+01:08:15,63 --> 01:08:26,7
+And it's discovering the inconsistencies that allow us to move to the next stage and solve problems.
+
+688
+01:08:26,7 --> 01:08:34,39
+Speaker 2: Are you aware of that you are in that situation when you are thinking?
+
+689
+01:08:34,39 --> 01:08:36,39
+Yoshua: It happens to me.
+
+690
+01:08:36,39 --> 01:08:46,41
+I used to spend some time meditating and there you're learning to pay attention to your own thoughts.
+
+691
+01:08:46,75 --> 01:08:49,92
+So it does happen to me.
+
+692
+01:08:50,23 --> 01:08:54,34
+It happens to me also that I get so immersed in my thoughts in ordinary,
+
+693
+01:08:54,44 --> 01:09:02,85
+daily activities that people think that I'm very distracted and not present and they can be offended. [LAUGH]
+
+694
+01:09:02,85 --> 01:09:08,45
+Yoshua: But it's not always like this, sometimes I'm actually very, very present.
+
+695
+01:09:08,46 --> 01:09:16,55
+I can be very, very present with somebody talking to me and that's really important for my job, right?
+
+696
+01:09:16,56 --> 01:09:27,71
+Because if I listen to somebody in a way that's not complete, I can't really understand fully
+
+697
+01:09:29,33 --> 01:09:34,07
+and participate in a rich exchange.
+
+698
+01:09:34,07 --> 01:09:39,98
+Speaker 2: I can imagine that when you are focused on a thought.
+
+699
+01:09:39,99 --> 01:09:40,1
+Or you were having this problem and you're thinking about it, thinking about it.
+
+700
+01:09:40,1 --> 01:09:46,15
+And then you are in this situation that other people they want something else of you like attention for your
+
+701
+01:09:46,15 --> 01:09:54,25
+children or whatever. Then there's something in you which decides to keep focused or how does it work with you?
+
+702
+01:09:54,25 --> 01:09:54,97
+Yoshua: Right.
+
+703
+01:09:54,97 --> 01:09:57,61
+Speaker 2: You don't want to lose the thought of course.
+
+704
+01:09:57,61 --> 01:10:04,9
+Yoshua: That's right. So I write, I have some notebooks. I write my ideas.
+
+705
+01:10:05,9 --> 01:10:11,33
+Often when I wake up or sometimes an idea comes and I want to write it down, like if I was afraid of losing it.
+
+706
+01:10:11,33 --> 01:10:15,19
+But actually the good ideas, they don't they don't go.
+
+707
+01:10:15,19 --> 01:10:17,39
+It turns out very often I write them, but I don't even go back to reading them.
+
+708
+01:10:17,4 --> 01:10:21,13
+It's just that it makes me feel better, and it anchors.
+
+709
+01:10:21,13 --> 01:10:28,06
+Also, the fact of writing an idea kind of makes it take more room in my mind.
+
+710
+01:10:31,81 --> 01:10:34,98
+And there's also something to be said about concentration.
+
+711
+01:10:36,21 --> 01:10:42,8
+So my work now, because I'm immersed with so many people, can be very distractive.
+
+712
+01:10:42,8 --> 01:10:52,23
+But to really make big progress in science, I also need times when I can be very focused
+
+713
+01:10:54,6 --> 01:11:02,84
+and where the ideas about a problem and different points of view and all the elements sort of fill my mind.
+
+714
+01:11:02,97 --> 01:11:04,81
+I'm completely filled with this.
+
+715
+01:11:05,09 --> 01:11:11,16
+That's when you can be really productive and it might take a long time before you reach that state.
+
+716
+01:11:11,17 --> 01:11:20,09
+Sometimes it could take years for a student to really go deep into a subject. So that he can be fully immersed in it.
+
+717
+01:11:20,09 --> 01:11:28,58
+That's when you can really start seeing through things and getting things to stand together solidly.
+
+718
+01:11:28,92 --> 01:11:36,2
+Now you can extend science, right? Now, when things are solid in your mind, you can move forward.
+
+719
+01:11:36,2 --> 01:11:38,74
+Speaker 2: Like a base of understanding?
+
+720
+01:11:38,74 --> 01:11:46,02
+Yoshua: Yeah, yeah, when you need enough concentration on something to really get these moves.
+
+721
+01:11:46,02 --> 01:11:48,79
+There's the other mode of thinking, which is the brainstorming mode.
+
+722
+01:11:49,34 --> 01:11:54,25
+Where, out of the blue, I start a discussion, five minutes later something comes up.
+
+723
+01:11:54,26 --> 01:12:01,42
+So that's more like random and it's also very, it could be very productive as well.
+
+724
+01:12:01,42 --> 01:12:03,98
+It depends on the stimulation from someone else.
+
+725
+01:12:03,98 --> 01:12:13,33
+If someone introduces a problem and immediately I get a, something comes up. And we have maybe an exchange.
+
+726
+01:12:13,34 --> 01:12:19,04
+So that's more superficial, but a lot of good things come out of that exchange because of the brainstorming.
+
+727
+01:12:19,04 --> 01:12:26,64
+Whereas the other, there's the other mode of thinking which is I'm alone nobody bothers me.
+
+728
+01:12:26,64 --> 01:12:29,42
+Nobody's asking for my attention. I'm walking.
+
+729
+01:12:30,02 --> 01:12:35,66
+I'm half asleep, and there I can fully concentrate, eyes closed
+
+730
+01:12:36,00 --> 01:12:41,73
+or not really paying attention to what's going on in front of me, because I'm completely in my thoughts.
+
+731
+01:12:41,73 --> 01:12:46,9
+Speaker 2: When do you think?
+
+732
+01:12:46,9 --> 01:12:47,41
+Yoshua: When?
+
+733
+01:12:47,41 --> 01:12:49,13
+Speaker 2: During the day. Let's start a day.
+
+734
+01:12:49,13 --> 01:13:00,94
+Yoshua: So the two times when I spend more on this concentrated thinking, is usually when I wake up, and
+
+735
+01:13:00,94 --> 01:13:04,77
+when I'm walking back and forth between home and university.
+
+736
+01:13:04,77 --> 01:13:10,49
+Speaker 2: Just enlarge this moment, what happens?
+
+737
+01:13:10,49 --> 01:13:20,67
+Yoshua: So I emerge to conciousness like everybody does every morning, and eyes closed
+
+738
+01:13:20,94 --> 01:13:29,58
+and so on Some thought related to a research question or maybe non-research question comes up
+
+739
+01:13:31,53 --> 01:13:37,76
+and if I'm interested in it I start like going deeper into it. And.
+
+740
+01:13:37,76 --> 01:13:39,57
+Speaker 2: Still with your eyes closed?
+
+741
+01:13:39,57 --> 01:13:40,06
+Yoshua: Still with my eyes closed.
+
+742
+01:13:40,2 --> 01:13:55,64
+And then it's like If you see a thread dangling and you pull on it, and then, more stuff comes down.
+
+743
+01:13:55,64 --> 01:14:01,96
+Now, you see more things and you pull more, and there's an avalanche of things coming.
+
+744
+01:14:02,12 --> 01:14:10,7
+The more you pull on those strings, and the more new things come, or information comes together.
+
+745
+01:14:11,46 --> 01:14:15,91
+And sometimes it goes nowhere and sometimes that's how new ideas come about.
+
+746
+01:14:15,91 --> 01:14:21,26
+Speaker 2: And at what stage in this pulling the thread, do you open your eyes?
+
+747
+01:14:21,26 --> 01:14:24,69
+Yoshua: I could stay like this for an hour.
+
+748
+01:14:24,69 --> 01:14:25,82
+Speaker 2: Eyes closed.
+
+749
+01:14:25,82 --> 01:14:26,66
+Yoshua: Yeah.
+
+750
+01:14:26,66 --> 01:14:28,06
+Speaker 2: Pulling a thread.
+
+751
+01:14:28,06 --> 01:14:28,9
+Yoshua: Yeah.
+
+752
+01:14:28,9 --> 01:14:30,02
+Speaker 2: Seeing what's happening.
+
+753
+01:14:30,02 --> 01:14:30,87
+Yoshua: Yeah.
+
+754
+01:14:31,43 --> 01:14:37,87
+Often what happens is I see something that I hadn't seen before and I get too excited, so that wakes me up
+
+755
+01:14:37,87 --> 01:14:42,33
+and I want to write it down. So I have my notebook not far and I write it down.
+
+756
+01:14:42,33 --> 01:14:48,55
+Or I wanna send an email to somebody saying, I thought about this and it's like six in the morning [LAUGH]
+
+757
+01:14:48,74 --> 01:14:53,27
+and they wonder if I'm working all the time. [LAUGH]
+
+758
+01:14:53,27 --> 01:14:58,66
+Speaker 2: So, and then, what happens then? Then you woke up.
+
+759
+01:14:58,66 --> 01:14:58,93
+Yoshua: Yeah.
+
+760
+01:14:58,93 --> 01:15:02,42
+Speaker 2: You open your eyes or you wrote it down?
+
+761
+01:15:02,42 --> 01:15:13,77
+Yoshua: So once I'm writing it down, my eyes are open and it's like, I feel relieved, it's like now I can go
+
+762
+01:15:13,77 --> 01:15:16,73
+and maybe have breakfast or take a shower, or something.
+
+763
+01:15:16,73 --> 01:15:26,86
+So having written it down, it might take some time to write it down, also sometimes I write an email
+
+764
+01:15:26,86 --> 01:15:33,33
+and then it's longer. And now the act of writing it is a different thing.
+
+765
+01:15:33,34 --> 01:15:41,59
+So there's the initial sort of spark of vision, which is still very fuzzy.
+
+766
+01:15:41,59 --> 01:15:46,18
+But then, when you have to communicate the idea to someone else. Say, in an email.
+
+767
+01:15:46,89 --> 01:15:51,34
+You have to really make a different kind of effort, you realize some flaws in your initial ideas
+
+768
+01:15:51,34 --> 01:15:57,00
+and you have to clean it up and make sure it's understandable. Now it takes a different form.
+
+769
+01:15:58,65 --> 01:16:06,84
+And sometimes you realize when you do it, that it was nothing really. Yeah, it was just half dream.
+
+770
+01:16:06,84 --> 01:16:10,75
+Speaker 2: What does your partner think of the ideas, that [INAUDIBLE]
+
+771
+01:16:10,75 --> 01:16:13,08
+Yoshua: I didn't understand the question.
+
+772
+01:16:13,08 --> 01:16:24,07
+Speaker 2: What does your partner think of this? That you wake up or you have to write something down?
+
+773
+01:16:24,07 --> 01:16:34,23
+Yoshua: She's fine with that. I think she's glad to see this kind of thing happen.
+
+774
+01:16:34,38 --> 01:16:41,55
+And she's happy for me that I live these very rewarding moments.
+
+775
+01:16:41,55 --> 01:16:43,88
+Speaker 2: But she understands what happens.
+
+776
+01:16:43,88 --> 01:16:54,97
+Yoshua: Yeah. I tell her often, I just had an idea. I wanna say, i just wanna.
+
+777
+01:16:54,97 --> 01:16:55,04
+Speaker 2: Does she understand?
+
+778
+01:16:55,04 --> 01:16:56,37
+Yoshua: What do you mean the science?
+
+779
+01:16:56,37 --> 01:16:56,72
+Speaker 2: Yes.
+
+780
+01:16:56,72 --> 01:17:06,16
+Yoshua: No, no but she understands that it's really important for me and this is how I move forward in my work
+
+781
+01:17:07,5 --> 01:17:12,16
+and also how emotionally fulfilling it is.
+
+782
+01:17:12,16 --> 01:17:21,6
+Speaker 2: Okay, then at a certain moment you have to go to work.
+
+783
+01:17:21,6 --> 01:17:23,98
+Yoshua: Yes.
+
+784
+01:17:23,98 --> 01:17:23,99
+Speaker 2: Let's talk about the walk you do every day.
+
+785
+01:17:23,99 --> 01:17:24,86
+Yoshua: Yes.
+
+786
+01:17:24,86 --> 01:17:26,96
+Speaker 2: So what does it mean?
+
+787
+01:17:26,96 --> 01:17:30,94
+Yoshua: So that walk is you can really think of it as a kind of meditation.
+
+788
+01:17:30,94 --> 01:17:31,27
+Speaker 2: Tell me about what you were doing if you want to.
+
+789
+01:17:31,27 --> 01:17:43,41
+Yoshua: So everyday I walk from my house. Yeah, so everyday I walk up the hill from my home to the university.
+
+790
+01:17:43,41 --> 01:17:48,64
+And it's about half an hour and it's more or less always the same path.
+
+791
+01:17:50,25 --> 01:17:55,17
+And because I know this path so well, I don't have to really pay much attention to what's going on.
+
+792
+01:17:55,47 --> 01:18:05,09
+And I can just relax and let thoughts go by, and eventually focus on something, or not.
+
+793
+01:18:05,27 --> 01:18:17,89
+Sometimes it's just maybe more in the evening where I'm tired maybe just a way to relax and let go.
+
+794
+01:18:17,89 --> 01:18:19,23
+Speaker 2: Quality thinking time is the problem.
+
+795
+01:18:19,23 --> 01:18:30,1
+Yoshua: Yes. Absolutely. Because I'm not bombarded by the outside world I can just.
+
+796
+01:18:30,1 --> 01:18:33,06
+Speaker 2: Normal people are bombarded by every signs, and cars, and sounds.
+
+797
+01:18:33,06 --> 01:18:34,63
+Yoshua: Yeah.
+
+798
+01:18:34,63 --> 01:18:36,3
+Speaker 2: And the weather.
+
+799
+01:18:36,3 --> 01:18:38,81
+Yoshua: Yeah I kind of ignore that. [LAUGH]
+
+800
+01:18:38,81 --> 01:18:46,77
+Speaker 2: So you are when there are thoughts around you.
+
+801
+01:18:46,77 --> 01:18:54,61
+Yoshua: When I was young I used to hit my head [LAUGH] on poles. [LAUGH]
+
+802
+01:18:54,61 --> 01:19:07,14
+Speaker 2: Because you were thinking [CROSSTALK] yourself..
+
+803
+01:18:57,28 --> 01:19:06,92
+Yoshua: Yeah, or reading while walking [LAUGH]
+
+804
+01:19:07,14 --> 01:19:09,07
+Speaker 2: [LAUGH] Now it doesnt happen any more.
+
+805
+01:19:09,07 --> 01:19:09,72
+Yoshua: No.
+
+806
+01:19:10,15 --> 01:19:16,46
+Well, actually it does now, because I sometimes, I check my phone [LAUGH] I see lots of people do that,
+
+807
+01:19:16,47 --> 01:19:20,6
+not being paying attention to what's going on.
+
+808
+01:19:20,6 --> 01:19:20,74
+Speaker 2: Yeah.
+
+809
+01:19:20,74 --> 01:19:20,89
+Yoshua: Yeah.
+
+810
+01:19:20,89 --> 01:19:27,66
+Speaker 2: So, well we will film your walk may be something happen Mm-hm.
+
+811
+01:19:27,66 --> 01:19:32,79
+[LAUGH] but during this walk, if you do it for such a long time, walking uphill.
+
+812
+01:19:32,79 --> 01:19:32,84
+Yoshua: Yeah.
+
+813
+01:19:32,84 --> 01:19:43,18
+Speaker 2: That's kind of a nice metaphor, walking up the hill.
+
+814
+01:19:43,18 --> 01:19:43,92
+Yoshua: Yeah.
+
+815
+01:19:43,92 --> 01:19:47,36
+Speaker 2: Are there, on this route situations, or positions, or places
+
+816
+01:19:47,85 --> 01:19:51,65
+when you had some really good ideas that you can remember?
+
+817
+01:19:51,65 --> 01:19:52,28
+Yoshua: Well.
+
+818
+01:19:52,28 --> 01:19:53,33
+Speaker 2: How was it?
+
+819
+01:19:53,75 --> 01:20:02,47
+I was waiting at the traffic light, or was it- Yeah, I have some memories of specific moments going up.
+
+820
+01:20:02,47 --> 01:20:14,02
+Yoshua: Thinking about some of the ideas that have been going through my mind over the last year in particular.
+
+821
+01:20:14,02 --> 01:20:22,73
+I guess these are more recent memories. Can you enlarge one of those moments like you did with waking up?
+
+822
+01:20:22,73 --> 01:20:32,49
+Right, right, so, as I said earlier, it's like if the rest of the world is in a haze, right.
+
+823
+01:20:32,49 --> 01:20:40,45
+It's like there's automatic control of the walking and watching for other people and cars, potentially.
+
+824
+01:20:43,04 --> 01:20:50,34
+But it's like if I had a 3-D projection of my thoughts in front of me, that are taking most of the room.
+
+825
+01:20:52,92 --> 01:20:59,08
+And my thinking works a lot by visualization. And I think a lot of people are like this.
+
+826
+01:20:59,09 --> 01:21:09,06
+It's a very nice tool that we have, using our kind of visual analogies to understand things.
+
+827
+01:21:09,14 --> 01:21:17,94
+Even if it's not a faithful portrait of what's going on, the visual analogies are really helping me, at least,
+
+828
+01:21:18,27 --> 01:21:26,58
+to make sense of things. So it's like I have pictures in my mind to illustrate what's going on, and it's like I see
+
+829
+01:21:26,58 --> 01:21:41,84
+Yoshua: What do I see? I see information flow, neural networks.
+
+830
+01:21:41,84 --> 01:21:49,05
+It's like if I was running a simulation in my mind of what would happen if
+
+831
+01:21:49,05 --> 01:21:58,15
+Yoshua: Some rule of conduct was followed by in this algorithm in this process.
+
+832
+01:21:58,15 --> 01:22:00,45
+Speaker 2: And that's when you walk up the hill that's what you see?
+
+833
+01:22:00,45 --> 01:22:06,45
+Yoshua: Yeah, yeah, so it's like if I was running a computer simulation in my mind.
+
+834
+01:22:07,06 --> 01:22:18,33
+To try to figure out what would happen if I made such choices or if we consider such equation.
+
+835
+01:22:18,66 --> 01:22:21,27
+what would it entail what would happen?
+
+836
+01:22:21,52 --> 01:22:30,44
+Imagine different situations and then of course it's not as detailed as if we did a real computer simulation.
+
+837
+01:22:30,75 --> 01:22:36,6
+But it provides a lot of insight for what's going on.
+
+838
+01:22:36,6 --> 01:22:37,42
+Speaker 2: But then you walk up the hill everyday.
+
+839
+01:22:37,42 --> 01:22:37,66
+Yoshua: Yeah.
+
+840
+01:22:37,66 --> 01:22:41,49
+Speaker 2: And describe the most defining moment during one of those walks. Where you were? Where you stood?
+
+841
+01:22:48,24 --> 01:22:49,37
+Which corner?
+
+842
+01:22:49,37 --> 01:23:00,41
+Yoshua: Well, so I remember a particular moment. I was walking on the north sidewalk of Queen Mary Street.
+
+843
+01:23:01,25 --> 01:23:15,92
+And I was seeing the big church we have there, which is called the oratoire. It's beautiful.
+
+844
+01:23:15,92 --> 01:23:24,16
+Yoshua: And then I got this insight about perturbations propagating in brains.
+
+845
+01:23:24,16 --> 01:23:26,36
+Speaker 2: Maybe you want to do that sooner than that.
+
+846
+01:23:26,36 --> 01:23:29,53
+Yoshua: Yeah, yeah. From the beginning or just the last sentence?
+
+847
+01:23:29,53 --> 01:23:30,62
+Speaker 2: The last one. Go on.
+
+848
+01:23:30,62 --> 01:23:40,48
+Yoshua: And so, then I got this insight, visually of these perturbations happening on neurons.
+
+849
+01:23:40,48 --> 01:23:42,19
+That propagate to other neurons, that propagate to other neurons.
+
+850
+01:23:43,85 --> 01:23:55,72
+And like I'm doing with my hands, but it was something visual. Then suddenly I had the thought that this could work.
+
+851
+01:23:56,02 --> 01:23:59,29
+That this could explain things that I'm always trying to understand.
+
+852
+01:23:59,29 --> 01:24:01,29
+Speaker 2: How did this feel?
+
+853
+01:24:01,29 --> 01:24:15,81
+Yoshua: Great, I think of all the good feelings that we can have in life, the feeling we get when something clicks,
+
+854
+01:24:15,81 --> 01:24:24,28
+the eureka. Is probably, maybe, the strongest and most powerful one that we can seek again and again.
+
+855
+01:24:24,63 --> 01:24:39,00
+And only brings positive things. Maybe stronger than food and sex and those usual good things we get from experience.
+
+856
+01:24:39,00 --> 01:24:40,66
+Speaker 2: You mean this moment?
+
+857
+01:24:40,66 --> 01:24:46,67
+Yoshua: This- These kinds of moments provide pleasure.
+
+858
+01:24:46,67 --> 01:24:53,89
+Yoshua: It's a different kind of pleasure, just like different pleasures or different sensory pleasure or so on.
+
+859
+01:24:54,03 --> 01:25:00,83
+But it's really, I think, when your brain realizes something, understands something.
+
+860
+01:25:00,83 --> 01:25:08,3
+It's like you send yourself some molecules to reward you. Say great, do it again if you can, right?
+
+861
+01:25:08,3 --> 01:25:10,24
+Speaker 2: Did you do it again?
+
+862
+01:25:10,24 --> 01:25:12,81
+Yoshua: Yeah, yeah, that's my job.
+
+863
+01:25:12,81 --> 01:25:18,25
+Speaker 2: So this is one moment at the church. Was it a coincidence that it was at a church?
+
+864
+01:25:18,25 --> 01:25:18,55
+Yoshua: No.
+
+865
+01:25:18,55 --> 01:25:19,44
+Speaker 2: That has nothing to do with it.
+
+866
+01:25:19,44 --> 01:25:20,95
+Yoshua: I don't believe in God.
+
+867
+01:25:20,95 --> 01:25:35,96
+Speaker 2: But, when, I don't believe in God either but if you think of God as someone who created us as is,
+
+868
+01:25:35,96 --> 01:25:37,14
+and he is our example.
+
+869
+01:25:37,14 --> 01:25:38,67
+Yoshua: Yes.
+
+870
+01:25:38,67 --> 01:25:44,6
+Speaker 2: Trying to understand what's happening in your head or your brain.
+
+871
+01:25:44,6 --> 01:25:45,98
+Yoshua: Yes.
+
+872
+01:25:45,98 --> 01:25:49,39
+Speaker 2: Isn't that what other people call God?
+
+873
+01:25:49,39 --> 01:25:51,06
+Speaker 2: Or looking for?
+
+874
+01:25:51,06 --> 01:25:58,03
+Yoshua: I'm not sure I understand your question.
+
+875
+01:25:58,03 --> 01:26:11,15
+Speaker 2: How can I rephrase that one?
+
+876
+01:26:11,15 --> 01:26:18,38
+Speaker 2: When you understand how a brain works-
+
+877
+01:26:18,38 --> 01:26:19,11
+Yoshua: Yes.
+
+878
+01:26:19,11 --> 01:26:22,11
+Speaker 2: Maybe then you understand who God is.
+
+879
+01:26:22,11 --> 01:26:29,16
+Yoshua: When we understand how our brains work we understand who we are to some extent,
+
+880
+01:26:29,16 --> 01:26:31,72
+I mean a very important part of us. That's one of my motivations.
+
+881
+01:26:33,99 --> 01:26:46,03
+And the process of doing it is something that defines us individually but also as a collective, as a group,
+
+882
+01:26:46,03 --> 01:26:54,48
+as a society. So there may be some connections to religion which are about connecting us to some extent.
+
+883
+01:26:54,48 --> 01:27:00,84
+Speaker 2: That's one of those layers you were talking about. Religion is one of them.
+
+884
+01:27:00,84 --> 01:27:02,51
+Yoshua: Mm-hm. Yep.
+
+885
+01:27:02,51 --> 01:27:09,69
+Speaker 2: So but doing this show [NOISE] this half an hour, then you were almost here so-
+
+886
+01:27:09,69 --> 01:27:16,94
+Yoshua: Sometimes I think it's too short. But then, I have things to do, so.
+
+887
+01:27:16,94 --> 01:27:24,52
+Speaker 2: Let's continue this metaphor. It's uphill, when you are uphill, what do you feel?
+
+888
+01:27:24,52 --> 01:27:30,57
+Yoshua: I feel, so I'm going uphill, my body's working hard.
+
+889
+01:27:30,57 --> 01:27:33,67
+I mean, I'm not running, but I'm walking and I can feel the muscles.
+
+890
+01:27:35,46 --> 01:27:46,86
+Warming up, and my whole body becoming more full with energy. And I think that helps the brain as well.
+
+891
+01:27:46,86 --> 01:27:49,09
+That's how it feels, anyway.
+
+892
+01:27:49,09 --> 01:27:55,46
+Speaker 2: But I mean, when you. Moses went up to the mountain and he saw the Promised Land. [LAUGH]
+
+893
+01:27:55,46 --> 01:27:58,52
+Speaker 2: When you go uphill what do you see?
+
+894
+01:27:58,52 --> 01:28:10,14
+Yoshua: When I go uphill [LAUGH] I see the university, but there is something that's related to your question.
+
+895
+01:28:10,42 --> 01:28:16,95
+Which is, each time I have these insights, these Eureka moments, it's like seeing the Promised Land.
+
+896
+01:28:16,95 --> 01:28:25,89
+It's very much like that. It's like you have a glimpse of something you had never seen before and it looks great.
+
+897
+01:28:27,19 --> 01:28:30,91
+And you feel like you now see a path to go there.
+
+898
+01:28:31,48 --> 01:28:37,9
+So I think it's very, very close to this idea of seeing the Promised Land.
+
+899
+01:28:37,9 --> 01:28:39,86
+But of course it's not just one Promised Land.
+
+900
+01:28:39,86 --> 01:28:46,86
+It's one step to the next valley and the next valley, and that's how we climb, really, big mountains.
+
+901
+01:28:46,86 --> 01:28:58,83
+Speaker 2: So is there anything you want to add to this yourself? Because I think we are ready now to go uphill.
+
+902
+01:28:58,83 --> 01:29:00,84
+Yoshua: No, I'm fine.
+
+903
+01:29:00,84 --> 01:29:12,42
+Speaker 2: Maybe just a few questions about Friday, so what you're going to do. What are you going to do on Friday?
+
+904
+01:29:12,42 --> 01:29:25,23
+Yoshua: So Friday I'm going to make a presentation to the rest of the researchers in the lab in the institute about one
+
+905
+01:29:25,23 --> 01:29:28,56
+of the topics I'm most excited about these days.
+
+906
+01:29:30,59 --> 01:29:38,56
+Which is trying to bridge the gap between what we do in machine learning, what has to do with AI
+
+907
+01:29:38,56 --> 01:29:44,79
+and building intelligent machines and the brain. I'm not really a brain expert.
+
+908
+01:29:44,79 --> 01:29:48,18
+I'm more a machine learning person, but I talk to neuroscientists and so on.
+
+909
+01:29:48,27 --> 01:29:57,03
+And I try, I really care about the big question of how is the brain doing the really complex things that it does.
+
+910
+01:29:57,19 --> 01:30:08,57
+And so the work I'm going to tell about Friday is one small step in that direction that we've achieved in the last few
+
+911
+01:30:08,57 --> 01:30:10,02
+months.
+
+912
+01:30:10,02 --> 01:30:12,17
+Speaker 2: On your path to the Promised Land?
+
+913
+01:30:12,17 --> 01:30:14,86
+Yoshua: Yes, exactly, that's right.
+
+914
+01:30:14,87 --> 01:30:21,28
+And I've been making those small steps on this particular topic for about a year and a half.
+
+915
+01:30:21,29 --> 01:30:27,47
+So it's not like just something happens and you're there, right?
+
+916
+01:30:27,76 --> 01:30:40,7
+It's a lot of insights that make you move and get understanding. And science makes progress by steps.
+
+917
+01:30:41,15 --> 01:30:44,67
+Most of those steps are small, some are slightly bigger.
+
+918
+01:30:44,67 --> 01:30:49,42
+Seen from the outside, sometimes people have the impression that, there's this big breakthrough, breakthrough.
+
+919
+01:30:49,52 --> 01:30:51,85
+And journalists like to talk about breakthrough, breakthrough, breakthrough.
+
+920
+01:30:52,28 --> 01:30:58,15
+But actually science is very, very progressive because we gradually understand better the world.
+

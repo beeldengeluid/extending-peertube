@@ -1,0 +1,3788 @@
+1
+00:00:00,00 --> 00:00:01,63
+Carolina Cruz-neira: I'm Carolina Cruz-Neira,
+
+2
+00:00:01,96 --> 00:00:08,08
+and I'm the Director of a research center in virtual reality called the Emerging Analytics Center,
+
+3
+00:00:08,6 --> 00:00:11,82
+and we are part of the University of Arkansas in Little Rock.
+
+4
+00:00:12,23 --> 00:00:19,48
+And a lot of people ask, why are you in Little Rock, Arkansas doing something that is so much technical events
+
+5
+00:00:20,9 --> 00:00:21,86
+and mother.
+
+6
+00:00:22,62 --> 00:00:29,09
+And the reason for that is because there's a tremendous, a good infrastructure here to do what I do,
+
+7
+00:00:29,49 --> 00:00:35,36
+and there is actually a lot of energy and enthusiasm to support the work that I do.
+
+8
+00:00:35,62 --> 00:00:42,86
+And the opportunities for us to do interesting projects and more unique things with less restrictions,
+
+9
+00:00:43,4 --> 00:00:48,27
+not only so much legal restrictions, but almost intellectual restrictions.
+
+10
+00:00:48,4 --> 00:00:58,85
+Cuz here there is almost nothing, so there is not preconceptions, there is no baggage of any kind, you know.
+
+11
+00:00:59,17 --> 00:01:05,04
+There is no, things have to be done in a certain way. So, to me that's always been very exciting.
+
+12
+00:01:05,04 --> 00:01:07,49
+Interviewer: It's new for everybody.
+
+13
+00:01:07,49 --> 00:01:13,17
+Carolina Cruz-neira: It's new, and we are the cool group on the campus, we're the exciting group on campus.
+
+14
+00:01:13,28 --> 00:01:18,27
+That for me, is always a good thing. And this is not the first time in my career.
+
+15
+00:01:18,78 --> 00:01:25,32
+I have always been in universities where you would not expect to have the kind of work that I do.
+
+16
+00:01:25,59 --> 00:01:28,94
+And it's really, like I said, it's a lot more fun,
+
+17
+00:01:28,94 --> 00:01:36,45
+it's harder too because if we run into some complications we don't have a lot of colleagues that we can talk to,
+
+18
+00:01:36,69 --> 00:01:43,85
+or an environment where there is a lot of knowledge on the area that we do research of.
+
+19
+00:01:44,23 --> 00:01:50,13
+But at the same time it's a lot of fun because, like I said, we have no constraints of any kind in what we do.
+
+20
+00:01:50,13 --> 00:01:53,3
+Interviewer: So, you have to find out everything yourself, or your students.
+
+21
+00:01:53,3 --> 00:01:55,71
+Carolina Cruz-neira: Pretty much, yes, we're kind of-
+
+22
+00:01:55,71 --> 00:01:56,18
+Interviewer: Pioneering
+
+23
+00:01:56,18 --> 00:02:02,34
+Carolina Cruz-neira: Pioneering to some extent and we hit our head in the wall, we had to hit and hit
+
+24
+00:02:02,34 --> 00:02:04,15
+and hit it until eventually, we break the wall.
+
+25
+00:02:04,37 --> 00:02:09,75
+Because, like I say, sometimes, we're entirely on our own in some situations.
+
+26
+00:02:10,12 --> 00:02:19,72
+But at the same time, because we are the unique group in the compost and in many cases in the state that we are in,
+
+27
+00:02:19,92 --> 00:02:20,93
+in the United States.
+
+28
+00:02:21,39 --> 00:02:27,21
+Then, we get a lot of support and we get a lot of encouragement
+
+29
+00:02:27,22 --> 00:02:32,93
+and we get a lot of positive reactions to a lot of the things that we do.
+
+30
+00:02:33,52 --> 00:02:40,5
+And also, we give a lot back because around us, we are always generating other opportunities.
+
+31
+00:02:40,5 --> 00:02:46,52
+So, for example, businesses that will not consider coming into Little Rock,
+
+32
+00:02:46,8 --> 00:02:50,63
+they consider setting up here because we are here.
+
+33
+00:02:50,81 --> 00:02:56,28
+So, for them having that relationship with my group, maybe very exciting and they were like,
+
+34
+00:02:57,01 --> 00:03:01,99
+we're not thinking of going to Arkansas, we were thinking of maybe going to California or Boston or something like that.
+
+35
+00:03:02,27 --> 00:03:10,52
+But your group been there is for us it's actually wonderful because the cost of living is lot lower,
+
+36
+00:03:11,09 --> 00:03:21,03
+the ability for us to financially support the company is much easier than these other areas and, at the same time,
+
+37
+00:03:21,24 --> 00:03:25,49
+we have the same intellectual quality on our relationship with a university.
+
+38
+00:03:25,99 --> 00:03:34,62
+So, it's a mutually beneficial relationship for us to be and I don't expect it university. [LAUGH]
+
+39
+00:03:34,62 --> 00:03:42,91
+Interviewer: But what exactly is your science?
+
+40
+00:03:42,91 --> 00:03:43,55
+Carolina Cruz-neira: What exactly is my science?
+
+41
+00:03:43,78 --> 00:03:45,73
+I don't know, a lot of people ask me that question
+
+42
+00:03:45,74 --> 00:03:51,04
+and I'm not sure if I'm actually a scientist myself because I'm more trained from engineering.
+
+43
+00:03:51,68 --> 00:03:58,05
+And engineers were always sort of the weird scientists because we're always very practical.
+
+44
+00:03:59,03 --> 00:04:07,03
+So, I think that word science is more of our ability to find the root of a problem
+
+45
+00:04:07,51 --> 00:04:12,7
+and find some ways to solve that problem or at least to make it better.
+
+46
+00:04:12,7 --> 00:04:19,13
+So, it might not be deeply, deeply theoretical, a lot of the things that we do, but they are deeply,
+
+47
+00:04:19,66 --> 00:04:21,88
+technically challenging, the things that we do.
+
+48
+00:04:22,06 --> 00:04:29,82
+So, sometimes, it's a struggle because we might be doing something that is unique, nobody has done it before.
+
+49
+00:04:29,82 --> 00:04:32,42
+It's incredibly hard to solve the problem.
+
+50
+00:04:33,00 --> 00:04:39,21
+But it may not field that we just discover a new way of how the galaxies were formed,
+
+51
+00:04:40,23 --> 00:04:48,16
+or some new philosophical theory of how our soul relates to the metauniverse or something like that.
+
+52
+00:04:48,34 --> 00:04:56,07
+[LAUGH] So, we are much more practical and down to an specific point that needs a solution, so-
+
+53
+00:04:56,07 --> 00:05:00,39
+Interviewer: But altogether, what you do with virtual reality?
+
+54
+00:05:00,39 --> 00:05:01,74
+Carolina Cruz-neira: What-
+
+55
+00:05:01,74 --> 00:05:03,29
+Interviewer: Can I have your-
+
+56
+00:05:03,29 --> 00:05:03,92
+Carolina Cruz-neira: [LAUGH]
+
+57
+00:05:03,92 --> 00:05:06,09
+Interviewer: Theories about it as well?
+
+58
+00:05:06,09 --> 00:05:10,45
+Carolina Cruz-neira: Yes, I have my theories and myself, personally,
+
+59
+00:05:10,48 --> 00:05:17,38
+I think throughout my entire career I have been a little bit of an outsider to the virtual reality science community.
+
+60
+00:05:18,77 --> 00:05:25,43
+Because I always thought very differently than the main trend of thoughts.
+
+61
+00:05:26,41 --> 00:05:33,37
+Even today, if you talk about virtual reality today, when somebody says, do you know what virtual reality is about?
+
+62
+00:05:33,75 --> 00:05:39,51
+Immediately they are going to identify with putting some sort of goggles on your face and look around,
+
+63
+00:05:39,89 --> 00:05:45,68
+some beautiful landscape or something like that. That's not exactly what I do.
+
+64
+00:05:45,82 --> 00:05:53,29
+Because to me virtual reality is the ability to create some world in the computer that again solves a problem.
+
+65
+00:05:54,2 --> 00:06:01,31
+And in order to do that, sometimes you have to be multiple people sharing the environment with the own bodies,
+
+66
+00:06:01,31 --> 00:06:05,88
+not through virtual representation of myself in the world.
+
+67
+00:06:06,08 --> 00:06:09,75
+But actually my self physically embedded in the virtual world.
+
+68
+00:06:09,87 --> 00:06:15,53
+So, I wanna see your face, and your face, and your face, while I'm seeing the virtual world.
+
+69
+00:06:15,9 --> 00:06:18,2
+So, my work is more about building large-
+
+70
+00:06:18,2 --> 00:06:20,25
+Interviewer: Can you try to explain that?
+
+71
+00:06:20,25 --> 00:06:20,76
+Carolina Cruz-neira: [LAUGH]
+
+72
+00:06:20,76 --> 00:06:22,81
+Interviewer: Again, I think I understand but-
+
+73
+00:06:22,81 --> 00:06:25,91
+Carolina Cruz-neira: Well, when, again,
+
+74
+00:06:25,92 --> 00:06:32,4
+when you talk about virtual reality with the majority of the community out there-
+
+75
+00:06:32,4 --> 00:06:34,77
+Interviewer: Yeah, that part I did understand, but the part you say-
+
+76
+00:06:34,77 --> 00:06:36,06
+Carolina Cruz-neira: With the body?
+
+77
+00:06:36,06 --> 00:06:37,59
+Interviewer: How to what you do?
+
+78
+00:06:37,59 --> 00:06:42,5
+Carolina Cruz-neira: What I do. Here, I'm going to tell you what happened to me when I first saw a virtual reality.
+
+79
+00:06:42,92 --> 00:06:44,43
+Let's go back to the beginning.
+
+80
+00:06:44,76 --> 00:06:51,42
+When I first saw virtual reality in 1991, I had the same experience everybody is having today.
+
+81
+00:06:52,04 --> 00:06:58,78
+Somebody put some goggles on my face and I start looking around some beautiful world, and, of course,
+
+82
+00:06:58,94 --> 00:07:06,5
+I was a young student at that time, I've never seen it before. So, what did I do? Same as everybody does today, guao.
+
+83
+00:07:09,57 --> 00:07:17,08
+But like with everything else, after that is over, the excitement is over then, you start thinking,
+
+84
+00:07:17,86 --> 00:07:21,55
+what is this thing really? What is it this thing?
+
+85
+00:07:21,55 --> 00:07:28,01
+And, again, I'm thinking as an engineer, what is this thing doing for me? Other than just guao.
+
+86
+00:07:28,01 --> 00:07:36,95
+So, when I start thinking that, first of all I was, I'm not myself anymore here.
+
+87
+00:07:37,47 --> 00:07:46,41
+Because when I'm right here in this room with you, I see my hands, I see my legs, I see a little bit of my head
+
+88
+00:07:46,41 --> 00:07:53,24
+and hair. When I put goggles, I lost all that, immediately, I'm not myself anymore.
+
+89
+00:07:54,1 --> 00:07:59,06
+I don't know how big something is, I don't know how close something is. Because I can tell this table is here.
+
+90
+00:07:59,45 --> 00:08:05,44
+Because I can see my hand going towards that table so that gives me a sense of space and relationship.
+
+91
+00:08:06,23 --> 00:08:10,38
+In the virtual world, I'm trying to grab something, but I don't see anything.
+
+92
+00:08:10,88 --> 00:08:16,12
+At the most, I see some floating hand that is not connected to my body and is not even my own hand.
+
+93
+00:08:16,23 --> 00:08:20,8
+Because most of the virtual environments, they give you a male hand, and I'm a woman.
+
+94
+00:08:20,96 --> 00:08:23,24
+I have my little red nails and all that, so it's not even my hand.
+
+95
+00:08:23,77 --> 00:08:27,83
+So I lose myself the moment I walk into the virtual reality space. That's number one.
+
+96
+00:08:27,94 --> 00:08:33,75
+Number two, as humans, we like to talk to people, we are very social individuals.
+
+97
+00:08:34,25 --> 00:08:42,37
+We're a very social, I don't know, animal. I put my goggles on, I lost all of you as well.
+
+98
+00:08:43,04 --> 00:08:48,18
+Because I might be seeing something, and I might be saying, look at that, you don't see it.
+
+99
+00:08:48,18 --> 00:08:52,56
+Cuz you don't have the goggles on. So, what I see you don't see it.
+
+100
+00:08:52,63 --> 00:08:57,84
+There's no way for me to share that with you, in the same way I share this room with you.
+
+101
+00:08:58,25 --> 00:09:02,36
+So to me, those kinds of things, since I was very, very, very young,
+
+102
+00:09:02,81 --> 00:09:11,3
+were very annoying about the way virtual reality was being approached, in general, the research community.
+
+103
+00:09:12,64 --> 00:09:22,89
+So I thought about what can be done to bring myself into the virtual space. What can I do to do that?
+
+104
+00:09:23,44 --> 00:09:27,33
+And I was very fortunate because I was starting my PhD.
+
+105
+00:09:27,33 --> 00:09:34,65
+And the professor that I was working with gave me a lot of freedom to explore whatever I wanted to do.
+
+106
+00:09:34,95 --> 00:09:41,4
+He had some set ideas of what he wanted to do. And I started doing what he wanted me to do.
+
+107
+00:09:41,67 --> 00:09:46,69
+But at the same time, in parallel, I started experimenting with some of the things that I was interested on.
+
+108
+00:09:47,24 --> 00:09:50,43
+And down the line, the professor was, I guess,
+
+109
+00:09:50,55 --> 00:09:57,54
+gracious enough to recognize that the direction that I was going was exciting. And he let me run with those ideas.
+
+110
+00:09:58,28 --> 00:10:04,32
+So I ended up developing, in a sense, a Goggle big enough that it was the size of a room.
+
+111
+00:10:04,58 --> 00:10:06,25
+So instead of putting it on your head.
+
+112
+00:10:06,25 --> 00:10:06,77
+Interviewer: It was like a cave.
+
+113
+00:10:06,77 --> 00:10:14,51
+Carolina Cruz-neira: Yeah, I built a cave. So several, several are still in use today, now 20-something years later.
+
+114
+00:10:15,26 --> 00:10:20,82
+So you walk into this room, so because your body comes with you into the virtual environment.
+
+115
+00:10:21,42 --> 00:10:26,32
+Your friends come with you into the virtual environment. And you'll see that tomorrow when we go to the laboratory.
+
+116
+00:10:26,48 --> 00:10:34,13
+So you come with me, and then, I will be saying, look that. And you'll see my finger pointing at a virtual object.
+
+117
+00:10:34,67 --> 00:10:37,28
+The same way I say look at this table or something like that.
+
+118
+00:10:37,58 --> 00:10:46,62
+So that social element is part of the virtual experience without any recreation virtually of yourself.
+
+119
+00:10:46,8 --> 00:10:48,52
+Which is what people do these days.
+
+120
+00:10:48,66 --> 00:10:55,62
+When you do a shared virtual environment, they recreate yourself in a virtual environment. But that's not you.
+
+121
+00:10:55,62 --> 00:10:56,00
+Interviewer: Yeah.
+
+122
+00:10:56,00 --> 00:11:00,41
+Carolina Cruz-neira: That's a puppet that represents you. Or an avatar, I guess, is the right term.
+
+123
+00:11:00,83 --> 00:11:04,79
+So, for me, like I said, since I did that back in 1991.
+
+124
+00:11:06,32 --> 00:11:10,21
+Everybody's going this way in virtual reality, and I'm going that way.
+
+125
+00:11:10,21 --> 00:11:14,99
+[LAUGH] So that has been always a little bit challenging, to be-
+
+126
+00:11:14,99 --> 00:11:16,71
+Interviewer: But with a lot of success.
+
+127
+00:11:16,71 --> 00:11:22,66
+Carolina Cruz-neira: Well, that's what I mentioned earlier. I have been very, very successful knowing what I have done.
+
+128
+00:11:23,14 --> 00:11:27,62
+But not necessarily my work has been always recognized as science.
+
+129
+00:11:28,23 --> 00:11:36,79
+Because it doesn't fit the pattern or the mold that the majority of the community is going.
+
+130
+00:11:36,95 --> 00:11:43,17
+But at the same time, the work that I have done has had a significant impact in the industry.
+
+131
+00:11:43,84 --> 00:11:48,2
+Today, a lot of the car companies, for example, have caves.
+
+132
+00:11:48,2 --> 00:11:57,58
+At different stages of the design and manufacturing of cars. The oil industry uses variations of the cave.
+
+133
+00:11:57,76 --> 00:11:59,68
+Not the cave as it was originally created.
+
+134
+00:12:00,37 --> 00:12:09,81
+But this concept of having large spaces that you share the immersive space, and many others for training
+
+135
+00:12:09,82 --> 00:12:14,74
+and in many other aspects. It's not a commodity or a consumer product.
+
+136
+00:12:14,74 --> 00:12:15,84
+Interviewer: I understand.
+
+137
+00:12:15,84 --> 00:12:23,1
+Carolina Cruz-neira: It's not something that you can have in your home, obviously. But it's been incredibly successful.
+
+138
+00:12:24,73 --> 00:12:30,16
+Another industry that uses this quite a lot and is not very well known in the press is the mining industry,
+
+139
+00:12:30,16 --> 00:12:41,72
+for safety training. As you know, underground mines are extremely complex and have a lot of safety issues.
+
+140
+00:12:41,72 --> 00:12:44,79
+So that industry uses caves around the world.
+
+141
+00:12:44,79 --> 00:12:52,79
+Interviewer: I once filmed in Norway with Rolls-Royce in Marine. And they built cabins from a ship, with a steel ship.
+
+142
+00:12:52,79 --> 00:12:57,46
+It had windows all around it, all with projections of the sea.
+
+143
+00:12:57,46 --> 00:13:03,46
+So when you were in there, it was in an office, just not at sea.
+
+144
+00:13:03,46 --> 00:13:12,00
+Carolina Cruz-neira: Yeah, so it does have the Marine trainers, yeah. Yeah, mm-hm, yeah.
+
+145
+00:13:12,00 --> 00:13:15,23
+Interviewer: Yeah, and even to see what I did, then I'd get seasick.
+
+146
+00:13:15,23 --> 00:13:17,08
+Carolina Cruz-neira: Yeah, and I think that's the main, perhaps, scientific contribution,
+
+147
+00:13:17,08 --> 00:13:19,83
+if you want to call it that way, of this work.
+
+148
+00:13:20,02 --> 00:13:27,08
+Because in a sense, it opened the minds of many people that for maybe 10,
+
+149
+00:13:27,08 --> 00:13:31,74
+15 years were thinking virtual reality was a particular platform.
+
+150
+00:13:32,68 --> 00:13:36,81
+And my work opened the mind to say virtual reality is a concept.
+
+151
+00:13:37,3 --> 00:13:41,76
+And that concept can be realized in a variety of platforms.
+
+152
+00:13:42,16 --> 00:13:47,07
+And it's not one platform is the solution, there are different problems.
+
+153
+00:13:47,07 --> 00:13:50,38
+So depending on the problem, a cave is a good platform.
+
+154
+00:13:50,78 --> 00:13:54,4
+For some other problems, the head-mounted display is a good platform.
+
+155
+00:13:55,53 --> 00:14:01,15
+But some other problems, you see it in the lab, other kind of platforms are more appropriate.
+
+156
+00:14:01,15 --> 00:14:07,59
+Interviewer: But if we wish to elaborate, suppose I'm a student, and I wanna go study with you.
+
+157
+00:14:07,59 --> 00:14:12,19
+What exactly is what I'm going to learn, and what reasons would I have-
+
+158
+00:14:12,19 --> 00:14:12,8
+Carolina Cruz-neira: [LAUGH]
+
+159
+00:14:13,11 --> 00:14:14,95
+Interviewer: To study with you?
+
+160
+00:14:14,95 --> 00:14:20,11
+Carolina Cruz-neira: Well, I think if you asked me that question maybe four years ago
+
+161
+00:14:20,12 --> 00:14:27,57
+when virtual reality was not popular, the answer will be different today. Virtual reality is very popular again.
+
+162
+00:14:27,9 --> 00:14:31,41
+It was very popular in the 90s and then it went silent. And now it's popular again.
+
+163
+00:14:32,19 --> 00:14:42,62
+And I think the reason to do it is, I guess, some students that come and study with me,
+
+164
+00:14:42,62 --> 00:14:46,85
+they just think that if they do something related to virtual reality.
+
+165
+00:14:47,19 --> 00:14:53,52
+And in particularly, if they work with me, because of my name recognition then they'll get a very good job.
+
+166
+00:14:53,74 --> 00:15:01,18
+And they'll make a lot of money. So those kinda students to be in it with you, I don't want those students in my lab.
+
+167
+00:15:01,4 --> 00:15:08,43
+And we have learned very quickly to spot to those students. Because, they don't really care about the work.
+
+168
+00:15:08,43 --> 00:15:14,48
+They care that in their minds, they think, I'm doing something that is trendy, that is innovative.
+
+169
+00:15:17,01 --> 00:15:22,16
+And just because I'm doing it, and just because I'm doing it with other groups, I'm just gonna graduate.
+
+170
+00:15:22,42 --> 00:15:25,57
+And then, I'm just gonna get this very high paying job.
+
+171
+00:15:25,57 --> 00:15:26,03
+Interviewer: Yeah, opportunistic.
+
+172
+00:15:26,03 --> 00:15:29,87
+Carolina Cruz-neira: But from experience, yeah, they're very opportunistic.
+
+173
+00:15:30,24 --> 00:15:35,91
+And they don't really care about what they are doing. They care about making money, at the end of the day.
+
+174
+00:15:35,91 --> 00:15:36,73
+Interviewer: Well, what do you care about?
+
+175
+00:15:36,73 --> 00:15:40,34
+Carolina Cruz-neira: So we care about students when they come to us and they say,
+
+176
+00:15:40,86 --> 00:15:43,32
+can I work with you because I have this idea.
+
+177
+00:15:43,91 --> 00:15:49,23
+And I think with your guidance, I could explore this idea and see where it take us.
+
+178
+00:15:49,89 --> 00:15:54,94
+So that's an example of a student that we like to find those kinds of students, cuz that's how I was.
+
+179
+00:15:55,09 --> 00:15:57,11
+I was doing something, nobody had done it before.
+
+180
+00:15:57,54 --> 00:16:03,25
+And I had a professor that For one reason or another, decided to let me run with it.
+
+181
+00:16:03,25 --> 00:16:04,3
+Interviewer: When we start at the beginning, just for our understanding, can you explain to me. And I know nothing.
+
+182
+00:16:04,3 --> 00:16:04,96
+Carolina Cruz-neira: [LAUGH]
+
+183
+00:16:04,96 --> 00:16:18,6
+Interviewer: What is virtual reality?
+
+184
+00:16:18,6 --> 00:16:21,62
+Carolina Cruz-neira: What is virtual reality?
+
+185
+00:16:21,62 --> 00:16:28,57
+Okay well, [LAUGH] The way I normally explain to people is just, a way to create worlds with a computer.
+
+186
+00:16:29,39 --> 00:16:37,95
+Now for me there is very little difference between virtual reality and augmented reality. There are two fields.
+
+187
+00:16:38,5 --> 00:16:42,1
+And when you talk to different professionals there will be people that will be very,
+
+188
+00:16:42,31 --> 00:16:46,45
+very adamant that it's two completely different disciplines.
+
+189
+00:16:46,64 --> 00:16:51,51
+You do virtual reality, you know nothing about augmented reality, and so on.
+
+190
+00:16:51,81 --> 00:16:58,55
+There are some other groups, and I am part of those groups, but I think both of them have a lot of common base concepts.
+
+191
+00:17:00,58 --> 00:17:06,32
+And the difference is with virtual reality you create worlds that are entirely in the computer.
+
+192
+00:17:07,05 --> 00:17:12,03
+They don't necessarily have any relationship to the real world
+
+193
+00:17:12,1 --> 00:17:15,25
+or to the reality that you find yourself in that particular moment.
+
+194
+00:17:15,43 --> 00:17:23,01
+So you can be tiny, tiny, tiny, tiny and explore the world at the atomic level, or you can be huge
+
+195
+00:17:23,08 --> 00:17:25,81
+and explore at the universe level.
+
+196
+00:17:26,64 --> 00:17:33,24
+You can travel to a world that never existed, you can go back in time and you can go into future.
+
+197
+00:17:33,55 --> 00:17:41,87
+So, basically, what ever your imagination conceives you can generate that inside the computer.
+
+198
+00:17:42,43 --> 00:17:44,63
+And then put yourself inside that world and-
+
+199
+00:17:44,63 --> 00:17:47,63
+Interviewer: And what's the difference with the real world?
+
+200
+00:17:51,12 --> 00:17:54,51
+Because when you enter a virtual world, why isn't that real?
+
+201
+00:17:54,51 --> 00:17:56,77
+Carolina Cruz-neira: Well, and that's a very good question.
+
+202
+00:17:56,99 --> 00:18:03,45
+For many of the worlds that we do, they actually become very real to the people that experience those worlds.
+
+203
+00:18:03,83 --> 00:18:16,9
+There is something that we study that is called the sense of presence..
+
+204
+00:18:08,83 --> 00:18:16,66
+So how much those virtual worlds make you, in a sense, forget that they're virtual,
+
+205
+00:18:17,36 --> 00:18:22,89
+And you suddenly became so involved, so engaged in that world that that world becomes real?
+
+206
+00:18:23,44 --> 00:18:28,64
+So you forget that you're in my lab, or that you're inside a company, or something like that.
+
+207
+00:18:28,74 --> 00:18:36,91
+And you completely get mentally and almost physically transported to that new reality, whatever it is.
+
+208
+00:18:39,84 --> 00:18:45,16
+That's what we want to do sometimes. We really want you to feel that those places are real.
+
+209
+00:18:46,07 --> 00:18:52,94
+Whether you're there for five minutes or three hours, that you disconnect yourselves from the real world.
+
+210
+00:18:53,76 --> 00:18:54,96
+Sometimes they're very disoriented.
+
+211
+00:18:55,3 --> 00:19:01,96
+Because we make worlds that intentionally don't behave with the laws of physics as the real world does.
+
+212
+00:19:02,84 --> 00:19:08,68
+And it's very interesting sometimes to see people adjusting to those worlds.
+
+213
+00:19:08,93 --> 00:19:13,44
+Because something like for example Escher, you've seen the paintings of Escher.
+
+214
+00:19:13,78 --> 00:19:18,51
+You have a stair that is going up and then suddenly you're going downstairs. And you don't even know how that happened.
+
+215
+00:19:18,72 --> 00:19:24,61
+So we have built some worlds like that that suddenly the laws of physics don't work.
+
+216
+00:19:25,61 --> 00:19:30,73
+But people become very functional, it's like they always did that.
+
+217
+00:19:31,21 --> 00:19:34,93
+It makes a lot of sense that you're going up the stairs and suddenly you end up in the basement.
+
+218
+00:19:35,36 --> 00:19:41,44
+You go upstairs to go to the basement, it's just normal. So to me all these kinds of things are really exciting.
+
+219
+00:19:42,05 --> 00:19:43,07
+Of course sometimes-
+
+220
+00:19:43,07 --> 00:19:45,51
+Interviewer: And then that's real as well, right?
+
+221
+00:19:45,51 --> 00:19:50,71
+Carolina Cruz-neira: On that particular moment on that particular timeframe that you are in the space,
+
+222
+00:19:50,71 --> 00:19:55,99
+it might become very real. We have people that are afraid sometimes to move in the virtual space.
+
+223
+00:19:56,45 --> 00:20:04,74
+Because we have our floor is also virtual. So sometimes, we might be very high up on a ledge of something.
+
+224
+00:20:05,3 --> 00:20:14,62
+Or one of the projects that we have right now has one of those old rope and boards bridges.
+
+225
+00:20:14,93 --> 00:20:18,09
+That you have to cross between two very high mountains.
+
+226
+00:20:18,57 --> 00:20:22,43
+And we have people that they don't wanna cross that bridge, cuz they are afraid of heights.
+
+227
+00:20:22,43 --> 00:20:23,79
+Interviewer: But do you, do you?
+
+228
+00:20:23,79 --> 00:20:28,35
+Carolina Cruz-neira: Me, personally? No [LAUGH] no.
+
+229
+00:20:28,35 --> 00:20:28,95
+Interviewer: You don't like to do that?
+
+230
+00:20:28,95 --> 00:20:29,4
+Carolina Cruz-neira: No, I don't.
+
+231
+00:20:29,55 --> 00:20:38,00
+For me because I've been doing this so long, sometimes it's hard for me to disconnect myself from the real reality.
+
+232
+00:20:38,33 --> 00:20:49,66
+So I know in a sense it's not real, fake to some extent. So no. I can, I walk in water or I walk on the air.
+
+233
+00:20:49,66 --> 00:20:52,34
+[CROSSTALK] Yeah, and I don't feel any. [CROSSTALK]
+
+234
+00:20:52,34 --> 00:20:53,15
+Interviewer: You cross that bridge.
+
+235
+00:20:53,15 --> 00:20:59,95
+Carolina Cruz-neira: Any yes. But we do have a lot of people that think twice before they go through that.
+
+236
+00:20:59,95 --> 00:21:04,02
+Or again we might have a balcony that doesn't have any railings.
+
+237
+00:21:05,26 --> 00:21:08,96
+A lot of people will not take to that step to get out of the balcony.
+
+238
+00:21:09,2 --> 00:21:12,1
+Which nothing is gonna happen, I mean they're on solid ground.
+
+239
+00:21:12,1 --> 00:21:20,48
+But virtually they are not on solid ground so we have people that even we push them a little bit gently said,
+
+240
+00:21:20,95 --> 00:21:29,79
+give it a try. No no no no no no no. It becomes very real, and people do.
+
+241
+00:21:31,27 --> 00:21:36,72
+They have this strange dual confusion in their heads. They know it's not real.
+
+242
+00:21:38,19 --> 00:21:41,49
+But they behave like it's real so it's a very interesting
+
+243
+00:21:41,49 --> 00:21:46,49
+Interviewer: So what's the purpose of [INAUDIBLE] people that kind of environment into a computer?
+
+244
+00:21:46,82 --> 00:21:52,82
+Because they have to get used to it [INAUDIBLE] it's not real so I can [INAUDIBLE] real or-
+
+245
+00:21:52,82 --> 00:22:02,1
+Carolina Cruz-neira: Well again like I told you at the beginning we solve problems through virtual reality.
+
+246
+00:22:02,1 --> 00:22:08,08
+So one very typical problem that we're solving all the time is types of training.
+
+247
+00:22:08,08 --> 00:22:09,75
+Interviewer: Are those very practical?
+
+248
+00:22:10,08 --> 00:22:15,42
+I understand that but somehow with virtual reality we can also live in another world.
+
+249
+00:22:15,42 --> 00:22:22,58
+Carolina Cruz-neira: Yes.
+
+250
+00:22:22,58 --> 00:22:28,06
+Interviewer: Or think about our own virtual identity.
+
+251
+00:22:28,06 --> 00:22:37,35
+Carolina Cruz-neira: Yes, and it's also a way to sometimes communicate your understanding of the world to others.
+
+252
+00:22:37,69 --> 00:22:41,45
+For example we have worked with patients that have brain damage.
+
+253
+00:22:42,29 --> 00:22:48,89
+That has changed the way they perceive the world and how they function.
+
+254
+00:22:49,29 --> 00:22:53,84
+For us it's very look at this table and we know immediately it's a table.
+
+255
+00:22:54,43 --> 00:22:59,05
+For people to have some kind of brain damage through accidents or some disease or something.
+
+256
+00:22:59,37 --> 00:23:03,09
+They look at the table and they cannot recognize that this is a table, for example.
+
+257
+00:23:04,79 --> 00:23:07,62
+So sometimes their behavior feels erratic.
+
+258
+00:23:07,92 --> 00:23:14,25
+But it's not erratic because they find themselves in situations that they just, something as simple as a table.
+
+259
+00:23:14,25 --> 00:23:16,42
+The brain doesn't process that.
+
+260
+00:23:16,8 --> 00:23:21,61
+So we have worked with some patients a few years back,
+
+261
+00:23:21,61 --> 00:23:25,81
+where through their verbal descriptions of how they perceive the world.
+
+262
+00:23:26,05 --> 00:23:31,09
+Which I had to recreate virtual environments that we could become that person.
+
+263
+00:23:31,57 --> 00:23:35,82
+And we could understand how the person perceives the world.
+
+264
+00:23:36,34 --> 00:23:44,42
+And why that person has a panic attack when there's a tree on the path, because it does not recognize that as a tree.
+
+265
+00:23:44,76 --> 00:23:45,91
+So those kinds of things are-
+
+266
+00:23:45,91 --> 00:23:47,44
+Interviewer: Then you could solve that problem?
+
+267
+00:23:47,44 --> 00:23:53,48
+Carolina Cruz-neira: Yeah, you can help people to understand your reality, in a sense in a way.
+
+268
+00:23:53,96 --> 00:23:59,61
+And again you can also create a completely new reality that we don't Know what it is at this moment,
+
+269
+00:23:59,61 --> 00:24:08,62
+that you might imagine and build, it and make an experience. I have a good colleague, that his sort of perspective.
+
+270
+00:24:09,74 --> 00:24:14,97
+Is that virtual reality allows you to be not only somebody else, but something else.
+
+271
+00:24:15,24 --> 00:24:19,15
+So he always gives the example, he always wanted to be a lobster.
+
+272
+00:24:19,62 --> 00:24:26,91
+So one of his first virtual reality applications, over 20 something years ago.
+
+273
+00:24:26,99 --> 00:24:32,98
+Was to understand the world, from the perspective of a lobster. And you use virtual reality, and you become a lobster.
+
+274
+00:24:33,25 --> 00:24:37,98
+So that's not really my area of work.
+
+275
+00:24:37,98 --> 00:24:43,66
+It's more, I guess I'm more from a practical perspective of, how do we solve a problem.
+
+276
+00:24:43,85 --> 00:24:49,64
+But certainly, you want to feel the world, let's say you were some sort of bacteria.
+
+277
+00:24:49,9 --> 00:24:57,21
+How do bacteria understand the world, and how do they spread themselves through another organism?
+
+278
+00:24:57,5 --> 00:25:00,37
+Well, you can use virtual reality, and become a bacteria.
+
+279
+00:25:00,95 --> 00:25:03,8
+And live in the world of microorganisms, and see how that world-
+
+280
+00:25:03,8 --> 00:25:03,88
+Interviewer: Well, that's all very practical, and I can understand that.
+
+281
+00:25:03,88 --> 00:25:03,99
+But if you try to look at the borders of your science, what's possible right now, what would,
+
+282
+00:25:03,99 --> 00:25:08,39
+we can expect in the future? That this virtual world, will become so real. Or am I wrong?
+
+283
+00:25:08,39 --> 00:25:26,21
+Carolina Cruz-neira: Yeah.
+
+284
+00:25:26,21 --> 00:25:31,38
+Interviewer: When you try to think about it, not in a practical way.
+
+285
+00:25:31,38 --> 00:25:36,05
+But in a way, in the direction we're going with these developments.
+
+286
+00:25:36,05 --> 00:25:41,38
+Carolina Cruz-neira: Yeah, and I think there is a little bit of.
+
+287
+00:25:41,71 --> 00:25:48,39
+With every new science, there is always the positive part, that the science can bring to society.
+
+288
+00:25:49,01 --> 00:25:53,68
+And some of the potential dangers that can bring to society.
+
+289
+00:25:54,01 --> 00:26:00,69
+And certainly there is a concern that we might create some realities that become much more pleasant.
+
+290
+00:26:01,24 --> 00:26:06,45
+Much more rewarding, or satisfactory, than the real reality.
+
+291
+00:26:06,79 --> 00:26:09,61
+Especially in the world that we live today, there are so many frustrations.
+
+292
+00:26:09,78 --> 00:26:12,99
+We all have a lot of frustrations in our daily life.
+
+293
+00:26:13,4 --> 00:26:17,36
+And then you can go into virtual reality, and you can be, I don't know.
+
+294
+00:26:17,36 --> 00:26:24,6
+Some beautiful, wealthy person with a beautiful virtual yacht, going to some beautiful virtual island.
+
+295
+00:26:25,44 --> 00:26:30,31
+Not your small, tiny basement apartment, that you can barely pay the rent.
+
+296
+00:26:30,72 --> 00:26:34,29
+So there is certainly a concern, and it's a growing concern.
+
+297
+00:26:34,55 --> 00:26:42,34
+That we might, in the long-term future, not in the next, maybe five years, but really looking far into the future.
+
+298
+00:26:42,57 --> 00:26:49,43
+That we might create this alternate reality, to some extent, that is better than our real reality.
+
+299
+00:26:49,86 --> 00:26:57,75
+And we might all start living more those alternate realities, versus the real life, or something.
+
+300
+00:26:58,19 --> 00:26:59,13
+And how we are going to handle that?
+
+301
+00:26:59,3 --> 00:27:07,53
+And that at this moment, we are, I think, so early on what we are doing, that I don't think none of us has a very good.
+
+302
+00:27:10,18 --> 00:27:13,58
+I don't know how to say, understanding, or picture, of how all of this is going to happen.
+
+303
+00:27:13,75 --> 00:27:19,81
+Because right now, with the technology that we have? I am personally convinced that will never really happen.
+
+304
+00:27:20,84 --> 00:27:22,68
+Because the technology is still-
+
+305
+00:27:22,68 --> 00:27:23,4
+Interviewer: It will never happen [CROSSTALK]
+
+306
+00:27:23,4 --> 00:27:27,16
+Carolina Cruz-neira: With the way we have it right now. We haven't-
+
+307
+00:27:27,16 --> 00:27:29,53
+Interviewer: But you know, it's, who's going to develop it?
+
+308
+00:27:29,53 --> 00:27:37,22
+Carolina Cruz-neira: We haven't, I don't think we have found the right solution at all, yet.
+
+309
+00:27:37,4 --> 00:27:42,16
+All the platforms that we have right now and right now I'm talking about physical platforms.
+
+310
+00:27:43,19 --> 00:27:46,48
+The different helmets, or the different projectors, or the different, all these things that we have.
+
+311
+00:27:46,81 --> 00:27:55,95
+They're not transparent, it takes a conscious effort to put them on.
+
+312
+00:27:56,24 --> 00:28:02,62
+You have to have a specific technology, computers, this, that.
+
+313
+00:28:02,83 --> 00:28:10,73
+It's not comfortable, it doesn't fit well on your head, it crashes. All those kinds of things, so it is a good novelty.
+
+314
+00:28:11,65 --> 00:28:18,44
+But I think that as we move forward, people will, like other novelties, in a couple of years, everybody will calm down.
+
+315
+00:28:19,33 --> 00:28:25,18
+And then, everybody is gonna have their virtual reality set at the bottom of the drawer.
+
+316
+00:28:25,35 --> 00:28:28,14
+Like has happened with some of the gaming technologies.
+
+317
+00:28:28,14 --> 00:28:30,45
+Interviewer: You think so? This will happen?
+
+318
+00:28:30,45 --> 00:28:34,87
+Carolina Cruz-neira: Again, with the current platforms, as we have them today, I think so.
+
+319
+00:28:35,01 --> 00:28:39,08
+Because, again, there were some gaming platforms which I'm not gonna mention.
+
+320
+00:28:39,08 --> 00:28:39,68
+Interviewer: But they're [CROSSTALK]
+
+321
+00:28:39,68 --> 00:28:45,03
+Carolina Cruz-neira: But they were gonna change, they were gonna change the world a few years ago, and what happened?
+
+322
+00:28:45,27 --> 00:28:46,81
+Yes it was a great innovation.
+
+323
+00:28:47,31 --> 00:28:53,56
+But who wants to spend three, four, five, six hours playing a video game standing on your feet?
+
+324
+00:28:53,56 --> 00:28:54,21
+Interviewer: Yeah.
+
+325
+00:28:54,21 --> 00:28:56,13
+Carolina Cruz-neira: It was a really cool platform.
+
+326
+00:28:56,13 --> 00:28:58,15
+Interviewer: I think that's 20 years ago
+
+327
+00:28:58,15 --> 00:28:58,72
+Carolina Cruz-neira: [LAUGH]
+
+328
+00:28:58,72 --> 00:29:04,2
+Interviewer: But in the future, I can imagine that as virtual reality becomes so real or so perfect
+
+329
+00:29:04,2 --> 00:29:08,82
+or without any bugs. Because in real life, we can also get sick.
+
+330
+00:29:08,82 --> 00:29:09,69
+Carolina Cruz-neira: Yes.
+
+331
+00:29:09,69 --> 00:29:10,84
+Interviewer: Or we can
+
+332
+00:29:10,84 --> 00:29:13,15
+Interviewer: Crash, too, like the car.
+
+333
+00:29:13,15 --> 00:29:17,23
+Carolina Cruz-neira: Yeah, and that's what I say. With the technology that we have today, no.
+
+334
+00:29:17,42 --> 00:29:24,1
+But in the direction that we're going, whatever might come down the line, that is certainly a concern.
+
+335
+00:29:24,62 --> 00:29:31,39
+And there are starting to be, around the world, movements related to ethics and the use of virtual reality.
+
+336
+00:29:32,00 --> 00:29:36,81
+So there are some committees and groups, and they are starting.
+
+337
+00:29:37,46 --> 00:29:42,12
+There is some here in the US, there are some in Europe, that are starting to appear, there are some in Asia.
+
+338
+00:29:42,3 --> 00:29:49,34
+Where, at this moment, are being more kind of like, coffee-shop conversations, a small group.
+
+339
+00:29:50,1 --> 00:29:53,13
+But they are starting to appear, because there is a concern.
+
+340
+00:29:54,07 --> 00:30:00,56
+Now, at the same time, is it a concern to say, hey, we should stop doing what we're doing and not do it anymore?
+
+341
+00:30:00,83 --> 00:30:05,17
+I don't think so, because the benefits are so much.
+
+342
+00:30:05,67 --> 00:30:12,84
+And at so many levels, that I think this is something that is more education, like drugs.
+
+343
+00:30:13,97 --> 00:30:17,00
+Everybody knows that drugs are bad, but there are people who are still taking drugs.
+
+344
+00:30:17,00 --> 00:30:20,34
+Well, that's their own responsibility to make that decision, so-
+
+345
+00:30:20,34 --> 00:30:23,2
+Interviewer: But I think in every science, and every development, there is-
+
+346
+00:30:23,2 --> 00:30:25,32
+Carolina Cruz-neira: There is always something like that.
+
+347
+00:30:25,32 --> 00:30:26,54
+Interviewer: Should we do this or not?
+
+348
+00:30:26,54 --> 00:30:29,08
+Carolina Cruz-neira: But on the other hand, it's also good.
+
+349
+00:30:29,27 --> 00:30:36,95
+Because we also have done some work related to stress and depression. And again, creating this alternative reality.
+
+350
+00:30:36,95 --> 00:30:43,75
+That for a short period of time, you become, again, some person, whatever is your fantasy.
+
+351
+00:30:44,61 --> 00:30:54,36
+A very famous singer, a very wealthy person, a famous explorer going somewhere. A lobster, whatever your fantasy is.
+
+352
+00:30:55,16 --> 00:31:05,96
+Just fifteen minutes' exposure to that type of alternate reality significantly decreases stress levels and depressions.
+
+353
+00:31:06,52 --> 00:31:13,23
+And that has been demonstrated, by not only my group and other groups. That we have [CROSSTALK]
+
+354
+00:31:13,23 --> 00:31:16,2
+Interviewer: [CROSSTALK] because I would like to.
+
+355
+00:31:16,2 --> 00:31:21,2
+Of course, there is a discussion of ethics, and that's in every science.
+
+356
+00:31:21,53 --> 00:31:26,2
+But, since the discussion will be there, or come, anywhere.
+
+357
+00:31:26,2 --> 00:31:30,2
+But if we explore the path of development into virtual reality.
+
+358
+00:31:30,2 --> 00:31:37,54
+It seems to me, that in the future, you can have more identity than only your own real identity.
+
+359
+00:31:37,54 --> 00:31:43,54
+So you've become, and it's not about ethics or something, but How will that look like?
+
+360
+00:31:43,87 --> 00:31:48,2
+Suppose its 2050 and we have more then our own real identity.
+
+361
+00:31:48,2 --> 00:32:14,00
+Carolina Cruz-neira: Well we have that today. I mean look at what people are doing in Facebook. Is it you in Facebook?
+
+362
+00:32:14,00 --> 00:32:19,9
+Its not really you, I mean, you are the one doing the postings but you're, in a sense,
+
+363
+00:32:19,9 --> 00:32:28,32
+maybe exaggerating some of your postings. Not necessarily lying, but embellishing the situation.
+
+364
+00:32:28,89 --> 00:32:35,92
+We already, to some extent, are using some technologies that are giving us multiple personalities
+
+365
+00:32:35,93 --> 00:32:37,28
+or multiple identities.
+
+366
+00:32:37,69 --> 00:32:43,57
+You see a lot of discussions on how people represent themselves in chatrooms, and in Twitter,
+
+367
+00:32:43,83 --> 00:32:45,2
+and some other things like that.
+
+368
+00:32:45,2 --> 00:32:52,69
+So, I think at that level, of course with virtual reality is much more powerful because it's not just you're,
+
+369
+00:32:52,69 --> 00:32:59,13
+let's say posting a picture and say, look, big deal about this.
+
+370
+00:32:59,45 --> 00:33:05,29
+But it's actually living that experience that you're actually creating or something like that.
+
+371
+00:33:05,41 --> 00:33:11,01
+So I don't know, personally, that's something that doesn't worry me too much because,
+
+372
+00:33:11,17 --> 00:33:15,33
+again the benefits are really what I'm focused on.
+
+373
+00:33:15,33 --> 00:33:22,48
+Interviewer: So it's not about race, not at all. It's more like, I try to have an image of how future will look like.
+
+374
+00:33:22,48 --> 00:33:23,81
+Carolina Cruz-neira: I don't know.
+
+375
+00:33:23,81 --> 00:33:26,2
+Interviewer: Me having other identity. I'm curious.
+
+376
+00:33:26,2 --> 00:33:31,59
+Carolina Cruz-neira: We might be, in many ways, maybe happier than healthier because as we're getting older,
+
+377
+00:33:31,74 --> 00:33:35,01
+for example, we don't have as much energy as we used to have.
+
+378
+00:33:35,33 --> 00:33:42,75
+But one of my entities can be a very energetic woman that kinda still go and dance in pointe shoes.
+
+379
+00:33:43,39 --> 00:33:48,99
+Which I haven't danced in over 30 years now, but I can still virtually maybe do that.
+
+380
+00:33:49,18 --> 00:34:00,48
+Maybe your other identity is that you used to go and swim ten kilometers or something across some strait somewhere
+
+381
+00:34:00,49 --> 00:34:06,74
+and you cannot do that right now but that virtual reality might allow you to do it. So I think it's-
+
+382
+00:34:06,74 --> 00:34:12,41
+Interviewer: What will that do to us if we have those choices in virtual reality? [CROSSTALK]
+
+383
+00:34:12,41 --> 00:34:19,26
+Carolina Cruz-neira: We're also gonna have, life is gonna change to because again, some of the virtual reality helps,
+
+384
+00:34:20,16 --> 00:34:27,41
+like any other again, new technology too, I think the way we work is gonna change. So as we are all having more.
+
+385
+00:34:28,72 --> 00:34:32,43
+Right now, we're in a strange, in my opinion, transition technology era.
+
+386
+00:34:32,43 --> 00:34:40,87
+Where we are having a lot of technologies that make our jobs easier. But at the same time, they're giving us more work.
+
+387
+00:34:40,87 --> 00:34:46,74
+Like, for example, email. Email has facilitated communications tremendously. But at the same time.
+
+388
+00:34:46,74 --> 00:34:51,4
+Our community in so we can never clear that inbox queue.
+
+389
+00:34:51,99 --> 00:34:59,27
+We're always busy trying to clear our email, so we communicate so much now that it's keeping us busier, but again,
+
+390
+00:34:59,88 --> 00:35:02,76
+looking into the future, many of these things get resolved
+
+391
+00:35:02,77 --> 00:35:08,81
+and that translates into us having other time that we can use for more quality time or something else.
+
+392
+00:35:09,83 --> 00:35:19,64
+So I think maybe in the future virtual reality is gonna help us to do our normal everyday work life easier in some ways.
+
+393
+00:35:19,64 --> 00:35:25,23
+Like we have worked with companies for example that in the last ten years,
+
+394
+00:35:25,23 --> 00:35:34,11
+their timeframe from the concept of a product to the product being in the market was in between seven
+
+395
+00:35:34,12 --> 00:35:35,37
+and nine years period.
+
+396
+00:35:36,15 --> 00:35:40,2
+With the introduction of virtual reality, doing virtual testing, the virtual prototyping,
+
+397
+00:35:40,65 --> 00:35:45,1
+bringing customers from the virtual status of the [INAUDIBLE] and all that,
+
+398
+00:35:45,1 --> 00:35:49,25
+their cycle now has reduced to about two years.
+
+399
+00:35:50,64 --> 00:35:58,5
+That has released a lot of the people in that company a tremendous amount of work that they can use for something else.
+
+400
+00:35:59,59 --> 00:36:02,08
+I don't know, it's hard to imagine a future, but at the same time,
+
+401
+00:36:02,24 --> 00:36:12,18
+I think it could potentially be a more relaxed future, maybe a happier future, because again,
+
+402
+00:36:12,7 --> 00:36:19,89
+it's a few minutes of escaping being, doing. You know, I love the ocean. And we don't live by the ocean.
+
+403
+00:36:20,12 --> 00:36:22,1
+We live in the middle of Arkansas right now.
+
+404
+00:36:22,35 --> 00:36:29,54
+So it would be great if I could spend 30 minutes every day sitting by the ocean and feeling the breeze,
+
+405
+00:36:29,75 --> 00:36:34,32
+that alone just, I'll be happy for the rest of the afternoon,
+
+406
+00:36:34,32 --> 00:36:38,49
+or something like that versus kind of here like it's hot and humid.
+
+407
+00:36:38,7 --> 00:36:43,24
+It's been six months since I've seen the ocean or something like that. I don't know. I think.
+
+408
+00:36:43,24 --> 00:36:47,11
+Interviewer: Do you still have to do things when you have virtual
+
+409
+00:36:47,11 --> 00:36:51,86
+Carolina Cruz-neira: Well, of course. Of course because-
+
+410
+00:36:51,86 --> 00:36:55,87
+Interviewer: What is left? What do you have to do yourself?
+
+411
+00:36:55,87 --> 00:37:04,05
+Carolina Cruz-neira: Well, same as what you do in life. I mean, the virtual reality is not a passive reality.
+
+412
+00:37:04,05 --> 00:37:12,5
+It's an active reality, so in real life you don't sit on a chair and stare at the ceiling.
+
+413
+00:37:12,5 --> 00:37:18,84
+[LAUGH] You have to do things. You have to open a can of Coke. You have to turn on the lights.
+
+414
+00:37:19,54 --> 00:37:24,71
+You have to look out the window. You have to do something.
+
+415
+00:37:24,71 --> 00:37:28,99
+Interviewer: What if you live in a virtual world, maybe you neglect your self? I don't know.
+
+416
+00:37:28,99 --> 00:37:29,64
+Carolina Cruz-neira: No.
+
+417
+00:37:29,64 --> 00:37:31,13
+Interviewer: You can get to drink or
+
+418
+00:37:31,13 --> 00:37:37,79
+Carolina Cruz-neira: No, you mean neglect your physical needs. Yes. That's a good point yes.
+
+419
+00:37:38,02 --> 00:37:42,91
+You might, I don't know, it would be, I don't think anybody has done any studies on that
+
+420
+00:37:42,91 --> 00:37:50,57
+but I'm assuming the physical part of your body, the sensation of being hungry or thirsty
+
+421
+00:37:50,58 --> 00:37:55,17
+or wanting to go to the restroom or something that would probably is still kicking.
+
+422
+00:37:55,17 --> 00:38:05,62
+I mean, I don't think that virtual reality will override some of our basic survival instincts, or something like that.
+
+423
+00:38:06,05 --> 00:38:08,89
+I will surprised if that happens.
+
+424
+00:38:09,4 --> 00:38:15,51
+We talk about sensory substitution, but I don't think that you can do a virtual space is so real
+
+425
+00:38:15,51 --> 00:38:19,21
+and so exciting that you don't feel hungry or something like that.
+
+426
+00:38:19,21 --> 00:38:22,8
+Interviewer: But you can imagine that you have another reality that you go to a restaurant and you eat a lot of food
+
+427
+00:38:22,8 --> 00:38:24,13
+and not get fat.
+
+428
+00:38:24,13 --> 00:38:35,93
+Carolina Cruz-neira: Yeah I don't know, but I still there is the there are.
+
+429
+00:38:35,93 --> 00:38:38,01
+Interviewer: But it's possible will have right?
+
+430
+00:38:38,01 --> 00:38:40,16
+Carolina Cruz-neira: There are groups that are actually developing
+
+431
+00:38:40,16 --> 00:38:40,75
+Interviewer: Okay.
+
+432
+00:38:40,75 --> 00:38:44,27
+Carolina Cruz-neira: Virtual taste and virtual smells you know?
+
+433
+00:38:44,27 --> 00:38:51,58
+So potentially yes or potentially you might beyond the virtual environment and just have virtual tastes of the food
+
+434
+00:38:51,59 --> 00:38:53,02
+and actually not be eating anything.
+
+435
+00:38:53,77 --> 00:38:59,78
+But I still think that there is some primordial, basic survival instincts that sooner
+
+436
+00:38:59,79 --> 00:39:05,00
+or later your stomach is gonna be like, okay, this virtual taste is delicious
+
+437
+00:39:05,01 --> 00:39:07,87
+but my tummy still has not received anything [LAUGH]
+
+438
+00:39:07,87 --> 00:39:13,2
+Interviewer: What's the difference then between our own reality, virtual reality, and our instincts?
+
+439
+00:39:13,53 --> 00:39:17,2
+What's the difference? Why can't wait fake our instincts?
+
+440
+00:39:17,2 --> 00:39:22,61
+Carolina Cruz-neira: I think that we can fake a lot.
+
+441
+00:39:22,73 --> 00:39:30,41
+Like I told you, we get people that will not walk off a balcony In the virtual environment.
+
+442
+00:39:30,61 --> 00:39:34,31
+So that's a survival instinct that the virtual environment actually figures.
+
+443
+00:39:34,31 --> 00:39:34,67
+Interviewer: But that's one we can't get used to because we know we can really fall down.
+
+444
+00:39:34,69 --> 00:39:38,49
+So it's just a trick and if you know the trick Then you can walk
+
+445
+00:39:38,49 --> 00:39:48,87
+Carolina Cruz-neira: Well I can, it depends on how real is real, the virtual world because we can make you fall down
+
+446
+00:39:48,88 --> 00:39:53,74
+and we can hit you pretty hard if we can put you in a motion platform
+
+447
+00:39:53,75 --> 00:39:59,11
+or put you in some kind of Device that actually makes you feel the fall and actually hurt yourself,
+
+448
+00:39:59,37 --> 00:40:05,43
+if we wanna go to that level. So, in my lab we don't do that right now, [LAUGH] you know?
+
+449
+00:40:06,37 --> 00:40:08,55
+But in previous locations that I was before,
+
+450
+00:40:08,8 --> 00:40:19,88
+we actually had robotic type of systems that were around your body that as you were interacting in the virtual space,
+
+451
+00:40:20,1 --> 00:40:24,48
+the robotics were giving you physical feedback of the world, you know so.
+
+452
+00:40:24,48 --> 00:40:27,38
+Interviewer: Physical feed back. That's nicely said.
+
+453
+00:40:27,38 --> 00:40:33,34
+Carolina Cruz-neira: Yeah, yeah so you could actually touch a virtual object and feel, or you could grab something
+
+454
+00:40:33,35 --> 00:40:39,63
+and feel the weight of that virtual object. Again, depending on how real is real, you can actually make it happen.
+
+455
+00:40:39,83 --> 00:40:47,11
+But assuming, again, with the technology that we have today you know there are some instincts that again we trigger.
+
+456
+00:40:47,23 --> 00:40:53,59
+We don't necessarily intentionally do it when we build the worlds, but we observe that
+
+457
+00:40:53,6 --> 00:40:57,24
+when we have people testing our spaces, you know.
+
+458
+00:40:57,33 --> 00:41:05,29
+So sometimes we don't realize something and then when we have people in our virtual spaces we notice things
+
+459
+00:41:05,3 --> 00:41:07,69
+and we're like whoa, we didn't think about that one, you know?
+
+460
+00:41:08,24 --> 00:41:12,81
+Because, like I said earlier, there's a lot of things we don't know yet,
+
+461
+00:41:12,81 --> 00:41:20,01
+we don't understand yet what this technology really does to our head.
+
+462
+00:41:20,01 --> 00:41:22,68
+Interviewer: Of course that's what interests me.
+
+463
+00:41:22,68 --> 00:41:23,35
+Carolina Cruz-neira: [LAUGH]
+
+464
+00:41:23,35 --> 00:41:34,49
+Interviewer: Because we try to explore the borders of science and what's there in the future waiting for us.
+
+465
+00:41:34,82 --> 00:41:42,7
+And if you, if you continue the way it does like this with the development of virtual reality,
+
+466
+00:41:42,7 --> 00:41:51,58
+you can imagine that we have realities which are so real, where you can live in
+
+467
+00:41:51,58 --> 00:41:56,54
+or you can create a new identity for yourself. It kind of makes of reality. What is still real and what is not?
+
+468
+00:41:56,74 --> 00:41:59,6
+So at some point virtual reality becomes real reality.
+
+469
+00:41:59,6 --> 00:42:11,75
+Carolina Cruz-neira: And they might become, for you or for me or for other people,
+
+470
+00:42:12,27 --> 00:42:15,97
+the reality that you prefer to be versus the real reality.
+
+471
+00:42:16,47 --> 00:42:19,5
+And as you know, that has been around in science fiction for a long time.
+
+472
+00:42:19,88 --> 00:42:20,53
+There are,
+
+473
+00:42:21,03 --> 00:42:30,38
+for example Asimov has a few novels where it's a society in which humans don't wanna have face-to-face contact anymore
+
+474
+00:42:30,39 --> 00:42:33,34
+because they prefer the virtual contact.
+
+475
+00:42:33,61 --> 00:42:39,41
+It's to them almost a physical contact, almost repulsive, they don't wanna do that anymore.
+
+476
+00:42:39,92 --> 00:42:51,27
+So certainly, like I said earlier, if we want to think on the pessimistic extreme side of things,
+
+477
+00:42:51,47 --> 00:42:52,88
+maybe we can go that way.
+
+478
+00:42:52,88 --> 00:42:54,22
+Interviewer: Or optimistic.
+
+479
+00:42:54,22 --> 00:43:01,67
+Carolina Cruz-neira: On a positive way, hey, if your virtual reality makes you a better person,
+
+480
+00:43:01,95 --> 00:43:11,36
+makes you enjoy your life better, then what's the big deal about it? I don't know.
+
+481
+00:43:11,36 --> 00:43:12,03
+Carolina Cruz-neira: [LAUGH]
+
+482
+00:43:12,03 --> 00:43:24,08
+Interviewer: I have another, I have a virtual identity which I like and I created that identity myself, right?
+
+483
+00:43:24,08 --> 00:43:28,42
+Is it logical to think that any virtual identity I create myself,
+
+484
+00:43:28,42 --> 00:43:36,08
+or is it also possible that my identity will be influenced by other elements or other people? Do we have control?
+
+485
+00:43:36,08 --> 00:43:43,92
+Carolina Cruz-neira: I think-
+
+486
+00:43:43,92 --> 00:43:46,59
+Interviewer: You know about my virtual identity.
+
+487
+00:43:46,59 --> 00:43:51,35
+Carolina Cruz-neira: My personal opinion is probably yes, because, again,
+
+488
+00:43:51,35 --> 00:43:55,62
+it's an identity that you are creating digitally in a computer.
+
+489
+00:43:55,99 --> 00:44:03,61
+So you can decide how much you let others to influence your identity versus you have full control of your identity.
+
+490
+00:44:03,99 --> 00:44:08,48
+Again, at a very simplistic level, look at people doing social media.
+
+491
+00:44:08,7 --> 00:44:15,23
+Some of us share everything with entire world and we let the world sort of, in a sense,
+
+492
+00:44:15,45 --> 00:44:21,2
+influence how we appear to the world in our social media
+
+493
+00:44:21,24 --> 00:44:27,32
+and some of us have a lot of restrictions where we have a very limited group of people that can influence our
+
+494
+00:44:27,55 --> 00:44:28,34
+conversations
+
+495
+00:44:28,94 --> 00:44:34,35
+and in that way maybe we don't necessarily are informed of everything else that happens because we didn't do it.
+
+496
+00:44:34,57 --> 00:44:43,41
+So that's a simplistic level but again, it's a digital reality, so you can define,
+
+497
+00:44:45,08 --> 00:44:53,39
+in the future you could say I want to be a virtual hermit, so my reality is mine and mine alone
+
+498
+00:44:53,83 --> 00:45:06,36
+and I just don't want anybody else to distort it to some extent or you know, hey I have a really cool reality
+
+499
+00:45:06,37 --> 00:45:13,22
+and I want to share that with my friends or with the rest of the world and let us see where this goes.
+
+500
+00:45:14,63 --> 00:45:19,39
+I let other people evolve it with me and see where this takes us.
+
+501
+00:45:19,39 --> 00:45:27,73
+Because I think everything at this moment is an open possibility again mediated by.
+
+502
+00:45:27,73 --> 00:45:28,38
+Interviewer: Sorry.
+
+503
+00:45:28,38 --> 00:45:35,87
+Carolina Cruz-neira: Again, thinking as an engineer mediated by how we build the tools and the systems
+
+504
+00:45:35,88 --> 00:45:41,49
+and the platforms and all those kinds of things to make these things happen because today is not possible.
+
+505
+00:45:43,03 --> 00:45:50,87
+And normal, let's say an average person that is not at the level of technology that we have
+
+506
+00:45:50,88 --> 00:45:54,86
+and other people around the world has, they cannot do that right now.
+
+507
+00:45:57,18 --> 00:46:02,68
+It's not very easy to create these realities right now. You have to have a certain training to be able to do it.
+
+508
+00:46:02,74 --> 00:46:09,37
+But you know that it will be possible in the future? In a very far future, yes.
+
+509
+00:46:09,37 --> 00:46:13,74
+Interviewer: So now everybody has a computer but there were days that people thought well,
+
+510
+00:46:13,74 --> 00:46:16,48
+computers are only for experts, or for companies.
+
+511
+00:46:16,48 --> 00:46:17,3
+Carolina Cruz-neira: Well,
+
+512
+00:46:17,84 --> 00:46:21,86
+if I can digress for a moment I'm gonna talk about a little bit about what you're mentioning right now,
+
+513
+00:46:21,93 --> 00:46:28,2
+because that something that right now is a very big concern of mine. A personal concern that I have.
+
+514
+00:46:28,2 --> 00:46:28,74
+Interviewer: What is?
+
+515
+00:46:28,74 --> 00:46:32,69
+Carolina Cruz-neira: Which is, the fact that many people today,
+
+516
+00:46:32,69 --> 00:46:42,34
+they think they are virtual reality developer experts because everybody today, as you say,
+
+517
+00:46:42,6 --> 00:46:47,64
+has a computer because gaming industry has proliferated very quickly.
+
+518
+00:46:48,13 --> 00:46:55,62
+Everybody has a fairly good computer at home that can do pretty good graphics, pretty good animations
+
+519
+00:46:55,62 --> 00:46:58,92
+and those kinds of things.
+
+520
+00:46:59,69 --> 00:47:03,73
+So there are some tools out there that are open source,
+
+521
+00:47:03,97 --> 00:47:09,48
+or free licence tools that people can get their hands on pretty easily.
+
+522
+00:47:10,63 --> 00:47:19,2
+And now suddenly we're seeing all these virtual reality experts popping up everywhere because they think that because
+
+523
+00:47:19,21 --> 00:47:27,25
+they grabbed the tool, they do a few pretty 3D models and they put it on Google Cardboard for example.
+
+524
+00:47:27,49 --> 00:47:31,35
+Suddenly, [SOUND] I'm the big virtual reality expert, well.
+
+525
+00:47:31,99 --> 00:47:37,25
+I, this is something that is a frustration of mine because this is not.
+
+526
+00:47:37,25 --> 00:47:38,23
+Interviewer: Is it hard for the development?
+
+527
+00:47:38,23 --> 00:47:40,49
+Carolina Cruz-neira: There is many other things behind that.
+
+528
+00:47:40,8 --> 00:47:47,45
+Because you guys are producing a documentary, so you know that everybody nowadays can get a digital camera.
+
+529
+00:47:48,25 --> 00:47:52,96
+But am I gonna produce a documentary at the level of quality that you're gonna do it? No.
+
+530
+00:47:53,27 --> 00:47:57,57
+Because the further I can get a camera and I shoot off somebody's face
+
+531
+00:47:57,57 --> 00:48:02,61
+and hold it still that doesn't make me a good director.
+
+532
+00:48:02,85 --> 00:48:08,31
+Because there is all the lights, there is the questions that you are making me and the experience that we all have.
+
+533
+00:48:09,25 --> 00:48:16,00
+The same thing happens in virtual reality. Yeah you can get it too. But do you know what your technical parameters are?
+
+534
+00:48:16,00 --> 00:48:19,00
+Interviewer: Is it necessary that these developments also have
+
+535
+00:48:19,00 --> 00:48:22,5
+Carolina Cruz-neira: Absolutely,
+
+536
+00:48:22,77 --> 00:48:31,72
+for example if you generate a world there is a certain speed at which that world needs to be presented to the user.
+
+537
+00:48:31,95 --> 00:48:37,09
+Otherwise the user plain and simple is going to get really, really, really sick right off the bat.
+
+538
+00:48:38,19 --> 00:48:45,7
+Now many, many people don't understand that, they just start putting 3D worlds in their 3D models and all that.
+
+539
+00:48:45,89 --> 00:48:49,35
+They have a horrible performance. They are not even synchronized.
+
+540
+00:48:49,71 --> 00:48:51,44
+One eye is going this way, the other eye is going the other way.
+
+541
+00:48:51,78 --> 00:48:52,11
+[LAUGH]
+
+542
+00:48:53,97 --> 00:49:01,37
+And my issue is that those kinds of applications sometimes aren't the first virtual reality experience for many people.
+
+543
+00:49:02,01 --> 00:49:10,83
+And we're starting to see more and more people coming in our laboratory saying, no, no, I don't wanna try a thing here.
+
+544
+00:49:10,95 --> 00:49:16,44
+I already tried virtual reality and it made me very, very sick. So there's this immediate rejection.
+
+545
+00:49:16,88 --> 00:49:22,91
+And I'm, well I'm not a high school kid that just got my hands on some free license something
+
+546
+00:49:22,92 --> 00:49:25,51
+and just slapped together a pretty model.
+
+547
+00:49:25,92 --> 00:49:35,71
+We have been doing this very scientifically, very consciously with all the right approach and constraints and years
+
+548
+00:49:35,72 --> 00:49:39,78
+and years of experience. So please try it. No, no, no, no, no.
+
+549
+00:49:40,14 --> 00:49:43,54
+And that is unfortunately happening more and more and more.
+
+550
+00:49:43,54 --> 00:49:47,62
+And all these sort of things that we've been talking about, when they'll happen.
+
+551
+00:49:48,33 --> 00:49:54,53
+If this other thing continues proliferate, because if the experience that the people have are negative experiences,
+
+552
+00:49:54,91 --> 00:49:58,28
+there's going to be rejection. And that happened back in the 90's.
+
+553
+00:49:58,28 --> 00:50:01,17
+Interviewer: So can you tell me again what time are living in?
+
+554
+00:50:01,17 --> 00:50:01,84
+Carolina Cruz-neira: Yes!
+
+555
+00:50:02,29 --> 00:50:08,86
+So I was mentioning to you that I do talk a lot around the world about what I do
+
+556
+00:50:08,87 --> 00:50:13,82
+and also my vision of what I think virtual reality is gonna go.
+
+557
+00:50:14,18 --> 00:50:21,3
+And I am pretty convinced that we're living in one of those human history changing times, you know?
+
+558
+00:50:21,3 --> 00:50:24,81
+That right now we don't see it because we're living it.
+
+559
+00:50:24,81 --> 00:50:30,52
+But I think generations into the future, maybe 200 years from now, 300 years from now,
+
+560
+00:50:30,89 --> 00:50:36,34
+people might be referring to this time as the virtual reality revolution like the industrial revolution
+
+561
+00:50:36,34 --> 00:50:37,34
+and information revolution.
+
+562
+00:50:39,8 --> 00:50:46,82
+I think, we're at a point that what we are doing I think is going to change our world as we know it.
+
+563
+00:50:46,82 --> 00:50:53,17
+It's going to change how we live as humans and how we identify ourselves as humans.
+
+564
+00:50:53,97 --> 00:50:56,11
+And of course we don't know it because we're living here right now.
+
+565
+00:50:56,27 --> 00:51:02,89
+But again, I'm pretty convinced that we won't see it, but in a few 100 years or no we'll be in the textbooks and say,
+
+566
+00:51:03,14 --> 00:51:12,22
+the 2015's, the 2020's was the peak of the virtual reality revolution where all this was happening.
+
+567
+00:51:13,65 --> 00:51:18,37
+It's hard like always to imagine how the future is going to look like but again is, I think is
+
+568
+00:51:18,37 --> 00:51:19,61
+Interviewer: Can you give it a try to for me?
+
+569
+00:51:19,61 --> 00:51:21,35
+Carolina Cruz-neira: [LAUGH] I can give it try.
+
+570
+00:51:21,35 --> 00:51:23,35
+Interviewer: So suppose in 200 years, there you are.
+
+571
+00:51:23,35 --> 00:51:25,43
+Carolina Cruz-neira: There we are. I think.
+
+572
+00:51:25,43 --> 00:51:27,39
+Interviewer: What are you doing?
+
+573
+00:51:27,39 --> 00:51:33,94
+Carolina Cruz-neira: I'm doing a lot of things. I mean right now there's a lot of things that I cannot do.
+
+574
+00:51:34,27 --> 00:51:37,94
+Either because of physical limitations.
+
+575
+00:51:37,94 --> 00:51:38,77
+Interviewer: I mean that suppose
+
+576
+00:51:38,77 --> 00:51:39,27
+Carolina Cruz-neira: Yep.
+
+577
+00:51:39,27 --> 00:51:40,78
+Interviewer: In 200 years what are you doing?
+
+578
+00:51:40,78 --> 00:51:42,11
+Carolina Cruz-neira: What am I be doing?
+
+579
+00:51:42,26 --> 00:51:47,38
+Well you know I will be right now and saying it's super hot at this particular moment.
+
+580
+00:51:47,86 --> 00:51:55,14
+And I really want to go to the beach. So, I'll see you there in five seconds. I'm gonna go, I'm gonna go to the beach.
+
+581
+00:51:55,32 --> 00:52:00,32
+I'm gonna get the cool breeze of the ocean. I'm gonna smell the beautiful, salty air.
+
+582
+00:52:00,96 --> 00:52:07,42
+And I'm gonna forget about all this fogginess and humidity of July in Arkansas, for whatever time I'm in there.
+
+583
+00:52:09,14 --> 00:52:13,56
+My child might decide that he wants to go to some amusement park,
+
+584
+00:52:13,95 --> 00:52:22,01
+but I don't have the time to physically take him there or maybe we don't have the finances to go there.
+
+585
+00:52:22,01 --> 00:52:29,00
+But my son might say, okay, mommy, I'm just gonna go and visit this amusement park for the next two hours,
+
+586
+00:52:29,00 --> 00:52:32,98
+so don't bother me. [LAUGH] So I think that's an example.
+
+587
+00:52:33,27 --> 00:52:38,91
+Or my car just broke down and I have no idea how to fix this car.
+
+588
+00:52:39,11 --> 00:52:46,02
+But I'm just gonna go into some reality that is just gonna somehow help me fix that car and get it better.
+
+589
+00:52:46,41 --> 00:52:51,4
+Or since I cannot go with my real car, then I'm gonna go into some virtual reality
+
+590
+00:52:51,4 --> 00:52:56,88
+but I'm gonna go what I was gonna go, but I cannot go. So I think that it's gonna be.
+
+591
+00:52:56,88 --> 00:53:05,66
+Carolina Cruz-neira: I tend to tell people what we can do with virtual reality we're limited somebody's imaginations.
+
+592
+00:53:06,27 --> 00:53:10,07
+And I think right now our imagination is still very constrained by real life.
+
+593
+00:53:10,46 --> 00:53:18,74
+So it's very hard to imagine a world that is not physically constrained. And it might not be my generation.
+
+594
+00:53:18,74 --> 00:53:27,13
+It might be the next generation after us that actually has a much more free mind to imagine,
+
+595
+00:53:27,39 --> 00:53:31,33
+because I think right now we're so tangled on developing the technology,
+
+596
+00:53:31,66 --> 00:53:35,2
+that we have not freed up our minds yet of what this thing really can do.
+
+597
+00:53:35,39 --> 00:53:42,97
+But again the ability to go there, whatever that there is, it just opens.
+
+598
+00:53:43,57 --> 00:53:49,51
+Again, a time in human history that is completely different from everything else that we have right now.
+
+599
+00:53:49,51 --> 00:53:50,7
+Interviewer: That sounds very exciting.
+
+600
+00:53:50,7 --> 00:53:55,52
+Carolina Cruz-neira: To me it's very exciting. Here I am. I've been doing this since I was a younger student.
+
+601
+00:53:56,03 --> 00:53:59,17
+And people say hey don't you get bored? And I'm like no.
+
+602
+00:53:59,17 --> 00:54:06,13
+As a difference for example lets say, with maybe a biologist that spends his
+
+603
+00:54:06,14 --> 00:54:11,06
+or her entire career looking for a particular drug to cure a disease.
+
+604
+00:54:11,94 --> 00:54:21,65
+I had to spend my entire life in 100s, 1,000s of different realities, experiences, worlds.
+
+605
+00:54:21,72 --> 00:54:26,44
+I have seen things that I have never seen before. I've been in places that I can not be otherwise.
+
+606
+00:54:26,61 --> 00:54:29,64
+I've been in 15th century India for example
+
+607
+00:54:29,65 --> 00:54:35,75
+and I have participated in some religious ritual that doesn't happen any more in real life.
+
+608
+00:54:36,02 --> 00:54:42,00
+We have been into the future and trying to figure out how life in Mars is going to be.
+
+609
+00:54:42,73 --> 00:54:44,45
+I have traveled through galaxies.
+
+610
+00:54:45,16 --> 00:54:50,18
+I had gone down inside a plant cell and I actually travelled inside a water molecule
+
+611
+00:54:50,19 --> 00:54:53,56
+and see photosynthesis from the inside. Do I get bored?
+
+612
+00:54:53,56 --> 00:55:02,3
+No, I don't because I live many, many lives and I've experienced worlds that don't exist, in a way.
+
+613
+00:55:02,62 --> 00:55:06,66
+And I experience worlds that exist. But I can not physically experience them.
+
+614
+00:55:07,09 --> 00:55:16,09
+So to me, is really cool, is really exciting. Like I said, what are we gonna do 100 years from now, 200 years from now?
+
+615
+00:55:16,53 --> 00:55:17,12
+I don't know.
+
+616
+00:55:17,41 --> 00:55:22,73
+I mean, it's hard to imagine because again, could you imagine riding a water molecule
+
+617
+00:55:22,74 --> 00:55:24,97
+and follow the water molecule inside a plant cell.
+
+618
+00:55:25,64 --> 00:55:31,28
+You couldn't imagine that, well we've done it and we done that routine in our lab for example.
+
+619
+00:55:31,82 --> 00:55:44,48
+So, how to see beyond that is, sometimes it feels like having broken my iron chains here yet. But we're trying. [LAUGH]
+
+620
+00:55:44,48 --> 00:55:49,14
+Interviewer: Well, that's a promising thought that we now. Learn the techniques.
+
+621
+00:55:49,48 --> 00:55:54,47
+But we don't accidentally use our imagination of what's possible with those new techniques.
+
+622
+00:55:54,47 --> 00:56:06,98
+Carolina Cruz-neira: Yeah and to me that's what's exciting to see the little ones.
+
+623
+00:56:06,98 --> 00:56:19,19
+I have a six year old son and to me sometimes watching him in virtual reality opens my own mind sometimes.
+
+624
+00:56:19,54 --> 00:56:23,83
+Because his mind is not constrained as my mind is.
+
+625
+00:56:24,92 --> 00:56:26,98
+Because we have, right now,
+
+626
+00:56:27,1 --> 00:56:33,34
+I think we have four generations concurrently living as it relates not only to virtual reality,
+
+627
+00:56:33,58 --> 00:56:35,25
+but to technology in general.
+
+628
+00:56:35,72 --> 00:56:40,93
+And again it's a unique time in history because all the issues related to health
+
+629
+00:56:40,94 --> 00:56:44,43
+and quality of life have been are the best in human history,
+
+630
+00:56:44,66 --> 00:56:50,41
+so now we have people that are living well into their 80s and 90s having a perfectly functional life.
+
+631
+00:56:50,69 --> 00:57:06,67
+So we have elderly people that have been their entire life without technology, and now in their '60s, '70s,,
+
+632
+00:56:59,7 --> 00:57:06,67
+'80s are facing technology.,
+
+633
+00:57:02,45 --> 00:57:09,8
+So when you put those people in virtual reality [LAUGH] my best way to describe it is just adorable.
+
+634
+00:57:10,34 --> 00:57:22,4
+It's just adorable [LAUGH] because they're just like, they just sit there and they're like [LAUGH] and they just don't,
+
+635
+00:57:22,95 --> 00:57:28,22
+they can not even comprehend what it is that they're looking at, they are very afraid of moving,
+
+636
+00:57:28,79 --> 00:57:32,51
+they just kinda look around and they are like, thank you dear but that's it.
+
+637
+00:57:32,7 --> 00:57:41,39
+Then you get people like us, the next sorta group of people where technology came when we were already professionals,
+
+638
+00:57:41,91 --> 00:57:48,52
+very young professionals. So we have to develop our professional life with this technology around us.
+
+639
+00:57:48,86 --> 00:57:55,01
+So I think we are the tinkers. Because we are the ones that were like, how this thing works.
+
+640
+00:57:56,44 --> 00:57:57,99
+What can I do with this thing?
+
+641
+00:57:58,67 --> 00:58:09,7
+So for us, the mystery is not so much on more of the vision of what this thing is gonna do for the life of the humans.
+
+642
+00:58:10,28 --> 00:58:15,02
+For us, the mystery is, what's under the hood? And how this thing works.
+
+643
+00:58:15,55 --> 00:58:18,37
+And that's really what my generation is really focused on.
+
+644
+00:58:18,93 --> 00:58:23,84
+Then there's the next generation, which is the people that are now maybe in their 20s or so.
+
+645
+00:58:24,62 --> 00:58:32,16
+And this technology came to them when they were kids, but older kids like teenagers or so.
+
+646
+00:58:32,73 --> 00:58:40,52
+So for them it was like this I have it whatever. I'm texting, I'm doing this, I'm doing that.
+
+647
+00:58:40,63 --> 00:58:48,56
+It's cool, I can play video games, I can do this. So for them it's something that is a cool factor.
+
+648
+00:58:49,4 --> 00:58:53,16
+And then you have the little ones that are being born into this, like my son.
+
+649
+00:58:53,32 --> 00:59:00,42
+My son, because we are researchers, he's literally been in virtual reality since he was even,
+
+650
+00:59:00,74 --> 00:59:07,66
+I have pictures of him in the little basket as a newborn inside a cave and things like that. For him, it's just
+
+651
+00:59:07,66 --> 00:59:12,67
+Carolina Cruz-neira: It's just like a refrigerator, it's just there.
+
+652
+00:59:13,81 --> 00:59:18,84
+So he doesn't wonder about it, he's not afraid of it.
+
+653
+00:59:19,44 --> 00:59:28,2
+He's not curious about how it works, where he is curious is what happens in here.
+
+654
+00:59:28,2 --> 00:59:36,52
+His perspective is he gets into a virtual environment and he just wants to do things in there.
+
+655
+00:59:37,21 --> 00:59:42,81
+He doesn't think about how difficult it is or how uncomfortable the gear is.
+
+656
+00:59:43,52 --> 00:59:48,68
+He is immediately mentally there and he just wants to be there.
+
+657
+00:59:49,26 --> 00:59:54,25
+And then he started asking a lot of interesting questions because he wants to do things that he can not do.
+
+658
+00:59:55,1 --> 00:59:56,9
+And for him, that doesn't have any logic.
+
+659
+00:59:57,19 --> 01:00:07,36
+Because, again, he's mentally there, so he has, in his mind he has a concept of how this thing needs to respond to him,
+
+660
+01:00:07,53 --> 01:00:10,25
+and its not responding to him, so sometimes he gets frustrated.
+
+661
+01:00:10,25 --> 01:00:12,45
+Interviewer: He's the first one with limitations.
+
+662
+01:00:12,45 --> 01:00:17,63
+Carolina Cruz-neira: Yeah, because his mind is way beyond my mind.
+
+663
+01:00:19,38 --> 01:00:28,09
+So when he sees my constraints implemented on the system, he gets frustrated, because he wants to really go a dare,
+
+664
+01:00:28,52 --> 01:00:34,05
+but it's a dare that I don't understand it yet. Because I'm still busy looking under the hood.
+
+665
+01:00:34,7 --> 01:00:41,97
+So I think for me, the fact that I think in our case, we're very fortunate, because he's the whole family.
+
+666
+01:00:42,22 --> 01:00:46,97
+[LAUGH] Cuz my husband is part of the the same research that I do
+
+667
+01:00:46,97 --> 01:00:52,99
+and now our son pretty much lives with us in the lab whenever he's not in school.
+
+668
+01:00:53,18 --> 01:00:57,2
+So we have an interesting perspective on doing this.
+
+669
+01:00:57,3 --> 01:01:04,55
+And in some cases like I said, he, our little son, sometimes opens our minds just because we see his frustrations,
+
+670
+01:01:04,55 --> 01:01:12,1
+cuz he expects some things that are not happening. But we didn't even think about them.
+
+671
+01:01:12,59 --> 01:01:19,5
+Because we were too busy tinkering. So this is, as he is getting a little older, I think it's gonna be.
+
+672
+01:01:20,22 --> 01:01:26,41
+If he continues being interesting, because who knows what he's gonna develop [LAUGH] as he grows up.
+
+673
+01:01:26,41 --> 01:01:34,87
+But I think it's gonna interesting to see his unrestricted mind, and I do mention earlier,
+
+674
+01:01:35,34 --> 01:01:42,1
+he might develop different identities that I'm not thinking about, but he might decide that.
+
+675
+01:01:43,24 --> 01:01:45,75
+We just got some recent equipment in our laboratory,
+
+676
+01:01:46,18 --> 01:01:52,01
+and he mastered that equipment before any of our graduate students.
+
+677
+01:01:53,01 --> 01:01:58,21
+And watching him using that particular equipment, it was absolutely amazing.
+
+678
+01:01:58,7 --> 01:02:09,23
+The students got the technology, look around, and couldn't think of anything to do with it.
+
+679
+01:02:10,5 --> 01:02:19,33
+He could have spent hours, days, doing things with it. And we were like, where did he learn to do that?
+
+680
+01:02:19,33 --> 01:02:24,75
+It's amazing, it's just amazing to see that. So I think we have those different generations.
+
+681
+01:02:25,39 --> 01:02:30,36
+And it's very very interesting because again, I have my other partners
+
+682
+01:02:30,83 --> 01:02:34,7
+and watching them sometimes their reaction is the total opposite.
+
+683
+01:02:34,7 --> 01:02:38,65
+They're more constrained, because they don't even wanna move.
+
+684
+01:02:39,11 --> 01:02:46,73
+Because they fear they're gonna break something or they're not sure what to expect..
+
+685
+01:02:44,46 --> 01:02:50,06
+Where then the little ones [SOUND] There's someone else that we don't even know [LAUGH] where they are.
+
+686
+01:02:50,51 --> 01:02:51,88
+So that's amazing.
+
+687
+01:02:51,88 --> 01:02:57,16
+Interviewer: Yeah, that sounds beautiful. I'm looking forward to seeing him playing with the things.
+
+688
+01:02:57,47 --> 01:03:00,58
+Well playing, it's not even playing. It's.
+
+689
+01:03:00,58 --> 01:03:02,14
+Carolina Cruz-neira: Yeah, it's.
+
+690
+01:03:02,14 --> 01:03:08,66
+He travels with us sometimes when we do professional events and he actually he is in the booth doing demos
+
+691
+01:03:09,39 --> 01:03:17,13
+and its really, really fun watching him explaining his interpretation of our work.
+
+692
+01:03:17,13 --> 01:03:26,13
+It's just really amazing, because in most cases he just observes a little bit, what the grad students are doing
+
+693
+01:03:26,13 --> 01:03:30,39
+and he just takes it to a complete different level immediately.
+
+694
+01:03:31,57 --> 01:03:39,02
+I mean he doesn't even know how to read, but it's just again, his mind is somewhere else that I cannot go there.
+
+695
+01:03:39,02 --> 01:03:48,08
+I'm too constrained with my own knowledge of the technology to let me go there. Where he doesn't care.
+
+696
+01:03:48,08 --> 01:03:50,74
+Interviewer: Is he reading an old reality?
+
+697
+01:03:50,74 --> 01:03:52,41
+Carolina Cruz-neira: I don't, what?
+
+698
+01:03:52,41 --> 01:03:54,41
+Interviewer: Reading and alter reality.
+
+699
+01:03:54,41 --> 01:03:58,69
+Carolina Cruz-neira: What do you mean by that?
+
+700
+01:03:58,69 --> 01:04:04,44
+Interviewer: Well, he cannot even read and he doesn't even need to read to-
+
+701
+01:04:04,44 --> 01:04:08,93
+Carolina Cruz-neira: No, He doesn't need, no, he just.
+
+702
+01:04:08,93 --> 01:04:15,82
+Again he's, not only he, we talk about my son because I probably see him all the time, but
+
+703
+01:04:16,13 --> 01:04:20,92
+when he brings his little friends to the lab sometime, it's the same thing.
+
+704
+01:04:21,25 --> 01:04:33,74
+They all, they are little kindergartener's and they again, then they start doing things, manipulating the space.
+
+705
+01:04:33,87 --> 01:04:41,61
+Creating their own worlds in there with a freedom that we don't have.
+
+706
+01:04:41,61 --> 01:04:46,78
+And again, they don't know how to read, they don't know how to write yet. They're learning that in kindergarten.
+
+707
+01:04:47,57 --> 01:04:53,83
+But it's not about that. It's about their mental understanding of the world or something.
+
+708
+01:04:55,21 --> 01:04:57,48
+They grew up with TVs, with iPads, with all those things.
+
+709
+01:04:57,48 --> 01:05:04,37
+So for them it's just as normal as a refrigerator in the house.
+
+710
+01:05:04,37 --> 01:05:08,71
+Interviewer: Is that what he is developing in other children from his age?
+
+711
+01:05:09,04 --> 01:05:12,7
+Can you call that like the minds of the universe?
+
+712
+01:05:12,7 --> 01:05:18,09
+Carolina Cruz-neira: Certainly, it would be the mind of the universe for the future of course, because,
+
+713
+01:05:18,1 --> 01:05:27,61
+I mean every generation has a new mind set on, not only technology, but just humanity and the world.
+
+714
+01:05:27,61 --> 01:05:30,46
+So yeah, these are the new minds of the new universe.
+
+715
+01:05:31,21 --> 01:05:36,72
+Because the new universe is not going to be on the, the universe as we know it today with the planets
+
+716
+01:05:36,73 --> 01:05:39,6
+and the galaxies and all the beautiful formations.
+
+717
+01:05:39,6 --> 01:05:49,11
+It's a completely limitless universe because it's going to come out of our imagination. So it's new minds, absolutely.
+
+718
+01:05:49,11 --> 01:05:52,38
+Carolina Cruz-neira: [LAUGH] What?
+
+719
+01:05:52,38 --> 01:05:58,02
+Interviewer: I was thinking because it is beautiful, because our new universe is coming from our imagination.
+
+720
+01:05:58,02 --> 01:05:58,91
+Carolina Cruz-neira: Yes.
+
+721
+01:05:58,91 --> 01:06:00,7
+Interviewer: That's what you said.
+
+722
+01:06:00,7 --> 01:06:07,81
+Carolina Cruz-neira: That's what I said. The new universe, it doesn't have physical constraints.
+
+723
+01:06:08,82 --> 01:06:12,12
+Because again, we can't create it in the computer.
+
+724
+01:06:14,52 --> 01:06:21,85
+The real universe will still be there, and all the real problems like pollution, global warming, crime,
+
+725
+01:06:21,85 --> 01:06:30,08
+socialist status, of course those are going to be there and that's outside my expertise to prepare the work for it,
+
+726
+01:06:30,18 --> 01:06:30,51
+but.
+
+727
+01:06:30,51 --> 01:06:33,59
+Interviewer: Since you are making it there your comment,
+
+728
+01:06:33,59 --> 01:06:37,59
+that we won't recognize the virtual world anymore as a virtual one.
+
+729
+01:06:37,59 --> 01:06:40,97
+Carolina Cruz-neira: We might get to the point. I think we will get to the point.
+
+730
+01:06:41,14 --> 01:06:45,6
+Not in my generation, but we are getting to the point because again we go back to what I was.
+
+731
+01:06:45,6 --> 01:06:46,72
+Interviewer: Which point?
+
+732
+01:06:46,72 --> 01:06:49,92
+Carolina Cruz-neira: Were we don't know the difference between real and virtual.
+
+733
+01:06:50,15 --> 01:06:55,3
+Because we go back to my earlier comment that is people that differentiate between virtual reality
+
+734
+01:06:55,31 --> 01:07:00,71
+and augmented reality, and I don't, I think it's in a sense the same.
+
+735
+01:07:01,08 --> 01:07:08,99
+Because the virtual reality and the computer with augmented reality, you can blend it into the real world.
+
+736
+01:07:10,83 --> 01:07:13,85
+So that's really for me where the future is.
+
+737
+01:07:13,85 --> 01:07:20,43
+Where virtual reality and augmented reality converge, because now your real reality
+
+738
+01:07:20,47 --> 01:07:27,77
+and your virtual reality are intermingled and not different from each other.
+
+739
+01:07:29,04 --> 01:07:36,92
+So again, we can be looking out that window and I'm looking at the river, but through augmented reality I might see,
+
+740
+01:07:36,93 --> 01:07:45,7
+I don't know, some mythical dragon flying by instead of the birds. It's my reality.
+
+741
+01:07:46,56 --> 01:07:51,88
+Because I want to see dragons flying around through my window. I still see the river.
+
+742
+01:07:52,04 --> 01:07:56,6
+I still see the same things you see. I see the real trees. I see the barges coming down the river.
+
+743
+01:07:56,74 --> 01:07:59,58
+But I have my dragons flying around. That's my reality.
+
+744
+01:07:59,58 --> 01:08:06,91
+Interviewer: What is that? If we have a real identity, a physical identity, we have a virtual identity.
+
+745
+01:08:06,91 --> 01:08:14,24
+What is the common thing we keep untouched? Is that the mind or is that instinct or what is it?
+
+746
+01:08:14,24 --> 01:08:18,57
+What is it that which makes us, us with all our identities.
+
+747
+01:08:18,57 --> 01:08:34,68
+Carolina Cruz-neira: [LAUGH] I don't know, I think the definition of us again changes the history
+
+748
+01:08:37,6 --> 01:08:41,27
+and again we are on that changing time in history so.
+
+749
+01:08:41,27 --> 01:08:43,27
+Interviewer: What is the thing that's-
+
+750
+01:08:43,27 --> 01:08:46,32
+Carolina Cruz-neira: What makes me? [LAUGH]
+
+751
+01:08:46,32 --> 01:08:50,31
+Interviewer: And you with definite identities, but it's still you.
+
+752
+01:08:50,31 --> 01:09:03,67
+Carolina Cruz-neira: Well I think what's gonna make me is based on whatever situation I wanna be me.
+
+753
+01:09:04,00 --> 01:09:10,22
+I don't think, I might not be just one me. I might be multiple mes and that defines me. I don't know.
+
+754
+01:09:11,09 --> 01:09:18,8
+The essence is my change of what we think as individuals, because again you can be different things.
+
+755
+01:09:19,13 --> 01:09:21,45
+You can be in different places. You can
+
+756
+01:09:21,45 --> 01:09:26,78
+Interviewer: But it's always one person or one me who chooses to go to different identities.
+
+757
+01:09:27,12 --> 01:09:31,45
+What do you mean, that your me also develops different personalities?
+
+758
+01:09:31,45 --> 01:09:32,11
+Carolina Cruz-neira: Yes
+
+759
+01:09:32,11 --> 01:09:33,78
+Interviewer: It becomes two?
+
+760
+01:09:33,78 --> 01:09:50,2
+Carolina Cruz-neira: [LAUGH] Yeah, again we might get into the realm of almost multiple personalities
+
+761
+01:09:50,21 --> 01:09:51,07
+or something like that.
+
+762
+01:09:51,07 --> 01:10:03,48
+But there is might be a dominant personality of dominant individual that I think perhaps a way to look at it is we
+
+763
+01:10:03,49 --> 01:10:09,34
+might have a choice. Right now we don't have a choice, me is me, it's this one. Whether I like it or not this is.
+
+764
+01:10:09,34 --> 01:10:10,28
+Interviewer: But you make the choice.
+
+765
+01:10:10,28 --> 01:10:11,56
+Carolina Cruz-neira: This is the one.
+
+766
+01:10:11,56 --> 01:10:24,65
+Interviewer: You make the choice. You make the choice of making the choice for all the personalities.
+
+767
+01:10:24,65 --> 01:10:24,68
+But it's still you who makes the choice.
+
+768
+01:10:24,68 --> 01:10:24,69
+Carolina Cruz-neira: Yeah.
+
+769
+01:10:24,69 --> 01:10:24,74
+Interviewer: That's something which you could, like DNA or something.
+
+770
+01:10:24,74 --> 01:10:28,7
+Carolina Cruz-neira: I don't think DNA works in virtual reality [LAUGHS] so I don't think so.
+
+771
+01:10:28,7 --> 01:10:30,15
+I think it might be yes, maybe
+
+772
+01:10:30,15 --> 01:10:30,54
+Interviewer: There's nothing unique then?
+
+773
+01:10:30,54 --> 01:10:34,29
+Because if everybody thinks he was a all kinds of identities or personalities
+
+774
+01:10:34,29 --> 01:10:36,96
+and then people will become like each other.
+
+775
+01:10:37,3 --> 01:10:41,97
+And what's the difference between all these people with different identities and personalities,
+
+776
+01:10:41,97 --> 01:10:44,63
+there must be something you can do.
+
+777
+01:10:44,63 --> 01:10:55,63
+Carolina Cruz-neira: Yeah but I guess like I said [LAUGH] I think that there's probably gonna be that person,
+
+778
+01:10:55,63 --> 01:11:02,2
+that,individual that maybe is the, I don't know,
+
+779
+01:11:02,2 --> 01:11:08,88
+we end up having some supreme individual that is our main character that we decide.
+
+780
+01:11:09,39 --> 01:11:16,55
+This is the boss of all my individual's representations and this is the one that makes all the decisions. I don't know.
+
+781
+01:11:16,63 --> 01:11:22,61
+Like I said, to me, it's hard to envision that at this moment because there are again,
+
+782
+01:11:25,28 --> 01:11:29,36
+I feel I'm a little bit constrained on what I know I can do.
+
+783
+01:11:29,36 --> 01:11:30,82
+Interviewer: I would like to know
+
+784
+01:11:30,82 --> 01:11:31,3
+Carolina Cruz-neira: [LAUGH]
+
+785
+01:11:31,3 --> 01:11:33,01
+Interviewer: Which personality I can trust.
+
+786
+01:11:33,01 --> 01:11:39,65
+Carolina Cruz-neira: Yeah, but again I go back to what we have today, with the situations with social media.
+
+787
+01:11:40,63 --> 01:11:49,05
+There are many, potentially many means out there because many of us maybe we have one social media persona,
+
+788
+01:11:49,74 --> 01:11:53,82
+but there are people that have multiple social media personas in there and.
+
+789
+01:11:54,08 --> 01:12:02,36
+And I might be talking to you on my social media persona when I'm some young teenager boy that goes surfing.
+
+790
+01:12:02,83 --> 01:12:08,05
+And you have no way to know you're talking with a 50-something year-old woman.
+
+791
+01:12:08,85 --> 01:12:17,13
+But behind all those personas I'm still me making that supreme me making the decision, okay, I have these multiple,
+
+792
+01:12:17,13 --> 01:12:17,75
+I don't know.
+
+793
+01:12:17,75 --> 01:12:19,41
+Interviewer: I would like to know what,
+
+794
+01:12:19,41 --> 01:12:22,72
+Carolina Cruz-neira: There are times I may be very philosophical, and I'm not philosophical. [LAUGH]
+
+795
+01:12:22,72 --> 01:12:24,17
+Interviewer: I'm not philosophical as well.
+
+796
+01:12:24,17 --> 01:12:28,1
+I'd like think about it because if I cannot trust one of my identities, I get lost. You-.
+
+797
+01:12:28,1 --> 01:12:28,48
+Carolina Cruz-neira: No.
+
+798
+01:12:28,48 --> 01:12:30,83
+Interviewer: Would know what I mean, right?
+
+799
+01:12:30,83 --> 01:12:45,58
+Carolina Cruz-neira: I know what you mean
+
+800
+01:12:45,59 --> 01:12:50,04
+but I think you can trust your identities because you are building those identities.
+
+801
+01:12:50,35 --> 01:12:53,52
+The problem is with the other people can trust your identities.
+
+802
+01:12:54,63 --> 01:12:58,62
+You are building those identities so I don't see any issues in you
+
+803
+01:12:58,62 --> 01:13:03,9
+or me trusting my identities because I'm defining those, I'm building those. I'm making those happening.
+
+804
+01:13:04,38 --> 01:13:10,67
+So I don't seem to have any issues. Again, I can be a lobster and I totally trust myself as a lobster.
+
+805
+01:13:11,12 --> 01:13:17,63
+Now, would you trust me as a lobster? That would be a big question.
+
+806
+01:13:18,22 --> 01:13:25,23
+So I think it's more, and again, going back to the simple situation with social media, it's the same thing.
+
+807
+01:13:25,77 --> 01:13:29,86
+Do you trust that person that you're meeting through social media?
+
+808
+01:13:29,86 --> 01:13:33,21
+You don't, cuz you really don't know who that person is.
+
+809
+01:13:33,21 --> 01:13:40,72
+You see what the postings are, what the blogs are, what the maybe fake pictures that person is putting in there.
+
+810
+01:13:40,99 --> 01:13:44,87
+Not that person is trusting himself or herself because they are building that.
+
+811
+01:13:45,61 --> 01:13:54,42
+The problem is not so much us, it's gonna be them, the others. And yes, there is again there is-
+
+812
+01:13:54,42 --> 01:13:58,42
+Interviewer: How do you know if another virtual reality isn't real?
+
+813
+01:13:58,42 --> 01:14:03,07
+Carolina Cruz-neira: We might reach a point where we don't.
+
+814
+01:14:03,23 --> 01:14:10,1
+And again science fiction has already discussed this heavily in a lot of different books where you get into these
+
+815
+01:14:10,1 --> 01:14:12,07
+alternate realities, these alternate universes.
+
+816
+01:14:13,05 --> 01:14:17,27
+And you get to a point that you don't know which one is the real one anymore, and which one is a dream
+
+817
+01:14:17,28 --> 01:14:23,43
+and which one is real. And potentially we can get into that direction again.
+
+818
+01:14:24,36 --> 01:14:32,56
+Not in the very short-term, but in a very long-term, potentially we can go that way. When we get there, I don't know.
+
+819
+01:14:32,56 --> 01:14:38,3
+We would probably, neither you or me will be alive by then. [LAUGH] At that time. But there is-
+
+820
+01:14:38,3 --> 01:14:40,24
+Interviewer: How to create your identity was useful?
+
+821
+01:14:40,24 --> 01:14:44,73
+Carolina Cruz-neira: Yes, then maybe we can create some of us, some persona that stays,
+
+822
+01:14:45,15 --> 01:14:50,1
+even though we are physically no longer here. And again that's a possibility. That's a completely feasible-
+
+823
+01:14:50,1 --> 01:14:53,61
+Interviewer: What you're saying now? And this is the last question, because-
+
+824
+01:14:53,61 --> 01:14:59,38
+Carolina Cruz-neira: I'm saying are we going to be immortal in virtual reality? Maybe we are. I don't know.
+
+825
+01:14:59,38 --> 01:15:05,17
+Same as for robotics, people that are starting to develop robots that you can transfer your mind to the robot.
+
+826
+01:15:05,51 --> 01:15:08,52
+So, our physical body might be gone
+
+827
+01:15:08,52 --> 01:15:15,87
+but maybe many years from now we might continue living on through our robotic replica of ourselves. Who knows?
+
+828
+01:15:15,87 --> 01:15:25,74
+So, all these things are out there for our imaginations to really explode, I guess. [LAUGH]
+
+829
+01:15:25,74 --> 01:15:27,75
+Interviewer: It's up to your son.
+
+830
+01:15:27,75 --> 01:15:33,69
+Carolina Cruz-neira: I think that it's gonna be a lot more people out there than my son trying to be your.
+
+831
+01:15:34,00 --> 01:15:38,77
+[LAUGH] But again for us, for me it's just been fun.
+
+832
+01:15:38,77 --> 01:15:48,49
+It's been an amazing career, I guess, or life or way of living that I have.
+
+833
+01:15:48,49 --> 01:15:52,56
+And it was not chosen, some people choose their path. Mine was not chosen.
+
+834
+01:15:52,56 --> 01:15:57,12
+Mine was totally random, I came from here and I'm from there and I'm from there,
+
+835
+01:15:57,21 --> 01:16:00,81
+and I landed into this virtual reality thing without even knowing what I landed.
+
+836
+01:16:01,18 --> 01:16:07,22
+And I just enjoy it tremendously, but it was not a planned path.
+
+837
+01:16:08,62 --> 01:16:15,98
+Like I have some students that come with a very planned path to do this. It just happened, you know it's been fun.
+
+838
+01:16:17,89 --> 01:16:21,11
+And it's fun to be able to open the door.
+
+839
+01:16:21,11 --> 01:16:29,38
+Carolina Cruz-neira: And see what happens to the next generations that don't have those constraints,
+
+840
+01:16:29,38 --> 01:16:37,3
+or their imaginations really can fly free. And that is when real progress is gonna happen.
+
+841
+01:16:37,92 --> 01:16:45,2
+Right now, we're just starting. And we are, again, sometimes constrained from our own.
+
+842
+01:16:45,41 --> 01:16:49,28
+Our own knowledge today constrains sometimes how we can think.
+
+843
+01:16:50,07 --> 01:16:55,82
+And the new generations of that knowledge is a matter-of-fact. It's not a discovery anymore.
+
+844
+01:16:56,23 --> 01:17:00,84
+Then they can take it to the next level. Some of us we live from the previous generations, from us,
+
+845
+01:17:00,84 --> 01:17:02,84
+Interviewer: Clear, very clear.
+
+846
+01:17:02,84 --> 01:17:04,17
+Carolina Cruz-neira: Very practical.
+
+847
+01:17:04,17 --> 01:17:05,51
+Interviewer: [LAUGH] Yeah.
+
+848
+01:17:05,51 --> 01:17:10,82
+Carolina Cruz-neira: I'm very practical. I'm not, like I said, I don't philosophize very much [LAUGH]
+
+849
+01:17:10,82 --> 01:17:13,41
+Interviewer: Well, I like the way we philosophize about it very much, because,
+
+850
+01:17:13,41 --> 01:17:20,08
+Interviewer: A list of people who watch this program also think about what, does it mean in the future?
+
+851
+01:17:20,41 --> 01:17:22,41
+Or what could it mean?
+
+852
+01:17:22,41 --> 01:17:23,41
+Or what,
+
+853
+01:17:23,41 --> 01:17:30,42
+I think it's interesting to raise a lot of questions without answering them because we will know in the future.
+
+854
+01:17:30,42 --> 01:17:41,44
+Carolina Cruz-neira: But I think that fundamentally,
+
+855
+01:17:42,03 --> 01:17:51,04
+what makes virtual reality to me an exciting science is that there are no physical rules limiting what we can do.
+
+856
+01:17:51,23 --> 01:17:57,72
+Again, if we go back to the example of a biologist or something like that that is trying to find a cure for a disease,
+
+857
+01:17:57,72 --> 01:18:03,92
+his or her creativity Is bound by the laws of physics.
+
+858
+01:18:04,59 --> 01:18:13,81
+No matter how many ideas they can have, at the end of the day, it has to have some sort of molecular bonding, protein,
+
+859
+01:18:13,81 --> 01:18:20,74
+something, vitals whatever, DNA something. It has very clear rules of behavior.
+
+860
+01:18:21,35 --> 01:18:24,18
+The nice thing about virtual reality is we don't have that.
+
+861
+01:18:25,55 --> 01:18:32,86
+Like I said earlier, the limit is what we can imagine, what we can think. We have no physical constraints.
+
+862
+01:18:33,19 --> 01:18:38,71
+The physical world does not constrain what we can do in the virtual reality.
+
+863
+01:18:38,71 --> 01:18:42,05
+Interviewer: In what sense is what you do magic?
+
+864
+01:18:42,05 --> 01:18:50,58
+Carolina Cruz-neira: Is magic because again I am not bound by the laws of physics, so I-
+
+865
+01:18:50,58 --> 01:18:51,9
+Interviewer: Why is it magic? I don't understand.
+
+866
+01:18:51,9 --> 01:18:58,04
+Carolina Cruz-neira: Well, it's magic because here if I wanna walk on the ceiling I can't.
+
+867
+01:18:58,54 --> 01:19:00,38
+Because gravity's gonna make me fall.
+
+868
+01:19:01,68 --> 01:19:06,79
+In virtual reality, nothing prevents me from starting walking out the wall and walking up the ceiling.
+
+869
+01:19:06,79 --> 01:19:09,73
+Interviewer: So now, that is magic. But in the future, it's not magic anymore.
+
+870
+01:19:09,73 --> 01:19:11,97
+Carolina Cruz-neira: It might be a matter of fact.
+
+871
+01:19:13,46 --> 01:19:20,35
+It's magic because, for example I'm here with you right now, and in two seconds I can be in China.
+
+872
+01:19:20,35 --> 01:19:26,36
+Carolina Cruz-neira: That's poof, magic, like you would put-
+
+873
+01:19:26,36 --> 01:19:28,03
+Interviewer: Do [INAUDIBLE] understand that?
+
+874
+01:19:28,03 --> 01:19:31,24
+Carolina Cruz-neira: I don't know, you can ask my father about it?
+
+875
+01:19:31,24 --> 01:19:34,26
+[LAUGH] I think that they are starting more and more.
+
+876
+01:19:34,44 --> 01:19:41,97
+When I started doing this many, many years ago they were very worried
+
+877
+01:19:41,98 --> 01:19:44,65
+and skeptical that I was doing something that was worth anything.
+
+878
+01:19:44,95 --> 01:19:49,24
+Because of course when I started, it was the tinker, the really tinkering time.
+
+879
+01:19:49,24 --> 01:19:54,47
+So I was totally covered from head to toe in cables and hanging myself in a scaffolding
+
+880
+01:19:54,47 --> 01:19:57,19
+and a screwdrivers on my hands all the time,
+
+881
+01:19:57,39 --> 01:20:03,37
+so But I think over the years they've seen a lot of the experiences that we have built.
+
+882
+01:20:04,57 --> 01:20:14,51
+They've seen how the work that I do has been spread out in a lot of industry, in a lot of different parts of society.
+
+883
+01:20:15,04 --> 01:20:29,19
+And I think they to understand it better. Again, their perspective is always like, for them it's truly magic.
+
+884
+01:20:29,71 --> 01:20:36,36
+I have no idea how you do this honey, but it looks great. [LAUGH] So for them it's truly, truly magic.
+
+885
+01:20:37,7 --> 01:20:44,93
+For me, again, it's magic in the sense that you can just, in a split second be somewhere else.
+
+886
+01:20:45,3 --> 01:20:53,73
+And again, that somewhere else could be real, a reconstruction of a real place, or a complete imagination place.
+
+887
+01:20:54,06 --> 01:21:04,88
+And you can see sometimes again on the little ones, you can hear my son sometimes say, this is magic, I'm doing magic.
+
+888
+01:21:05,84 --> 01:21:11,68
+Because he does something and presses a button or shakes his hand or something, and something else happens.
+
+889
+01:21:11,68 --> 01:21:24,03
+That of course in real life is impossible to do. So it is magic, and it is magical because it just enchants people.
+
+890
+01:21:25,25 --> 01:21:28,8
+When you got to Disney World, it's just the magical place.
+
+891
+01:21:29,99 --> 01:21:37,1
+When people go to virtual reality, it's the same feeling is this enchantment like, this is very cool.
+
+892
+01:21:37,1 --> 01:21:37,25
+This is very nice. It's fun.
+
+893
+01:21:37,25 --> 01:21:37,64
+Interviewer: And suppose if we discontinue. Is it also possible that because now it's magic, but magic anymore.
+
+894
+01:21:37,67 --> 01:21:40,52
+Is it possible that we create our own virtual-
+
+895
+01:21:40,52 --> 01:21:41,52
+Interviewer: God?
+
+896
+01:21:41,52 --> 01:21:42,19
+Carolina Cruz-neira: [LAUGH]
+
+897
+01:21:42,19 --> 01:21:48,86
+Interviewer: Will there always be something in us humans if we want to create some kind of creature control.
+
+898
+01:21:48,86 --> 01:22:21,35
+Carolina Cruz-neira: Almighty being maybe, I'm not really religious, I don't know. But maybe.
+
+899
+01:22:22,00 --> 01:22:27,26
+I mean it's all what everybody individually can believe.
+
+900
+01:22:29,3 --> 01:22:37,12
+Like I say I don't believe that if I step on my virtual balcony, I'm going to fall down the cliff.
+
+901
+01:22:37,6 --> 01:22:41,97
+There are many people that come and they cannot take that step.
+
+902
+01:22:41,97 --> 01:22:42,05
+Interviewer: How far to the units together they create which nobody can see.
+
+903
+01:22:42,05 --> 01:22:42,11
+But it's there because we believe that it's there.
+
+904
+01:22:42,11 --> 01:22:42,22
+So it's all the virtual identities that also create something which they cannot see or touch what they believe in.
+
+905
+01:22:42,22 --> 01:23:11,75
+Carolina Cruz-neira: I don't know. I think that I'm a bit skeptical about that because it's still digital.
+
+906
+01:23:11,75 --> 01:23:21,74
+It's in the computer. [INAUDIBLE] I mean.
+
+907
+01:23:21,74 --> 01:23:21,95
+Interviewer: What will be different between us in digital?
+
+908
+01:23:21,95 --> 01:23:23,41
+Carolina Cruz-neira: Yeah, I think for something like that-
+
+909
+01:23:23,41 --> 01:23:28,61
+Carolina Cruz-neira: For something like that you're talking I think it might have to be.
+
+910
+01:23:29,14 --> 01:23:33,45
+If you look in the history, every time there's a new religion or a new god or something.
+
+911
+01:23:33,92 --> 01:23:38,14
+Something very drastic happening in human history that this new god appears.
+
+912
+01:23:38,14 --> 01:23:46,77
+So it might be a possibility if again some massive drastic who knows what happens in human history.
+
+913
+01:23:47,07 --> 01:23:52,02
+That the digital world supersedes the physical world in some manner.
+
+914
+01:23:52,28 --> 01:23:59,55
+And then at that point maybe there should be maybe so me new groups of people that start creating this.
+
+915
+01:24:01,87 --> 01:24:04,65
+Almighty being that is never seen or something.
+
+916
+01:24:04,9 --> 01:24:10,06
+But I think with the world as we know it today, I don't see that happening.
+
+917
+01:24:10,06 --> 01:24:17,98
+Unless again some major something happens to humanity. That they need to believe in something new.
+
+918
+01:24:18,67 --> 01:24:21,17
+You look at the history of religion, that's really what happens.
+
+919
+01:24:21,17 --> 01:24:26,45
+The new gods come out when something else happens and there is something else that people need to hold on to.
+
+920
+01:24:27,2 --> 01:24:31,57
+As we are right now, I don't think that will happen. I mean-
+
+921
+01:24:31,57 --> 01:24:34,91
+Interviewer: But you said something that, I remembered.
+
+922
+01:24:34,91 --> 01:24:42,24
+Because I was just wondering, our reality right now, who says that is not a digital reality as well?
+
+923
+01:24:42,24 --> 01:24:53,34
+Carolina Cruz-neira: Yes..
+
+924
+01:24:51,67 --> 01:24:53,01
+Interviewer: Some virtual [INAUDIBLE]
+
+925
+01:24:53,34 --> 01:24:57,77
+Carolina Cruz-neira: For all we know, we can be some computer that somebody else built.
+
+926
+01:24:57,92 --> 01:25:04,47
+That we are just enjoying a little bit of battery life. Yes, yes of course, of course.
+
+927
+01:25:05,22 --> 01:25:11,58
+And then we get into the argument, do you believe in a Christian God or do you believe in a Buddhist God?
+
+928
+01:25:11,83 --> 01:25:21,11
+Or are you completely an atheist and all those kinds of things. I think that's more individual beliefs.
+
+929
+01:25:23,96 --> 01:25:26,64
+My family is traditionally a Catholic family.
+
+930
+01:25:28,35 --> 01:25:34,96
+So we, I guess, believe that we are humans and the reality
+
+931
+01:25:34,97 --> 01:25:41,34
+and hopefully there will be some other reality on our next stage in life. [LAUGH]
+
+932
+01:25:41,34 --> 01:25:44,01
+Interviewer: Is virtual reality able to believe?
+
+933
+01:25:44,01 --> 01:25:49,96
+Carolina Cruz-neira: No, I don't have an answer for that. I have no idea.
+
+934
+01:25:50,45 --> 01:25:58,92
+I think that again, it's gonna be a very, very individualized mindset for that. Same as all the religions.
+
+935
+01:25:59,18 --> 01:26:05,52
+There are some traditions that are, to some people feel very crazy but that have a lot of followers.
+
+936
+01:26:06,17 --> 01:26:10,72
+And some other religions, we are more comfortable, and we are the followers of something.
+
+937
+01:26:11,06 --> 01:26:15,91
+I think that's just part of human life, part of humanity.
+
+938
+01:26:16,29 --> 01:26:19,7
+Some of us believe in things, and some of us don't believe in things.
+
+939
+01:26:20,08 --> 01:26:26,57
+I don't think we all collectively will believe just the one thing. Because that will never happen.
+
+940
+01:26:26,57 --> 01:26:31,11
+You'll never have the entire world believing the same thing all together.
+
+941
+01:26:31,37 --> 01:26:40,63
+So I think in virtual reality, it might develop some cults, sects, communities, parishes,
+
+942
+01:26:40,63 --> 01:26:47,91
+whatever it is you want to call it. Maybe, I can't say most have religions.
+
+943
+01:26:48,34 --> 01:26:53,92
+Sometimes you hear something on television, some preaching that happens.
+
+944
+01:26:54,59 --> 01:26:59,58
+And you're like, I wonder how these people actually follow this.
+
+945
+01:27:00,2 --> 01:27:08,95
+And then, sometimes you hear some others that go, this is really good..
+
+946
+01:27:04,02 --> 01:27:08,61
+But, maybe somebody else thinks, Carolina, you're crazy. How you can believe in that? I don't know [LAUGH]
+
+947
+01:27:08,95 --> 01:27:12,62
+Interviewer: We'll see. We'll wait for the future to happen.
+

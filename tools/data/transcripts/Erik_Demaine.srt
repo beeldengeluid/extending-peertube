@@ -1,0 +1,2092 @@
+1
+00:00:04,38 --> 00:00:15,49
+Right. Yeah well origami has a surprisingly rich mathematics and geometry to it.
+
+2
+00:00:16,78 --> 00:00:23,07
+It's I originally got interested in origami because it just posed a lot of interesting mathematical questions you have
+
+3
+00:00:23,07 --> 00:00:27,64
+this sheet of material and you have very simple rules you can't stretch it and you can't tear it
+
+4
+00:00:27,64 --> 00:00:35,65
+and what can you do just by a reconfiguration just by folding and so it's very kind of a simple set up
+
+5
+00:00:35,65 --> 00:00:41,85
+but the answers turn out to be surprisingly complicated and you need to use a lot of powerful geometry
+
+6
+00:00:41,85 --> 00:00:48,56
+and algorithms to figure out what you can fault in many senses of you can really fold anything out of a sheet of paper
+
+7
+00:00:48,56 --> 00:00:52,42
+and you can prove that mathematically. And that's sort of where we got started.
+
+8
+00:00:52,64 --> 00:00:53,52
+It's very exciting
+
+9
+00:00:54,31 --> 00:01:00,82
+and finding more interesting ways to make structure the fold between different shapes also has a lot of practical
+
+10
+00:01:00,82 --> 00:01:03,23
+applications in science and medicine
+
+11
+00:01:03,23 --> 00:01:10,92
+and engineering where you want to build some kind of structure that can change transform it shape from one thing to
+
+12
+00:01:10,92 --> 00:01:16,63
+another so maybe you want to fold it down to some small size for storage or transportation.
+
+13
+00:01:17,00 --> 00:01:19,92
+Like if you want to put something inside the body.
+
+14
+00:01:20,01 --> 00:01:25,18
+Maybe you need to transport through small blood vessels and so you need to make it very compact
+
+15
+00:01:25,18 --> 00:01:27,18
+or you want to deploy something into space.
+
+16
+00:01:27,3 --> 00:01:32,52
+You want to fold it small so it fits inside your space shuttle and then going to unfold it when it gets there.
+
+17
+00:01:34,53 --> 00:01:40,16
+I think it's even more exciting is you imagine like buildings or gadgets
+
+18
+00:01:40,16 --> 00:01:44,71
+or things that can transform from one shape to another and serve different functions depending on what you need.
+
+19
+00:01:44,89 --> 00:01:51,11
+Maybe your house a room in your house can transform from a kitchen to a bedroom and this kind of thing.
+
+20
+00:01:53,22 --> 00:02:00,53
+One of a couple of the areas that we were exploring are things like printing. Now to robots.
+
+21
+00:02:00,85 --> 00:02:09,08
+So there are a lot of rapid prototyping machines that are designed to make flat sheets of material.
+
+22
+00:02:09,1 --> 00:02:11,01
+And how can you use them to make three D.
+
+23
+00:02:11,01 --> 00:02:12,27
+Robots and other structures
+
+24
+00:02:13,7 --> 00:02:18,92
+and folding is a good way to do that you can transform your two dimensional sheets into some cool three D.
+
+25
+00:02:18,92 --> 00:02:26,57
+Structures so we one of our goals in this printable robot project is to make robots that can for like ten
+
+26
+00:02:26,57 --> 00:02:31,86
+or twenty dollars of materials you can cut them and make them within a couple of hours.
+
+27
+00:02:32,01 --> 00:02:37,42
+So everyone can make their own robot and customize their robot to do whatever they want.
+
+28
+00:02:37,43 --> 00:02:46,24
+Another fun application is in making nano scale structures so we have out of the whole computer chip fabrication
+
+29
+00:02:46,24 --> 00:02:52,94
+technology we have really good ways to pattern two dimensional surfaces at with nano scale features like nanometer
+
+30
+00:02:52,94 --> 00:02:59,9
+resolution. But we're not so good at making three D. Structures at that scale and so folding offers another way.
+
+31
+00:02:59,95 --> 00:03:11,05
+That's more in process and experimental but. An exciting possibility for folding is for you something that is.
+
+32
+00:03:11,07 --> 00:03:18,92
+What makes your position as a professor sort of roses. Yeah.
+
+33
+00:03:19,23 --> 00:03:25,15
+Yes I know lots of different players interested in different aspects of folding maybe more practical side I'm more on
+
+34
+00:03:25,15 --> 00:03:28,77
+the theoretical side and developing new mathematics
+
+35
+00:03:28,77 --> 00:03:38,58
+and tools to show to help those sort of kind of underlying technology for people to build on to make useful things.
+
+36
+00:03:39,62 --> 00:03:45,79
+So we especially like to prove what we call universe ality results where we say in this kind of regime of origami
+
+37
+00:03:45,79 --> 00:03:47,2
+design or folding design.
+
+38
+00:03:47,39 --> 00:03:51,27
+You can make anything you want and we give you a computer algorithm to do that
+
+39
+00:03:51,27 --> 00:03:56,71
+and so you can come in with your specifications like oh I'd like something that looks like this and it
+
+40
+00:03:56,71 --> 00:04:00,58
+and the algorithm will give you how to fold exam. Actually that thing.
+
+41
+00:04:02,32 --> 00:04:09,56
+And you know we get very general results they're not always the most practical because often we don't take into
+
+42
+00:04:09,56 --> 00:04:14,46
+consideration things like the thickness of the material or other kind of structural issues
+
+43
+00:04:14,46 --> 00:04:21,02
+and something we're trying to get to but by kind of simplifying looking at the core geometry we can get very general
+
+44
+00:04:21,02 --> 00:04:33,88
+and powerful results and then that those can be adapted to more practical scenarios where you are going for something.
+
+45
+00:04:34,89 --> 00:04:38,27
+You would think that there's a limitation but I don't know every year it.
+
+46
+00:04:38,3 --> 00:04:44,2
+I'm amazed at what origami artists come up with there's new people with new ideas
+
+47
+00:04:44,2 --> 00:04:47,68
+and it seems like almost limitless possibilities
+
+48
+00:04:48,57 --> 00:04:54,29
+and especially if you start with a large enough sheet of paper you can really fold really really complicated things
+
+49
+00:04:55,5 --> 00:04:58,1
+and there's still aspects we don't understand.
+
+50
+00:04:58,13 --> 00:05:05,54
+For example area we look at a lot is curved crease folding so most are Grammies made with straight creases curved
+
+51
+00:05:05,54 --> 00:05:12,08
+creases are a lot harder to understand and analyze and we're starting to make progress on the mathematics
+
+52
+00:05:12,08 --> 00:05:16,95
+but there's still a lot we don't know we don't have any good design algorithms to say Oh I'd like to fold something
+
+53
+00:05:16,95 --> 00:05:19,97
+that looks like this. Here's the curve creases you need to do that.
+
+54
+00:05:20,12 --> 00:05:26,18
+So instead we've been experimenting a lot with just playing around trying different curve crease patterns
+
+55
+00:05:26,18 --> 00:05:30,39
+and see what they produce and trying to be able to model that mathematically.
+
+56
+00:05:30,81 --> 00:05:32,99
+And that led my father
+
+57
+00:05:32,99 --> 00:05:40,43
+and I into the sculptural side of paper folding so most of the sculpture we made is make is around curved crease
+
+58
+00:05:40,43 --> 00:05:46,26
+folding initially we're just experimenting trying to figure out what's possible and what what can be done
+
+59
+00:05:46,26 --> 00:05:53,27
+but we kept making all these beautiful forms and so I started to embrace that as a purely sculptural.
+
+60
+00:05:53,33 --> 00:05:55,92
+Endeavor as well but there's a lot of back and forth.
+
+61
+00:05:56,04 --> 00:05:59,26
+I think that will do something sculpture really that will inspire new mathematics.
+
+62
+00:06:00,00 --> 00:06:04,18
+We discuss we understand something better about curved creases mathematically that inspires new sculpture
+
+63
+00:06:04,18 --> 00:06:10,65
+and so it's a lot of fun to go back and forth between the two cards right between art and science I think in general.
+
+64
+00:06:12,21 --> 00:06:16,9
+That's a big appeal to why people like to explore origami
+
+65
+00:06:16,9 --> 00:06:24,58
+and mathematics together because you have this sort of scientific purpose maybe an engineering application
+
+66
+00:06:24,58 --> 00:06:30,64
+or the beauty of the mathematics but then one of the applications is also to make sculpture.
+
+67
+00:06:32,00 --> 00:06:37,68
+So it's really exciting to see these kinds of collaboration is a lot of engineering teams are bringing on origami
+
+68
+00:06:37,68 --> 00:06:45,75
+artists at to help design new folding structures so artists have a lot of practical experience of how to make
+
+69
+00:06:45,75 --> 00:06:51,51
+interesting folding structures and then they know the the literature which is a lot of people folding stuff
+
+70
+00:06:52,7 --> 00:07:03,1
+and then that can inspire and inform new scientific discoveries. So your work your age. These are.
+
+71
+00:07:03,49 --> 00:07:08,63
+Yeah that's where we like to live is right on the edge of knowledge where we we have a lot of tools
+
+72
+00:07:08,63 --> 00:07:10,91
+but there's still something we don't understand.
+
+73
+00:07:10,92 --> 00:07:16,38
+And so we try to push push that frontier of what's what's known on the scientific side
+
+74
+00:07:16,38 --> 00:07:24,49
+and we use sculpture to kind of help explore that area more tentatively we can we can often make things that we don't
+
+75
+00:07:24,49 --> 00:07:25,69
+yet fully understand.
+
+76
+00:07:25,71 --> 00:07:31,95
+And so that lets us go a little beyond the frontier and sort of explore what's out there and see what's possible
+
+77
+00:07:31,95 --> 00:07:32,69
+and then.
+
+78
+00:07:33,12 --> 00:07:40,7
+Hopefully eventually understand that part mathematically where you where your science part formed you well what was it
+
+79
+00:07:40,7 --> 00:07:49,99
+like for you just what was there. Yeah well in general we're looking at unsolved problems.
+
+80
+00:07:50,14 --> 00:07:59,31
+I mean part of some sense one of the hardest parts is to figure out what the right question is. So you might want.
+
+81
+00:07:59,36 --> 00:07:59,69
+There.
+
+82
+00:08:00,00 --> 00:08:04,36
+Two types of questions about folding structures one is I give you a structure
+
+83
+00:08:04,36 --> 00:08:10,84
+and I want to understand its properties and sort of analyze what it does how good it is what it folds into
+
+84
+00:08:10,84 --> 00:08:17,82
+and the other side is the design side so you have some more high level specification of what you'd like to fold
+
+85
+00:08:17,82 --> 00:08:24,94
+and then you want to automate the design of a structure that folds with those parameters designs maybe the more
+
+86
+00:08:24,94 --> 00:08:25,64
+exciting side
+
+87
+00:08:25,64 --> 00:08:34,4
+and there's many different ways you might formulate what you want to fold sort of the classic origami design problem is
+
+88
+00:08:34,4 --> 00:08:39,4
+is shaped design. I say I give you a three dimensional shape. I want to fold that thing.
+
+89
+00:08:40,31 --> 00:08:41,74
+What's a good way to fold that thing.
+
+90
+00:08:41,77 --> 00:08:47,48
+And we're still we're still finding good algorithms for that we have some general procedures that work
+
+91
+00:08:47,48 --> 00:08:54,44
+but they may not be so efficient as one of the standard measures of efficiency is if I have a square of a particular
+
+92
+00:08:54,44 --> 00:09:00,16
+size material. How large of a version of that shape can I fold.
+
+93
+00:09:00,17 --> 00:09:05,55
+I don't want to fold a really tiny thing because that means I'm kind of wasting a lot of my material five a big square
+
+94
+00:09:05,55 --> 00:09:10,06
+filled with little microscopic things not very efficient material usage.
+
+95
+00:09:10,39 --> 00:09:14,27
+So how can we optimize that scale factor we still don't know the best way to do that.
+
+96
+00:09:15,39 --> 00:09:18,28
+There's a sense in which we can't know exactly how good we can do that
+
+97
+00:09:18,28 --> 00:09:20,12
+but we can hope to approximate the best solution.
+
+98
+00:09:21,63 --> 00:09:25,32
+So that's something we're still actively working on for example our current.
+
+99
+00:09:25,66 --> 00:09:31,61
+Favorite technique is called organizer and it's it's also free software
+
+100
+00:09:31,61 --> 00:09:37,39
+and it's an algorithm we've been analyzing over the last several years to give an arbitrary three D.
+
+101
+00:09:37,39 --> 00:09:41,38
+Shape that gives you a way to fold exactly that shape.
+
+102
+00:09:43,03 --> 00:09:45,7
+It seems to be a good method but we don't know it's the best method
+
+103
+00:09:45,7 --> 00:09:52,31
+and then there are many other questions based on other types of goals you might want like maybe you want to have a
+
+104
+00:09:52,31 --> 00:09:54,28
+folding structure that can make two different shapes.
+
+105
+00:09:54,36 --> 00:09:59,83
+We don't know much at all about that question or you want to make a folding that actually.
+
+106
+00:10:00,00 --> 00:10:02,64
+Works with really thick material because you're making out of sheet metal
+
+107
+00:10:02,64 --> 00:10:07,54
+or you want to make a practical mechanical structure.
+
+108
+00:10:07,56 --> 00:10:10,37
+We're still understanding that we've made some progress on
+
+109
+00:10:10,37 --> 00:10:18,18
+but there's still a lot of questions we don't know the best way to deal with with these kinds of practical issues
+
+110
+00:10:18,18 --> 00:10:23,23
+and so that as becoming really relevant these days because a lot of people are trying to build these structures
+
+111
+00:10:23,23 --> 00:10:27,67
+and sometimes it works sometimes it doesn't like to understand that threshold then
+
+112
+00:10:28,42 --> 00:10:31,63
+and ideally automatically design structures that always work really well in practice.
+
+113
+00:10:42,29 --> 00:10:46,19
+Yeah I mean I think we like to build objects and we.
+
+114
+00:10:46,25 --> 00:10:51,78
+And it's even cooler when those objects can change shape so almost anywhere you imagine a gadget of some sort.
+
+115
+00:10:51,83 --> 00:10:58,3
+I think folding could offer some interesting perspectives on on reconfigure ability.
+
+116
+00:10:59,04 --> 00:11:08,87
+C one one area we haven't talked about is protein folding which is a kind of origami it's a little bit different
+
+117
+00:11:09,73 --> 00:11:15,04
+but it's kind of essential to how just understanding how life works and also potentially drug design.
+
+118
+00:11:16,2 --> 00:11:22,59
+So every living thing that we know of in this world is built up out of lots of little proteins kind of making life
+
+119
+00:11:22,59 --> 00:11:28,78
+happen and proteins are centrally one dimensional pieces of paper that quite a lot into complicated three D.
+
+120
+00:11:28,78 --> 00:11:29,78
+Structures in that three D.
+
+121
+00:11:29,78 --> 00:11:33,68
+Structure kind of determines how it interacts with other proteins and what what its function is.
+
+122
+00:11:34,32 --> 00:11:41,59
+And we don't really understand that process of folding kind of a one dimensional strip of paper into these three D.
+
+123
+00:11:41,59 --> 00:11:47,48
+Structures how nature does it how we could do it how we could design proteins that fold into geometries that we want to
+
+124
+00:11:47,48 --> 00:11:51,46
+like combat. You can imagine some disease comes along new disease.
+
+125
+00:11:51,61 --> 00:11:57,28
+You could design a protein to fight specifically that disease but we don't know how to design.
+
+126
+00:11:58,04 --> 00:11:59,71
+Proteins that folded the way we want to.
+
+127
+00:12:00,00 --> 00:12:06,94
+And so we're trying to understand how proteins fold in order to sort of just understand how biology is functioning
+
+128
+00:12:06,94 --> 00:12:12,06
+but also so that we can kind of control it in useful ways to kill viruses and things like that.
+
+129
+00:12:12,28 --> 00:12:15,83
+So that's that's an exciting but difficult interaction.
+
+130
+00:12:17,28 --> 00:12:24,56
+I would really like a sort of universal programmable gadget you know like we have lots of gadgets where you can
+
+131
+00:12:24,56 --> 00:12:29,65
+download software updates like your smartphone you can download software updates and it does new things
+
+132
+00:12:30,63 --> 00:12:34,49
+but we don't yet have a gadget where we can download new shapes
+
+133
+00:12:34,49 --> 00:12:43,33
+or new geometries you can imagine a kind of universal gadget that can take on any shape I mean it has to preserve mass
+
+134
+00:12:43,33 --> 00:12:49,83
+that you could imagine it unfolding and becoming a large thing at folding into a more compact.
+
+135
+00:12:50,2 --> 00:12:56,09
+Structure changing shape maybe it's a chair or one one moment and it becomes a bicycle the next moment
+
+136
+00:12:56,09 --> 00:12:59,28
+or I mean anything in principle is possible.
+
+137
+00:12:59,34 --> 00:13:01,95
+It's we need to figure out what the practical regimes are
+
+138
+00:13:01,95 --> 00:13:06,89
+but instead of having a separate gadget that does different functions
+
+139
+00:13:06,89 --> 00:13:12,46
+or separate separate furniture that does different things you could imagine having fewer objects that are more
+
+140
+00:13:12,46 --> 00:13:17,37
+reconfigurable so that that excites me like I really like gadgets.
+
+141
+00:13:17,39 --> 00:13:25,46
+But I can have a gadget that can do more different things or be more customizable I think that's really exciting.
+
+142
+00:13:26,79 --> 00:13:28,92
+I owe a lot of people in the field.
+
+143
+00:13:28,92 --> 00:13:32,58
+Got into folding because they've been folding since they were kids and doing origami
+
+144
+00:13:32,58 --> 00:13:34,38
+and then they learn about mathematics
+
+145
+00:13:34,38 --> 00:13:42,11
+and think oh oh maybe we should combine these two I came from the other side so I was a beginning graduate student at
+
+146
+00:13:42,11 --> 00:13:48,84
+University of Waterloo and I was just curious. I was looking for interesting problems to solve.
+
+147
+00:13:49,18 --> 00:13:59,45
+I knew that I really like geometry and algorithms and. My father remembered an old.
+
+148
+00:14:00,00 --> 00:14:01,68
+Unsolved problems that he had read about
+
+149
+00:14:01,68 --> 00:14:09,26
+when he years ago from a column by Martin Gardner who used to write for Scientific American about mathematical games
+
+150
+00:14:10,08 --> 00:14:18,43
+and it's a problem that comes from the magic community and the concept is you take a piece of paper you fold it flat
+
+151
+00:14:18,43 --> 00:14:22,22
+and make one complete straight cut and then unfold the pieces
+
+152
+00:14:22,22 --> 00:14:29,04
+and magicians like Houdini could produce a five pointed star lots of different simple shapes
+
+153
+00:14:29,75 --> 00:14:35,17
+and Martin Gardner I was wondering you know what are the limits can you make anything by this process
+
+154
+00:14:35,17 --> 00:14:36,06
+or what can you do
+
+155
+00:14:36,81 --> 00:14:44,19
+and so that's the problem we started working on like OK I've got geometry in algorithms now seems like a cool unsolved
+
+156
+00:14:44,19 --> 00:14:48,95
+problem to work on and it turned out to be fairly challenging took us a year or two to solve
+
+157
+00:14:50,05 --> 00:14:55,03
+but it also was very exciting that we got our first universality result
+
+158
+00:14:55,03 --> 00:14:59,38
+and we showed that you can make any poly gun any sheet metal straight sides
+
+159
+00:14:59,38 --> 00:15:06,01
+or actually you can make several shapes all at once. Just by a one straight cut after folding. So those very exciting.
+
+160
+00:15:07,25 --> 00:15:09,64
+It's fun problem motivated by magic.
+
+161
+00:15:09,81 --> 00:15:16,67
+It turns out to have some practical applications also there are some designs for airbag folding collapsing airbags flat
+
+162
+00:15:16,67 --> 00:15:22,24
+that are based on the same kind of algorithm that we didn't intend that at the time
+
+163
+00:15:23,42 --> 00:15:27,61
+and it really got us excited about this world of folding where it seems to have very rich
+
+164
+00:15:27,61 --> 00:15:31,53
+and complicated mathematics but also those kind of fun and visual
+
+165
+00:15:31,53 --> 00:15:37,94
+and you can you can demonstrate these things you know you can fold a piece of paper make a kite and make a swan
+
+166
+00:15:37,94 --> 00:15:45,9
+or whatever shape you want to so it has an attendee ability that everyone can kind of appreciate even if they're not a
+
+167
+00:15:45,9 --> 00:15:48,68
+mathematician you can say hey look we solved this magic problem that's cool.
+
+168
+00:15:50,06 --> 00:16:07,99
+You know something for you where it was well before right. Well. Yeah it's going to start.
+
+169
+00:16:08,89 --> 00:16:11,99
+I guess my father became a single parent when I was two years old
+
+170
+00:16:13,00 --> 00:16:20,12
+and so we've been close for a long time especially from when I was ages seven to eleven
+
+171
+00:16:20,12 --> 00:16:25,32
+and we started traveling together and visited many different places.
+
+172
+00:16:25,57 --> 00:16:29,8
+Mostly east coast of United States and just traveling for fun.
+
+173
+00:16:29,99 --> 00:16:34,24
+There was no particular reason other than seeing different cultures within the United States
+
+174
+00:16:34,24 --> 00:16:42,46
+and exploring which was really fun and throughout that time my dad treated me as a peer. So we would.
+
+175
+00:16:42,77 --> 00:16:48,87
+Jointly decide where we're going to go next to how long to stay in a place some places we'd stay just for a few days
+
+176
+00:16:48,87 --> 00:16:55,39
+other places we'd stay for years and that was a really fun and bonding experience for us.
+
+177
+00:16:55,47 --> 00:16:57,79
+Growing up and also because we're traveling a lot.
+
+178
+00:16:58,07 --> 00:17:02,74
+We try to at home school and home school turned out to work really well for us.
+
+179
+00:17:04,37 --> 00:17:09,45
+I would spend only like an hour a day doing sort of the breadth of regular school
+
+180
+00:17:09,45 --> 00:17:13,5
+and so that I have many other hours during the day to explore things
+
+181
+00:17:13,5 --> 00:17:17,93
+and very quickly for me exploring was computer programming.
+
+182
+00:17:17,97 --> 00:17:24,43
+I got really excited about that essentially how to video games I played a lot of video games I was curious how they
+
+183
+00:17:24,43 --> 00:17:27,77
+were made and my dad knew a little bit about computer programming to get us started
+
+184
+00:17:27,77 --> 00:17:30,31
+and then we'd go to the library to learn more.
+
+185
+00:17:30,42 --> 00:17:37,05
+This was all before the Internet and so I was sort of racially learning about computer programming
+
+186
+00:17:37,05 --> 00:17:41,19
+and having a lot of fun there and then when school got out I would go and play with kids and things like that.
+
+187
+00:17:42,55 --> 00:17:48,47
+So that was a really great time for me growing up and I went very fast in the computer science
+
+188
+00:17:48,47 --> 00:17:59,69
+and eventually mathematics side of things right. So right. Yeah I asked over that when I was.
+
+189
+00:18:00,00 --> 00:18:07,35
+Five or so and six years old my dad and I had our first collaboration we like to say with the Eric
+
+190
+00:18:07,35 --> 00:18:08,46
+and dad puzzle company.
+
+191
+00:18:08,71 --> 00:18:16,72
+So I helped design wire take apart puzzles and my dad would make them bending wire
+
+192
+00:18:17,5 --> 00:18:23,99
+and then we sold to twenty stores across Canada and we split the income fifty fifty and it was a lot of fun.
+
+193
+00:18:25,22 --> 00:18:32,19
+That was definitely the beginning of my interest in puzzles which is still to this day something I had like a lot
+
+194
+00:18:33,37 --> 00:18:37,17
+and probably also the beginning of my interest in mathematics and geometry
+
+195
+00:18:37,17 --> 00:18:47,93
+and things like that although that came much later as we were twelve. Yes yes. So after we ended this travel.
+
+196
+00:18:48,98 --> 00:18:54,18
+I wanted to learn more about computing in computer science I learned was a thing
+
+197
+00:18:54,18 --> 00:18:56,14
+and you have to go to university to learn about it.
+
+198
+00:18:56,19 --> 00:19:02,01
+So there was some complication but I started undergraduate at twelve
+
+199
+00:19:02,83 --> 00:19:08,75
+and took lots of classes because I at that age you can really soak in a lot of material and so I ended up finishing
+
+200
+00:19:08,75 --> 00:19:14,32
+when I was fourteen and then went to graduate school and got a master's and Ph D.
+
+201
+00:19:15,12 --> 00:19:31,39
+By the time I was twenty and then went on the job market and became a professor here at MIT. You're right. Yes.
+
+202
+00:19:32,06 --> 00:19:39,01
+Yeah it's really. We really value. Having fun and enjoying the work that we do.
+
+203
+00:19:39,85 --> 00:19:46,74
+There's a very there's essentially no line between the work that we do and the things we do for pleasure.
+
+204
+00:19:46,95 --> 00:19:54,47
+So it's all mixed together just with different kinds of outcomes maybe becomes a math paper maybe it becomes a
+
+205
+00:19:54,47 --> 00:19:59,37
+sculpture maybe it's there's no outcome we're just doing it for fun but.
+
+206
+00:20:00,00 --> 00:20:06,13
+It's all for fun and the philosophy is that if we do work that we enjoy
+
+207
+00:20:06,13 --> 00:20:13,04
+and find pleasurable then we'll do it very well excel at it and that has been a useful guiding principle
+
+208
+00:20:15,18 --> 00:20:19,79
+and I would encourage everyone to do the same it's definitely it may seem risky at times
+
+209
+00:20:19,79 --> 00:20:25,9
+and certainly there was a worry that the work that we do is to recreational like you know we're studying the
+
+210
+00:20:25,9 --> 00:20:31,68
+mathematics of a magic trick how could that be useful for anything but it turned out to be unexpectedly.
+
+211
+00:20:33,29 --> 00:20:40,09
+But I think a lot of specially in mathematics there are just a lot of basic questions that are very curious
+
+212
+00:20:40,09 --> 00:20:41,44
+and you want to know the answer to
+
+213
+00:20:42,26 --> 00:20:47,43
+and if they're basic enough the sort of very simple set up like paper folding is a very simple set up a very few rules
+
+214
+00:20:47,43 --> 00:20:54,26
+about what's what you're allowed to do and yet it's very complicated to understand it's a nice context for.
+
+215
+00:20:55,03 --> 00:21:01,08
+I think basic research tends to become useful eventually even though you may not see the applications ahead of time
+
+216
+00:21:01,08 --> 00:21:07,31
+and so mathematicians tend to be attracted to like very simple questions that have complicated answers.
+
+217
+00:21:07,62 --> 00:21:12,73
+Those tend to be also useful questions to answer always but if you solve enough of them.
+
+218
+00:21:12,83 --> 00:21:17,08
+Many of them will become practical and so even though you do it for fun.
+
+219
+00:21:17,22 --> 00:21:24,74
+It tends to have useful applications as well so that you might be worried by a lack of applications
+
+220
+00:21:24,74 --> 00:21:34,97
+but turns out to be OK. It's for real life. It's really sweet.
+
+221
+00:21:35,15 --> 00:21:41,81
+I mean we have pretty much ideal set ups where we can work on what we enjoy and get paid for it
+
+222
+00:21:41,81 --> 00:21:46,77
+and have fun doing it and have all the resources to do it. We're very lucky.
+
+223
+00:21:52,47 --> 00:21:54,52
+Yes So the glass blowing interest comes from.
+
+224
+00:21:55,73 --> 00:21:59,78
+My dad's background which is more on the visual arts side so before I was born.
+
+225
+00:22:00,00 --> 00:22:04,26
+In the late sixty's early seventy's he had the first glass studio in Canada.
+
+226
+00:22:04,31 --> 00:22:06,01
+It's called the father of Canadian glass
+
+227
+00:22:07,59 --> 00:22:15,19
+and so he had to have a studio made lots of glass work it was it was the early days in the studio movement of glass
+
+228
+00:22:15,19 --> 00:22:16,89
+blowing in North America
+
+229
+00:22:16,89 --> 00:22:23,66
+and so he was experimenting exploring what's possible trying different recipes to make glasses and glass colors
+
+230
+00:22:23,66 --> 00:22:28,98
+and things and then he didn't blow glass for many years until
+
+231
+00:22:30,19 --> 00:22:35,37
+and I never really saw him blood last until we came to MIT fifteen years ago
+
+232
+00:22:35,37 --> 00:22:44,06
+and we discovered he'd MIT has a glass blowing studio called The Glass lab and so my dad got curious to try
+
+233
+00:22:44,06 --> 00:22:45,24
+and glass flying again.
+
+234
+00:22:45,5 --> 00:22:52,83
+And so he started teaching there became one of the instructors and started blowing glass again
+
+235
+00:22:52,83 --> 00:22:58,7
+and I got to see him blow glass and watched him make things and it's so beautiful and amazing to watch
+
+236
+00:22:58,7 --> 00:23:05,68
+and then eventually like maybe maybe I should try clasp like that said Yeah you know you should at least see what it's
+
+237
+00:23:05,68 --> 00:23:07,69
+like but be careful. It's addictive.
+
+238
+00:23:07,79 --> 00:23:22,92
+So I quickly got into a glass blowing and now we blow glass together and make things together and it's a lot of fun.
+
+239
+00:23:22,94 --> 00:23:28,5
+It's a little more difficult because there's a lot of physics going on with glass blowing which is not exactly my forte
+
+240
+00:23:28,5 --> 00:23:35,85
+but we're always looking for interesting math and connections between mathematics and glassblowing and we've found.
+
+241
+00:23:36,36 --> 00:23:40,6
+We've found some interesting books there I think there's still a lot more to be explored.
+
+242
+00:23:40,67 --> 00:23:46,85
+I would love to have algorithms to automatically design interesting because this sort of operations you can do are
+
+243
+00:23:46,85 --> 00:23:49,83
+glassed in glass blowing a very simple. You know you can.
+
+244
+00:23:50,82 --> 00:23:56,16
+You're turning your piece you can swing it around you can play with sort of gravity in this way you can heat different
+
+245
+00:23:56,16 --> 00:23:59,93
+parts and cool other parts and that totally changes the shape that you produce.
+
+246
+00:24:00,25 --> 00:24:05,18
+But it's a very complicated relationship and so it's hard to model all of that mathematically.
+
+247
+00:24:06,27 --> 00:24:12,51
+But we've found some interesting regimes where it's simple enough that it's mostly geometric what's going on
+
+248
+00:24:13,6 --> 00:24:18,4
+and so we can use computers to help design new patterns in glass.
+
+249
+00:24:18,54 --> 00:24:24,75
+So we have some free software called virtual glass that we've been developing where you can design what are called
+
+250
+00:24:24,75 --> 00:24:27,1
+Glass came patterns very simple.
+
+251
+00:24:29,22 --> 00:24:35,93
+Conceptually simple but hard to visualize where you set up some essentially straight lines of color and glass
+
+252
+00:24:35,93 --> 00:24:36,78
+and then twist them.
+
+253
+00:24:36,85 --> 00:24:45,55
+And so you get some really cool twisty patterns they've been used in glass flying for for centuries. But.
+
+254
+00:24:45,57 --> 00:24:49,64
+Pretty much everyone who makes glass cane follows one of standard set of patterns
+
+255
+00:24:50,51 --> 00:24:56,11
+and so we were curious whether there were more patterns for Glass can that were possible in the software lets you
+
+256
+00:24:56,11 --> 00:25:00,19
+explore those patterns and lets you try new things and sometimes you try a new thing
+
+257
+00:25:00,19 --> 00:25:02,15
+and it looks kind of like an old thing.
+
+258
+00:25:02,2 --> 00:25:06,82
+So it's not really interesting but other times you try a new pattern and it looks amazing in the software
+
+259
+00:25:06,82 --> 00:25:08,16
+and that tells you here.
+
+260
+00:25:08,22 --> 00:25:13,53
+This is something we should spend the time to actually learn how to make in real life software doesn't tell you exactly
+
+261
+00:25:13,53 --> 00:25:19,79
+how to make it but it gives you a kind of schematic and then you have to do the glass blowing hard work
+
+262
+00:25:19,79 --> 00:25:26,21
+but at least you know that the thing you're trying to make is really beautiful and so it's worth working towards.
+
+263
+00:25:26,46 --> 00:25:33,78
+So you can rapidly try lots of different designs and software to find the one you want and then go physically make it.
+
+264
+00:25:33,79 --> 00:25:37,12
+So it's really hard.
+
+265
+00:25:38,03 --> 00:25:44,76
+Yeah I think it's I mean I think in general working on the boundary between two different fields you find interesting
+
+266
+00:25:44,76 --> 00:25:45,74
+areas that.
+
+267
+00:25:46,33 --> 00:25:51,35
+People tend to specialize in just one area and so they miss the things that the boundaries
+
+268
+00:25:52,09 --> 00:25:54,8
+and so we've had a lot of fun exploring these boundaries
+
+269
+00:25:54,8 --> 00:25:59,39
+and I think it comes partly from our different backgrounds my dad with the art background me with the more math
+
+270
+00:25:59,39 --> 00:26:06,03
+and science. Background and we're always talking to each other and so we see we see the connections.
+
+271
+00:26:06,98 --> 00:26:12,78
+When I started graduate school I was doing this sort of more theoretical mathematical work my dad's side
+
+272
+00:26:12,78 --> 00:26:14,4
+and saying looks. That's interesting.
+
+273
+00:26:14,73 --> 00:26:16,96
+This kind of creativity you're going through
+
+274
+00:26:16,96 --> 00:26:23,77
+and solving unsolved mathematical problems is very much like the kind of thing that I go through in designing new
+
+275
+00:26:23,77 --> 00:26:26,4
+sculptures or thinking about new art to build
+
+276
+00:26:27,19 --> 00:26:33,88
+and so we started working together then he got he I taught him to become a mathematician.
+
+277
+00:26:33,9 --> 00:26:37,91
+And he taught me to become an artist and so now we work on both together
+
+278
+00:26:37,91 --> 00:26:44,41
+and it's really it's a lot of fun for us to collaborate in that way but also leads to really interesting questions
+
+279
+00:26:44,41 --> 00:26:50,36
+and inspirations where instead of just thinking OK the math is the serious stuff
+
+280
+00:26:50,36 --> 00:26:55,84
+and everything else is just you know side project we think of everything is like main projects
+
+281
+00:26:55,84 --> 00:27:15,44
+and they inspire each other in ways that we couldn't predict. So I'm just working for years. We're definitely.
+
+282
+00:27:15,93 --> 00:27:20,28
+Yeah I mean you could say frontiers of science and art maybe.
+
+283
+00:27:20,3 --> 00:27:26,95
+Or that interplay but you know we're always as scientists we're always excited about the unknown
+
+284
+00:27:26,95 --> 00:27:33,77
+and I mean that's as soon as we understand something fully it becomes almost boring
+
+285
+00:27:33,77 --> 00:27:37,79
+and we want to move on to the next thing I mean we write down what we know and publish it
+
+286
+00:27:37,79 --> 00:27:40,9
+and share it with the world so they can build on top of it
+
+287
+00:27:40,9 --> 00:27:48,67
+but then we're always excited about the next question which we don't understand that's that's really what drives us is
+
+288
+00:27:48,67 --> 00:27:56,42
+the price that we don't quite understand or like that seems a little strange. And we're curious about and.
+
+289
+00:27:57,58 --> 00:28:18,65
+Yeah that's that's where we explore next. You know years at. Wells you might. Yeah it's a good question.
+
+290
+00:28:18,71 --> 00:28:25,1
+I think in the in the folding regime. I work in many different areas but in the folding world.
+
+291
+00:28:26,79 --> 00:28:34,8
+I think the biggest challenges right now are taking the nice mathematical geometric design algorithms that we have
+
+292
+00:28:34,8 --> 00:28:37,71
+and adapting them to to real world materials.
+
+293
+00:28:38,03 --> 00:28:44,33
+So we're starting to look at how does the thickness of the material affects what we can fold.
+
+294
+00:28:44,55 --> 00:28:49,99
+How does the rigidity of material affect what we can fold off and you're making things out of plates and hinges.
+
+295
+00:28:50,36 --> 00:28:55,01
+So you can really only fold at the creases whereas on paper it's more flexible.
+
+296
+00:28:55,03 --> 00:29:02,13
+Between the creases So this is a world called rigid origami still trying to understand how to design within that space
+
+297
+00:29:02,13 --> 00:29:05,72
+but it's very practical and exciting and for us it's nice
+
+298
+00:29:05,72 --> 00:29:09,31
+and challenging because we don't know that's what that's what we don't know how to do
+
+299
+00:29:09,31 --> 00:29:14,69
+and so that's where we're attracted So I think in the next couple of years we'll make a lot of progress in that kind of
+
+300
+00:29:14,69 --> 00:29:19,58
+trying to take the rich and very general mathematics and adapting it
+
+301
+00:29:19,58 --> 00:29:29,57
+or how to deal with the parameters of real world materials where you know other areas where you
+
+302
+00:29:29,57 --> 00:29:45,08
+or where you're working well yeah I see there are a lot of so I mean like the traditional origami set up is you have a
+
+303
+00:29:45,08 --> 00:29:51,51
+square paper and all you can do is fold and it's really interesting to see what you can do just by folding
+
+304
+00:29:52,86 --> 00:29:59,93
+but there are a lot of practical setups like in our printable robots project where it's.
+
+305
+00:30:00,00 --> 00:30:06,61
+Also find to cut the material I mean why not. It's folding is very powerful it's a good way to go from two to three D.
+
+306
+00:30:06,61 --> 00:30:12,11
+but We don't have to start from a square of material probably we're starting from some kind of rectangle of sheet
+
+307
+00:30:12,11 --> 00:30:16,87
+material and why not also cut it in two dimensions before you fold
+
+308
+00:30:17,68 --> 00:30:24,99
+and that's exciting because it can lead to much more efficient foldings potentially use all of the material now
+
+309
+00:30:24,99 --> 00:30:30,34
+and you can make structures you couldn't make just by folding or you can you can make them much more efficiently
+
+310
+00:30:30,34 --> 00:30:36,87
+and in different ways it's also a little it's tricky from a mathematical perspective because now we have so much more
+
+311
+00:30:36,87 --> 00:30:42,00
+freedom we can cut and fold in some sense it's more freedom than we know what to do with
+
+312
+00:30:42,00 --> 00:30:48,12
+and so that's that's kind of a new direction of folding where we also are cutting because why not.
+
+313
+00:30:48,27 --> 00:30:49,59
+It's a practical thing you can do
+
+314
+00:30:51,11 --> 00:30:56,06
+and maybe there are some settings where you want to add lots of cut some settings where you want to add fewer cuts we
+
+315
+00:30:56,06 --> 00:31:01,26
+don't know the right balance between us and I think that's a new frontier we're still exploring
+
+316
+00:31:01,26 --> 00:31:07,96
+and trying to understand but potentially leads to much better ways of folding structures.
+
+317
+00:31:07,98 --> 00:31:33,09
+And going back to your you're very free for. Case don't have this space. If you go.
+
+318
+00:31:35,51 --> 00:31:37,96
+I think it played a big role I mean it's hard to know exactly
+
+319
+00:31:38,68 --> 00:31:47,69
+but I think growing up with so much free time unstructured time where I could just explore what interested me really
+
+320
+00:31:47,7 --> 00:31:56,94
+gave me a big edge. Instead of sort of wasting time which a lot of schools do just filling that time.
+
+321
+00:31:56,99 --> 00:32:00,58
+So as a kind of child care. It's set up.
+
+322
+00:32:01,58 --> 00:32:07,04
+There's social aspects which are good too but a lot of time I feel like is wasted in school
+
+323
+00:32:07,04 --> 00:32:13,51
+and so having the home school opened up this window where I could explore what interested me and
+
+324
+00:32:13,51 --> 00:32:18,98
+and really dive in deeply and that let me go far ahead in the computer science world
+
+325
+00:32:18,98 --> 00:32:25,12
+and I think in general could let students go really far ahead in the thing that excites them the most you still have to
+
+326
+00:32:25,12 --> 00:32:31,8
+add in the breadth and socialize with other kids and so on but really
+
+327
+00:32:31,81 --> 00:32:39,82
+and then going to university at a young age I think really gave me another edge whereas you can learn so much at a
+
+328
+00:32:39,82 --> 00:32:41,69
+young age and so when you get to university.
+
+329
+00:32:41,69 --> 00:32:45,45
+Suddenly there's really interesting things you're learning and it's really exciting
+
+330
+00:32:45,45 --> 00:32:48,92
+and I still remember the things that I learned back then.
+
+331
+00:32:50,3 --> 00:32:57,77
+So that's really powerful as a way to to get started and I think a lot of people could do it.
+
+332
+00:32:58,7 --> 00:33:01,36
+There's also a more general sense of.
+
+333
+00:33:02,2 --> 00:33:10,07
+Because we were improvising if we want a long travelling around we would talk to our neighbors learn about what they
+
+334
+00:33:10,07 --> 00:33:14,45
+knew about and if they knew some interesting topic they would teach me and teach my dad.
+
+335
+00:33:15,57 --> 00:33:17,9
+So I learned different aspects about the magic that way.
+
+336
+00:33:17,94 --> 00:33:20,32
+I learned different kinds of cooking that way
+
+337
+00:33:21,58 --> 00:33:28,27
+and that was a fun way to say it to appreciate different people of different backgrounds
+
+338
+00:33:28,27 --> 00:33:33,91
+and different knowledge sets and I think in directly that influenced me
+
+339
+00:33:33,91 --> 00:33:37,71
+and my dad to think a lot about collaboration
+
+340
+00:33:38,4 --> 00:33:43,18
+and in current day we we collaborate with a lot of different mathematicians
+
+341
+00:33:43,18 --> 00:33:47,2
+and different papers I've written papers I think over four hundred people at this point
+
+342
+00:33:48,63 --> 00:33:54,37
+and on the art side we're also looking for collaborators interesting ways to combine different ideas from different
+
+343
+00:33:54,37 --> 00:33:59,93
+minds we collaborate a lot with each other. Of course but also looking for outside inspiration. I thing.
+
+344
+00:34:00,00 --> 00:34:06,45
+When you combine multiple people together you can really you can solve problems that could not be solved individually
+
+345
+00:34:07,33 --> 00:34:12,97
+on the mathematical side this is because there's just so many areas of mathematics. You can't really know all of them.
+
+346
+00:34:13,63 --> 00:34:19,42
+But some problems require lots of different tools to solve and so you can either go
+
+347
+00:34:19,42 --> 00:34:21,12
+and learn about that tool it takes a long time
+
+348
+00:34:21,12 --> 00:34:24,04
+or you could just collaborate with the person who ARE THE knows the tool
+
+349
+00:34:24,8 --> 00:34:29,06
+and they can solve that piece of the problem really. Well you can solve your piece you combine the right people.
+
+350
+00:34:29,21 --> 00:34:31,01
+You can solve big problems relatively easily
+
+351
+00:34:32,19 --> 00:34:39,18
+and on the art side you get inspiration things that no one person could make because they have the creative voice from
+
+352
+00:34:39,18 --> 00:34:47,38
+multiple people you have to be willing to let go of your own ego to do this and I think that probably for my dad
+
+353
+00:34:47,38 --> 00:34:52,71
+and I came from this period where we're just kind of exploring together and being open to the people that we meet
+
+354
+00:34:52,71 --> 00:35:04,65
+and learning from them. Not that I know of. And it's an interesting challenge to try to model.
+
+355
+00:35:06,13 --> 00:35:10,63
+Fun or humor or surprise. Mathematically I've heard.
+
+356
+00:35:10,72 --> 00:35:19,85
+I know I have some friends who are trying to answer that question but I don't know of one sort of I usually go by.
+
+357
+00:35:21,8 --> 00:35:36,6
+You know it when you see it kind of definition. So it was like. Each Other. Large I see here.
+
+358
+00:35:37,89 --> 00:35:47,58
+Yeah it's certainly a fascinating topic to think sort of at a high level of like mathematics for example has a kind of
+
+359
+00:35:48,9 --> 00:35:55,93
+a branch mathematical logic where tries to understand where we try to understand mathematically what mathematics is
+
+360
+00:35:55,93 --> 00:36:00,94
+and why it works or when it works when it doesn't work. But.
+
+361
+00:36:01,47 --> 00:36:07,19
+Of course the mathematics we practice in real life is a kind of a social dynamic you know do you believe
+
+362
+00:36:08,23 --> 00:36:10,88
+but someone claims they have a proof written down there
+
+363
+00:36:10,88 --> 00:36:16,28
+but to really check the proof you have to check it very carefully and it's humans are perfect
+
+364
+00:36:16,28 --> 00:36:20,72
+and so it's there's a social dynamic to the.
+
+365
+00:36:20,74 --> 00:36:27,09
+The body of research we we create and in some ways it makes it more fascinating
+
+366
+00:36:27,09 --> 00:36:31,14
+and colorful that that kind of mind share of what we know
+
+367
+00:36:31,14 --> 00:36:35,86
+or what we think we know is always kind of changing usually we're adding things we think are true
+
+368
+00:36:36,69 --> 00:36:37,65
+or that we claim are true.
+
+369
+00:36:37,73 --> 00:36:42,54
+Sometimes we take them back away we look at an old theorem and people have been building on
+
+370
+00:36:42,54 --> 00:36:45,03
+and realize oh actually that proof is wrong
+
+371
+00:36:45,03 --> 00:36:51,53
+and then there's this flurry of activity trying to fix the proof make a new proof so that the results that are built on
+
+372
+00:36:51,53 --> 00:36:56,13
+it are the result may still be true but sometimes we need to find a new way to prove it.
+
+373
+00:36:56,2 --> 00:37:02,81
+Sometimes the results and being false. That's that's more. It's occasionally scary but it's exciting.
+
+374
+00:37:04,85 --> 00:37:09,04
+Always trying to discover new things but also make sure they're really correct.
+
+375
+00:37:09,75 --> 00:37:17,99
+And definitely to me one of the appeals of mathematics is that you there is at least a sense of real truth of ultimate
+
+376
+00:37:17,99 --> 00:37:21,27
+truth that in principle if you're doing it correctly
+
+377
+00:37:22,3 --> 00:37:25,44
+and you prove something you really know that it is without a doubt true.
+
+378
+00:37:25,71 --> 00:37:30,99
+There's no other area where you can be as certain but still even then
+
+379
+00:37:30,99 --> 00:37:36,88
+or stuff like quite certain because humans make mistakes all the time. Yeah.
+
+380
+00:37:37,07 --> 00:37:43,92
+So I mean certainly we can see a lot that we can kind of build up lots of evidence that something is true by
+
+381
+00:37:45,07 --> 00:37:50,34
+constructing lots of examples and sculpture and and more practical engineering structures and so on
+
+382
+00:37:50,34 --> 00:37:59,37
+but to know that it's always true is a little bit different to know that it's usually true. This start.
+
+383
+00:38:01,27 --> 00:38:03,28
+Well you're right.
+
+384
+00:38:09,00 --> 00:38:11,45
+You have puzzles of remained an active interest
+
+385
+00:38:11,45 --> 00:38:18,63
+and in some sense all the mathematics we do is a kind of puzzle we have some set up of like what you're allowed to do
+
+386
+00:38:18,63 --> 00:38:22,57
+say with paper folding are some other simple mathematical structure
+
+387
+00:38:22,57 --> 00:38:27,51
+and the puzzle is you know what's possible what can you make these are kind of met a puzzle set sense
+
+388
+00:38:28,54 --> 00:38:35,56
+but even puzzles themselves like the kind of board game puzzles you get or the like sliding blocks
+
+389
+00:38:35,56 --> 00:38:39,26
+or these kinds of things are actually really interesting to study mathematically as well.
+
+390
+00:38:39,28 --> 00:38:46,96
+And so my dad and I and many collaborators like to explore the mathematics of games and puzzles
+
+391
+00:38:47,73 --> 00:38:52,47
+and we do it for video games like we studied Tetris and Super Mario Brothers
+
+392
+00:38:52,47 --> 00:38:57,54
+and other Nintendo games that I grew up playing now I can study them mathematically
+
+393
+00:38:57,54 --> 00:39:03,87
+and the sorts of things that we prove are that it's really hard to play these games perfectly.
+
+394
+00:39:03,89 --> 00:39:09,22
+So if you if I give you a level of Super Mario Brothers and say can you get from start to finish.
+
+395
+00:39:09,43 --> 00:39:13,13
+That's actually computationally difficult problem
+
+396
+00:39:13,14 --> 00:39:17,96
+and you can prove that solving that problem is really hard for a computer to do
+
+397
+00:39:18,95 --> 00:39:22,49
+and my philosophy is that humans are essentially a kind of computer
+
+398
+00:39:22,49 --> 00:39:27,91
+and so that tells you that it's also really hard for humans to play these games perfectly
+
+399
+00:39:27,91 --> 00:39:31,41
+or to solve these puzzles to play a Tetris game optimally
+
+400
+00:39:31,41 --> 00:39:37,36
+or to slide blocks around to get one block out of the box all these problems are really really hard
+
+401
+00:39:37,36 --> 00:39:40,83
+and I think it helps explain for humans.
+
+402
+00:39:40,88 --> 00:39:46,19
+Why we enjoy them because humans like a challenge things should be challenging but not too difficult
+
+403
+00:39:47,38 --> 00:39:50,04
+and proving these problems are computationally difficult.
+
+404
+00:39:50,15 --> 00:39:51,99
+They're still solvable given enough time
+
+405
+00:39:51,99 --> 00:39:58,42
+but in general you need an amount of time that grows exponentially with the size of the puzzle and so.
+
+406
+00:40:00,00 --> 00:40:05,95
+It means it's beyond a certain size it really becomes intractable and even in a small size it's a challenge
+
+407
+00:40:05,95 --> 00:40:06,9
+but still feasible.
+
+408
+00:40:07,17 --> 00:40:13,67
+I think that's why it's fun to have this kind of mathematical justification for why we like playing games
+
+409
+00:40:13,67 --> 00:40:20,82
+and puzzles and it's also a fun way to explore puzzles and games that I grew up with or know or love
+
+410
+00:40:20,82 --> 00:40:27,22
+and be able to study studying them from a mathematical perspective lets me essentially play the game
+
+411
+00:40:27,22 --> 00:40:29,99
+but in a more interesting way in some ways.
+
+412
+00:40:30,07 --> 00:40:38,05
+Usually we have to design new levels new puzzles within a design space in order to show that.
+
+413
+00:40:38,16 --> 00:40:44,02
+Oh we can build like logic gates and we can essentially build a computer within this game or puzzle.
+
+414
+00:40:44,55 --> 00:40:50,11
+And that's how you show that it's hard for a computer to play because computers are not it's really hard for a computer
+
+415
+00:40:50,11 --> 00:40:51,55
+to simulate a computer sexually.
+
+416
+00:40:53,08 --> 00:40:54,49
+That's sort of the hardest thing that they can do
+
+417
+00:40:55,31 --> 00:41:03,6
+and so we get to have fun by playing became by designing new levels and so on.
+
+418
+00:41:03,72 --> 00:41:09,1
+In order to prove these kind of interesting mathematical results that actually this game is really challenging.
+
+419
+00:41:09,11 --> 00:41:14,55
+And difficult.
+
+420
+00:41:15,54 --> 00:41:22,6
+So it's a bit of both Certainly I also just like playing games playing board games playing video games
+
+421
+00:41:22,6 --> 00:41:31,62
+and that's a lot of fun. Just as. Mediums to explore human experience I guess.
+
+422
+00:41:32,82 --> 00:41:39,47
+And I like the the role playing aspects I like the having fun with friends aspect
+
+423
+00:41:39,47 --> 00:41:42,16
+or exploring a world that's I mean these days.
+
+424
+00:41:42,22 --> 00:41:46,19
+Video games tell really powerful stories and so it becomes a new medium for storytelling.
+
+425
+00:41:47,15 --> 00:41:54,59
+So lots of more personal and just sort of fun aspects like that as I would be as a as a kid playing again.
+
+426
+00:41:54,68 --> 00:41:59,44
+And there's definitely a lot of nostalgia playing even playing old games as.
+
+427
+00:42:00,00 --> 00:42:07,15
+New Again they still hold up as being very exciting. But there's always even when I'm playing just for fun.
+
+428
+00:42:07,58 --> 00:42:13,68
+There's always in the back of my mind thinking I wonder if we can set this up as a clean mathematical problem
+
+429
+00:42:13,68 --> 00:42:15,87
+and analyze the complexity of this game
+
+430
+00:42:17,21 --> 00:42:24,24
+and some games are more amenable to this kind of mathematical analysis some of them require some adaptation to be a lot
+
+431
+00:42:24,24 --> 00:42:29,17
+of games have a lot of different elements it's really complicated mathematics is really good at getting at the core of
+
+432
+00:42:29,17 --> 00:42:32,8
+a problem. So it's a lot better when you have set up a simplified version.
+
+433
+00:42:33,13 --> 00:42:40,17
+Maybe you say oh let's just focus in on this one particular aspect of the game which if that's harder than the whole
+
+434
+00:42:40,17 --> 00:42:45,24
+thing is of course also even harder and so you can kind of isolate out the different parts
+
+435
+00:42:45,24 --> 00:42:52,01
+and tease out an interesting mathematical problem out of a real game or puzzle and then analyze that. So I mean.
+
+436
+00:42:52,52 --> 00:42:56,32
+It's it all fits together so as I'm playing a game. I'm always thinking about.
+
+437
+00:42:56,51 --> 00:43:00,84
+I wonder what I can tease out of this game and as I'm playing and having fun.
+
+438
+00:43:01,08 --> 00:43:05,13
+I'm also trying to think about that that mathematical formulation so.
+
+439
+00:43:05,41 --> 00:43:17,6
+It's good because then you get inspiration for new problems to solve just by having fun all day so.
+
+440
+00:43:17,61 --> 00:43:19,16
+Yeah I should get one.
+
+441
+00:43:19,31 --> 00:43:28,35
+But we made these wire take apart puzzles so each It's multiple pieces each piece is just made out of a piece of metal
+
+442
+00:43:28,35 --> 00:43:36,28
+wire that my dad would bend with pliers into shape and so one shade might be trouble clef
+
+443
+00:43:36,28 --> 00:43:44,05
+or some some recognizable shape or house I remember designing that one and then there be other pieces attached to it.
+
+444
+00:43:44,06 --> 00:43:45,09
+Everything's made out of wire.
+
+445
+00:43:45,16 --> 00:43:52,62
+Maybe some metal rings also and so these pieces appear to be interlocked and the challenge is to separate them.
+
+446
+00:43:52,63 --> 00:43:59,86
+And so while they look interlock there's actually some complicated procedure for pulling one piece at a.
+
+447
+00:44:00,00 --> 00:44:04,6
+Yeah there and you've solved the puzzle of that you have to put it back in and give it to someone else to solve.
+
+448
+00:44:04,72 --> 00:44:13,16
+So these are challenging the kind of a mix of geometry and apology in their design and.
+
+449
+00:44:14,28 --> 00:44:16,67
+Yeah there are a lot of fun you can be quite hard.
+
+450
+00:44:17,56 --> 00:44:27,00
+Some of them require hundreds of moves to solve some of them are easy if you know how but yeah.
+
+451
+00:44:27,2 --> 00:44:33,61
+So I think that the challenge of a human playing video games comes from different elements
+
+452
+00:44:34,34 --> 00:44:39,83
+and some parts are easy for computers to solve and other parts we sure are difficult for a computer to solve.
+
+453
+00:44:39,89 --> 00:44:48,32
+So if you imagine like solving a level of Super Mario Brothers there's there's kind of the physics of like the physical
+
+454
+00:44:48,32 --> 00:44:51,73
+aspect of pushing the buttons at the right time either pressing them really quickly
+
+455
+00:44:51,73 --> 00:44:55,18
+or exactly the right moment just before you fall off the ledge you jump
+
+456
+00:44:55,18 --> 00:44:59,03
+and land in the right place that sort of thing that computers are actually really good at doing
+
+457
+00:44:59,03 --> 00:45:08,65
+and there are people who exploit that in the tool assisted plays plays of games where they use computers to like slow
+
+458
+00:45:08,65 --> 00:45:10,04
+everything down and.
+
+459
+00:45:10,52 --> 00:45:16,3
+Time exactly the right moment to make a jump and things like that the computers can do some aspects really well
+
+460
+00:45:16,3 --> 00:45:19,87
+but there's kind of a there's a broader medal level in solving a puzzle
+
+461
+00:45:19,87 --> 00:45:26,26
+or solving a level in a video game where you need to plan out I should do this thing first
+
+462
+00:45:26,26 --> 00:45:28,79
+and then I'll go do this thing there's a time limit
+
+463
+00:45:28,79 --> 00:45:34,79
+and so it's really sensitive to how I should plan out the overall execution of the level executing it may be hard for
+
+464
+00:45:34,79 --> 00:45:41,01
+human easy for a computer but the planning part for a sufficiently complicated game is usually really difficult
+
+465
+00:45:41,95 --> 00:45:46,41
+and you can prove that that's computationally challenging now real world levels
+
+466
+00:45:46,41 --> 00:45:51,37
+and puzzles are usually designed to be right at the edge where you have to try several different options
+
+467
+00:45:51,37 --> 00:45:55,23
+but it's not impossible but in some sense
+
+468
+00:45:55,23 --> 00:45:59,67
+and that challenge comes out of this broader setting if you have a really large.
+
+469
+00:46:00,00 --> 00:46:05,46
+Well you can encode really hard problem inside that that puzzle and solving it.
+
+470
+00:46:05,56 --> 00:46:08,61
+You can show us how hard even for a computer to play.
+
+471
+00:46:09,72 --> 00:46:16,96
+So another example is like Tetris you have Tetris The usual the practical challenge is that you have this time limit.
+
+472
+00:46:16,99 --> 00:46:21,85
+You know the pieces falling you have to decide where to put it really fast computers are good at doing things really
+
+473
+00:46:21,85 --> 00:46:25,17
+fast but deciding where to put is actually really hard
+
+474
+00:46:26,00 --> 00:46:31,86
+and you can you can show that sort of long term planning of where you should put your pieces so that you won't run out
+
+475
+00:46:31,86 --> 00:46:33,21
+of space in your Tetris board.
+
+476
+00:46:33,38 --> 00:46:40,21
+That's actually competition intractable also so it's interesting I think real world games you have this interesting
+
+477
+00:46:40,21 --> 00:46:45,43
+mixture of making it hard for a human by giving time limits or physical execution can be challenging
+
+478
+00:46:45,43 --> 00:46:49,35
+and then you have this mastery aspect which very appealing to gamers.
+
+479
+00:46:50,5 --> 00:46:53,91
+But then usually there's this underlying computational difficulty that.
+
+480
+00:46:53,99 --> 00:47:15,79
+So you're solving this hard problem under time constraints that it's exciting for people. It's research for your site.
+
+481
+00:47:16,66 --> 00:47:21,2
+There definitely are some consequences I have a lot of games
+
+482
+00:47:21,21 --> 00:47:26,75
+or in some sense a like video games are often an abstraction of a real world problem.
+
+483
+00:47:26,77 --> 00:47:29,15
+Typical example is motion planning.
+
+484
+00:47:29,34 --> 00:47:32,17
+So you're either you have a bunch of robots
+
+485
+00:47:32,17 --> 00:47:38,5
+or you're a bunch of people trying to execute some goal you have a lot of objects you want to rearrange them into a
+
+486
+00:47:38,5 --> 00:47:39,16
+particular pattern
+
+487
+00:47:39,16 --> 00:47:44,24
+or maybe you're in a warehouse moving products around the every every product has a place it needs to go.
+
+488
+00:47:44,39 --> 00:47:47,72
+What's the optimal way for moving all these parts around.
+
+489
+00:47:48,07 --> 00:47:55,54
+That's those kinds of problems end up in a lot of video games also usually in a somewhat abstracted simplified form.
+
+490
+00:47:55,56 --> 00:47:59,83
+So proving those problems are hard shows also that.
+
+491
+00:48:00,00 --> 00:48:04,27
+These kinds of more real world problems are difficult as well maybe you can
+
+492
+00:48:04,27 --> 00:48:11,48
+or it helps you maybe try to isolate what are the what is special about the real world instances maybe your warehouse
+
+493
+00:48:11,48 --> 00:48:14,36
+is mostly two dimensional because you don't stack lots of things
+
+494
+00:48:14,36 --> 00:48:22,33
+or what are the it's speciality is of the real world instance that make them easier than the videogame So there's
+
+495
+00:48:22,33 --> 00:48:24,07
+definitely that kind of interplay
+
+496
+00:48:25,21 --> 00:48:31,65
+but I think a lot of people study the Myself included study the complexities of these games
+
+497
+00:48:31,65 --> 00:48:35,47
+and puzzles because it's fun and it's kind of a recreational pursuit.
+
+498
+00:48:35,61 --> 00:48:42,33
+So it's a little bit less serious than some areas of mathematics computer science but still we enjoy it
+
+499
+00:48:42,33 --> 00:48:43,46
+and it's kind of a fun.
+
+500
+00:48:43,57 --> 00:48:50,85
+I use it a lot as a way to get students excited about research because most people come in with their own background of
+
+501
+00:48:50,85 --> 00:48:53,5
+like what are fun games and puzzles that they grew up playing
+
+502
+00:48:54,41 --> 00:48:59,17
+and those inspired new mathematical problems either directly about those games
+
+503
+00:48:59,17 --> 00:49:01,21
+or about sort of the underlying principles
+
+504
+00:49:02,02 --> 00:49:09,61
+and these kinds of hardness personally call them to show these games are competition intractable are a nice way to get
+
+505
+00:49:09,61 --> 00:49:15,09
+started in research because you get to play with the game you get to use the expertise you have from having grown up
+
+506
+00:49:15,09 --> 00:49:15,73
+playing this game.
+
+507
+00:49:15,9 --> 00:49:17,69
+You probably spent way too many hours playing them
+
+508
+00:49:17,69 --> 00:49:21,69
+and that expertise is actually really helpful for solving the underlying math problem
+
+509
+00:49:21,69 --> 00:49:26,99
+and it can get people excited about. Oh this is this is computer science research I want to do more of this.
+
+510
+00:49:28,35 --> 00:49:35,86
+There's also the I think the broad appeal of you know there's some mathematical results that are hard for.
+
+511
+00:49:36,23 --> 00:49:37,94
+The general public to appreciate.
+
+512
+00:49:38,01 --> 00:49:43,86
+But you analyze a game or a puzzle that everyone has played or big segment the population is played
+
+513
+00:49:43,86 --> 00:49:46,97
+and they can appreciate like oh yeah I remember that being really hard.
+
+514
+00:49:46,99 --> 00:49:48,77
+Oh you can prove that mathematically Oh that's interesting.
+
+515
+00:49:49,14 --> 00:49:55,08
+I wonder how they do that and that can inspire people to enter the field or at least get a curiosity or
+
+516
+00:49:55,08 --> 00:49:59,7
+and learn about fields that they're not necessarily working in and appreciate that.
+
+517
+00:50:00,00 --> 00:50:06,22
+There's interesting things you can do about problems I happen to care about because most people like games
+
+518
+00:50:06,98 --> 00:50:21,91
+and so this isn't a nice kind of broad appeal connection where our years ten years.
+
+519
+00:50:21,92 --> 00:50:30,33
+It's hard to know exactly where my research will take me I definitely like MIT as a base because it's I mean there are
+
+520
+00:50:30,33 --> 00:50:34,33
+mazing students here amazing people doing all sorts of great and crazy things
+
+521
+00:50:34,33 --> 00:50:40,17
+and just a lot of flexibility to essentially do what we want and explore whatever we find interesting.
+
+522
+00:50:40,5 --> 00:50:49,08
+So what will be most interesting to us in ten years is hard to guess but this definitely is a nice.
+
+523
+00:50:49,1 --> 00:50:54,24
+Powerful base to do it from so different enjoying my time here.
+

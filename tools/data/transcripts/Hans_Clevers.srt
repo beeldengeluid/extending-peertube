@@ -1,0 +1,2983 @@
+1
+00:00:00,000 --> 00:00:03,867
+My name is Hans Clevers, I have been working in Utrecht for a long time.
+
+2
+00:00:03,833 --> 00:00:07,000
+First I worked at the teaching hospital...
+
+3
+00:00:08,100 --> 00:00:12,567
+and since 2002 my laboratory is at the KNAW Hubrecht Institute.
+
+4
+00:00:13,267 --> 00:00:21,267
+Over the years I have tried to answer the question
+
+5
+00:00:21,967 --> 00:00:24,167
+of how we succeed to become ourselves out of one singular cel,
+
+6
+00:00:26,433 --> 00:00:27,333
+the fertilized ovum.
+
+7
+00:00:28,500 --> 00:00:30,700
+This is the science of developmental biology,
+
+8
+00:00:33,100 --> 00:00:37,100
+it has taken us on a journey through many different fields of study.
+
+9
+00:00:37,300 --> 00:00:39,067
+We started as immunologists,
+
+10
+00:00:38,967 --> 00:00:39,733
+the study of the body's defence system.
+
+11
+00:00:41,100 --> 00:00:43,000
+We've occupied ourselves with frogs and fruit flies and worms.
+
+12
+00:00:44,667 --> 00:00:49,400
+For the past fifteen years we've primarily worked on adult stem cells,
+
+13
+00:00:49,767 --> 00:00:51,267
+we've done a lot on mice
+
+14
+00:00:51,167 --> 00:00:54,633
+and  for the last couple of years, since we know more about how it works,
+
+15
+00:00:55,600 --> 00:00:57,267
+we've also done this with human stem cells.
+
+16
+00:00:58,100 --> 00:01:05,867
+That's quite a story, I'm going to split it into smaller parts.
+
+17
+00:01:06,967 --> 00:01:14,833
+But it's good you mentioned all of it. What is your field of study?
+
+18
+00:01:16,167 --> 00:01:20,400
+My field of study is medical biology,
+
+19
+00:01:20,833 --> 00:01:23,867
+everything that has to do with animals an humans,
+
+20
+00:01:24,333 --> 00:01:27,367
+how we come into existence, how we enduringly stay healthy,
+
+21
+00:01:27,567 --> 00:01:31,500
+but also how we become ill, and how we eventually repair damaged tissue.
+
+22
+00:01:33,100 --> 00:01:43,900
+What does you research concentrate on? What is your domain in this area?
+
+23
+00:01:45,733 --> 00:01:50,467
+We've never allowed ourselfs to be restricted by scientific disciplines.
+
+24
+00:01:51,467 --> 00:01:55,100
+We've frequently crossed borders,
+
+25
+00:01:55,633 --> 00:02:00,567
+but the unifying factor is technology, it has been a lot of  DNA technology,
+
+26
+00:02:01,167 --> 00:02:03,533
+which went through an explosive growth since the '80.
+
+27
+00:02:04,133 --> 00:02:08,967
+Every time a technical step was taken, we could take up new questions.
+
+28
+00:02:09,533 --> 00:02:10,800
+That is actually what we do,
+
+29
+00:02:11,500 --> 00:02:15,933
+whether it concerns a fruit fly or a human, doesn't really matter to us.
+
+30
+00:02:16,567 --> 00:02:18,133
+And what is your speciality?
+
+31
+00:02:18,767 --> 00:02:22,533
+At the moment it is stem cells and cancer research,
+
+32
+00:02:22,900 --> 00:02:28,000
+in particular the link between the two. A cancer cell is actually a derailed stem cell.
+
+33
+00:02:28,567 --> 00:02:30,200
+Really, is it that simple?
+
+34
+00:02:30,367 --> 00:02:33,100
+Yes, well...
+
+35
+00:02:33,800 --> 00:02:35,867
+What does a stem cell, the way we sit here, do?
+
+36
+00:02:36,167 --> 00:02:43,500
+So not the stem cells that we are made out of very early on in our existence, three days after fertilization,these exist shortly,
+
+37
+00:02:43,967 --> 00:02:45,100
+then they dissapear.
+
+38
+00:02:45,733 --> 00:02:51,100
+But the way I sit here, every organ has it's own specialized stem cells.
+
+39
+00:02:51,567 --> 00:02:55,400
+What are these stem cells good at? They lay low when they are not needed, they don't devide themselves.
+
+40
+00:02:55,867 --> 00:03:01,100
+But when tissue is damaged, they renew the tissue,
+
+41
+00:03:02,567 --> 00:03:07,300
+they can resist a lot of radiation and abuse.
+
+42
+00:03:08,300 --> 00:03:13,700
+That's exactly like cancer cells, they can handle anyting, cystostatics, radiation,
+
+43
+00:03:14,433 --> 00:03:16,967
+they can sleep for years before becomming active again.
+
+44
+00:03:17,500 --> 00:03:20,767
+But they've lost the brake to stop once they should be done.
+
+45
+00:03:21,333 --> 00:03:24,133
+So the cancer cell is like a natural enemy for the stem cell?
+
+46
+00:03:24,400 --> 00:03:29,633
+It's the doctor Hyde... What are they called?
+
+47
+00:03:29,667 --> 00:03:31,600
+Dr. Jeckyll and Mr. Hyde.
+
+48
+00:03:32,000 --> 00:03:38,333
+It's the downside of having stem cells, they sometimes go astray,
+
+49
+00:03:39,400 --> 00:03:41,233
+and become our worst enemy.
+
+50
+00:03:42,300 --> 00:03:44,567
+So if you compare it to good and evil....?
+
+51
+00:03:46,100 --> 00:03:50,400
+That comes very close, we all struggle with aging.
+
+52
+00:03:51,533 --> 00:03:54,533
+Can we only live till we're eighty, or is there no limit to aging?
+
+53
+00:03:55,000 --> 00:03:59,633
+I'm convinced we've been designed to live for about eighty, ninety years.
+
+54
+00:03:59,667 --> 00:04:04,833
+That's plenty of time to bring children and grandchildren into the world.
+
+55
+00:04:05,167 --> 00:04:08,667
+But then it's time to step off the stage, evolution must be able to do it's work,
+
+56
+00:04:09,000 --> 00:04:13,067
+which means selected generations eventually need to dissapear.
+
+57
+00:04:13,433 --> 00:04:16,367
+We're not built to live longer than eighty to ninety years,
+
+58
+00:04:16,400 --> 00:04:22,800
+on average our stem cells are capable to repair our organs over that period of time,
+
+59
+00:04:23,133 --> 00:04:28,167
+but in the end they wil start making mistakes and finally we will all encounter cancer.
+
+60
+00:04:28,300 --> 00:04:29,467
+Yes, yes...
+
+61
+00:04:30,100 --> 00:04:35,633
+I can explain it simpler and shorter, but that's actually...
+
+62
+00:04:35,700 --> 00:04:42,800
+What isn't done very much, we study healthy stem cells, and how they aid in staying healthy over time,
+
+63
+00:04:43,167 --> 00:04:45,667
+as well as the malignant stem cells.
+
+64
+00:04:46,433 --> 00:04:52,267
+They are so much alike, from each one you learn about the other,
+
+65
+00:04:52,333 --> 00:04:55,900
+it works both ways. We simultaneously do cancer research and stem cell research.
+
+66
+00:04:56,567 --> 00:05:01,733
+Everytime we make progress in one field, we can translate it to the other field.
+
+67
+00:05:01,767 --> 00:05:04,233
+For example, how does a stemcell in the intestine regenerate?
+
+68
+00:05:04,500 --> 00:05:14,100
+A cancer cell turns out to use the exact same process as the normal cell, but has lost the off switch.
+
+69
+00:05:14,367 --> 00:05:16,967
+So it's the like the naughty child?
+
+70
+00:05:17,567 --> 00:05:24,300
+Yes, yet in my experience a child can be controlled,
+
+71
+00:05:24,533 --> 00:05:27,733
+but cancer cells have lost the ability to be controlled.
+
+72
+00:05:28,400 --> 00:05:30,500
+And then, what can you do?
+
+73
+00:05:31,933 --> 00:05:38,233
+Designing therapies to battle cancer is very complicated,
+
+74
+00:05:38,267 --> 00:05:40,733
+because almost any other disease comes from the outside.
+
+75
+00:05:42,000 --> 00:05:47,733
+Aids is a good example, unknown in 1980 and resolved by 1985.
+
+76
+00:05:48,600 --> 00:05:49,933
+An exernal disease-causing agent,
+
+77
+00:05:50,600 --> 00:05:53,167
+completely different from anyting in our body.
+
+78
+00:05:53,133 --> 00:05:56,467
+It's not that complicated to rapidly develop a few drugs
+
+79
+00:05:56,500 --> 00:05:58,833
+that at first may not be excellent but are quickly much better
+
+80
+00:05:58,867 --> 00:06:02,033
+at combatting the virus, but not you own cells.
+
+81
+00:06:02,767 --> 00:06:05,433
+A cancer cell is you, yourself.
+
+82
+00:06:06,133 --> 00:06:10,967
+Our genetic information consists of three billion letters, Gs As Ts and Cs.
+
+83
+00:06:11,567 --> 00:06:18,967
+It only takes three to four errors in those three billion letters for a normal cell to turn into a cancer cell,
+
+84
+00:06:19,000 --> 00:06:26,167
+that's a tiny difference, enough for the cell to keep growing, but very difficult to target with therapy.
+
+85
+00:06:26,233 --> 00:06:31,500
+If you aim a little too wide, you target every cell in the body,
+
+86
+00:06:31,867 --> 00:06:38,100
+you have to try to aim at those few little mistakes that distinguish the cancer cell from your normal cells.
+
+87
+00:06:38,500 --> 00:06:40,000
+That is a huge challenge.
+
+88
+00:06:40,067 --> 00:06:41,767
+Are you kind of like a cryptologist?
+
+89
+00:06:43,467 --> 00:06:47,533
+We do a lot of DNA analysis,
+
+90
+00:06:47,800 --> 00:06:52,267
+other colleagues do this more in-depth, we mostly use it,
+
+91
+00:06:52,967 --> 00:06:56,433
+and it is indeed like decoding a book.
+
+92
+00:06:56,767 --> 00:07:02,167
+A book we now know has more than one code, maybe three or four or even many more.
+
+93
+00:07:02,200 --> 00:07:04,500
+Codes we didn't even suspect existed.
+
+94
+00:07:05,467 --> 00:07:08,700
+Interestingly physicists approximately know what they don't know,
+
+95
+00:07:08,900 --> 00:07:11,733
+the dark matter, eighty percent of the universe.
+
+96
+00:07:11,767 --> 00:07:13,300
+We don't know what we don't know,
+
+97
+00:07:14,033 --> 00:07:19,267
+every few years a new system is discovered, one we never needed to explain the way that things are.
+
+98
+00:07:20,233 --> 00:07:28,267
+A new principle emerges, which turns out to be half of biology's foundation, but we never missed it in our explanations.
+
+99
+00:07:28,367 --> 00:07:29,767
+This has already happend three or four times.
+
+100
+00:07:29,933 --> 00:07:36,167
+It's usually a code in the genetic information we hadn't seen.
+
+101
+00:07:36,867 --> 00:07:40,033
+So there many you don't know of yet?
+
+102
+00:07:40,300 --> 00:07:44,733
+There used to be talk of one or two percent serious code
+
+103
+00:07:44,933 --> 00:07:46,900
+and 98 percent "junk DNA".
+
+104
+00:07:47,333 --> 00:07:50,933
+By now we can probably understand about ten percent,
+
+105
+00:07:51,167 --> 00:07:56,533
+but in the other 80 percent there is undoubtedly much more hidden we still need to discover.
+
+106
+00:07:57,767 --> 00:08:06,467
+Let's get back to the stem cell research you do, what is that like?
+
+107
+00:08:07,967 --> 00:08:09,700
+The research or the stem cell?
+
+108
+00:08:10,300 --> 00:08:15,867
+The research of the stem cell. I have no...
+
+109
+00:08:16,000 --> 00:08:21,500
+You can't imagine... Let me try to explain how it's done.
+
+110
+00:08:21,667 --> 00:08:28,967
+Everyone knows, if you hurt yourself, if you have a scrape wound, it heals.
+
+111
+00:08:29,700 --> 00:08:37,300
+If you look at it with a microscope, you see many cells are dead or gone, and they are replaced.
+
+112
+00:08:37,833 --> 00:08:41,400
+After two to three weeks the skin is healed.
+
+113
+00:08:42,167 --> 00:08:44,433
+Most of our organs can do this,
+
+114
+00:08:44,600 --> 00:08:46,267
+we are still searching for stem cells in the heart,
+
+115
+00:08:46,367 --> 00:08:49,500
+it's unclear of they excist, there are even stem cells in our brain.
+
+116
+00:08:49,733 --> 00:08:51,933
+What a stem cell does, in theory,
+
+117
+00:08:52,133 --> 00:08:53,633
+many haven't been discovered yet,
+
+118
+00:08:53,867 --> 00:09:09,300
+but they can repair damaged cells, they can replace lost tissue.
+
+119
+00:09:09,500 --> 00:09:12,967
+So that's my definition, this field is quite young,
+
+120
+00:09:13,133 --> 00:09:19,133
+there are many dogma's that turned out to be wrong.
+
+121
+00:09:19,333 --> 00:09:29,300
+We try to stick to this: which cell, in a surtain organ, helps this organ to replace cells and tissue.
+
+122
+00:09:29,333 --> 00:09:30,999
+How do you recognize those cells?
+
+123
+00:09:31,000 --> 00:09:32,833
+Yes, then the next question is how to recognize them.
+
+124
+00:09:32,867 --> 00:09:34,166
+First off, they need to be able to multiply,
+
+125
+00:09:34,167 --> 00:09:36,033
+that is what they do when they are active.
+
+126
+00:09:36,067 --> 00:09:38,000
+That is is way to spot them.
+
+127
+00:09:38,167 --> 00:09:46,000
+the very strong convictions on how a stem cell should look were problematic for us,
+
+128
+00:09:46,033 --> 00:09:50,033
+they would be very rare, extreemly small,
+
+129
+00:09:50,233 --> 00:09:57,067
+they never or rarely multiplied, their offspring would multiply a lot.
+
+130
+00:09:57,100 --> 00:10:01,667
+So they were defined as cells that you would hardly be able to find.
+
+131
+00:10:02,033 --> 00:10:07,300
+Nowadays we can use many genetic tricks.
+
+132
+00:10:07,333 --> 00:10:15,300
+We can replace the genetic code in mice, while sitting behind a computer.
+
+133
+00:10:15,833 --> 00:10:17,633
+We can change or improve it.
+
+134
+00:10:17,933 --> 00:10:22,200
+That way we can make a mouse that has exactly the alteration in it's code we need.
+
+135
+00:10:22,533 --> 00:10:28,400
+For example, if we see a surtain type of cell,
+
+136
+00:10:28,700 --> 00:10:33,100
+in the mouse's intestine and we think it might be the intestine's stem cell,
+
+137
+00:10:33,133 --> 00:10:35,500
+that is how we started,
+
+138
+00:10:35,700 --> 00:10:38,733
+we can make a mouse who's stem cells lights up.
+
+139
+00:10:38,900 --> 00:10:44,500
+It's a hereditary trait stolen from fire flies
+
+140
+00:10:44,633 --> 00:10:48,133
+we write an email to the man in Califonia who discovered this,
+
+141
+00:10:48,333 --> 00:10:53,033
+he puts some of this DNA on a coffee filter, sends it to us by fedex,
+
+142
+00:10:53,067 --> 00:10:58,300
+we put in in a tube with water, and then we have the DNA code for giving off light.
+
+143
+00:10:58,500 --> 00:11:02,200
+We can place it in the mouse, it's not that simple,
+
+144
+00:11:02,367 --> 00:11:08,333
+but we do it in such a way that the cell will light up.
+
+145
+00:11:08,567 --> 00:11:13,100
+That makes it much simpler, we can easily spot them,
+
+146
+00:11:13,267 --> 00:11:16,633
+we can take them out of the mouse, because they light up and the other cells do not.
+
+147
+00:11:16,800 --> 00:11:20,167
+Back then we used a second trick,
+
+148
+00:11:20,333 --> 00:11:27,233
+from the outside, we can inject a three to four months old mouse with something
+
+149
+00:11:27,267 --> 00:11:30,133
+and we activate something else we built in,
+
+150
+00:11:30,333 --> 00:11:34,500
+then only the permanent cells can give themselves a colour.
+
+151
+00:11:35,267 --> 00:11:38,400
+They light up, but if they are no longer stem cells they won't light up anymore,
+
+152
+00:11:38,433 --> 00:11:48,433
+when we colour a cell, every cell that comes from that cell, will have the same colour.
+
+153
+00:11:48,600 --> 00:11:54,033
+so you can wait for a year, after a day you see one blue cell,
+
+154
+00:11:54,267 --> 00:11:57,867
+but after a year you see a whole part of the intestine had coloured blue,
+
+155
+00:11:58,200 --> 00:12:02,867
+that way you see the cell indeed is a stem cell,
+
+156
+00:12:03,100 --> 00:12:04,533
+you have formal evidence.
+
+157
+00:12:04,567 --> 00:12:10,033
+Those are the tricks we can use in mice.
+
+158
+00:12:10,167 --> 00:12:15,133
+And do you think that when a stem cell has multiplied, the new cell has stem cells?
+
+159
+00:12:15,333 --> 00:12:16,867
+Well, that was also a dogma,
+
+160
+00:12:17,267 --> 00:12:20,033
+once a stem cell multiplies it makes one new stem cell and a daughter cell,
+
+161
+00:12:20,433 --> 00:12:23,700
+the daughter cell goes futher through the system, but has a short life.
+
+162
+00:12:23,833 --> 00:12:26,567
+But we see this isn't true.
+
+163
+00:12:26,700 --> 00:12:32,800
+If you loose many stem cells, the remaining stem cells immediatly replenish the shortage.
+
+164
+00:12:32,900 --> 00:12:40,833
+And if you loose all of you stem cells, cells that were on their way out can turn back and become stem cell.
+
+165
+00:12:42,300 --> 00:12:43,867
+It's a very artificial system,
+
+166
+00:12:44,100 --> 00:12:45,033
+we didn't know this,
+
+167
+00:12:45,167 --> 00:12:47,400
+the dogma was that it didn't work this way,
+
+168
+00:12:47,467 --> 00:12:53,700
+it was a challenge to dismiss these convictions I had been taught since elementary school,
+
+169
+00:12:53,867 --> 00:12:56,867
+to look at those stem cells in a different way.
+
+170
+00:12:57,200 --> 00:13:25,433
+What is your field, what in you research makes you a front runner, what discoveries enjoy international interest?
+
+171
+00:13:28,233 --> 00:13:36,600
+If I look at the subjects I'm asked to speak about at conventions, it started about fifteen years ago,
+
+172
+00:13:36,633 --> 00:13:41,100
+by accident we discovered how colon cancer arises,
+
+173
+00:13:41,133 --> 00:13:43,467
+we became interested in the intestine's stem cells,
+
+174
+00:13:43,567 --> 00:13:48,467
+we discovered that in the '60 it was described as the most active stem cell in our body,
+
+175
+00:13:48,500 --> 00:13:52,033
+we thought this would make it the easiest to study, we just needed to find it.
+
+176
+00:13:52,133 --> 00:13:57,500
+That took a while, but when we found the intestenal stem cell,
+
+177
+00:13:57,567 --> 00:14:00,800
+we discovered nothing that was known about stem cells was actually true.
+
+178
+00:14:01,067 --> 00:14:05,133
+For example, I think this is what we are most know for,
+
+179
+00:14:05,167 --> 00:14:09,200
+a very powerful dogma was that a healthy cell,
+
+180
+00:14:09,367 --> 00:14:18,833
+put onto a petri dish with a culture medium would die after a few days.
+
+181
+00:14:19,333 --> 00:14:23,233
+The only cells that would grow well were cancer cells.
+
+182
+00:14:23,500 --> 00:14:30,000
+All the research on cells, outside of the body of humans or mice, has been on cancer cells.
+
+183
+00:14:31,000 --> 00:14:35,333
+Almost all discoveries within the biomedical science, are based on cancer cells.
+
+184
+00:14:35,367 --> 00:14:38,100
+Because you can endlessly multiply them.
+
+185
+00:14:38,767 --> 00:14:46,500
+How is that possible? I don't understand. How come healthy cells die after a few days, but cancer cells don't?
+
+186
+00:14:46,867 --> 00:14:52,333
+That was the observation, from the '60 people tried to cultivate cells
+
+187
+00:14:52,500 --> 00:15:04,000
+after a few attempts it turned out to be quite easy to keep tumor cells alive,
+
+188
+00:15:04,300 --> 00:15:10,667
+tumor cells look a lot like the tissue they originate from, they are like malignant stem cells.
+
+189
+00:15:12,800 --> 00:15:20,133
+That was a dogma, you would read is was impossible to keep healthy cells alive for more than a few days.
+
+190
+00:15:20,167 --> 00:15:23,666
+But when we made the stem cells visible in mice,
+
+191
+00:15:23,667 --> 00:15:28,433
+using the trick to let them light up, we could see that they split every day.
+
+192
+00:15:28,767 --> 00:15:30,967
+However, it was thought they multiplied just once a year.
+
+193
+00:15:31,800 --> 00:15:34,500
+We thought, if they split every day,
+
+194
+00:15:34,767 --> 00:15:40,932
+they will do this a thousand times in a the lifetime of a mouse, about three years.
+
+195
+00:15:40,933 --> 00:15:43,400
+We have to be able to recreate this in a lab.
+
+196
+00:15:43,567 --> 00:15:47,000
+If you understand it, nothing is impossible within biology.
+
+197
+00:15:47,200 --> 00:15:55,333
+Eventually it turned out to be quite simple, the hardest thing was convincing someone in my lab that we needed to do this.
+
+198
+00:15:55,533 --> 00:16:00,133
+Everyone was convinced it would be a waste of time and effort.
+
+199
+00:16:00,267 --> 00:16:06,400
+A japanese scientist, TOSHIRO SATO, started working on it, and accomplished it in a couple of months.
+
+200
+00:16:06,433 --> 00:16:07,500
+What did he do exactly?
+
+201
+00:16:07,700 --> 00:16:09,300
+What you need...
+
+202
+00:16:09,733 --> 00:16:11,633
+Can you briefly explain?
+
+203
+00:16:12,700 --> 00:16:16,567
+He extracted those luminous stem cells from the mice,
+
+204
+00:16:16,767 --> 00:16:17,900
+everyone knew this was possible,
+
+205
+00:16:18,133 --> 00:16:22,633
+what the cells need to grow in culture are the right nutrients.
+
+206
+00:16:22,667 --> 00:16:27,100
+Epo is what bicyle racers take, it activates the stem cells in you bone marrow,
+
+207
+00:16:27,300 --> 00:16:28,967
+they in turn make red bloodcells, so you can cycle faster.
+
+208
+00:16:29,133 --> 00:16:33,933
+We thought we needed substances like that, and we discovered which ones.
+
+209
+00:16:33,000 --> 00:16:39,467
+A combination of three substances was added to the stem cell and it never stoped growing.
+
+210
+00:16:39,533 --> 00:16:41,133
+It grows ten times bigger each week.
+
+211
+00:16:41,267 --> 00:16:46,000
+If we had saved all that tissue we could have filled the whole universe.
+
+212
+00:16:46,167 --> 00:16:50,067
+A physisist could calculate it...
+
+213
+00:16:50,367 --> 00:16:51,167
+It grows endlessly?
+
+214
+00:16:51,200 --> 00:16:55,933
+Yes, it grows endlessly, you can see it grow under a microscope.
+
+215
+00:16:56,100 --> 00:17:00,367
+We can film it if you like, it just never stopped.
+
+216
+00:17:00,467 --> 00:17:05,533
+The first mouse we used has been dead for three years, but the cells continue to grow.
+
+217
+00:17:05,667 --> 00:17:09,133
+So we thought it must have turned into cancerous cells...
+
+218
+00:17:09,167 --> 00:17:15,933
+Wait a moment, so you have found something that doesn't die?
+
+219
+00:17:16,333 --> 00:17:17,067
+Yes.
+
+220
+00:17:18,400 --> 00:17:24,533
+Isn't that sort of a code of life you have found? Eternal life?
+
+221
+00:17:26,633 --> 00:17:34,967
+Yes, well, let me finish the story, you'll be better able te understand.
+
+222
+00:17:35,667 --> 00:17:39,500
+The stem cell of the intestine was the most active,
+
+223
+00:17:39,867 --> 00:17:45,500
+so at first people told us it could not be the stem cell because it didn't fit the criteria.
+
+224
+00:17:46,267 --> 00:17:52,400
+It does grow the intestine, so it must be the stem cell.
+
+225
+00:17:52,433 --> 00:17:55,567
+It took a couple of years before people accepted this.
+
+226
+00:17:55,900 --> 00:17:58,467
+Then we thought, it splits so fast, we must be able to copy that.
+
+227
+00:17:58,800 --> 00:18:03,800
+It was thought to be impossible, healthy cells could not survive outside the body,
+
+228
+00:18:03,867 --> 00:18:05,867
+however it did turn out to be possible.
+
+229
+00:18:05,933 --> 00:18:12,500
+We became facinated with this possibility and thought, what about other tissue,
+
+230
+00:18:12,667 --> 00:18:14,333
+tissue that doesn't devide so quickly.
+
+231
+00:18:14,467 --> 00:18:18,900
+Your intestine devides every day, but not much happens in your liver.
+
+232
+00:18:18,967 --> 00:18:22,900
+Or in your pancreas, prostate or lungs.
+
+233
+00:18:23,067 --> 00:18:28,033
+But they can repair themselves, if you binge on alcohol,
+
+234
+00:18:28,133 --> 00:18:31,900
+your liver is damaged, your stem cells are activated and repair the damage.
+
+235
+00:18:32,000 --> 00:18:41,133
+TOSHI had the mice in front of him and tried it with their pancreas, and it also grew.
+
+236
+00:18:41,267 --> 00:18:44,300
+This was a stem cell that is usually very quiet,
+
+237
+00:18:44,733 --> 00:18:47,667
+one that is only temporarily active and then sort of goes to sleep again.
+
+238
+00:18:47,767 --> 00:18:54,567
+So that opened the floodgates, we could try it for all the organs, we just needed to find the right nutrients.
+
+239
+00:18:55,867 --> 00:18:59,933
+And soon we could do the liver, prostate, lungs, kidneys.
+
+240
+00:19:00,233 --> 00:19:05,467
+We can cultivate kidney cells out of the urine of children.
+
+241
+00:19:05,567 --> 00:19:09,133
+Kidney tumor cells, right out of a tube of urine.
+
+242
+00:19:09,167 --> 00:19:11,533
+Out of a bit of saliva we can cultivate lung cells.
+
+243
+00:19:11,567 --> 00:19:19,367
+I'm trying follow, it's going quite fast. So in the intestines you found something that could live outside of the body, and even continues to grow.
+
+244
+00:19:20,100 --> 00:19:25,567
+It makes miniature intestines, we thought, if we succeeded we would make a lump of stem cells.
+
+245
+00:19:27,867 --> 00:19:32,567
+But it turns out they form a miniature version of the intestines.
+
+246
+00:19:32,900 --> 00:19:39,300
+It is shaped like a ball with protrusions, you can shape it like a tube.
+
+247
+00:19:39,533 --> 00:19:43,867
+So we can make two centimeters of intestine out of one cell.
+
+248
+00:19:44,133 --> 00:19:46,767
+And all of it is under a microscope, we can film it.
+
+249
+00:19:47,500 --> 00:19:48,733
+I would like to see that!
+
+250
+00:19:50,000 --> 00:19:51,467
+You can really just do that?
+
+251
+00:19:52,000 --> 00:19:53,433
+Well... not me, but...
+
+252
+00:19:54,867 --> 00:19:58,633
+You said it can be filmed, so when we're at the lab...
+
+253
+00:19:58,667 --> 00:20:02,667
+You can see those miniature organs with your bare eyes,
+
+254
+00:20:02,700 --> 00:20:06,700
+but they don't have a blood supply, so their growth is limited,
+
+255
+00:20:06,900 --> 00:20:10,567
+they need to have oxygen and nutrients, and waste needs to be filtered out.
+
+256
+00:20:12,667 --> 00:20:15,767
+These things are called organoids,
+
+257
+00:20:16,233 --> 00:20:25,033
+the past couple of years a whole new field developed, I think we were one of the two founders, SASAI, whom I previously mentioned was the other.
+
+258
+00:20:25,300 --> 00:20:29,533
+So now we are trying to make the organoid more complete,
+
+259
+00:20:30,133 --> 00:20:38,933
+with blood vessels, white blood cells, gut flora for the intestines, to see if it will function the same.
+
+260
+00:20:39,300 --> 00:20:41,633
+It is a whole new technology.
+
+261
+00:20:42,000 --> 00:20:46,467
+It's the cell by cell construction of organs and maybe even more?
+
+262
+00:20:46,900 --> 00:20:51,800
+The main idea is, this is long term research, but we think it will be possible,
+
+263
+00:20:51,900 --> 00:20:55,733
+that we won't need organ transplantations anymore,
+
+264
+00:20:55,867 --> 00:21:01,933
+you can take tissue from a living donor, cultivate it to be much more,
+
+265
+00:21:02,133 --> 00:21:04,967
+then freeze it, you can freeze cells and keep them for years.
+
+266
+00:21:05,133 --> 00:21:10,333
+And when someone needs a new liver, and the liver's infrastructure is present,
+
+267
+00:21:10,367 --> 00:21:15,867
+but the cells are ill, in theory, and in animal testing,
+
+268
+00:21:15,967 --> 00:21:21,667
+you can place a couple of stem cells from a living voluntary donor, which you can keep in the freezer,
+
+269
+00:21:21,767 --> 00:21:25,167
+and a stemcell will repair the liver.
+
+270
+00:21:25,367 --> 00:21:33,000
+It would take a while, but you could use stem cells to make someone repair his own damaged liver.
+
+271
+00:21:33,500 --> 00:21:34,533
+So that would be possible?
+
+272
+00:21:34,600 --> 00:21:36,200
+We can already do it in mice.
+
+273
+00:21:37,733 --> 00:21:43,333
+To be allowed to test it in humans is very complicated and the logistics... it would not be cheap.
+
+274
+00:21:43,900 --> 00:21:50,267
+But the proof of principle exists, we've supplied it, as have others.
+
+275
+00:21:50,400 --> 00:21:50,533
+So is it's just a matter of time?
+
+276
+00:21:50,933 --> 00:21:54,033
+Yes, and a large number of funds.
+
+277
+00:21:56,033 --> 00:22:05,467
+To translate such an insight into a therapy, you'll need corporations, it's not possible in an academic setting.
+
+278
+00:22:05,633 --> 00:22:08,367
+Yes, but it is possible, you've proved it...
+
+279
+00:22:09,133 --> 00:22:12,867
+The most important thing we've proved is that
+
+280
+00:22:13,100 --> 00:22:17,700
+the way people thought stem cells looked,
+
+281
+00:22:17,800 --> 00:22:20,667
+that they were undetectable, is all wrong.
+
+282
+00:22:20,933 --> 00:22:24,633
+They are easily detectable, if you search well and know what to look for.
+
+283
+00:22:24,833 --> 00:22:33,000
+We've clarified many things, but with our mice, the luminated ones, other laboratories have found other stem cells.
+
+284
+00:22:33,300 --> 00:22:36,900
+In the inner ear for example, if you lose those you become deaf.
+
+285
+00:22:37,367 --> 00:22:43,567
+Tasting buds on the tongue, a lab in the United States... all the same type of stem cells.
+
+286
+00:22:43,867 --> 00:22:49,333
+So that was the first, find the stem cells, if you know what they look like, you can learn to manipulate them.
+
+287
+00:22:49,500 --> 00:22:55,400
+The second thing is we countered the belief that it would be impossible to multiply them outside of the body.
+
+288
+00:22:55,600 --> 00:23:01,500
+The third thing is, they actually make a miniature version of the organ, we were surprised about this as well.
+
+289
+00:23:01,667 --> 00:23:05,300
+It is very interesting to see how they do this, we can see that they do it,
+
+290
+00:23:05,467 --> 00:23:09,533
+and we pretend we discovered it all.
+
+291
+00:23:08,567 --> 00:23:13,633
+We just give them a nudge in the right direction and they start to make the organ, but we have no idea how.
+
+292
+00:23:13,933 --> 00:23:17,833
+What happed to you when you saw that?
+
+293
+00:23:18,200 --> 00:23:19,533
+Well the first time...
+
+294
+00:23:20,833 --> 00:23:23,100
+People often talk of their eureka moment, it's the same,
+
+295
+00:23:23,300 --> 00:23:25,400
+the belief that something is correct grows,
+
+296
+00:23:25,533 --> 00:23:28,133
+Toshiro, the Japanese colleague,
+
+297
+00:23:28,500 --> 00:23:31,300
+when he came in he had ruined a piece of equipment.
+
+298
+00:23:31,467 --> 00:23:34,933
+His colleagues were temporarily not very fond of him, he became a bit isolated.
+
+299
+00:23:35,133 --> 00:23:36,167
+I hadn't talked to him much.
+
+300
+00:23:36,300 --> 00:23:41,100
+One day I walked into the lab, and asked him if the cells were growing, and he replied "Yes!"
+
+301
+00:23:41,300 --> 00:23:44,933
+And I asked him for how long they'd been growing, and he told me for about three months!
+
+302
+00:23:45,233 --> 00:23:48,900
+I asked him why he didn't tell me, he replied "You didn't ask."
+
+303
+00:23:49,200 --> 00:23:57,567
+I  looked throught the microscope, I could see the cells were healthy, it was just beautiful!
+
+304
+00:23:57,633 --> 00:23:59,433
+I still have the images...
+
+305
+00:23:59,633 --> 00:24:00,433
+How big were they?
+
+306
+00:24:01,133 --> 00:24:05,267
+Large under the microscope, but about two, three milimiters in real life.
+
+307
+00:24:05,367 --> 00:24:09,800
+But if you've studied cells before, you can just see it, they were  very healthy.
+
+308
+00:24:09,900 --> 00:24:14,967
+The cells had been growing for three months, while they should have been dead after a day.
+
+309
+00:24:15,467 --> 00:24:16,400
+Could you believe it?
+
+310
+00:24:16,733 --> 00:24:19,300
+Yes, immediatly. That wasn't a problem.
+
+311
+00:24:19,800 --> 00:24:21,933
+What did you do?
+
+312
+00:24:22,733 --> 00:24:24,867
+I told the others in the laboratory of course.
+
+313
+00:24:25,333 --> 00:24:28,367
+TOSHI deserved to have a different position in the lab.
+
+314
+00:24:29,167 --> 00:24:34,000
+And we tried to show as many people as possible.
+
+315
+00:24:34,400 --> 00:24:49,033
+In a scientific career... Then it's locked down, you have the evidence. You must celebrate this, I assume?
+
+316
+00:24:49,300 --> 00:24:51,800
+Yes, but you know it's not finished yet.
+
+317
+00:24:51,900 --> 00:24:54,167
+You need to build the story.
+
+318
+00:24:54,300 --> 00:25:01,233
+You need to convince other colleagues, that was the hardest.
+
+319
+00:25:01,800 --> 00:25:07,400
+We tried to publish our paper, and encountered many difficulties.
+
+320
+00:25:08,267 --> 00:25:09,767
+The first was people thought they already knew how it was done,
+
+321
+00:25:09,967 --> 00:25:12,100
+that is wasn't possible,
+
+322
+00:25:12,933 --> 00:25:16,133
+so it wasn't exactly new, and it wasn't deemed possible.
+
+323
+00:25:16,333 --> 00:25:20,867
+It took one an a half years to get the paper published.
+
+324
+00:25:21,067 --> 00:25:27,867
+Then people read the paper and think, yeah, they might have done it, but still have their doubts.
+
+325
+00:25:28,300 --> 00:25:32,067
+It takes a couple more years before others try to do it themselves, it's not simple,
+
+326
+00:25:32,300 --> 00:25:34,267
+you need to have a numbre of things in order.
+
+327
+00:25:34,967 --> 00:25:40,733
+For the past three or four years people are starting te realize it is in fact quite easy,
+
+328
+00:25:40,933 --> 00:25:44,533
+you need some experience, but you can do it with any organ.
+
+329
+00:25:46,133 --> 00:25:58,733
+It is possible with any organ, you did it with the intestines, those cells were easy to find. But you can do it with any of your body's organs?
+
+Everyting we've tried so far grows.
+
+330
+00:25:59,300 --> 00:26:01,633
+Outside of the body? -Outside of the body.
+
+331
+00:26:01,900 --> 00:26:07,133
+We usually first try it with mice, then with humans.
+
+332
+00:26:07,400 --> 00:26:11,600
+Humans are a bit more complicated, it grows a little slower compaired to the tissue of mice.
+
+333
+00:26:11,933 --> 00:26:15,632
+But so far we've succeeded with every organ we tried.
+
+334
+00:26:15,633 --> 00:26:18,767
+The criterium is they need to be able to grow for at least a year.
+
+335
+00:26:19,033 --> 00:26:21,667
+And at the end of the year they need to be normal.
+
+336
+00:26:22,167 --> 00:26:28,467
+You can read the DNA material, the fear is there will be a mutation, a cancer.
+
+337
+00:26:28,733 --> 00:26:30,967
+You can regognize those, but we never find them.
+
+338
+00:26:31,267 --> 00:26:35,800
+The cells really stay healthy, it's like you literally took them out of a body.
+
+339
+00:26:36,567 --> 00:26:45,400
+So in you lab, you have department with living tissue...
+
+340
+00:26:45,567 --> 00:26:46,967
+Human living tissue, yes.
+
+341
+00:26:48,700 --> 00:26:53,000
+And is that personal or not?
+
+342
+00:26:53,100 --> 00:26:55,100
+To us, no. They are just cells.
+
+343
+00:26:56,367 --> 00:26:57,500
+But it has a lot to do with ethics of course.
+
+344
+00:26:57,700 --> 00:27:02,233
+we get all the human tissue from hospitals.
+
+345
+00:27:02,467 --> 00:27:08,467
+We deal with many regulations, informed consent, medical ethical committees are involved.
+
+346
+00:27:08,567 --> 00:27:14,933
+We are constucting large bio banks, we can do it with healthy tissue, but also with many forms of unhealthy tissue.
+
+347
+00:27:15,367 --> 00:27:19,833
+Interessting to research, interesting for the development of medication.
+
+348
+00:27:20,167 --> 00:27:29,700
+But what we are expanding on at the moment is using someone's sick cells to find the best personal medicine.
+
+349
+00:27:30,033 --> 00:27:36,700
+We're doing this for cystic fibrosis, there are a couple of drugs, that are very expensive, and it is unclear who will respond well to it.
+
+350
+00:27:36,900 --> 00:27:40,033
+All the patients want it, there is nothing else.
+
+351
+00:27:40,367 --> 00:27:51,000
+We now have a test that can see it this drug, that costs half a million a year, for eighty years, if it works their life expectancy is normal.
+
+352
+00:27:51,267 --> 00:27:56,900
+In our lab we can see, within a week, which drug will or will not work for you.
+
+353
+00:27:57,000 --> 00:28:07,200
+We're doing this, a great number of patients can't try these drugs, their insurance will not pay for it.
+
+354
+00:28:07,733 --> 00:28:12,467
+But when can prove it will work for the patient, then the insurance will cover it.
+
+355
+00:28:12,967 --> 00:28:20,900
+Now there are a few children walking around with the results of our organoid tests.
+
+356
+00:28:21,967 --> 00:28:25,967
+That is a wonderful application.
+
+357
+00:28:26,267 --> 00:28:30,733
+And it is easier than giving the stem cells to the patient.
+
+358
+00:28:30,867 --> 00:28:37,167
+we've shown we can take stem cells from a cystic fibrosis patients, hereditary disease, DNA error.
+
+359
+00:28:37,300 --> 00:28:40,633
+We can repair it using the CRISPR-Cas9 technique.
+
+360
+00:28:44,067 --> 00:28:49,467
+You can repair it from behind you computer, we already did this three years ago.
+
+361
+00:28:49,700 --> 00:28:54,233
+We cultivated stem cells for two patients, found repaired the error.
+
+362
+00:28:54,367 --> 00:28:59,400
+Then checked the whole DNA sequence.
+
+363
+00:28:59,767 --> 00:29:01,100
+We now have those cells.
+
+364
+00:29:01,233 --> 00:29:06,133
+If we would return the cells to the patients, the illness would be cured.
+
+365
+00:29:06,933 --> 00:29:09,467
+We still have a long way to go, doing this is not allowed yet.
+
+366
+00:29:09,600 --> 00:29:11,267
+But is is promising for the future.
+
+367
+00:29:11,300 --> 00:29:12,433
+If it would be allowed, this is what would happen?
+
+368
+00:29:12,700 --> 00:29:17,267
+It depends, not every organ is easily transplanted using stem cells.
+
+369
+00:29:17,633 --> 00:29:18,733
+The liver would be easy,
+
+370
+00:29:18,933 --> 00:29:20,567
+the lungs would be more difficult.
+
+371
+00:29:20,933 --> 00:29:27,833
+However we think this is the best way to attack hereditary disseases.
+
+372
+00:29:28,300 --> 00:29:30,333
+Repairing stem cells outside of the body.
+
+373
+00:29:31,167 --> 00:29:47,400
+I'm still stuck in you lab, where you've collected cells and issue that won't die. It's facinating, isn't it?
+
+374
+00:29:47,833 --> 00:29:58,567
+Well, we already knew, stem cells can keep our tissue intact for a long period of time.
+
+375
+00:29:58,800 --> 00:30:04,867
+What we've shown is you can take stem cells and multiply them outside of the body.
+
+376
+00:30:05,033 --> 00:30:11,300
+And in theory you could endlessly renew organs.
+
+377
+00:30:11,433 --> 00:30:16,967
+Like replacing parts on a car.
+
+378
+00:30:17,233 --> 00:30:21,867
+Over time we'll be able to do it for every organ,
+
+379
+00:30:21,967 --> 00:30:27,733
+In the end the question is, what will stand inbetween us and eternal life.
+
+380
+00:30:28,067 --> 00:30:30,900
+For me, that's our brain.
+
+381
+00:30:31,133 --> 00:30:36,800
+Where all your emotions and memories are stored.
+
+382
+00:30:37,033 --> 00:30:38,767
+You can't replace that with stem cells.
+
+383
+00:30:40,100 --> 00:30:41,600
+But you don't know yet?
+
+384
+00:30:42,333 --> 00:30:44,000
+There are science fiction writers...
+
+385
+00:30:45,167 --> 00:30:48,100
+There isn't that much information stored in your brain.
+
+386
+00:30:48,233 --> 00:30:53,600
+I think a large USB memory stick or hard drive could store it.
+
+387
+00:30:53,767 --> 00:30:57,900
+When we know how our brain works,
+
+388
+00:30:58,133 --> 00:31:03,033
+you could download everything, get a new brain and upload it again.
+
+389
+00:31:03,767 --> 00:31:08,900
+Sciencefiction...I think it would be very complicated ethically.
+
+390
+00:31:09,700 --> 00:31:17,100
+I understand, but if everything if made up of stem cells...
+
+391
+00:31:17,267 --> 00:31:18,967
+And is replacable...
+
+392
+00:31:19,933 --> 00:31:26,833
+What is interesting, we used to be taught you're born with a fixed amount of brain cells,
+
+393
+00:31:27,133 --> 00:31:28,900
+which are made in your first year.
+
+394
+00:31:32,167 --> 00:31:36,800
+But now some parts of the brain, like the hippocampus, have stem cells.
+
+395
+00:31:37,933 --> 00:31:44,600
+The memory department, keeps making new cells, keeps storing new memories.
+
+396
+00:31:45,067 --> 00:31:53,467
+No one knows what the relationship is, but it's the primary location of human brain stem cells.
+
+397
+00:31:54,200 --> 00:31:57,500
+Large parts of the brain probably don't have stem cells.
+
+398
+00:31:58,067 --> 00:32:01,367
+So what you have is what you've got.
+
+399
+00:32:01,700 --> 00:32:05,600
+So in the worst case, you're really stupid?
+
+400
+00:32:08,800 --> 00:32:10,700
+If you don't have a brain? You must be.
+
+401
+00:32:11,033 --> 00:32:12,900
+You wouldn't be able to do much...
+
+402
+00:32:13,033 --> 00:32:16,067
+The brain is quite important for controlling the body.
+
+403
+00:32:17,600 --> 00:32:26,133
+I've asked this before, but we didn't get to it. It sounds like you are occupied with the code of life.
+
+404
+00:32:27,733 --> 00:32:34,667
+Yes, yes. In my opinion the border of the individual being becomes a bit vague.
+
+405
+00:32:36,133 --> 00:32:41,067
+It generates many ethical questions.
+
+406
+00:32:40,333 --> 00:32:46,833
+If you think about species, my DNA code is mine, but it's not very different from yours,
+
+407
+00:32:47,267 --> 00:32:49,700
+and even less different from my parents'.
+
+408
+00:32:50,233 --> 00:32:53,600
+The DNA code is what makes our species.
+
+409
+00:32:54,033 --> 00:32:58,067
+Passed down from generation to generation. It hasn't been changed much for over three thousand years.
+
+410
+00:32:59,467 --> 00:33:04,233
+My body is just the carrier, the DNA gets passed on.
+
+411
+00:33:04,500 --> 00:33:09,600
+With our technology it's not just the code which is abstract, but parts of my body...
+
+412
+00:33:10,467 --> 00:33:16,833
+I just told you about that mouse. It died three years ago, but it's stem cells keep growing.
+
+413
+00:33:17,267 --> 00:33:24,533
+So the end of the life of most organ, turns out not to be so definite.
+
+414
+00:33:26,167 --> 00:33:27,833
+What does that mean?
+
+415
+00:33:29,533 --> 00:33:34,767
+Medically, it means you can keep people healthy for a longer time.
+
+416
+00:33:35,067 --> 00:33:44,867
+If you contemplate what you really are, I arrive at the things that are in my head.
+
+417
+00:33:45,033 --> 00:33:50,433
+Not much else about me is unique. My DNA code.
+
+418
+00:33:51,933 --> 00:33:58,867
+But in my body everything can be replaced. Like we now know how to do.
+
+419
+00:34:06,000 --> 00:34:08,933
+I think that's exeptional.
+
+420
+00:34:10,667 --> 00:34:16,900
+In biology, my life is just information.
+
+421
+00:34:17,133 --> 00:34:21,567
+The information stored in my brain,
+
+422
+00:34:22,133 --> 00:34:26,967
+and the information in my DNA. Given to me through evolution.
+
+423
+00:34:27,367 --> 00:34:30,567
+But my matter is completely replacable.
+
+424
+00:34:31,333 --> 00:34:33,767
+So you're a piece of information.
+
+425
+00:34:36,833 --> 00:34:38,267
+Do you understand?
+
+426
+00:34:38,300 --> 00:34:49,133
+Yes, I do. We're a code that can be programmed.
+
+427
+00:34:49,633 --> 00:34:53,533
+Yes.
+
+... individuality.
+
+428
+00:34:54,200 --> 00:34:56,400
+The code can be programmed. We've known this for a long time.
+
+429
+00:34:56,567 --> 00:34:59,767
+There is great amount of resistance, ethical obstacles.
+
+430
+00:35:00,033 --> 00:35:01,567
+But we've know for a long time.
+
+431
+00:35:01,667 --> 00:35:03,800
+We only know a small part of the code,
+
+432
+00:35:03,900 --> 00:35:08,967
+but in biology, discovering something can be hard,
+
+433
+00:35:09,833 --> 00:35:12,033
+but it is always easy to understand.
+
+434
+00:35:12,167 --> 00:35:17,633
+If you understand the principle, you can apply it. You can do it in the lab.
+
+435
+00:35:17,733 --> 00:35:24,400
+I'm convinced that we can understand and copy everything nature does.
+
+436
+00:35:24,700 --> 00:35:29,133
+We can even change it, but in the distant future.
+
+437
+00:35:29,300 --> 00:35:31,733
+But it won't become more abstract or complicated.
+
+438
+00:35:31,967 --> 00:35:39,900
+We learn more and more, but we always still comprehend it.
+
+439
+00:35:40,333 --> 00:35:43,733
+I feel that is different in physics and mathematics.
+
+440
+00:35:43,933 --> 00:35:48,167
+The further you go, the less comprehendable it becomes.
+
+441
+00:35:48,467 --> 00:35:50,667
+In biology, you can always explain things.
+
+442
+00:35:51,600 --> 00:35:57,300
+You explain it very well. It's really facinating,
+
+443
+00:35:57,467 --> 00:36:12,700
+your body is your vehicle, broken parts can be replaced. Like car parts.
+
+444
+00:36:18,133 --> 00:36:21,467
+It sounds like science fiction. But is isn't.
+
+445
+00:36:21,800 --> 00:36:27,267
+We regularly do organ transplantations, but not often enough.
+
+446
+00:36:27,600 --> 00:36:32,267
+We've been doing blood transfusions for eighty years or so.
+
+447
+00:36:32,567 --> 00:36:37,167
+This is more complex, but it is not different.
+
+448
+00:36:37,767 --> 00:36:49,267
+I am diabetic. My pancreas has sort of stopped working. Can that be solved?
+
+449
+00:36:50,000 --> 00:36:55,333
+You're probably a type 1 diabetic, so you don't have any beta cells.
+
+450
+00:36:56,633 --> 00:37:03,067
+There a huge field of research  on making new beta cells. Cells that make insulin.
+
+451
+00:37:03,367 --> 00:37:11,233
+For some reason it works up to the last step, but then something is missing.
+
+452
+00:37:14,567 --> 00:37:17,267
+You could do it with your cells.
+
+453
+00:37:17,400 --> 00:37:24,533
+We could do it in my lab, with cells from your pancreas. Also, we could use a trick, using your skin cells, turning them into pancreas cells.
+
+454
+00:37:26,433 --> 00:37:29,300
+You can instruct them to produce hormones.
+
+455
+00:37:29,467 --> 00:37:37,533
+But what we can't do yet, is the final step. We can't place them back.
+
+456
+00:37:39,300 --> 00:37:45,433
+When you start making beta cells, they'll be destroyed.
+
+457
+00:37:45,633 --> 00:37:49,233
+For some reason you immune system thinks of the beta cell as it's enemy.
+
+458
+00:37:49,633 --> 00:37:55,067
+So that is a second obstacle, protecting the cells from your immune system.
+
+459
+00:37:55,367 --> 00:37:58,467
+You need to keep the immune system away from the cell,
+
+460
+00:37:58,533 --> 00:38:02,667
+or change the cell so it won't be seen as an enemy.
+
+461
+00:38:04,700 --> 00:38:07,233
+I don't know how to do it, but you say eventually it will be possible.
+
+462
+00:38:07,467 --> 00:38:14,000
+Not at the moment. But when I see how easy it is to make other tissue It'll just be a matter of time.
+
+463
+00:38:14,700 --> 00:38:16,733
+A lot of time?
+
+464
+00:38:18,867 --> 00:38:21,233
+Predicting science is always hard.
+
+465
+00:38:21,333 --> 00:38:29,733
+I think it really just takes one more discovery. It could be tomorrow.
+
+466
+00:38:30,000 --> 00:38:35,767
+But maybe they're not thinking of the right thing, of the right thing isn't available yet.
+
+467
+00:38:36,033 --> 00:38:37,667
+It might take ten years.
+
+468
+00:38:38,000 --> 00:38:39,333
+What do you dream of?
+
+469
+00:38:39,900 --> 00:38:42,500
+Regarding my own work...
+
+470
+00:38:43,067 --> 00:38:44,100
+Doesn't matter, about anything...
+
+471
+00:38:45,800 --> 00:38:52,500
+I hope to continue doing this for a long time, that's my biggest dream.
+
+472
+00:38:52,900 --> 00:38:55,167
+That I can experience from up close,
+
+473
+00:38:55,200 --> 00:39:01,667
+how biological science is exploding into a wealth of knowledge,
+
+474
+00:39:01,800 --> 00:39:03,567
+we wouldn't have dreamed of thirty years ago.
+
+475
+00:39:03,900 --> 00:39:06,533
+And that I can contribute.
+
+476
+00:39:06,900 --> 00:39:11,267
+I don't feel like I have to solve a big problem all by myself,
+
+477
+00:39:11,467 --> 00:39:15,767
+I'm part of an international community, with my lab.
+
+478
+00:39:16,267 --> 00:39:20,333
+To be able to help to take some of these steps, that's the dream.
+
+479
+00:39:20,933 --> 00:39:22,567
+That's what you're already doing!
+
+480
+00:39:22,967 --> 00:39:25,367
+Yes, maybe.
+
+481
+00:39:25,400 --> 00:39:26,700
+So then it's not really a dream anymore.
+
+482
+00:39:27,133 --> 00:39:32,767
+Well I must admit, thirty years ago, when I just started, while I was studying,
+
+483
+00:39:32,933 --> 00:39:35,933
+I was always going somewhere.
+
+484
+00:39:36,333 --> 00:39:43,267
+A family, a home, children. The kids need to go to school...
+
+485
+00:39:43,767 --> 00:39:46,600
+In my work I haven't had that feeling, for the past fifteen years.
+
+486
+00:39:46,900 --> 00:39:57,467
+I want to keep things the way they are. In my lab things have become easier, more succesful.
+
+487
+00:39:57,900 --> 00:40:05,433
+Isn't there something, something you know is possible, something you want to achieve?
+
+488
+00:40:05,933 --> 00:40:08,700
+Maybe I need to tell you how we work.
+
+489
+00:40:08,833 --> 00:40:20,667
+Many people thing scientist pose a question, then formulate an answer, a hypothesis.
+
+490
+00:40:21,733 --> 00:40:30,167
+And see if it's correct. But in our field, that doesn't work at all.
+
+491
+00:40:30,433 --> 00:40:32,733
+In reality we are like historians.
+
+492
+00:40:32,967 --> 00:40:35,967
+We try to find out how evolution overcame obstacles.
+
+493
+00:40:36,333 --> 00:40:44,800
+If a fish is swiming in water, and want to come to land. You can come up with many solutions.
+
+494
+00:40:45,967 --> 00:40:47,833
+The fish needs feet and lungs.
+
+495
+00:40:47,900 --> 00:40:51,200
+But I could've come up with completely different things.
+
+496
+00:40:51,367 --> 00:40:55,133
+I can't just imagine the way it happened, like Einstein.
+
+497
+00:40:55,300 --> 00:40:58,067
+I need to look at what evolution did.
+
+498
+00:40:58,233 --> 00:41:08,800
+It is a search for the solutions evolution came up with, by coincidence.
+
+499
+00:41:09,000 --> 00:41:11,867
+They might not be the best solutions, but they work.
+
+500
+00:41:12,133 --> 00:41:17,733
+Then it's embedded in DNA and every living being carries the solution.
+
+501
+00:41:17,867 --> 00:41:21,300
+It's completely random.
+
+502
+00:41:22,400 --> 00:41:27,100
+You ask a question, you don't know it it's the right one.
+
+503
+00:41:27,567 --> 00:41:31,567
+If you can even answer it using the current technology.
+
+504
+00:41:31,833 --> 00:41:41,467
+I think it is arrogant to think you can just figure out, what happened thirty five million years ago, somewhere on this planet.
+
+505
+00:41:41,900 --> 00:41:45,700
+Something that changed us from the way we were thirty five million years ago.
+
+506
+00:41:46,000 --> 00:41:53,367
+What works much better, is studying a system, like the intestine,
+
+507
+00:41:53,533 --> 00:41:57,200
+poking it left and right,
+
+508
+00:41:57,300 --> 00:42:00,800
+you must precisely measure and observe,
+
+509
+00:42:00,933 --> 00:42:07,900
+keep an open mind, just collect observations,
+
+510
+00:42:08,967 --> 00:42:11,533
+at a certain moment you'll see a pattern, this is dangerous,
+
+511
+00:42:11,633 --> 00:42:14,400
+those patterns usually don't exist, like in aboriginal art,
+
+512
+00:42:14,733 --> 00:42:17,767
+those patterns don't exist, you make them up.
+
+513
+00:42:17,967 --> 00:42:22,500
+cause and effect, typically associated, we automatically turn it into a story.
+
+514
+00:42:23,000 --> 00:42:25,400
+This caused that...
+
+515
+00:42:25,633 --> 00:42:29,600
+When you start thinking like that, you need to prove it.
+
+516
+00:42:30,067 --> 00:42:33,367
+I go wrong there all the time, people in my lab as well.
+
+517
+00:42:33,567 --> 00:42:39,100
+Keep observing until you discover a natural law.
+
+518
+00:42:40,567 --> 00:42:46,100
+Then you test it, but many people don't do this.
+
+519
+00:42:46,400 --> 00:42:56,200
+It's very hard to design a test that challenges your own hypothesis.
+
+520
+00:42:56,500 --> 00:42:58,633
+That's another problem.
+
+521
+00:42:58,833 --> 00:43:05,533
+If you're wrong, this is usually the case, you let the idea go and start to observe again.
+
+522
+00:43:05,967 --> 00:43:10,600
+Then people tend to make the idea more and more complex,
+
+523
+00:43:10,800 --> 00:43:13,600
+until it doesn't explain anything anymore.
+
+524
+00:43:13,767 --> 00:43:16,467
+This way many people reach a dead end.
+
+525
+00:43:16,633 --> 00:43:20,500
+For myself and in my lab I try to keep an open mind.
+
+526
+00:43:20,000 --> 00:43:31,433
+Attach importance to something that is at odds with what you observe.
+
+527
+00:43:31,767 --> 00:43:35,767
+You're inclined to see confirmation, and ignore contradictions.
+
+528
+00:43:36,200 --> 00:43:42,533
+That is very difficult for the human mind, to let things go.
+
+529
+00:43:43,033 --> 00:43:45,000
+We don't know how it works and take a step back.
+
+530
+00:43:45,533 --> 00:43:52,300
+Isn't that also evolution? Confirmation after confirmation...
+
+531
+00:43:53,933 --> 00:43:59,467
+Yes, well... INAUDIBLE.
+
+532
+00:44:02,133 --> 00:44:13,167
+Returning to the way we work, we ask very superficial questions, like how does this work,
+
+533
+00:44:13,500 --> 00:44:20,733
+you talk about it, read about it and as long as you design a good system,
+
+534
+00:44:20,900 --> 00:44:26,567
+in our case often with mice that have new traits, so we can clearly see something and study it.
+
+535
+00:44:27,067 --> 00:44:31,933
+Then a moment comes and you know how something works.
+
+536
+00:44:32,067 --> 00:44:38,300
+At that point you switch from being intuitive, the first fase is completely intuitive and associative,
+
+537
+00:44:38,700 --> 00:44:46,767
+you feed off of things you remember.
+
+538
+00:44:48,033 --> 00:44:55,133
+Then you recognize a pattern, you want to see if it's correct, and you test it.
+
+539
+00:44:55,533 --> 00:44:59,967
+How do you call that quality, this ability to see connections?
+
+540
+00:45:01,933 --> 00:45:03,467
+I'm not sure how it's described.
+
+541
+00:45:03,633 --> 00:45:10,367
+I feel like a scientist needs to have productive intuition.
+
+542
+00:45:11,367 --> 00:45:12,633
+It isn't imagination.
+
+543
+00:45:13,000 --> 00:45:19,600
+No, it's intuitive and subconscious thinking and relating.
+
+544
+00:45:20,200 --> 00:45:27,333
+Then you need luck, you need the associations you come up with to be productive.
+
+545
+00:45:27,900 --> 00:45:38,467
+I think for an artist the process is the same, but what you creatively come up with doesn't have to fit into reality.
+
+546
+00:45:42,033 --> 00:45:44,300
+If you're not creative you can't do this.
+
+547
+00:45:44,633 --> 00:45:53,700
+You need to use unexpected angles, memories, conversations an observation.
+
+548
+00:45:55,033 --> 00:46:01,467
+We talk about this a lot, everyone has their own way,
+
+549
+00:46:01,600 --> 00:46:06,300
+but often ideas often come from your subconscious mind.
+
+550
+00:46:06,333 --> 00:46:08,800
+You need some sort of censorship...
+
+551
+00:46:08,833 --> 00:46:12,333
+When do you get these ideas, when you're sleeping...
+
+552
+00:46:12,733 --> 00:46:17,733
+It often happend to me while I was running, while working out. Now it often happens...
+
+553
+00:46:17,700 --> 00:46:18,467
+Can you tell me how that works?
+
+554
+00:46:19,500 --> 00:46:22,300
+If you run fast you're not really thinking anymore.
+
+555
+00:46:22,900 --> 00:46:30,167
+But most of the time, after working out, you just get an idea.
+
+556
+00:46:30,367 --> 00:46:35,600
+Then you think it must be wrong, seven years ago we saw this...
+
+557
+00:46:35,633 --> 00:46:40,367
+I can feel it isn't right somehow, but I don't know why.
+
+558
+00:46:40,800 --> 00:46:42,967
+In my lab there is always someone else who feels the same.
+
+559
+00:46:43,333 --> 00:46:51,000
+And when you discuss it you think, seven years ago, darn I always knew.
+
+560
+00:46:51,433 --> 00:46:54,533
+And then you abandon the idea and start over.
+
+561
+00:46:55,033 --> 00:47:03,533
+It is productive creativity, you let things from your subconscience surface,
+
+562
+00:47:04,133 --> 00:47:13,533
+it can't be too much or too little.
+
+563
+00:47:13,900 --> 00:47:15,600
+You need to find a balance.
+
+564
+00:47:15,733 --> 00:47:19,800
+And you need a switch, you need to know when it's enough.
+
+565
+00:47:21,300 --> 00:47:24,967
+You take what seems right and start testing the idea.
+
+566
+00:47:25,200 --> 00:47:32,133
+At that moment the lab changes, everyone starts planning what to do.
+
+567
+00:47:32,400 --> 00:47:36,467
+Then within a week you know whether or not is't correct.
+
+568
+00:47:36,867 --> 00:47:40,200
+You know when everything you predict, works.
+
+569
+00:47:40,700 --> 00:47:42,067
+At the first try.
+
+570
+00:47:42,833 --> 00:47:45,433
+In that moment, what do you feel?
+
+571
+00:47:45,467 --> 00:47:51,133
+The whole lab becomes stoked, it's a lot of fun.
+
+572
+00:47:51,400 --> 00:47:57,833
+The advantage of having dutch people in you team, is that you experience it as a group.
+
+573
+00:47:58,133 --> 00:48:04,267
+In the United States people kept it for themselves, it was your personal succes.
+
+574
+00:48:05,400 --> 00:48:18,500
+I think that's the strength of our lab, everybody teams up, we work though the whole process together.
+
+575
+00:48:18,733 --> 00:48:22,000
+That is something you can learn.
+
+576
+00:48:22,433 --> 00:48:26,233
+I'm an experienced scientist, especially experienced in that process.
+
+577
+00:48:26,533 --> 00:48:32,033
+Turning that switch when you have enough and getting it out.
+
+578
+00:48:40,333 --> 00:48:45,733
+Can you try, as a scientist, to make a prediction?
+
+579
+00:48:46,667 --> 00:48:51,333
+You usually don't do this, but for this program,
+
+580
+00:48:51,633 --> 00:49:11,533
+the mind of the universe, we're looking for prospects, what can we expect from science in the future?
+
+581
+00:49:14,667 --> 00:49:17,500
+I can try.
+
+582
+00:49:18,400 --> 00:49:29,767
+What I know for certain, I'm not sure how long it will take,
+
+583
+00:49:30,067 --> 00:49:34,667
+but we will know exactly how our body constructs itself, and how it sustains itself.
+
+584
+00:49:35,033 --> 00:49:46,300
+That means we'll be able to repair any unhealthy organ, pobably using your own cells.
+
+585
+00:49:46,867 --> 00:49:54,233
+We'll be able to use your cells, outside of you body, to determine what drug is best for you.
+
+586
+00:49:54,367 --> 00:49:57,200
+Maybe even design better drugs.
+
+587
+00:49:57,500 --> 00:50:05,133
+Eventually, this leads to great ethical challenges,
+
+588
+00:50:05,367 --> 00:50:10,833
+we'll probably be able to optimize every individual's genetic code.
+
+589
+00:50:11,667 --> 00:50:19,300
+You can delete hereditary diseases, which isn't a major ethical problem.
+
+590
+00:50:19,800 --> 00:50:30,033
+But you could also change people's appearance, we can already do this, but we don't want to.
+
+591
+00:50:30,467 --> 00:50:36,967
+I think in the near future, we'll understand many hereditary traits
+
+592
+00:50:37,333 --> 00:50:43,932
+and we'll be able to manipulate them.
+
+593
+00:50:43,933 --> 00:50:45,732
+I
+
+594
+00:50:45,733 --> 00:50:47,733
+t's possible, but will it really happen...
+
+595
+00:50:49,100 --> 00:50:50,767
+It's not up to us.
+
+596
+00:50:52,833 --> 00:51:19,233
+I would like you to tell me about the aboriginal art, about the other things you study.
+
+597
+00:51:19,267 --> 00:51:25,067
+What is the opposite of your research?
+
+598
+00:51:25,533 --> 00:51:28,067
+The opposite of my work has always been sports.
+
+599
+00:51:29,433 --> 00:51:37,033
+And I've always read a great deal, I'm not good at doing nothing.
+
+600
+00:51:38,367 --> 00:51:43,600
+But recently I've become interested in the art of painting,
+
+601
+00:51:43,700 --> 00:51:48,533
+especially in Australian aboriginal art.
+
+602
+00:51:49,267 --> 00:51:59,667
+The history behind it this art came into existence like an explosion.
+
+603
+00:52:00,267 --> 00:52:08,300
+The aboriginals who had been painting on tree bark for fourty thousand years, suddenly had modern painting tools,
+
+604
+00:52:08,700 --> 00:52:17,733
+and started a huge art movement within fifteen years.
+
+605
+00:52:17,933 --> 00:52:23,600
+They create symbolic painting, usually big and colourful.
+
+606
+00:52:24,900 --> 00:52:30,100
+Patterns, depicting their genesis,
+
+607
+00:52:30,533 --> 00:52:36,067
+or maps showing where water was or where ceremonies where held.
+
+608
+00:52:36,467 --> 00:52:46,000
+When I look at it, I don't see what the story is, it is too strange.
+
+609
+00:52:46,533 --> 00:52:47,967
+But I can see the patterns,
+
+610
+00:52:48,267 --> 00:52:56,233
+how the painting brings about all kinds of associations in my mind.
+
+611
+00:52:56,867 --> 00:53:01,300
+It works exactly the same when we look at a image through a microscope.
+
+612
+00:53:01,333 --> 00:53:03,733
+Or a set of numbers.
+
+613
+00:53:03,833 --> 00:53:12,167
+And all kinds of patterns surface in our mind, and we have to wonder if they are in fact real patterns.
+
+614
+00:53:12,700 --> 00:53:16,967
+Does it fit into the whole of the painting, or the tissue?
+
+615
+00:53:17,533 --> 00:53:27,467
+I use the same creative processes... It's nice that it doesn't have to lead to a discovery.
+
+616
+00:53:28,000 --> 00:53:31,533
+You don't need to score, you can just enjoy it.
+
+617
+00:53:31,833 --> 00:53:34,367
+But it's very similar.
+
+618
+00:53:35,567 --> 00:53:39,367
+You look for a genetic code in their culture.
+
+619
+00:53:40,200 --> 00:53:43,933
+Yes, a code.
+
+620
+00:53:45,067 --> 00:53:52,100
+The genetic code is the start of everything in biology, it sets everything in motion.
+
+621
+00:53:52,900 --> 00:53:54,933
+You also find that in the art.
+
+622
+00:53:55,167 --> 00:54:01,000
+There literally is a code, using ancient symbols.
+
+623
+00:54:01,167 --> 00:54:06,100
+Of which I am now trying to understand the meaning.
+
+624
+00:54:06,500 --> 00:54:11,900
+It is a funny resemblance. What was it like, when first saw such a painting?
+
+625
+00:54:12,133 --> 00:54:24,433
+I was familiar with similar art from New Mexico, Native American art.
+
+626
+00:54:24,833 --> 00:54:34,700
+About five years ago, when I saw a painting that is currently in Amsterdam.
+
+627
+00:54:36,100 --> 00:54:46,233
+I became interested and discovered it was like the counterpart of what I do during the day.
+
+628
+00:54:46,967 --> 00:54:58,067
+You immediatly feel engaged, it's different from other art.
+
+629
+00:55:00,033 --> 00:55:02,700
+What does that say about art and science?
+
+630
+00:55:04,200 --> 00:55:10,133
+Art and science are much more related than most people think.
+
+631
+00:55:10,467 --> 00:55:16,333
+You can hear it in the words we use: passion, talent, enthusiasm.
+
+632
+00:55:16,633 --> 00:55:27,533
+Artists and scientists are facinated with the human being, our surroundings, our planet.
+
+633
+00:55:27,867 --> 00:55:33,167
+They ask and answer questions. They investigate and describe the world.
+
+634
+00:55:33,300 --> 00:55:37,267
+ninety percent of that process is the same,
+
+635
+00:55:38,000 --> 00:55:48,133
+the big difference is, an artist creates something unique,in any shape or form
+
+636
+00:55:48,533 --> 00:55:58,267
+But we produce the correct description of what the planet had created through evolution.
+
+637
+00:55:58,433 --> 00:56:06,867
+Although we can be creative, we are restricted by the truth.
+
+638
+00:56:07,667 --> 00:56:09,500
+It's not about what could be possible.
+
+639
+00:56:09,867 --> 00:56:12,333
+I think that's the big difference between art and science.
+
+640
+00:56:13,333 --> 00:56:24,333
+If we succeed to replace anything in our body, once it stops working, we can live forever. Right? What is stopping us?
+
+641
+00:56:24,733 --> 00:56:28,967
+There is one part of our body that can't be replaced, our brain.
+
+642
+00:56:29,400 --> 00:56:36,900
+I think, who I am, is in my brain.
+
+643
+00:56:37,167 --> 00:56:40,100
+It holds my emotions, my memories, me.
+
+644
+00:56:40,300 --> 00:56:43,567
+The way I see it every other part of you body is replaceable.
+
+645
+00:56:43,600 --> 00:56:44,867
+Is that your spirit?
+
+646
+00:56:45,167 --> 00:56:53,333
+You could call it that. Not a religious spirit, but it's me.
+
+647
+00:56:53,700 --> 00:56:56,667
+That's up here. I am my brain,
+
+648
+00:56:56,767 --> 00:56:57,967
+I'm convinced of that.
+
+649
+00:56:58,033 --> 00:57:02,700
+If I replace my brain, the hardware,
+
+650
+00:57:03,267 --> 00:57:06,867
+everything that is stored up there would be gone.
+
+651
+00:57:07,200 --> 00:57:15,600
+I'm not my brain's matter, it's the information in my brain.
+
+652
+00:57:18,367 --> 00:57:24,300
+Stem cell scientists won't solve that problem.
+
+653
+00:57:24,567 --> 00:57:26,400
+It's like software?
+
+654
+00:57:26,667 --> 00:57:32,833
+Yes, data, stored in your brain.
+
+655
+00:57:33,900 --> 00:57:35,367
+An operating system?
+
+656
+00:57:38,667 --> 00:57:39,633
+It's more like a hard disc.
+
+657
+00:57:40,067 --> 00:57:46,300
+Everything you've seen, learnt and experienced is stored in your brain.
+
+658
+00:57:46,333 --> 00:57:47,733
+Together, that is who you are.
+
+659
+00:57:53,867 --> 00:58:04,567
+It works like a computer, your brain is the hardware that is fed with external data.
+
+660
+00:58:04,733 --> 00:58:07,567
+Images, experiences, emotions.
+
+661
+00:58:07,833 --> 00:58:13,467
+That isn't something tangible you can transplant.
+
+662
+00:58:13,633 --> 00:58:20,200
+I think it is fine, it's not my goal to become one hundred twenty years old.
+
+663
+00:58:20,400 --> 00:58:25,300
+I think humans are built to live eighty to ninety years.
+
+664
+00:58:25,700 --> 00:58:26,867
+Yes, but we can replace everything...
+
+665
+00:58:32,400 --> 00:58:35,433
+The most common age related disease is cancer,
+
+666
+00:58:35,500 --> 00:58:37,967
+we'll eventually conquer this.
+
+667
+00:58:40,500 --> 00:58:45,100
+The stem cells make a mistake when rewriting the code,
+
+668
+00:58:45,467 --> 00:58:48,033
+if the mistake is in an unfornunate place, it becomes a cancer cell.
+
+669
+00:58:48,933 --> 00:58:50,500
+That's a disease you need to get rid of.
+
+670
+00:58:51,633 --> 00:58:56,000
+The wear and tear on bones needs to be solved.
+
+671
+00:58:56,833 --> 00:58:57,066
+
+
+672
+00:58:57,067 --> 00:59:00,700
+In the end you can't replace the brain.
+
+673
+00:59:01,067 --> 00:59:10,967
+After puberty, your brain cells don't renew.
+
+674
+00:59:11,167 --> 00:59:16,333
+It doesn't work that way in a computer either.
+
+675
+00:59:16,800 --> 00:59:26,367
+If the brain is damaged, for example by a stroke, you can't just place stem cells and make it work again.
+
+676
+00:59:26,700 --> 00:59:28,800
+You can do it with any other organ, but not with the brain.
+
+677
+00:59:28,933 --> 00:59:35,900
+Becaus vital information is lost.
+
+678
+00:59:36,300 --> 00:59:39,033
+Does anything scare you?
+
+679
+00:59:40,300 --> 00:59:42,467
+No, not really.
+
+680
+00:59:45,733 --> 00:59:50,867
+When you're working on something do you ever get scared by the possibilities?
+
+681
+00:59:52,200 --> 00:59:55,467
+No, I don't think I've ever been scared.
+
+682
+00:59:56,167 --> 01:00:02,533
+But we're very aware, that when we take steps in our research,
+
+683
+01:00:03,267 --> 01:00:09,367
+it has implications we can't always foresee.
+
+684
+01:00:09,533 --> 01:00:14,000
+It has become an important step to us,
+
+685
+01:00:14,167 --> 01:00:21,567
+after overcomming a technological obstacle we ask ourselves, do we want this, what do we want to use it for.
+
+686
+01:00:22,833 --> 01:00:26,567
+That is not something a debate by myself, of with my colleagues.
+
+687
+01:00:26,867 --> 01:00:28,900
+The debate takes place in society.
+
+688
+01:00:29,133 --> 01:00:34,933
+But I'm never afraid of things we discover, because we are a product of nature.
+
+689
+01:00:35,433 --> 01:00:38,267
+When we discover something, it is natural.
+
+690
+01:00:38,833 --> 01:00:40,633
+It's not something to be afraid of.
+
+691
+01:00:41,000 --> 01:00:43,500
+Well, nature can be frightening.
+
+692
+01:00:43,533 --> 01:00:48,900
+That's true. But we can't be more frightening than nature.
+
+693
+01:00:51,933 --> 01:01:05,033
+If I assume everything you have discovered is true, aren't there other parties interested in that knowledge?
+
+694
+01:01:06,100 --> 01:01:17,867
+The knowledge is so precious, yet so explosive.
+
+695
+01:01:18,800 --> 01:01:23,967
+Does that bother you? Is the knowledge protected, is it safe?
+
+696
+01:01:25,167 --> 01:01:27,933
+Do you mean in the wrong hands...
+
+697
+01:01:29,767 --> 01:01:32,833
+I can think of Dr. Frankensteins that would be interested...
+
+698
+01:01:34,267 --> 01:01:40,100
+It is possible, with the work of some of my colleagues.
+
+699
+01:01:41,367 --> 01:01:49,367
+As we speak there are experiments mixing human stem cells with an animal's embryo, with a mouse or a pig
+
+700
+01:01:49,967 --> 01:01:54,233
+You get an individual that is part human and part mouse.
+
+701
+01:01:55,367 --> 01:02:00,467
+It is allowed on mice in England. Up to about two third of the mouse's pregnancy,
+
+702
+01:02:00,967 --> 01:02:02,833
+then it has to be terminated.
+
+703
+01:02:03,167 --> 01:02:10,267
+But that little mouse, after fourteen days, is part mouse and part human.
+
+704
+01:02:10,833 --> 01:02:14,333
+I don't do those kinds of experiments, I wouldn't want to.
+
+705
+01:02:14,700 --> 01:02:16,500
+But in England they are allowed.
+
+706
+01:02:17,100 --> 01:02:22,600
+In that direction, you can imagine quite scary things.
+
+707
+01:02:23,833 --> 01:02:28,600
+At the moment, something governments are backing,
+
+708
+01:02:28,633 --> 01:02:33,367
+if you have diabetes and you want a new pancreas
+
+709
+01:02:33,367 --> 01:02:43,167
+there are experiments farming pigs, pigs don't have a pancreas,
+
+710
+01:02:43,333 --> 01:02:47,767
+but are given human stem cells right after fertilization.
+
+711
+01:02:48,367 --> 01:02:55,833
+That way you get a pig with a human pancreas, and some other random human cells.
+
+712
+01:02:57,967 --> 01:03:04,733
+In Japan and Spain they are working on farms with pigs,
+
+713
+01:03:04,900 --> 01:03:10,067
+that can give people with diabetes a new pancreas.
+
+714
+01:03:10,567 --> 01:03:16,133
+The farming of organs, it's happening right now.
+
+715
+01:03:16,833 --> 01:03:19,367
+What do you find inspiring?
+
+716
+01:03:20,967 --> 01:03:41,433
+Looking at when I come up with an idea, it's either after an intense workout, or at conventions.
+
+717
+01:03:41,900 --> 01:03:46,667
+I travel al lot, when it's not my turn to speak at a convention, I sit at the back of the room,
+
+718
+01:03:47,033 --> 01:04:03,633
+many things happen around you, and out of nowhere an idea pops up.
+
+719
+01:04:03,800 --> 01:04:24,000
+Or while I'm on an airplane, not really focussed on anything, ideas tend to come up.
+
+720
+01:04:24,300 --> 01:04:30,700
+Have you even had an idea while looking at the aboriginal art?
+
+721
+01:04:30,733 --> 01:04:32,467
+No, no...
+
+722
+01:04:34,467 --> 01:04:36,133
+Can you imagine it happening?
+
+723
+01:04:36,400 --> 01:04:37,900
+No.
+
+724
+01:04:40,600 --> 01:04:59,466
+When I look at the aboriginal art, I can feel the same things happening in my mind, the same enjoyment.
+
+725
+01:04:59,467 --> 01:05:04,433
+But I don't think the answers to my questions can be found in the aboriginal art.
+
+726
+01:05:04,467 --> 01:05:14,500
+It's the same pattern, it might be some kind of exercise.
+
+727
+01:05:14,967 --> 01:05:17,767
+But I don't think the answers are concealed within the art.
+
+728
+01:05:18,200 --> 01:05:23,333
+In your field of study, what is the magic word?
+
+729
+01:05:24,800 --> 01:05:26,333
+I don't understand...
+
+730
+01:05:26,367 --> 01:05:28,233
+What is the magic word for your field of study?
+
+731
+01:05:31,433 --> 01:05:37,833
+The magic word? I would think the discovery.
+
+732
+01:05:38,300 --> 01:05:42,967
+To have an insight no one has had before.
+
+733
+01:05:46,267 --> 01:05:50,567
+But there is no magic formula.
+
+734
+01:05:52,400 --> 01:06:00,533
+Beautiful, to discover something no one has seen before.
+
+735
+01:06:00,867 --> 01:06:04,300
+Maybe someone did see it, but didn't recognize it. That's also a possibility.
+
+736
+01:06:06,533 --> 01:06:11,100
+Well, in our work, evolution is history.
+
+737
+01:06:11,867 --> 01:06:18,400
+I've found an image, a drawing of stem cells, from 1888.
+
+738
+01:06:19,033 --> 01:06:26,167
+With an arrow, and a letter S,
+
+739
+01:06:26,500 --> 01:06:32,100
+I thought it stood for stem cell, but it meant small cell.
+
+740
+01:06:35,800 --> 01:06:40,133
+We watched the intestines for twenty years and couldn't find the stem cells until they lighted up.
+
+741
+01:06:40,467 --> 01:06:48,933
+And this man already saw them 150 years ago.
+
+742
+01:06:48,000 --> 01:07:01,500
+In 1960, a Canadese scientist spotted them again and predicted everything we've discovered.
+
+743
+01:07:02,000 --> 01:07:04,767
+We read about this afterwards,
+
+744
+01:07:05,200 --> 01:07:11,767
+everything was already known, it just needed to be proved.
+
+745
+01:07:12,533 --> 01:07:19,933
+These cells have been dicoverd three times, but now we were able to show what they are and what they can do.

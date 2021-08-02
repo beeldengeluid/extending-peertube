@@ -1,0 +1,4384 @@
+﻿1
+00:00:07,958 --> 00:00:15,451
+It is a field of mathematics with very ancient roots,
+
+2
+00:00:15,667 --> 00:00:21,603
+whose objective, put simply,
+
+3
+00:00:22,503 --> 00:00:26,003
+is to study the evolution in the very long term...
+
+4
+00:00:26,012 --> 00:00:31,516
+of a system whose evolution in the short term may be given by a simple rule,
+
+5
+00:00:32,188 --> 00:00:41,754
+but in which even simple short-term rules can cause big issues in the long term.
+
+6
+00:00:42,058 --> 00:00:47,290
+One very commonly cited example (because people are very familiar with it),
+
+7
+00:00:48,653 --> 00:00:53,852
+and which was initially defined in the 17th century,
+
+8
+00:00:55,535 --> 00:01:01,418
+is a planetary system ruled by Newton's gravitational rules.
+
+9
+00:01:01,947 --> 00:01:05,473
+It doesn't need much more complication to become interesting.
+
+10
+00:01:07,351 --> 00:01:12,328
+If you have two masses interacting,
+
+11
+00:01:12,503 --> 00:01:18,436
+you will have what people know as the behavior of elliptical orbits,
+
+12
+00:01:18,585 --> 00:01:22,865
+which are well known, are regular and persist in time.
+
+13
+00:01:23,959 --> 00:01:27,519
+But there is a question that has been asked since then,
+
+14
+00:01:27,536 --> 00:01:29,785
+and which is still not well understood:
+
+15
+00:01:29,786 --> 00:01:38,229
+If you have 3 systems interacting through the same gravitation laws for the short-term,
+
+16
+00:01:38,363 --> 00:01:42,193
+which are well defined and understood for a long time now,
+
+17
+00:01:44,559 --> 00:01:48,457
+what can you say about behavior in the very long term?
+
+18
+00:01:49,799 --> 00:01:54,557
+This is what interests Mathematicians looking at this system:
+
+19
+00:01:54,558 --> 00:01:59,797
+If you ignore other limitations,
+
+20
+00:02:02,398 --> 00:02:07,506
+like a sun exploding or imploding, or something similar,
+
+21
+00:02:10,835 --> 00:02:14,196
+or other things that may happen in the timescales we can consider,
+
+22
+00:02:14,197 --> 00:02:19,771
+then, in a potentially limitless timescale ruled only by gravitational rules,
+
+23
+00:02:20,131 --> 00:02:24,362
+one would like to be able to make interesting conclusions.
+
+24
+00:02:24,363 --> 00:02:29,161
+Would these planets, which seem to propagate regularly,
+
+25
+00:02:29,281 --> 00:02:35,821
+start interacting in more complicated ways and escape far beyond where they began?
+
+26
+00:02:36,294 --> 00:02:37,763
+Thing like this.
+
+27
+00:02:37,764 --> 00:02:42,936
+That is one example of a question that can be asked,
+
+28
+00:02:44,052 --> 00:02:45,967
+and there are many other systems.
+
+29
+00:02:46,127 --> 00:02:48,057
+We can start from modeling,
+
+30
+00:02:48,169 --> 00:02:52,139
+such as a model with population interactions,
+
+31
+00:02:53,651 --> 00:02:57,755
+with several populations competing over simple rules,
+
+32
+00:02:58,724 --> 00:03:01,955
+and try to predict what could happen with the system.
+
+33
+00:03:02,253 --> 00:03:07,626
+Maybe you want to know what would happen if you made a small intervention in it.
+
+34
+00:03:07,994 --> 00:03:12,141
+Would it be catastrophic, or potentially catastrophic?
+
+35
+00:03:15,462 --> 00:03:18,579
+Another thing that is understood…
+
+36
+00:03:19,036 --> 00:03:22,312
+There are also systems based on purely theoretical models,
+
+37
+00:03:22,440 --> 00:03:27,480
+used only to explore abstract approaches to dynamic systems,
+
+38
+00:03:27,688 --> 00:03:33,798
+or sometimes interactions with other fields of Math, like numbers theory...
+
+39
+00:03:35,412 --> 00:03:40,502
+and a few abstract dynamic systems that don't model physical phenomena,
+
+40
+00:03:40,503 --> 00:03:44,915
+but only mathematical ones that answer interesting questions...
+
+41
+00:03:44,916 --> 00:03:47,986
+that don't initially seem to be about dynamic systems.
+
+42
+00:03:48,483 --> 00:03:55,276
+But what interests people when we talk about...
+
+43
+00:03:55,297 --> 00:04:00,383
+the potential to say something interesting on long-term behavior,
+
+44
+00:04:00,928 --> 00:04:06,427
+one major finding from discoveries made along the last century...
+
+45
+00:04:10,432 --> 00:04:18,153
+is the discovery of the frequency and inevitability of chaotic behaviors.
+
+46
+00:04:19,343 --> 00:04:25,766
+These are systems in which chaos appears - which may happen even with simple rules -
+
+47
+00:04:27,157 --> 00:04:29,607
+despite these simple rules, and in certain scenarios,
+
+48
+00:04:29,608 --> 00:04:37,629
+it is often theoretically impossible to make very...
+
+49
+00:04:39,063 --> 00:04:42,275
+accurate predictions of what behavior will be at any given time.
+
+50
+00:04:42,335 --> 00:04:45,560
+In this case, some questions would be hard to answer:
+
+51
+00:04:45,561 --> 00:04:52,575
+if I have this system, and, say, look at it a million years from now,
+
+52
+00:04:53,577 --> 00:04:57,483
+at that moment, what would the state of that system be?
+
+53
+00:04:57,852 --> 00:05:03,181
+Imagine we are measuring something in a physical system,
+
+54
+00:05:03,271 --> 00:05:06,862
+like the temperature of something, which is evolving, and ask:
+
+55
+00:05:06,958 --> 00:05:10,432
+What will temperature be at a very precise moment in the very distant future?
+
+56
+00:05:10,561 --> 00:05:14,172
+That is often a question that one, when faced with chaos,
+
+57
+00:05:14,173 --> 00:05:18,120
+can't reasonably give intelligent answers to.
+
+58
+00:05:18,894 --> 00:05:24,440
+On the other hand, you can ask more statistical questions about the system,
+
+59
+00:05:24,441 --> 00:05:29,403
+which is also something that has been developed.
+
+60
+00:05:29,404 --> 00:05:33,265
+The idea is, even faced with this unpredictability,
+
+61
+00:05:33,266 --> 00:05:35,563
+which indeed arises...
+
+62
+00:05:37,403 --> 00:05:42,126
+in things like the so-called 'butterfly effect', where even small changes...
+
+63
+00:05:42,127 --> 00:05:45,783
+create changes so large they prevent predictions,
+
+64
+00:05:46,084 --> 00:05:54,251
+sometimes it is possible to robustly describe not the exact, precise behavior at point X,
+
+65
+00:05:54,252 --> 00:05:56,530
+but rather 'average behaviors'.
+
+66
+00:05:56,531 --> 00:06:01,621
+Something like being able to say 'in period X,
+
+67
+00:06:01,752 --> 00:06:04,857
+average temperature will likely be about Y'.
+
+68
+00:06:05,553 --> 00:06:12,014
+This is somewhat related to the robustness of statistical laws.
+
+69
+00:06:12,961 --> 00:06:15,475
+It can be compared to...
+
+70
+00:06:15,952 --> 00:06:19,502
+a situation in which you are playing a game of heads and tails.
+
+71
+00:06:21,724 --> 00:06:26,315
+The question of what the next toss will be...
+
+72
+00:06:26,316 --> 00:06:31,059
+is not one you can say much about.
+
+73
+17:09:18,123 --> 00:06:33,975
+It's either heads or tails, 50/50.
+
+74
+00:06:34,063 --> 00:06:37,111
+So you can't predict accurately.
+
+75
+00:06:37,112 --> 00:06:39,453
+But you can say, quite confidently
+
+76
+00:06:39,454 --> 00:06:46,703
+that if you do 1,000 tosses, you will have approximately 500 heads and 500 tails,
+
+77
+00:06:46,704 --> 00:06:50,586
+with error margins that can be well estimated.
+
+78
+00:06:50,587 --> 00:06:53,827
+You'll have said something useful about the behavior as a whole,
+
+79
+00:06:53,828 --> 00:06:55,627
+but not about a single toss.
+
+80
+00:06:55,628 --> 00:06:59,998
+What happens with chaotic systems is interesting...
+
+81
+00:07:00,120 --> 00:07:06,629
+Heads/tails tosses have inherent randomness.
+
+82
+00:07:06,847 --> 00:07:09,633
+But sometimes you start with a system deterministic in principle,
+
+83
+00:07:09,634 --> 00:07:17,695
+but whose intrinsic complications create behavior close to randomness.
+
+84
+00:07:17,696 --> 00:07:22,656
+And, in fact, the best way to model this behavior, even though it is deterministic,
+
+85
+00:07:22,657 --> 00:07:26,659
+is through a law that assumes the system is truly random.
+
+86
+00:07:26,660 --> 00:07:31,213
+It can be approximated quite well by a system very similar to coin tossing.
+
+87
+00:07:32,573 --> 00:07:34,997
+That allows you to say interesting things in the same way...
+
+88
+00:07:34,998 --> 00:07:38,591
+about this system's average behavior.
+
+89
+00:07:39,001 --> 00:07:43,841
+That's an example of a question, and answers, and type of answer...
+
+90
+00:07:43,894 --> 00:07:49,568
+modern dynamic systems theory can offer when chaos is involved.
+
+91
+00:08:01,336 --> 00:08:05,237
+I have worked on several aspects of dynamic systems.
+
+92
+00:08:12,093 --> 00:08:18,452
+I didn't work only on chaotic systems, that was more a general example.
+
+93
+00:08:18,453 --> 00:08:27,510
+I often work with systems that have a little less chaos in them,
+
+94
+00:08:28,226 --> 00:08:33,786
+and one of the methods I used the most often...
+
+95
+00:08:33,866 --> 00:08:38,293
+in different scenarios is the one known as renormalization.
+
+96
+00:08:38,294 --> 00:08:41,938
+The concept has a certain history,
+
+97
+00:08:45,079 --> 00:08:48,409
+and represents different things in different areas.
+
+98
+00:08:48,410 --> 00:08:54,081
+It means one thing in Physics, another in Dynamic Systems,
+
+99
+00:08:54,082 --> 00:08:56,200
+and maybe others for other fields of Math.
+
+100
+00:08:56,562 --> 00:09:02,853
+For Dynamic Systems specifically, it is used to try to understand the behavior...
+
+101
+00:09:02,854 --> 00:09:07,581
+of a system in a certain 'subarea'.
+
+102
+00:09:07,582 --> 00:09:10,745
+The system acts over a certain space of configurations,
+
+103
+00:09:10,746 --> 00:09:15,922
+and you would like to focus attention on behavior in a small subset of that space,
+
+104
+00:09:15,923 --> 00:09:19,660
+but, as usual, over a very long time horizon.
+
+105
+00:09:19,661 --> 00:09:26,234
+So you obtain a certain system with this new time and space scale,
+
+106
+00:09:26,416 --> 00:09:31,155
+which you then re-scale - you renormalize -
+
+107
+00:09:31,190 --> 00:09:36,259
+and imagine your whole time horizon is in fact just one time beat,
+
+108
+00:09:36,260 --> 00:09:42,237
+and that subarea is in fact your whole space, that it corresponds to the whole.
+
+109
+00:09:42,272 --> 00:09:48,199
+In certain situations, the system you obtain through this process...
+
+110
+00:09:48,200 --> 00:09:53,310
+is qualitatively similar to the one you started with,
+
+111
+00:09:56,195 --> 00:09:58,228
+even though it is not exactly the same.
+
+112
+00:09:58,229 --> 00:10:04,617
+In these cases, you will find a sort of operation in the space of dynamic systems...
+
+113
+00:10:04,618 --> 00:10:07,753
+that has certain specific features.
+
+114
+00:10:08,938 --> 00:10:13,811
+This change of scale on how you observe systems,
+
+115
+00:10:13,812 --> 00:10:16,919
+going to a smaller space and longer time scale,
+
+116
+00:10:16,920 --> 00:10:21,859
+leads from one dynamic system to another, but within the same 'class'.
+
+117
+00:10:21,860 --> 00:10:30,477
+This idea, surprisingly, works quite well...
+
+118
+00:10:31,184 --> 00:10:35,361
+in certain classes of systems that are not chaotic.
+
+119
+00:10:35,362 --> 00:10:39,961
+When you consider a chaotic system and change its time scale,
+
+120
+00:10:39,962 --> 00:10:43,284
+you produce something with much more chaos.
+
+121
+00:10:44,972 --> 00:10:48,434
+Information loss becomes much faster with a longer time scale.
+
+122
+00:10:51,698 --> 00:10:56,047
+But for other systems that are more regular than a completely chaotic one,
+
+123
+00:10:56,048 --> 00:11:00,698
+you have this potential - not always, but in some situations -
+
+124
+00:11:00,699 --> 00:11:06,528
+of arriving at a system not so different, qualitatively, from what you had before.
+
+125
+00:11:06,529 --> 00:11:13,949
+Then, as you try to study and achieve longer and deeper time scales for your system,
+
+126
+00:11:13,950 --> 00:11:18,919
+You begin trying to iterate this process,
+
+127
+00:11:18,920 --> 00:11:21,793
+and making that operation in the dynamic systems space.
+
+128
+00:11:25,472 --> 00:11:30,195
+In general, you consider this acting over systems in small dimensional scales.
+
+129
+00:11:30,758 --> 00:11:36,130
+These are 1- or 2-dimensional spaces - we live in a 3-dimensional one,
+
+130
+00:11:41,035 --> 00:11:44,745
+but many interesting dynamic systems happen in low-dimensional spaces,
+
+131
+00:11:44,746 --> 00:11:48,927
+on a plane or on a straight line.
+
+132
+00:11:50,180 --> 00:11:52,785
+So if you consider these systems,
+
+133
+00:11:52,976 --> 00:11:56,473
+and look at this action in the space of the systems,
+
+134
+00:11:56,641 --> 00:11:59,681
+you're looking at them in space that is often of infinite dimensions
+
+135
+00:12:00,102 --> 00:12:02,782
+What we are studying here, then,
+
+136
+00:12:02,783 --> 00:12:07,500
+is this operation in a class of systems that live in an infinite-dimension space.
+
+137
+00:12:07,501 --> 00:12:11,001
+And, interestingly, when a system operates over itself,
+
+138
+00:12:11,002 --> 00:12:14,037
+you can repeat it - and you are interested in repeating it.
+
+139
+00:12:14,038 --> 00:12:17,647
+You get a new dynamic system, with a new set of features,
+
+140
+00:12:17,648 --> 00:12:22,043
+that now acts, that 'lives', in a much bigger space.
+
+141
+00:12:24,993 --> 00:12:29,379
+What is surprising is that now you're in something much more complicated,
+
+142
+00:12:29,380 --> 00:12:32,221
+- from, say, one dimension to infinite dimensions -
+
+143
+00:12:32,222 --> 00:12:37,334
+but it is frequently possible to say very interesting things...
+
+144
+00:12:37,482 --> 00:12:39,514
+about this infinite-dimension system.
+
+145
+00:12:40,122 --> 00:12:43,811
+And this repeats often, for several situations...
+
+146
+00:12:45,075 --> 00:12:48,861
+when we discover this infinite-dimension system now has chaotic features.
+
+147
+00:12:51,547 --> 00:12:56,266
+And then the methods that are efficient to analyze certain chaotic systems,
+
+148
+00:12:56,267 --> 00:12:59,075
+including this probabilistic analysis I mentioned,
+
+149
+00:12:59,076 --> 00:13:02,135
+can be used to later say interesting things...
+
+150
+00:13:02,274 --> 00:13:05,384
+about the low-dimension system we were interested in at first.
+
+151
+00:13:06,382 --> 00:13:10,270
+This sort of idea emerged in the 1970s,
+
+152
+00:13:10,419 --> 00:13:15,090
+and was well developed in several directions in the next decades.
+
+153
+00:13:18,184 --> 00:13:22,306
+I applied them several times in my work,
+
+154
+00:13:22,307 --> 00:13:25,246
+on studies of one-dimensional systems, for example,
+
+155
+00:13:25,247 --> 00:13:29,059
+or certain scenarios on the behavior of billiards,
+
+156
+00:13:29,726 --> 00:13:33,152
+which is also something I worked on...
+
+157
+00:13:33,153 --> 00:13:39,349
+and also on certain aspects of certain Schrodinger operators,
+
+158
+00:13:39,753 --> 00:13:44,309
+which are also modeled on dynamic systems that frequently can also be renormalized.
+
+159
+00:13:57,010 --> 00:14:01,713
+It's an idea that has been developing for a while.
+
+160
+00:14:02,149 --> 00:14:08,681
+I applied and developed certain techniques, and incorporated...
+
+161
+00:14:08,716 --> 00:14:12,390
+For every scenario in which you use this group of ideas,
+
+162
+00:14:12,391 --> 00:14:14,899
+some features differ,
+
+163
+00:14:14,900 --> 00:14:18,741
+and you have to integrate them to understand things.
+
+164
+00:14:19,672 --> 00:14:24,320
+I began working in the low-dimension dynamics of the interval.
+
+165
+00:14:24,321 --> 00:14:29,613
+These are very well developed applications, associated with some well-known fractals,
+
+166
+00:14:29,614 --> 00:14:33,267
+such as the Mandelbrot Set and the like.
+
+167
+00:14:37,811 --> 00:14:42,827
+But then, over time, I became interested in other systems...
+
+168
+00:14:42,828 --> 00:14:45,998
+that could also be subject to renormalization theories.
+
+169
+00:14:49,604 --> 00:14:52,316
+You have to understand how these ideas can be applied,
+
+170
+00:14:52,317 --> 00:14:55,528
+because the questions that it can help answer are different.
+
+171
+00:14:55,529 --> 00:14:59,307
+For instance, when I began my work on Schrodinger operators,
+
+172
+00:15:00,389 --> 00:15:05,226
+it was interesting to me how the questions were asked differently.
+
+173
+00:15:05,227 --> 00:15:09,688
+The ultimate goal wasn't even to understand a given dynamic system.
+
+174
+00:15:10,171 --> 00:15:18,737
+The system was the means to analyze the associated equation's behavior...
+
+175
+00:15:18,738 --> 00:15:21,576
+which will correspond to a dynamic, now a non-classical one.
+
+176
+00:15:21,577 --> 00:15:26,538
+Before, I was talking of classical dynamics, with deterministic laws.
+
+177
+00:15:29,882 --> 00:15:32,853
+But when I was interested in Schrödinger operators,
+
+178
+00:15:32,854 --> 00:15:35,535
+the goal was to understand a quantum dynamics phenomenon,
+
+179
+00:15:35,639 --> 00:15:40,382
+but before arriving at the equation that will say interesting things about it,
+
+180
+00:15:40,383 --> 00:15:47,634
+you have the option to use this classical dynamic system model...
+
+181
+00:15:47,635 --> 00:15:48,875
+to understand a piece of the equation.
+
+182
+00:15:48,974 --> 00:15:51,665
+Actually you have to understand a family of dynamic systems...
+
+183
+00:15:54,118 --> 00:15:59,751
+associated with the various possible energies for your quantum system.
+
+184
+00:15:59,752 --> 00:16:05,032
+For each energy there is a different classical system that you can look at...
+
+185
+00:16:05,033 --> 00:16:09,813
+and will yield a good behavior of that system's functions.
+
+186
+00:16:12,539 --> 00:16:14,447
+The issue is you need...
+
+187
+00:16:14,448 --> 00:16:20,124
+I had a long learning process to discover what interested people.
+
+188
+00:16:20,125 --> 00:16:21,496
+I began with dynamic systems,
+
+189
+00:16:21,497 --> 00:16:26,858
+but people had specific questions to ask about these operators,
+
+190
+00:16:29,223 --> 00:16:33,991
+and on what understanding of the dynamics would allow you...
+
+191
+00:16:34,246 --> 00:16:38,942
+to reach any conclusions on the aspects of that equation at the end.
+
+192
+00:16:40,770 --> 00:16:46,466
+Renormalization, then, was one part of a theory, but I branched out later.
+
+193
+00:16:46,859 --> 00:16:52,271
+I started by using it, it was sort of the way I started.
+
+194
+00:16:52,272 --> 00:16:58,347
+When I began, this was in 2002, 2003, and I realized...
+
+195
+00:16:58,348 --> 00:17:05,933
+renormalization could be used to better understand some specific problems.
+
+196
+00:17:07,704 --> 00:17:13,067
+Later, this started yielding interesting results,
+
+197
+00:17:13,444 --> 00:17:19,591
+such as conclusions about the fractal known as the Hofstadter's butterfly,
+
+198
+00:17:23,259 --> 00:17:31,134
+merely by using renormalization slightly differently from how it was used before.
+
+199
+00:17:33,183 --> 00:17:37,495
+Then I went on to other aspects less related to normalization,
+
+200
+00:17:37,496 --> 00:17:40,962
+which could, after a long time,
+
+201
+00:17:42,460 --> 00:17:47,862
+be reunified with renormalization for a deeper understanding of the area.
+
+202
+00:17:47,863 --> 00:17:50,135
+But this took many years.
+
+203
+00:17:50,136 --> 00:17:55,076
+I still work on it, but there was slow progress for many years…
+
+204
+00:17:55,077 --> 00:17:59,469
+Then in 2008-09,
+
+205
+00:18:00,727 --> 00:18:04,216
+I had a better understanding of how to unify these aspects,
+
+206
+00:18:05,022 --> 00:18:09,456
+including by looking at another area that is also very present in my work:
+
+207
+00:18:10,348 --> 00:18:11,878
+the Lyapunov exponents.
+
+208
+00:18:13,472 --> 00:18:18,429
+Specifically, understanding the appearance of 0 or positive Lyapunov exponents.
+
+209
+00:18:18,916 --> 00:18:24,728
+Lyapunov exponents are certain numbers associated to a dynamic system...
+
+210
+00:18:24,729 --> 00:18:28,625
+which detect a bit of the instability of the system.
+
+211
+00:18:28,626 --> 00:18:33,084
+What is the speed at which orbits separate, for instance?
+
+212
+00:18:35,350 --> 00:18:42,323
+You begin with two configurations, two orbits that are quite close,
+
+213
+00:18:42,324 --> 00:18:45,553
+and they begin separating at a certain exponential speed,
+
+214
+00:18:45,554 --> 00:18:49,612
+which is the rapid loss associated with chaotic systems.
+
+215
+00:18:58,384 --> 00:19:03,108
+I usually work with many potential problems.
+
+216
+00:19:03,109 --> 00:19:05,402
+I work on one at a given moment,
+
+217
+00:19:05,403 --> 00:19:09,299
+but I oscillate a lot over a few days or weeks...
+
+218
+00:19:09,300 --> 00:19:12,295
+thinking in different directions.
+
+219
+00:19:12,296 --> 00:19:14,525
+What often happens in this work...
+
+220
+00:19:14,526 --> 00:19:18,377
+is that you arrive at an obstacle where you lack...
+
+221
+00:19:20,988 --> 00:19:26,256
+ideas on how you can move forward or what the strategy is.
+
+222
+00:19:27,828 --> 00:19:29,990
+In that scenario...
+
+223
+00:19:30,414 --> 00:19:35,544
+where will the idea come from that will allow you to 'unblock',
+
+224
+00:19:35,545 --> 00:19:39,154
+and continue the work on a more…
+
+225
+00:19:41,325 --> 00:19:43,527
+objective, actually...
+
+226
+00:19:45,431 --> 00:19:47,189
+in a more comprehensible way?
+
+227
+00:19:47,190 --> 00:19:48,611
+Once you have an idea to work with,
+
+228
+00:19:48,612 --> 00:19:52,238
+there are several techniques that can be used,
+
+229
+00:19:52,239 --> 00:19:59,164
+and many ways to find associations and move ahead towards a solution.
+
+230
+00:19:59,165 --> 00:20:03,645
+But without a starting point, that gets very hard.
+
+231
+00:20:03,646 --> 00:20:05,077
+There isn't much to do.
+
+232
+00:20:06,652 --> 00:20:09,338
+You know that, with current ideas and techniques,
+
+233
+00:20:09,339 --> 00:20:11,742
+you can't get past a certain point.
+
+234
+00:20:12,556 --> 00:20:15,985
+When you get to this 'blockage',
+
+235
+00:20:15,986 --> 00:20:19,955
+there is no formula on how to get out.
+
+236
+00:20:23,200 --> 00:20:28,450
+There are theories on how discovery happens,
+
+237
+00:20:29,895 --> 00:20:32,242
+and some say it happens in the subconscious,
+
+238
+00:20:32,243 --> 00:20:37,059
+and it is not something that can be 'willed' by the person,
+
+239
+00:20:37,060 --> 00:20:42,394
+but regardless of those, there are interesting possibilities to consider…
+
+240
+00:20:42,971 --> 00:20:46,545
+You get to a block, you try, and after a while it becomes clear...
+
+241
+00:20:47,602 --> 00:20:50,008
+you don't have what you need at that time.
+
+242
+00:20:50,835 --> 00:20:53,758
+Then maybe it is interesting to look at something else,
+
+243
+00:20:53,759 --> 00:20:57,711
+first psychologically, so you don't feel you're banging your head against a wall,
+
+244
+00:20:57,712 --> 00:21:01,205
+and also because, if you look into another direction,
+
+245
+00:21:01,206 --> 00:21:06,043
+you may end up having a new idea, or...
+
+246
+00:21:06,070 --> 00:21:09,890
+getting in touch with a new idea, without looking directly at the former direction,
+
+247
+00:21:09,891 --> 00:21:12,111
+and then a new idea can arise,
+
+248
+00:21:12,112 --> 00:21:17,959
+that you can see as useful to the problem you were working on before.
+
+249
+00:21:18,848 --> 00:21:21,039
+This happened with me sometimes.
+
+250
+00:21:21,340 --> 00:21:23,084
+I was working with multiple problems,
+
+251
+00:21:23,275 --> 00:21:26,307
+and realized what I was working on in a certain context...
+
+252
+00:21:28,060 --> 00:21:33,077
+helped open the path for progress in another context.
+
+253
+00:21:33,078 --> 00:21:35,142
+It could give me some…
+
+254
+00:21:38,382 --> 00:21:42,296
+Sometimes it's just a different perspective on something.
+
+255
+00:21:42,297 --> 00:21:44,391
+You basically had all elements,
+
+256
+00:21:44,392 --> 00:21:52,770
+but you needed the right angle to pick the right way to move forward.
+
+257
+00:22:23,350 --> 00:22:25,659
+That depends a lot on the situation.
+
+258
+00:22:27,409 --> 00:22:29,479
+Each project has its own traits.
+
+259
+00:22:29,480 --> 00:22:38,754
+The choice of working entirely without using paper or the like...
+
+260
+00:22:38,755 --> 00:22:42,739
+is a bit deliberate in some situations,
+
+261
+00:22:42,740 --> 00:22:51,253
+to try to avoid the temptation of going for a more 'brute force' approach,
+
+262
+00:22:52,940 --> 00:22:55,763
+more calculation-heavy approach to systems.
+
+263
+00:22:55,764 --> 00:23:00,873
+I avoid calculating very complicated things,
+
+264
+00:23:00,874 --> 00:23:04,583
+and if you don't have paper around you,
+
+265
+00:23:04,584 --> 00:23:06,867
+it limits what you can calculate.
+
+266
+00:23:06,868 --> 00:23:07,995
+So, instead of calculating,
+
+267
+00:23:07,996 --> 00:23:11,566
+you need to understand what you are studying better...
+
+268
+00:23:12,231 --> 00:23:17,923
+until the moment the calculation you need becomes evident.
+
+269
+00:23:18,057 --> 00:23:20,804
+It becomes so simple that you can do it in your head.
+
+270
+00:23:21,315 --> 00:23:25,032
+You try to increase your understanding in a more abstract way,
+
+271
+00:23:27,319 --> 00:23:31,141
+and see how this can be interpreted differently.
+
+272
+00:23:31,142 --> 00:23:35,565
+More obvious things, like expressions etc.,
+
+273
+00:23:35,566 --> 00:23:40,709
+can be manipulated so you can look at how they can interact differently.
+
+274
+00:23:40,710 --> 00:23:44,712
+It is a choice I make,
+
+275
+00:23:44,713 --> 00:23:49,284
+because I think it tends to be very fruitful.
+
+276
+00:23:51,448 --> 00:23:55,633
+I think there is a lot that can be done in terms of calculations,
+
+277
+00:23:56,537 --> 00:23:58,216
+but I usually work in collaboration,
+
+278
+00:23:58,217 --> 00:24:02,694
+and other people can do the calculations, and sometimes they don't get there.
+
+279
+00:24:02,695 --> 00:24:05,756
+So I prefer to think a bit of what can be done without calculations,
+
+280
+00:24:05,757 --> 00:24:12,674
+and sometimes it can merge with the calculation work some of my colleagues did.
+
+281
+00:24:27,915 --> 00:24:30,317
+I don't really look…
+
+282
+00:24:31,117 --> 00:24:37,954
+In the situations in which I am working out of the office,
+
+283
+00:24:38,019 --> 00:24:39,347
+and indeed I do,
+
+284
+00:24:39,451 --> 00:24:42,524
+either walking, or on the beach…
+
+285
+00:24:43,262 --> 00:24:48,164
+The goal is not for me to be inspired by my environment.
+
+286
+00:24:48,165 --> 00:24:51,819
+What is important is that it is a calm environment,
+
+287
+00:24:51,820 --> 00:24:57,152
+and you can be without a clear distraction.
+
+288
+00:24:57,589 --> 00:24:58,766
+Interestingly, for instance,
+
+289
+00:24:58,950 --> 00:25:01,307
+the sound of the ocean will not lead to...
+
+290
+00:25:02,687 --> 00:25:05,915
+will not cause great distraction, because it is constant.
+
+291
+17:27:52,374 --> 00:25:10,499
+If you had people screaming around, thing would be more complicated.
+
+292
+00:25:10,500 --> 00:25:16,654
+You usually want an environment where you do not worry about what is around you.
+
+293
+00:25:16,655 --> 00:25:18,871
+There may be the occasional distraction,
+
+294
+00:25:18,872 --> 00:25:21,632
+but mostly you want to have calm periods.
+
+295
+00:25:22,362 --> 00:25:25,360
+And, at that moment,
+
+296
+00:25:25,361 --> 00:25:30,945
+what you think depends on the situation.
+
+297
+00:25:32,738 --> 00:25:34,246
+On the beach, for instance,
+
+298
+00:25:34,247 --> 00:25:39,362
+I have worked many times trying to refine...
+
+299
+00:25:41,584 --> 00:25:46,236
+This was work on random matrix multiplications,
+
+300
+00:25:46,237 --> 00:25:48,504
+which can be seen as dynamic systems.
+
+301
+00:25:48,505 --> 00:25:55,773
+And the analysis technique I thought could be appropriate...
+
+302
+00:25:59,397 --> 00:26:03,987
+involved the understanding of certain geometries, or configurations,
+
+303
+00:26:07,561 --> 00:26:10,223
+on planes of high dimensional complexity,
+
+304
+00:26:10,508 --> 00:26:12,909
+the different interactions between them..
+
+305
+00:26:13,014 --> 00:26:16,909
+how they evolve with the application of certain linear transformations.
+
+306
+00:26:16,910 --> 00:26:27,299
+So I basically imagined positions for various objects in these spaces,
+
+307
+00:26:27,300 --> 00:26:30,148
+and how they would be changed by the transformations,
+
+308
+00:26:30,149 --> 00:26:35,103
+and how these changes could be...
+
+309
+00:26:38,127 --> 00:26:42,450
+'domesticated' by the technique we were thinking of using.
+
+310
+00:26:42,451 --> 00:26:48,850
+You had to build certain objects, in the case certain expressions,
+
+311
+00:26:48,851 --> 00:26:53,535
+which would adapt to possible configurations, and which would evolve...
+
+312
+00:26:57,751 --> 00:27:00,254
+in a certain direction that would be beneficial to us,
+
+313
+00:27:00,255 --> 00:27:04,049
+influenced by a certain dynamics - a chaotic one, in this case.
+
+314
+00:27:06,577 --> 00:27:07,295
+So I did that…
+
+315
+00:27:07,296 --> 00:27:13,621
+I imagined the types of configuration that were of concern for this technique,
+
+316
+00:27:13,622 --> 00:27:14,884
+and how I could...
+
+317
+00:27:16,340 --> 00:27:21,182
+modify the expressions to take this new scenario into account.
+
+318
+00:27:22,917 --> 00:27:27,111
+And I insisted on doing that without paper,
+
+319
+00:27:27,112 --> 00:27:30,934
+because it wouldn't be useful for that.
+
+320
+00:27:30,935 --> 00:27:35,294
+I needed a good understanding of the nature of the obstacle.
+
+321
+00:27:35,295 --> 00:27:36,983
+In this particular case,
+
+322
+00:27:36,984 --> 00:27:41,701
+it took a long time to overcome this problem.
+
+323
+00:27:41,702 --> 00:27:46,143
+Many tries, and conversations with colleagues...
+
+324
+00:27:47,718 --> 00:27:48,750
+In other situations,
+
+325
+00:27:50,349 --> 00:27:54,787
+it can be simply a matter of reconsidering something you thought of many times...
+
+326
+00:27:54,788 --> 00:27:57,511
+and still have no way forward,
+
+327
+00:27:58,505 --> 00:28:00,470
+and then try again after a while.
+
+328
+00:28:00,471 --> 00:28:04,724
+Like I said, not always focusing on the problem you don't get,
+
+329
+00:28:04,725 --> 00:28:07,159
+but it might be worth revisiting later.
+
+330
+00:28:07,160 --> 00:28:10,675
+Maybe an idea will come out from something else that has matured.
+
+331
+00:28:10,676 --> 00:28:12,143
+So you try again.
+
+332
+00:28:12,144 --> 00:28:18,008
+In general you realize that you are still stuck,
+
+333
+00:28:19,391 --> 00:28:21,709
+but you keep trying, and sometimes a solution comes out.
+
+334
+00:28:21,744 --> 00:28:27,514
+So you walk, and think again of the problem you were stuck on before,
+
+335
+00:28:27,515 --> 00:28:31,911
+reflect, understand once more why you couldn't do it…
+
+336
+00:28:36,082 --> 00:28:38,545
+This last time I went to the beach, for instance,
+
+337
+00:28:38,546 --> 00:28:42,545
+I was thinking of a problem that often comes to my mind,
+
+338
+00:28:45,736 --> 00:28:48,930
+and which I always find the same difficulties with.
+
+339
+00:28:48,931 --> 00:28:53,078
+But I come back to it in the hope I will see something different.
+
+340
+00:29:10,131 --> 00:29:13,965
+In general, mathematical knowledge...
+
+341
+00:29:16,758 --> 00:29:22,089
+often ends up being applied to scientific developments,
+
+342
+00:29:22,465 --> 00:29:24,440
+like in Physics or Chemistry,
+
+343
+00:29:24,441 --> 00:29:28,558
+and eventually in technological progress.
+
+344
+00:29:28,559 --> 00:29:31,311
+I would say that, in our current world,
+
+345
+00:29:31,312 --> 00:29:35,035
+it is quite obvious to see how past Mathematics...
+
+346
+00:29:35,319 --> 00:29:41,057
+was important for us to have the resources we take for granted today.
+
+347
+00:29:41,058 --> 00:29:45,073
+So we can imagine the breakthroughs that we achieve in Math today...
+
+348
+00:29:45,074 --> 00:29:47,295
+will have future repercussions,
+
+349
+00:29:47,296 --> 00:29:51,422
+even though it is impossible to predict how this will happen,
+
+350
+00:29:51,423 --> 00:29:55,019
+and what breakthroughs will have the biggest repercussions.
+
+351
+00:29:55,020 --> 00:30:00,181
+Of course, there is Mathematics that is done...
+
+352
+00:30:00,317 --> 00:30:06,469
+with clearer goals for immediate application.
+
+353
+00:30:06,470 --> 00:30:11,699
+You can do research with consequences that are...
+
+354
+00:30:13,090 --> 00:30:15,940
+immediately calculable for certain technologies…
+
+355
+00:30:17,565 --> 00:30:21,838
+Certain advances, for instance, in Medicine,
+
+356
+00:30:22,750 --> 00:30:25,438
+such as techniques in tomography and the like,
+
+357
+00:30:25,439 --> 00:30:32,098
+are based on research that requires very targeted Mathematical breakthroughs.
+
+358
+00:30:35,300 --> 00:30:43,412
+That said, I don't think all contributions of a study...
+
+359
+00:30:43,541 --> 00:30:48,051
+have a direct application in possible technologies.
+
+360
+00:30:52,747 --> 00:30:59,284
+I would imagine that there is a society of Mathematicians and scientists who interact,
+
+361
+00:31:00,606 --> 00:31:06,078
+and their ideas interact, and the questions and answers...
+
+362
+00:31:06,113 --> 00:31:13,158
+of persons working on different things end up reverberating.
+
+363
+00:31:13,159 --> 00:31:18,392
+So, even if one sees Math...
+
+364
+00:31:18,393 --> 00:31:26,741
+as a concern merely for its more visible impact on society
+
+365
+00:31:26,950 --> 00:31:32,528
+- which is not necessarily mine - but even from that standpoint,
+
+366
+00:31:32,658 --> 00:31:37,059
+the study of a broad spectrum of Mathematics,
+
+367
+00:31:37,060 --> 00:31:42,918
+going from the purer side to the more applicability-driven side…
+
+368
+00:31:43,841 --> 00:31:45,305
+It is all part of...
+
+369
+00:31:45,977 --> 00:31:48,209
+It all interacts in the end. All these ideas interact.
+
+370
+00:31:48,244 --> 00:31:51,980
+A researcher who studies something more esoteric,
+
+371
+00:31:51,981 --> 00:31:55,934
+which sometimes seems foolish to observers from the outside…
+
+372
+00:31:55,935 --> 00:32:01,216
+About objects that look like a game Mathematicians play with themselves…
+
+373
+00:32:04,671 --> 00:32:12,383
+These studies will often unexpectedly raise questions and techniques...
+
+374
+00:32:12,384 --> 00:32:23,303
+that slowly propagate to other areas of Mathematics often identified as important,
+
+375
+00:32:23,304 --> 00:32:26,964
+and sometimes end up being precisely...
+
+376
+00:32:26,965 --> 00:32:32,294
+what someone with a 'clearer' goal needed.
+
+377
+00:32:32,295 --> 00:32:37,781
+These ideas go in these directions, and the opposite direction as well.
+
+378
+00:32:37,782 --> 00:32:44,956
+Many fundamental concepts of interest to Mathematicians who want to "play around",
+
+379
+00:32:44,957 --> 00:32:46,934
+the 'purer' Mathematicians,
+
+380
+00:32:46,935 --> 00:32:52,571
+who are more concerned with abstractions, the so-called 'aesthetics of Mathematics',
+
+381
+00:32:52,572 --> 00:32:57,568
+who want to understand a thing very intrinsically to that thing,
+
+382
+00:32:57,569 --> 00:32:59,425
+without concern for the outside world,
+
+383
+00:32:59,426 --> 00:33:07,271
+will also find questions and techniques from research done with clearer goals.
+
+384
+00:33:07,272 --> 00:33:12,692
+Ideas will go from one side to the other, and vice-versa.
+
+385
+00:33:15,444 --> 00:33:19,567
+So, an environment where all this research happens concurrently...
+
+386
+00:33:19,568 --> 00:33:23,192
+is much more productive than if you only had one focus,
+
+387
+00:33:23,193 --> 00:33:27,960
+and could only look at it in terms of how it can lead you...
+
+388
+00:33:27,961 --> 00:33:32,545
+to a certain goal within a certain time frame.
+
+389
+00:33:32,546 --> 00:33:37,387
+I believe many discoveries wouldn't have been made, and won't be made,
+
+390
+00:33:37,388 --> 00:33:44,167
+without an environment that can drive...
+
+391
+00:33:45,346 --> 00:33:49,330
+this work in all of these directions at the same time.
+
+392
+00:33:49,331 --> 00:33:51,129
+So this would be...
+
+393
+00:34:20,873 --> 00:34:23,434
+I am more concerned with...
+
+394
+00:34:24,234 --> 00:34:27,540
+I am happy that people are using my work,
+
+395
+00:34:30,924 --> 00:34:37,231
+but I am more concerned with solving problems that in fact interest me...
+
+396
+00:34:37,232 --> 00:34:43,912
+and which will interest me due to what I have studied and have been thinking.
+
+397
+00:34:43,913 --> 00:34:46,351
+This creates a certain 'taste' for Mathematics,
+
+398
+00:34:46,352 --> 00:34:54,610
+and a trend to try to seek a better understanding of certain parts of Math.
+
+399
+00:34:57,574 --> 00:35:02,032
+A willingness to understanding something that is often focused on specific issues.
+
+400
+00:35:02,033 --> 00:35:10,472
+And, in Math, having this understanding often requires solving very specific problems...
+
+401
+00:35:10,677 --> 00:35:17,015
+that identify the main difficulties associated with that understanding.
+
+402
+00:35:20,225 --> 00:35:25,350
+Many times, however, you don't work on responding questions asked of you.
+
+403
+00:35:25,355 --> 00:35:28,583
+Many interesting questions you ask yourself.
+
+404
+00:35:30,442 --> 00:35:33,064
+It has happened, and sometimes happens,
+
+405
+00:35:33,065 --> 00:35:37,900
+that as you learn more about a topic,
+
+406
+00:35:39,116 --> 00:35:45,588
+you see the question as something different from what other people see.
+
+407
+00:35:47,524 --> 00:35:50,806
+Each one has their own view,
+
+408
+00:35:50,807 --> 00:35:55,835
+and sees a certain field of Math with their own internal representation,
+
+409
+00:35:55,836 --> 00:36:00,900
+which is influenced by past experience and knowledge.
+
+410
+00:36:00,901 --> 00:36:03,521
+Each Mathematician brings their contribution.
+
+411
+00:36:03,522 --> 00:36:08,771
+I bring mine, which comes from an intercession of many prior things.
+
+412
+00:36:08,772 --> 00:36:15,949
+In certain circumstances, this position can be particular and special in a certain field,
+
+413
+00:36:15,950 --> 00:36:21,289
+and that allows me to offer questions and approaches…
+
+414
+00:36:21,290 --> 00:36:25,198
+that wouldn't have been natural for other people in that area.
+
+415
+00:36:25,199 --> 00:36:28,977
+This certainly has happened quite clearly...
+
+416
+00:36:28,978 --> 00:36:35,684
+in my study of Schrodinger operators, or a certain class of them.
+
+417
+00:36:35,685 --> 00:36:42,575
+I had the ability to pose questions and propose approaches,
+
+418
+00:36:42,576 --> 00:36:45,687
+and ended up doing a little bit of everything.
+
+419
+00:36:48,103 --> 00:36:53,878
+I proposed questions that were not natural, but which, when posed,
+
+420
+00:36:53,879 --> 00:36:59,285
+made it clear that they were essential, and that were needed for progress.
+
+421
+00:37:01,266 --> 00:37:03,641
+I try to propose questions,
+
+422
+00:37:03,642 --> 00:37:07,553
+but associated with a possible way to understand it,
+
+423
+00:37:07,568 --> 00:37:12,199
+with context so that it can be developed.
+
+424
+00:37:12,200 --> 00:37:19,788
+And then, using my technical characteristics and my individual knowledge,
+
+425
+00:37:19,789 --> 00:37:25,717
+take that research to its end and find the solution to all this,
+
+426
+00:37:25,718 --> 00:37:30,081
+leading to a somewhat developed theory...
+
+427
+00:37:30,082 --> 00:37:34,374
+that will answer the questions that were asked.
+
+428
+00:37:34,375 --> 00:37:40,579
+Then, when these techniques are developed, they can be used elsewhere,
+
+429
+00:37:40,580 --> 00:37:48,545
+One would expect, then, that beautiful Mathematical techniques will be reused.
+
+430
+00:37:48,546 --> 00:37:54,626
+And they tend to - and I find this natural -
+
+431
+00:37:56,160 --> 00:37:59,755
+become knowledge incorporated by others,
+
+432
+00:37:59,955 --> 00:38:03,076
+who can use it in varied situations.
+
+433
+00:38:04,822 --> 00:38:09,725
+It is desirable that this is the natural path of discovery in this field.
+
+434
+00:38:24,473 --> 00:38:26,112
+I try…
+
+435
+00:38:27,946 --> 00:38:32,513
+I think people say this more because of my work style.
+
+436
+00:38:34,069 --> 00:38:40,063
+In a few of the topics I studied, I came sort of from the 'outside'.
+
+437
+00:38:43,151 --> 00:38:47,321
+I wrote my thesis on a certain field, and when I arrived in Paris,
+
+438
+00:38:47,322 --> 00:38:53,640
+I found few people who wanted to talk to me about what I was working on.
+
+439
+00:38:54,980 --> 00:38:59,593
+Then, so I wouldn't keep talking to myself, I wanted to learn what was being done.
+
+440
+00:38:59,616 --> 00:39:02,614
+But I didn't know a lot about what they were doing.
+
+441
+00:39:03,384 --> 00:39:07,441
+And when I looked at these fields,
+
+442
+00:39:07,442 --> 00:39:09,660
+I chose a somewhat…
+
+443
+00:39:14,278 --> 00:39:15,794
+unconventional approach.
+
+444
+00:39:15,795 --> 00:39:23,620
+Acceptable, of course, but an unconventional approach to relatively complex things.
+
+445
+00:39:23,646 --> 00:39:27,356
+Instead of trying to start from the beginning, with simpler questions,
+
+446
+00:39:27,357 --> 00:39:29,675
+I tried looking at things I would consider important,
+
+447
+00:39:29,676 --> 00:39:34,184
+but that would tell me something from the point of view I was coming from.
+
+448
+00:39:34,962 --> 00:39:40,759
+I worked many times with very little understanding of the state of theory,
+
+449
+00:39:40,760 --> 00:39:43,508
+at least at that time,
+
+450
+00:39:43,509 --> 00:39:52,648
+and decided to try to look at them with my little knowledge of that particular area,
+
+451
+00:39:52,649 --> 00:39:55,726
+and see what that tells me.
+
+452
+00:39:57,066 --> 00:39:59,019
+Sort of thinking from scratch.
+
+453
+00:40:00,704 --> 00:40:05,751
+This led to certain approaches that were not being used in these areas,
+
+454
+00:40:06,496 --> 00:40:12,476
+and sometimes, due certainly to some luck and some work,
+
+455
+00:40:12,477 --> 00:40:22,001
+led to solutions for problems that were somewhat stalled,
+
+456
+00:40:22,002 --> 00:40:24,379
+that weren't seeing progress in that direction.
+
+457
+00:40:24,655 --> 00:40:27,073
+That may be why people say that,
+
+458
+00:40:27,074 --> 00:40:32,198
+because I decided to look at things from a different perspective,
+
+459
+00:40:32,199 --> 00:40:35,226
+mostly because I didn't know how people were looking at it,
+
+460
+00:40:35,227 --> 00:40:36,998
+and didn't try too much.
+
+461
+00:40:37,877 --> 00:40:44,216
+For a while now, I've had this trend of not studying the works of others so much.
+
+462
+00:40:44,217 --> 00:40:49,105
+I know what has been done, but my main strategy is not to read it in depth.
+
+463
+00:40:49,919 --> 00:40:52,699
+I try to find out what ideas are in vogue,
+
+464
+00:40:52,700 --> 00:40:58,557
+but without trying to understand the literature exhaustively.
+
+465
+00:41:00,080 --> 00:41:01,657
+I get an idea of the fundamental issues,
+
+466
+00:41:01,658 --> 00:41:08,536
+and try to think of something different that can help to advance these.
+
+467
+00:41:08,537 --> 00:41:11,300
+I think I would have less to contribute...
+
+468
+00:41:11,301 --> 00:41:19,107
+if I tried to improve a little on techniques people are already trying to apply.
+
+469
+00:41:19,300 --> 00:41:23,390
+I think I have a better chance to contribute...
+
+470
+00:41:23,391 --> 00:41:28,725
+by reflecting on what is not being done,
+
+471
+00:41:28,726 --> 00:41:35,311
+and on what would be natural for someone not deeply involved in an given area.
+
+472
+00:41:35,312 --> 00:41:40,610
+I suspect that is what people alluded to when they told you this.
+
+473
+00:41:54,626 --> 00:41:56,526
+Well, Math...
+
+474
+00:41:56,527 --> 00:41:59,660
+When you are a child,
+
+475
+00:41:59,661 --> 00:42:03,762
+you are not really presented to what really is a Mathematical work.
+
+476
+00:42:03,763 --> 00:42:09,347
+You are introduced to a few numbers first, like I did as a child,
+
+477
+00:42:09,348 --> 00:42:14,276
+and that they have their characteristics, and some internal logic.
+
+478
+00:42:21,718 --> 00:42:26,725
+There are a few things that are true and remain true, that don't evolve,
+
+479
+00:42:28,705 --> 00:42:30,737
+just like other areas of knowledge.
+
+480
+00:42:32,051 --> 00:42:35,506
+Certain somewhat primitive aspects of Mathematics,
+
+481
+00:42:37,792 --> 00:42:39,258
+which were all I know,
+
+482
+00:42:39,259 --> 00:42:41,525
+looked interesting from the start.
+
+483
+00:42:42,132 --> 00:42:45,696
+It was a very fortuitous thing for my knowledge,
+
+484
+00:42:45,697 --> 00:42:52,066
+that I really liked to read very basic things about Math, school Math,
+
+485
+00:42:52,067 --> 00:42:54,625
+that were quite rudimentary,
+
+486
+00:42:55,861 --> 00:42:59,966
+and I 'didn't dislike' that aspect.
+
+487
+00:42:59,967 --> 00:43:06,798
+Then I became interested in Math Olympiads, solving Olympiad problems.
+
+488
+00:43:06,799 --> 00:43:11,635
+And I found those a lot of fun, too. Studying those problems.
+
+489
+00:43:11,788 --> 00:43:18,229
+And then I started working on more theoretical areas, when I did my Master's,
+
+490
+00:43:18,264 --> 00:43:22,101
+I had to learn more, which I also found interesting.
+
+491
+00:43:22,102 --> 00:43:24,001
+This more abstract learning.
+
+492
+00:43:24,002 --> 00:43:26,504
+And then I started doing research,
+
+493
+00:43:26,505 --> 00:43:30,004
+with the characteristics I described just now.
+
+494
+00:43:30,005 --> 00:43:31,250
+And it was interesting.
+
+495
+00:43:31,251 --> 00:43:34,664
+Throughout those phases, it was possible…
+
+496
+00:43:34,665 --> 00:43:40,923
+For instance, it's perfectly normal for a great researcher to hate Olympiad problems,
+
+497
+00:43:40,924 --> 00:43:42,829
+or hate this aspect.
+
+498
+00:43:43,698 --> 00:43:45,073
+That is perfectly possible.
+
+499
+00:43:45,074 --> 00:43:51,798
+In my case, in all my life progress until I became a researcher,
+
+500
+00:43:52,450 --> 00:43:58,093
+maybe because of my story growing up,
+
+501
+00:43:58,094 --> 00:43:59,535
+it looked very interesting at that time.
+
+502
+00:43:59,536 --> 00:44:04,836
+Afterwards I lost interest in Math Olympiad problems, for instance,
+
+503
+00:44:04,837 --> 00:44:08,635
+it doesn't entice me today, but it was important to me at that time.
+
+504
+00:44:08,636 --> 00:44:12,319
+It is curious that at each moment something interested me,
+
+505
+00:44:12,320 --> 00:44:14,459
+and allowed me to progress a little bit faster.
+
+506
+00:44:14,460 --> 00:44:19,327
+There was no moment of "I'm not interested in Mathematics anymore".
+
+507
+00:44:19,328 --> 00:44:26,775
+"I have lost interest in this area. I don't want this."
+
+508
+00:44:26,794 --> 00:44:31,963
+This could have make me drift away,
+
+509
+00:44:31,964 --> 00:44:33,890
+but at each moment I found something interesting,
+
+510
+00:44:33,891 --> 00:44:40,732
+until I became a researcher, and have had the same interest since then...
+
+511
+00:44:43,871 --> 00:44:47,935
+to discover new Mathematics and understand certain aspects better,
+
+512
+00:44:47,936 --> 00:44:50,288
+which is what interests me now.
+
+513
+00:45:12,581 --> 00:45:14,306
+It's a feature of...
+
+514
+00:45:14,307 --> 00:45:19,676
+Well, it is an award conceived at a certain time,
+
+515
+00:45:19,677 --> 00:45:24,077
+and its story is well-known.
+
+516
+00:45:25,120 --> 00:45:29,793
+The idea was to have an international award, which didn't exist at the time...
+
+517
+00:45:29,794 --> 00:45:31,746
+It was the first one.
+
+518
+00:45:31,747 --> 00:45:37,276
+And its message was to convey unity of the Mathematics community.
+
+519
+00:45:37,277 --> 00:45:41,956
+It would be given by the International Mathematics Congress, in principle open to all,
+
+520
+00:45:41,982 --> 00:45:43,107
+at a time when there was some…
+
+521
+00:45:46,493 --> 00:45:48,438
+It was between the two World Wars,
+
+522
+00:45:48,439 --> 00:45:51,909
+and there were problems with nationalism and things of the sort.
+
+523
+00:45:55,780 --> 00:45:55,780
+So there are historical reasons for how it was introduced.
+
+524
+00:45:59,214 --> 00:46:01,285
+The creator of the award, called Fields,
+
+525
+00:46:03,726 --> 00:46:07,778
+wanted it to be an award given to young people, younger than 40.
+
+526
+00:46:07,779 --> 00:46:13,251
+It was not meant as an "end-of-career" award to celebrate a body of work,
+
+527
+00:46:13,252 --> 00:46:20,306
+but rather to highlight promising work, sometimes well fleshed out,
+
+528
+00:46:20,307 --> 00:46:25,302
+by someone who is active and likely to continue working.
+
+529
+00:46:27,286 --> 00:46:34,058
+It has characteristics that differ it from a Nobel Prize,
+
+530
+00:46:34,059 --> 00:46:38,895
+which is usually given as a reward at the end of a career.
+
+531
+00:46:38,896 --> 00:46:42,885
+I think there are certain positive aspects…
+
+532
+00:46:44,051 --> 00:46:45,649
+I don't think…
+
+533
+00:46:47,902 --> 00:46:51,478
+It is not a good inspiration to do good Mathematics,
+
+534
+00:46:51,479 --> 00:46:54,023
+or good science, or anything,
+
+535
+00:46:54,024 --> 00:46:59,891
+to seek to obtain some award for it.
+
+536
+00:46:59,892 --> 00:47:02,192
+I think it is the wrong direction to look,
+
+537
+00:47:02,193 --> 00:47:08,178
+even because many things are discovered by looking at less promising directions.
+
+538
+00:47:09,659 --> 00:47:14,370
+By looking at what really interests you, even though it may not interest others,
+
+539
+00:47:14,371 --> 00:47:19,074
+you end up discovering something that becomes and is seen as fundamental.
+
+540
+00:47:19,075 --> 00:47:22,152
+It is important that people look at all directions.
+
+541
+00:47:22,153 --> 00:47:26,273
+If we all look at the direction that looks more likely to be rewarded,
+
+542
+00:47:27,067 --> 00:47:30,698
+we will have very biased perspectives, and things won't develop as well.
+
+543
+00:47:33,460 --> 00:47:39,173
+Also, you do better Mathematics if you do something that genuinely interests you.
+
+544
+00:47:39,174 --> 00:47:41,331
+That is the real motivation.
+
+545
+00:47:41,332 --> 00:47:46,218
+That, and it is not a very reasonable goal...
+
+546
+00:47:46,219 --> 00:47:52,727
+to work in depth aiming at something so rare to achieve.
+
+547
+00:47:52,728 --> 00:47:54,257
+Not many awards like this are given,
+
+548
+00:47:54,258 --> 00:47:57,790
+they are like a Nobel or the like...
+
+549
+00:47:57,791 --> 00:48:00,927
+It is interesting that it has an effect...
+
+550
+00:48:01,502 --> 00:48:04,274
+There is this negative effect,
+
+551
+00:48:04,275 --> 00:48:11,838
+in that people, when they feel it's possible for them to win this award,
+
+552
+00:48:11,839 --> 00:48:16,314
+to try to win this award while they can, i.e. under 40,
+
+553
+00:48:16,315 --> 00:48:23,538
+so, in fact, it is hard to deny that it creates some competition,
+
+554
+00:48:23,539 --> 00:48:27,632
+but the positive side is that it has an expiration date.
+
+555
+00:48:29,559 --> 00:48:33,064
+After all, these awards are given, and then fulfill their role.
+
+556
+00:48:35,038 --> 00:48:42,666
+And for me, their role, be they the Nobel, Fields, and others that are well known,
+
+557
+00:48:43,546 --> 00:48:47,000
+is to communicate with the public.
+
+558
+00:48:47,868 --> 00:48:55,506
+It is through these awards that people see progress is being made in science.
+
+559
+00:48:55,507 --> 00:48:57,840
+So, when people talk…
+
+560
+00:48:59,104 --> 00:49:02,402
+There is this week of the year when the Nobels are given out,
+
+561
+00:49:02,403 --> 00:49:09,366
+and people will talk about advances in Medicine, Physics, Chemistry etc.
+
+562
+00:49:09,367 --> 00:49:11,124
+And this is interesting.
+
+563
+00:49:12,582 --> 00:49:14,482
+It lets people know that this work is being done,
+
+564
+00:49:14,483 --> 00:49:17,832
+and how important it is, and that it continues to be done.
+
+565
+00:49:17,833 --> 00:49:23,886
+So there is this aspect of bringing science closer...
+
+566
+17:52:11,179 --> 00:49:26,163
+to a community that won't hear this constantly.
+
+567
+00:49:26,164 --> 00:49:28,634
+That is the main point, I imagine,
+
+568
+00:49:28,635 --> 00:49:32,226
+the most important contribution of these awards.
+
+569
+00:49:32,227 --> 00:49:35,995
+Also, like I said,
+
+570
+00:49:35,996 --> 00:49:40,891
+they have this negative potential to generate harmful competition sometimes.
+
+571
+00:49:40,892 --> 00:49:48,700
+So the advantage of the Fields medal, in comparison with other career awards,
+
+572
+00:49:48,701 --> 00:49:49,918
+is that it has a deadline.
+
+573
+00:49:49,935 --> 00:49:55,976
+When you get to 40 you no longer need to worry about it, regardless of the result.
+
+574
+00:49:55,977 --> 00:50:02,187
+It fulfills its role, and doesn't have as much of the harmful effect...
+
+575
+00:50:02,188 --> 00:50:06,503
+in terms of making people continuously obsessed with this goal.
+
+576
+00:50:23,788 --> 00:50:27,493
+Yes, but I also don't understand a lot of what is done by the community.
+
+577
+00:50:28,585 --> 00:50:33,386
+This is something you discover relatively quickly as a Mathematician:
+
+578
+00:50:35,401 --> 00:50:42,745
+the depth and enormous number of different directions people research.
+
+579
+00:50:44,179 --> 00:50:47,075
+You have characteristics, and preferences…
+
+580
+00:50:48,196 --> 00:50:51,000
+For instance, just to give you an idea:
+
+581
+00:50:51,001 --> 00:50:55,748
+I have a line of thought that leads me to approach....
+
+582
+00:50:55,749 --> 00:51:01,503
+issues of a general part of Mathematics known as Analysis.
+
+583
+00:51:03,110 --> 00:51:04,457
+There are estimates,
+
+584
+00:51:04,458 --> 00:51:05,944
+and you try to obtain notions of physical quantities,
+
+585
+00:51:05,945 --> 00:51:10,819
+of how large or small things are, relationships, interactions…
+
+586
+00:51:10,820 --> 00:51:13,199
+But there is some more flexibility.
+
+587
+00:51:13,200 --> 00:51:16,045
+Other aspects, which I'd call more algebraic,
+
+588
+00:51:16,066 --> 00:51:18,962
+have rigid equations, manipulated precisely,
+
+589
+00:51:19,050 --> 00:51:21,314
+that give exact answers all the time...
+
+590
+00:51:22,107 --> 00:51:25,996
+This is home to another type of thinking, that I find more rigid.
+
+591
+00:51:25,997 --> 00:51:29,427
+My intuition goes more to the former than the latter,
+
+592
+00:51:29,428 --> 00:51:34,415
+so I have difficulty trying to understand those,
+
+593
+00:51:38,635 --> 00:51:42,008
+even things that are not so complicated.
+
+594
+00:51:42,009 --> 00:51:45,570
+Certainly for the latest advances in these areas,
+
+595
+00:51:45,571 --> 00:51:50,097
+I lack the framework to be able to say much about them.
+
+596
+00:51:50,098 --> 00:51:53,524
+So for me it is quite natural that advances that are,
+
+597
+00:51:53,525 --> 00:51:57,402
+like you said, on the "frontier" of knowledge,
+
+598
+00:51:57,403 --> 00:52:02,054
+are not accessible to people not working on them.
+
+599
+00:52:02,936 --> 00:52:06,324
+Yet, aspects...
+
+600
+00:52:06,325 --> 00:52:14,773
+A few aspects of discoveries end up being gradually conveyed.
+
+601
+00:52:14,774 --> 00:52:16,768
+This is one of the ideas I put forward.
+
+602
+00:52:16,769 --> 00:52:20,316
+Some Mathematicians work between two areas,
+
+603
+00:52:21,309 --> 00:52:24,244
+and they often 'transfer' these ideas.
+
+604
+00:52:24,245 --> 00:52:26,074
+This communication happens.
+
+605
+00:52:26,075 --> 00:52:30,399
+Sometimes it needs to go through several Mathematicians to go from here to there,
+
+606
+00:52:30,400 --> 00:52:32,791
+but it has this potential.
+
+607
+00:52:32,792 --> 00:52:34,791
+I did that in some directions,
+
+608
+00:52:34,792 --> 00:52:39,939
+bring some ideas from one subarea of dynamic systems to another,
+
+609
+00:52:39,974 --> 00:52:43,805
+and this is also done by people working with me in other directions.
+
+610
+00:52:48,178 --> 00:52:52,209
+I would consider it natural to see this difficulty of communication.
+
+611
+00:52:52,210 --> 00:52:55,892
+It is part of the complexity of the things we work with,
+
+612
+00:52:57,480 --> 00:53:05,939
+but at the same time I don't worry much that they will be isolated eternally.
+
+613
+00:53:07,349 --> 00:53:12,815
+They continue having the potential to influence others...
+
+614
+00:53:12,866 --> 00:53:16,973
+who may not understand exactly what I do, but can be influenced by a certain path...
+
+615
+00:53:17,085 --> 00:53:20,396
+by a few ideas developed in this area.
+
+616
+00:53:31,629 --> 00:53:37,042
+I don't think much in terms of predicting, because if I look back,
+
+617
+00:53:37,239 --> 00:53:40,955
+I realize I didn't envisage 10 years ago what I am doing now.
+
+618
+00:53:41,290 --> 00:53:43,676
+I had some idea, but it was basically...
+
+619
+00:53:46,077 --> 00:53:50,257
+'I'll probably be interested in things that interest me today,
+
+620
+00:53:50,258 --> 00:53:54,997
+but will certainly be interested in others I cannot predict now'.
+
+621
+00:53:54,998 --> 00:53:58,746
+For me it is very natural, working with dynamic systems,
+
+622
+00:53:58,747 --> 00:54:01,200
+to be unable to make such accurate predictions.
+
+623
+00:54:01,201 --> 00:54:05,998
+It doesn't worry me much not being able to predict as much.
+
+624
+00:54:06,800 --> 00:54:12,424
+In a more abstract level, or at a different level,
+
+625
+00:54:12,425 --> 00:54:17,834
+one goal would be to try to maintain the general characteristics…
+
+626
+00:54:19,654 --> 00:54:21,229
+In Mathematics it is easier.
+
+627
+00:54:21,230 --> 00:54:28,148
+In other sciences you work close to the technique, and production is direct.
+
+628
+00:54:28,149 --> 00:54:33,175
+Then you gain managerial responsibilities,
+
+629
+00:54:33,176 --> 00:54:38,653
+and have to manage other people and their work more than your own.
+
+630
+00:54:39,655 --> 00:54:42,485
+In Math that doesn't happen often.
+
+631
+00:54:42,486 --> 00:54:44,296
+You have small teams,
+
+632
+00:54:45,808 --> 00:54:47,886
+and Mathematicians, as much as they progress,
+
+633
+00:54:47,887 --> 00:54:54,789
+often tend to work as close to the 'base' as they did when they began.
+
+634
+00:54:56,039 --> 00:54:59,882
+So my wish, which is not hard to fulfill,
+
+635
+00:54:59,883 --> 00:55:05,860
+is to continue to work directly 'hands on'.
+
+636
+00:55:05,861 --> 00:55:08,145
+I am glad that Math is like this.
+
+637
+00:55:08,146 --> 00:55:13,180
+It would upset me if the consequence of doing good work...
+
+638
+00:55:13,181 --> 00:55:16,731
+was to be pushed to direct the work of others,
+
+639
+00:55:16,732 --> 00:55:21,827
+instead of having the pleasure to continuing to make discoveries directly.
+
+640
+00:55:34,444 --> 00:55:36,954
+It is interesting to think of Mathematics…
+
+641
+00:55:40,311 --> 00:55:43,591
+Mathematics… often...
+
+642
+00:55:44,024 --> 00:55:47,475
+Many who did not pursue more knowledge...
+
+643
+00:55:47,476 --> 00:55:51,953
+often don't know how Mathematicians think of mathematical objects.
+
+644
+00:55:51,954 --> 00:55:57,570
+Naturally, each will think differently,
+
+645
+00:55:57,571 --> 00:56:01,961
+but I believe some things are relatively general.
+
+646
+00:56:04,507 --> 00:56:07,892
+You are not working only with equations and numbers.
+
+647
+00:56:07,893 --> 00:56:12,066
+There is meaning and there is representation,
+
+648
+00:56:12,067 --> 00:56:15,642
+basically corresponding to mathematical objects.
+
+649
+00:56:20,895 --> 00:56:23,660
+These mathematical objects...
+
+650
+00:56:23,661 --> 00:56:28,695
+They are abstract, they don't have tangible reality,
+
+651
+00:56:28,696 --> 00:56:35,862
+so each Mathematician has their own interpretation, sees them differently.
+
+652
+00:56:35,863 --> 00:56:42,890
+Maybe visual, maybe not describable in terms corresponding to senses,
+
+653
+00:56:42,891 --> 00:56:46,378
+but there is an inner interpretation of that.
+
+654
+00:56:49,798 --> 00:56:52,069
+And the one creates...
+
+655
+00:56:52,070 --> 00:56:58,421
+Imagine Mathematics as populated by objects with connections between them,
+
+656
+00:57:01,302 --> 00:57:04,605
+and with aspects revealed when seen in a certain way.
+
+657
+00:57:04,606 --> 00:57:09,371
+You have a notion of a rich Mathematical theory,
+
+658
+00:57:13,486 --> 00:57:16,330
+with connections that appear quite surprisingly,
+
+659
+00:57:16,331 --> 00:57:21,150
+sometimes between things that did not appear to be related.
+
+660
+00:57:21,151 --> 00:57:26,569
+And these connections, these intersections...
+
+661
+00:57:26,570 --> 00:57:33,872
+of many subjects that end up being discovered as you study certain objects,
+
+662
+00:57:33,873 --> 00:57:37,799
+contribute to this view that they have...
+
+663
+00:57:40,858 --> 00:57:42,006
+We call it "richness".
+
+664
+00:57:42,007 --> 00:57:46,601
+And there's an appreciation of this order, this organization…
+
+665
+00:57:47,376 --> 00:57:48,348
+that takes place.
+
+666
+00:57:48,383 --> 00:57:51,181
+In general, this is what, for many are people,
+
+667
+00:57:51,216 --> 00:57:55,942
+tends to lead to a sensation called 'aesthetic appreciation',
+
+668
+00:57:55,966 --> 00:58:00,927
+and to call these types of objects 'beautiful'.
+
+669
+00:58:03,555 --> 00:58:04,738
+That is basically it.
+
+670
+00:58:04,739 --> 00:58:08,371
+This beauty is seen very subjectively by each Mathematician,
+
+671
+00:58:08,372 --> 00:58:11,082
+and communicated between them.
+
+672
+00:58:11,083 --> 00:58:14,532
+There is this attempt to communicate, which is interesting.
+
+673
+00:58:16,287 --> 00:58:19,511
+They have their personal view of objects,
+
+674
+00:58:19,512 --> 00:58:21,814
+but manage to convey them in a way.
+
+675
+00:58:21,815 --> 00:58:25,053
+It is imprecise, since you don't convey it totally,
+
+676
+00:58:25,054 --> 00:58:31,812
+but you do convey a few aspects that enrich the understanding by the other.
+
+677
+00:58:31,813 --> 00:58:39,157
+But it is sill very individual, how one interprets each universe.
+
+678
+01:00:03,148 --> 01:00:08,431
+Mathematics always seemed to me to be something...
+
+679
+01:00:11,989 --> 01:00:13,578
+let's say 'stable',
+
+680
+01:00:13,579 --> 01:00:16,624
+and which always develops.
+
+681
+01:00:16,625 --> 01:00:22,582
+The more you learn, the more you find that you ignore as it develops.
+
+682
+01:00:23,754 --> 01:00:27,356
+Our breakthroughs are much slower...
+
+683
+01:00:27,357 --> 01:00:30,886
+than the pace of discovery of what we don't know.
+
+684
+01:00:31,419 --> 01:00:32,766
+On the other hand,
+
+685
+01:00:33,673 --> 01:00:37,087
+what you can achieve...
+
+686
+01:00:38,460 --> 01:00:43,943
+becomes part, albeit small, of a growing theory…
+
+687
+01:00:46,008 --> 01:00:51,871
+And this fact that mathematical knowledge accumulates,
+
+688
+01:00:51,872 --> 01:00:56,035
+that it is not destructive in its nature…
+
+689
+01:00:56,618 --> 01:01:02,133
+like can happen in other areas of knowledge,
+
+690
+01:01:02,170 --> 01:01:09,322
+where theories overlap, or contradict each other at certain times,
+
+691
+01:01:09,323 --> 01:01:13,442
+or develop, and become obsolete,
+
+692
+01:01:15,817 --> 01:01:18,114
+and are fully replaced over time.
+
+693
+01:01:18,115 --> 01:01:20,079
+Mathematical knowledge develops,
+
+694
+01:01:21,192 --> 01:01:26,785
+but does not invalidate what has been discovered in the past.
+
+695
+01:01:26,786 --> 01:01:29,822
+There may be more complicated developments,
+
+696
+01:01:29,857 --> 01:01:31,933
+but it persists quite well.
+
+697
+01:01:33,009 --> 01:01:38,660
+This is one thing that has always attracted me, and given me some…
+
+698
+01:01:38,661 --> 01:01:44,857
+I like to think of Math at a moment of tranquility,
+
+699
+01:01:44,858 --> 01:01:50,977
+and even when I am not in that state to bring some of it,
+
+700
+01:01:50,978 --> 01:01:55,038
+to think of it as something that 'is there',
+
+701
+01:01:55,039 --> 01:01:58,575
+that has its characteristics, that has its logic.
+
+702
+01:01:58,576 --> 01:02:03,170
+It may be difficult sometimes, and it may seem very rigid,
+
+703
+01:02:03,171 --> 01:02:08,975
+and make you work hard to do things that seem so evident,
+
+704
+01:02:11,049 --> 01:02:14,395
+but that same work, those same rules,
+
+705
+01:02:14,396 --> 01:02:21,724
+lead to the fact that when you reach a goal, it is stable.
+
+706
+01:02:21,988 --> 01:02:23,237
+It has structure.
+
+707
+01:02:27,704 --> 01:02:30,782
+And that is not something easily found elsewhere.
+
+708
+01:02:33,222 --> 01:02:38,868
+That is something pleasant to think about.
+
+709
+01:02:40,711 --> 01:02:42,528
+Maybe at more tense moments,
+
+710
+01:02:42,529 --> 01:02:48,786
+if you need to separate from anything that may be drawing your attention,
+
+711
+01:02:48,787 --> 01:02:53,771
+if you manage it, you can be in the mathematical world again,
+
+712
+01:02:53,772 --> 01:02:58,633
+with its rules, and its stability.
+
+713
+01:02:59,064 --> 01:03:01,144
+So, it has its moments,
+
+714
+01:03:01,169 --> 01:03:03,201
+but I wouldn't...
+
+715
+01:03:06,037 --> 01:03:12,469
+I would say that, emotionally, that has a small role in that sense.
+
+716
+01:03:19,034 --> 01:03:20,984
+Afraid… I guess I'm not afraid.
+
+717
+01:03:20,985 --> 01:03:25,118
+You have to be realistic about what you can discover,
+
+718
+01:03:25,119 --> 01:03:27,970
+and how things happen…
+
+719
+01:03:27,971 --> 01:03:28,971
+You don't need to...
+
+720
+01:03:30,451 --> 01:03:33,483
+I don't see it as very problematic when you have moments...
+
+721
+01:03:34,365 --> 01:03:37,015
+in which it looks like you are not making progress.
+
+722
+01:03:37,016 --> 01:03:40,334
+That is normal in any long career.
+
+723
+01:03:41,735 --> 01:03:44,209
+Any mathematician will go through this,
+
+724
+01:03:44,210 --> 01:03:50,293
+and experiences teaches you that many things depend on...
+
+725
+01:03:50,294 --> 01:03:54,689
+being at the right moment and having a bit of luck as well.
+
+726
+01:03:57,281 --> 01:03:58,682
+These oscillations happen.
+
+727
+01:03:59,426 --> 01:04:03,919
+This type of concern doesn't affect me much.
+
+728
+01:04:03,920 --> 01:04:07,807
+I think you have to persist in seeking things,
+
+729
+01:04:09,223 --> 01:04:14,277
+be realistic about the fact that most times you won't get to where you would like to,
+
+730
+01:04:16,104 --> 01:04:20,695
+remain determined, and appreciate when things work.
+
+731
+01:04:22,970 --> 01:04:26,384
+In daily work in Math,
+
+732
+01:04:27,316 --> 01:04:31,599
+most of the time you are working with things you know well,
+
+733
+01:04:31,776 --> 01:04:38,120
+and developing techniques that you already master,
+
+734
+01:04:39,440 --> 01:04:44,231
+seeking to take them a bit further.
+
+735
+01:04:46,298 --> 01:04:49,891
+Most often, this work...
+
+736
+01:04:52,592 --> 01:04:54,956
+is what is more visible as 'work'.
+
+737
+01:04:54,957 --> 01:04:57,922
+Like I said, you are often stuck without an idea,
+
+738
+01:05:03,267 --> 01:05:05,439
+and you wait for this 'unblock'.
+
+739
+01:05:05,440 --> 01:05:07,308
+So, sometimes it appears you're doing nothing,
+
+740
+01:05:07,309 --> 01:05:14,528
+then a short moment when you realize something that can make a difference,
+
+741
+01:05:14,529 --> 01:05:20,650
+and then the more 'conventional' work,
+
+742
+01:05:20,651 --> 01:05:28,167
+which involves a lot of creativity, but when it's easier to understand what is needed.
+
+743
+01:05:28,308 --> 01:05:33,547
+It is more 'concrete', perceivable work.
+
+744
+01:05:35,312 --> 01:05:38,094
+This moment of discovery,
+
+745
+01:05:39,896 --> 01:05:44,062
+when you feel you understood something different,
+
+746
+01:05:44,063 --> 01:05:48,177
+is an interesting one emotionally.
+
+747
+01:05:48,178 --> 01:05:50,177
+It combines several things.
+
+748
+01:05:50,178 --> 01:05:56,472
+You often get the immediate feeling that it can be important,
+
+749
+01:05:56,473 --> 01:06:00,383
+but sometimes that's inaccurate.
+
+750
+01:06:00,384 --> 01:06:08,215
+You become immediately excited about the potential,
+
+751
+01:06:08,216 --> 01:06:13,933
+of what can unfold from that idea.
+
+752
+01:06:13,934 --> 01:06:18,449
+You really want it to be fruitful,
+
+753
+01:06:18,450 --> 01:06:25,236
+and sometimes cling to keeping it alive in the face of difficulties.
+
+754
+01:06:25,237 --> 01:06:28,334
+At the same time, there are doubts,
+
+755
+01:06:28,335 --> 01:06:31,130
+and it is part of a Mathematician's work...
+
+756
+01:06:31,131 --> 01:06:37,391
+to attack your own ideas to find possible faults.
+
+757
+01:06:39,487 --> 01:06:44,563
+It's an emotionally complicated approach. There are several sides of you.
+
+758
+01:06:45,004 --> 01:06:46,849
+One side wants the idea to work,
+
+759
+01:06:46,850 --> 01:06:53,552
+but you have to work on finding the faults in it,
+
+760
+01:06:53,553 --> 01:06:56,734
+and of course would like not to,
+
+761
+01:06:58,039 --> 01:07:01,357
+but it is very productive to put a lot of energy into it,
+
+762
+01:07:03,071 --> 01:07:06,806
+so you're not working with an idea that turns out to be problematic.
+
+763
+01:07:08,022 --> 01:07:11,347
+Sometimes these moments are complicated…
+
+764
+01:07:12,273 --> 01:07:15,612
+But this excitement happens at very precise times,
+
+765
+01:07:15,613 --> 01:07:19,720
+and in general is what precedes this more arduous work.
+
+766
+01:07:21,012 --> 01:07:27,287
+You need to think about it, but have the feeling something can happen.
+
+767
+01:07:31,575 --> 01:07:33,801
+I don't believe much...
+
+768
+01:07:35,986 --> 01:07:41,072
+I don't believe much in looking directly or continuously...
+
+769
+01:07:41,073 --> 01:07:43,780
+at a very complicated direction.
+
+770
+01:07:43,781 --> 01:07:45,721
+I think things happens more naturally.
+
+771
+01:07:45,722 --> 01:07:50,448
+I mentioned that sometimes you could be looking in a different direction...
+
+772
+01:07:51,982 --> 01:07:58,331
+and you get that 'click', you have an idea and think:
+
+773
+01:07:58,332 --> 01:08:03,989
+'This could finally be useful for that big problem you considered before'.
+
+774
+01:08:03,990 --> 01:08:09,672
+So I prefer not to look directly at the problems.
+
+775
+01:08:11,832 --> 01:08:13,432
+I have done it for some,
+
+776
+01:08:13,433 --> 01:08:20,897
+but I know of several problems in dynamic systems that are fundamental,
+
+777
+01:08:20,898 --> 01:08:26,079
+whose understanding and solution would lead to great progress...
+
+778
+01:08:26,080 --> 01:08:31,250
+in our general understanding of specific dynamic systems that interest me,
+
+779
+01:08:32,192 --> 01:08:38,800
+but I think it is very hard to predict where you will go,
+
+780
+01:08:39,990 --> 01:08:44,948
+so I avoid thinking in terms of 'I would really like to solve problem X'.
+
+781
+01:08:44,949 --> 01:08:48,410
+There are many problems that everybody would like to solve,
+
+782
+01:08:48,411 --> 01:08:53,475
+but it is not something I define as a major goal.
+
+783
+01:09:21,130 --> 01:09:23,590
+I find it interesting to talk about things that are non mathematical...
+
+784
+01:09:24,286 --> 01:09:27,525
+with non-Mathematicians and mathematicians as well.
+
+785
+01:09:28,234 --> 01:09:30,321
+There are many topics that are interesting…
+
+786
+01:09:30,322 --> 01:09:36,677
+I don't think I'd have a great need to discuss work with them.
+
+787
+01:09:36,678 --> 01:09:42,804
+When people can appreciate it, math is one more topic of conversation,
+
+788
+01:09:42,805 --> 01:09:49,009
+but it's perfectly reasonable for different people to have very different interests,
+
+789
+01:09:49,010 --> 01:09:54,270
+and I don't see the need to try to talk about these things…
+
+790
+01:09:55,642 --> 01:09:58,929
+It's natural not to be interested in them.
+
+791
+01:10:24,249 --> 01:10:26,818
+Well, I have solved many problems...
+
+792
+01:10:30,642 --> 01:10:36,019
+that resisted approaches for a long time, that is true.
+
+793
+01:10:37,348 --> 01:10:39,669
+This is a feature of the way I work.
+
+794
+01:10:43,786 --> 01:10:47,111
+And I like solving problems like that, and to formulate questions.
+
+795
+01:10:47,861 --> 01:10:54,280
+But I certainly am attracted to some questions not just because they were open,
+
+796
+01:10:54,281 --> 01:10:57,799
+even because there are so many them,
+
+797
+01:10:57,800 --> 01:11:03,947
+but some because they cover issues for which I've developed a certain 'affection'.
+
+798
+01:11:07,049 --> 01:11:08,850
+This brings self-satisfaction,
+
+799
+01:11:10,018 --> 01:11:14,327
+and it is nice to speak to other Mathematicians about them,
+
+800
+01:11:14,328 --> 01:11:17,734
+but is not something I need to discuss with everyone.
+
+801
+01:11:17,735 --> 01:11:20,390
+I don't need everyone to appreciate it.
+
+802
+01:11:21,472 --> 01:11:25,784
+The most fundamental appreciation for your work must be your own.
+
+803
+01:11:25,785 --> 01:11:32,437
+If you don't appreciate your own work, you'll have a lot of trouble pursuing it.
+
+804
+01:11:32,830 --> 01:11:34,997
+This is something you have to seek, and once you get it,
+
+805
+01:11:35,069 --> 01:11:39,013
+it is nice that your colleagues appreciate it too,
+
+806
+01:11:39,014 --> 01:11:41,036
+and to talk to them about it,
+
+807
+01:11:41,037 --> 01:11:45,090
+to have this exchange and hear from them,
+
+808
+01:11:45,091 --> 01:11:46,967
+but it is a part of it…
+
+809
+01:11:48,187 --> 01:11:54,017
+I have no need for everyone to appreciate my contributions.
+
+810
+01:12:01,717 --> 01:12:02,416
+No…
+
+811
+01:12:02,649 --> 01:12:08,784
+I always work a lot with others, and find people I can talk to.
+
+812
+01:12:08,785 --> 01:12:11,933
+In some of the work there was a gap...
+
+813
+01:12:11,934 --> 01:12:19,465
+between the needs to make it progress and what others could contribute,
+
+814
+01:12:19,466 --> 01:12:27,042
+even because it took many simultaneous traits and I was more suitable to do it alone,
+
+815
+01:12:27,043 --> 01:12:31,022
+but as time goes by, if you work is interesting,
+
+816
+01:12:31,023 --> 01:12:39,268
+it's normal for people to follow and investigate how they can use it,
+
+817
+01:12:40,663 --> 01:12:43,268
+or even improve what we had.
+
+818
+01:12:45,434 --> 01:12:48,028
+I don't have this feeling...
+
+819
+01:12:49,052 --> 01:12:51,354
+Mathematicians, they have…
+
+820
+01:12:52,844 --> 01:12:57,666
+There is that contribution that leads to solutions to problems,
+
+821
+01:12:58,297 --> 01:13:03,391
+but that often comes from work that didn't bring solutions but introduced ideas,
+
+822
+01:13:03,392 --> 01:13:08,469
+so I am aware of and greatly appreciate this work that is done,
+
+823
+01:13:08,470 --> 01:13:15,194
+and is often overlooked by awards etc.,
+
+824
+01:13:15,195 --> 01:13:18,741
+but that is fundamental for the progress of Math.
+
+825
+01:13:20,010 --> 01:13:24,700
+So I see the contributions of all who worked in this field.
+
+826
+01:13:24,701 --> 01:13:29,196
+Each of them did something that, if they hadn't,
+
+827
+01:13:29,197 --> 01:13:32,644
+I wouldn't have done anything or have a field to work on.
+
+828
+01:13:35,169 --> 01:13:36,285
+I also know that,
+
+829
+01:13:36,286 --> 01:13:40,511
+even when something I do has technical difficulties...
+
+830
+01:13:40,512 --> 01:13:43,729
+that means it may take a while to be appreciated,
+
+831
+01:13:43,730 --> 01:13:48,728
+I do hope it is, and that it will be useful to people.
+
+832
+01:13:48,729 --> 01:13:51,538
+That it's not something that stays isolated in me,
+
+833
+01:13:51,539 --> 01:13:59,313
+but that increases the overall mathematical knowledge of the community.
+
+834
+01:13:59,314 --> 01:14:00,314
+So there's that.
+
+835
+01:14:00,315 --> 01:14:01,501
+It's not just…
+
+836
+01:14:01,502 --> 01:14:06,548
+I would be reasonably satisfied to have my own fulfillment...
+
+837
+01:14:06,549 --> 01:14:10,485
+for having gotten somewhere on a problem whose solution interests me,
+
+838
+01:14:10,486 --> 01:14:15,732
+but there's this additional component, and I don't particularly feel it is missing.
+
+839
+01:14:52,807 --> 01:15:01,527
+Between mathematical thought and everyday life?
+
+840
+01:15:02,583 --> 01:15:03,588
+In that sense?
+
+841
+01:15:14,470 --> 01:15:18,590
+Depends on the type of problem you're working on.
+
+842
+01:15:20,011 --> 01:15:22,274
+There are certain situations in which...
+
+843
+01:15:22,275 --> 01:15:27,843
+you do these internal representations of the object,
+
+844
+01:15:27,844 --> 01:15:31,194
+and try to look at them differently.
+
+845
+01:15:35,768 --> 01:15:42,970
+It could be by seeking a side you haven't explored yet but could develop,
+
+846
+01:15:42,971 --> 01:15:46,019
+or it could be manipulations,
+
+847
+01:15:46,020 --> 01:15:54,400
+where it is clear, or you have identified something that can lead to a solution,
+
+848
+01:15:54,401 --> 01:15:59,020
+but which has some internal complexities.
+
+849
+01:16:02,010 --> 01:16:05,242
+Then you do something close to - albeit quite different -
+
+850
+01:16:05,243 --> 01:16:08,339
+from what non-Mathematicians call 'calculation',
+
+851
+01:16:08,340 --> 01:16:13,401
+and then do approximations that we Mathematicians would also 'calculate',
+
+852
+01:16:13,402 --> 01:16:16,752
+to estimate the consequences of certain processes.
+
+853
+01:16:16,753 --> 01:16:20,099
+You do certain procedures to manipulate objects,
+
+854
+01:16:20,100 --> 01:16:28,520
+and see if that reveals any other traits to be explored.
+
+855
+01:16:29,672 --> 01:16:33,753
+In that process, you are indeed doing a sequence of operations,
+
+856
+01:16:33,754 --> 01:16:39,625
+and imagining which next operation can be useful,
+
+857
+01:16:39,626 --> 01:16:44,974
+and all that happens inside your head…
+
+858
+01:16:46,629 --> 01:16:48,399
+Hard to describe further than that.
+
+859
+01:16:48,400 --> 01:16:52,161
+And that also varies in each situation.
+
+860
+01:17:14,340 --> 01:17:17,831
+It is possible to get distracted in a few situations.
+
+861
+01:17:17,856 --> 01:17:21,311
+Not sure if much more than other people,
+
+862
+01:17:21,374 --> 01:17:24,926
+but I do have this tendency, when I start thinking of something,
+
+863
+01:17:24,927 --> 01:17:27,161
+to become somewhat involved.
+
+864
+01:17:28,471 --> 01:17:35,635
+I think certain activities require some level of exclusive dedication,
+
+865
+01:17:35,636 --> 01:17:41,100
+especially if it creates certain risks to yourself or to other people,
+
+866
+01:17:41,101 --> 01:17:42,636
+such as driving.
+
+867
+01:17:47,167 --> 01:17:48,893
+And I would imagine that there is a trend...
+
+868
+01:17:48,894 --> 01:17:54,422
+to get comfortable with anything that becomes repetitive,
+
+869
+01:17:54,423 --> 01:17:57,519
+and in which you develop a feeling of safety.
+
+870
+01:17:59,781 --> 01:18:05,194
+And that could lead you to think of other things,
+
+871
+01:18:05,195 --> 01:18:11,860
+initially lightly, but then draw a lot of your attention inadvertently.
+
+872
+01:18:14,501 --> 01:18:19,520
+That may not cause any consequences, maybe out of luck,
+
+873
+01:18:19,886 --> 01:18:26,602
+but you are creating the possibility that it will.
+
+874
+01:18:28,474 --> 01:18:35,830
+There is also the issue that I prefer to live in urban areas...
+
+875
+01:18:35,831 --> 01:18:41,619
+where the need to have your own car is reduced.
+
+876
+01:18:41,620 --> 01:18:48,616
+I don't make sacrifices by not driving while living in Rio or in Paris,
+
+877
+01:18:48,617 --> 01:18:53,625
+while in other cities of the world that could be an issue.
+
+878
+01:18:53,626 --> 01:18:57,383
+I don't feel this is a problem with my life here, though,
+
+879
+01:18:57,857 --> 01:19:03,410
+so I think it's not worth risking this,
+
+880
+01:19:05,478 --> 01:19:10,025
+or not risking it and having to force myself to fully dedicate...
+
+881
+01:19:10,026 --> 01:19:16,874
+to a relatively repetitive activity feeling like I can't distract from it.
+
+882
+01:19:19,225 --> 01:19:21,598
+I don't see the need for that.
+
+883
+01:19:27,543 --> 01:19:32,505
+I think it is easier to answer how I see…
+
+884
+01:19:38,081 --> 01:19:41,314
+why Math is something interesting to develop,
+
+885
+01:19:41,315 --> 01:19:45,395
+or why people should study it.
+
+886
+01:19:45,396 --> 01:19:48,772
+One of the reasons, which I mentioned,
+
+887
+01:19:49,809 --> 01:19:55,518
+has to do with repercussions and developments...
+
+888
+01:19:55,519 --> 01:20:00,690
+of technological progress and science in general through Math,
+
+889
+01:20:00,691 --> 01:20:06,509
+but Math, specially seen from the 'purer' side of it,
+
+890
+01:20:06,510 --> 01:20:11,842
+is often developed as something close to a form of...
+
+891
+01:20:13,381 --> 01:20:15,384
+artistic expression.
+
+892
+01:20:18,169 --> 01:20:26,874
+Maybe it is something that attracts fewer people than music or sculpture,
+
+893
+01:20:28,398 --> 01:20:34,233
+because understanding Math requires, even for its simpler concepts,
+
+894
+01:20:34,234 --> 01:20:42,174
+a certain immersion in a prior study that other artistic expressions...
+
+895
+01:20:42,175 --> 01:20:52,427
+don't require for you to immediately see why it is beautiful or moving.
+
+896
+01:20:52,428 --> 01:20:59,644
+But, with some preparation and dedication,
+
+897
+01:20:59,645 --> 01:21:02,254
+it can have the same potential impact.
+
+898
+01:21:02,255 --> 01:21:08,554
+Like I said, you can appreciate this, this order,
+
+899
+01:21:08,555 --> 01:21:14,198
+this increasing structuring, and the surprises that appear,
+
+900
+01:21:14,199 --> 01:21:21,866
+and things that are very similar or very different when you don't expect them to be,
+
+901
+01:21:21,867 --> 01:21:27,856
+and all these characteristics are...
+
+902
+01:21:27,857 --> 01:21:33,120
+something that many people can (and do) seek...
+
+903
+01:21:35,967 --> 01:21:39,149
+to advance in this...
+
+904
+01:21:41,801 --> 01:21:46,028
+advance in this search for abstract understanding,
+
+905
+01:21:46,033 --> 01:21:48,808
+and the formation of a mathematical universe.
+
+906
+01:21:48,809 --> 01:21:56,150
+You are building, or helping to build, this piece…
+
+907
+01:21:56,151 --> 01:22:01,913
+Maybe not a piece, but this knowledge of this interconnected mathematical universe...
+
+908
+01:22:02,297 --> 01:22:06,862
+that each one only knows a small part of, but can contribute to.
+
+909
+01:22:09,226 --> 01:22:12,629
+I see it as quite a natural thing, then,
+
+910
+01:22:12,630 --> 01:22:17,860
+that it attracts people.
+
+911
+01:22:17,861 --> 01:22:22,161
+Not all people, since each will be attracted to something different.
+
+912
+01:22:23,221 --> 01:22:26,936
+But it can be just as attractive, and is, to certain people,
+
+913
+01:22:26,937 --> 01:22:31,932
+as other completely natural forms of expression.
+
+914
+01:22:31,933 --> 01:22:34,094
+Math has a history that goes back to…
+
+915
+01:22:34,901 --> 01:22:39,806
+even before then, but recognizably to the ancient Greeks,
+
+916
+01:22:40,282 --> 01:22:46,401
+who often sought to learn Math or develop it...
+
+917
+01:22:46,544 --> 01:22:52,177
+because they considered it something natural to pursue.
+
+918
+01:22:55,685 --> 01:22:59,220
+As part of the human quest.
+
+919
+01:22:59,221 --> 01:23:02,586
+It's been like that since the beginning,
+
+920
+01:23:02,587 --> 01:23:07,422
+and it is important to emphasize that additional importance:
+
+921
+01:23:07,423 --> 01:23:15,597
+that, in addition to these more perceivable, tangible repercussions,
+
+922
+01:23:15,598 --> 01:23:23,173
+we should remember that it is more than that.
+
+923
+01:23:23,174 --> 01:23:29,440
+It incorporates other things that should be appreciated in a more intrinsic manner.
+
+924
+01:24:20,076 --> 01:24:24,354
+In Math, I see it as you...
+
+925
+01:24:25,238 --> 01:24:29,425
+finding out more about things that are well-established discoveries.
+
+926
+01:24:29,570 --> 01:24:31,174
+Of course, people make mistakes.
+
+927
+01:24:31,986 --> 01:24:33,273
+It is part of the process.
+
+928
+01:24:34,481 --> 01:24:37,095
+Any person can make mistakes, which may be short-lived,
+
+929
+01:24:37,096 --> 01:24:40,726
+but other than these errors - and those are often quite limited -
+
+930
+01:24:43,280 --> 01:24:49,536
+the mathematical knowledge being developed is considered in general to be true.
+
+931
+01:24:49,537 --> 01:24:57,346
+There is no serious dispute between mathematicians with different interpretations...
+
+932
+01:24:57,347 --> 01:25:04,105
+regarding the true nature of the status of a certain discovery made.
+
+933
+01:25:06,052 --> 01:25:12,281
+Mathematics is populated by small truths that correspond to a growing universe,
+
+934
+01:25:12,282 --> 01:25:17,886
+and so there is no great doubt when one is working.
+
+935
+01:25:17,887 --> 01:25:22,218
+It is something quite characteristic of our knowledge.
+
+936
+01:25:23,814 --> 01:25:29,333
+There have been moments of discussions in that sense,
+
+937
+01:25:29,334 --> 01:25:33,688
+the Mathematicians...
+
+938
+01:25:33,689 --> 01:25:39,909
+about the foundational issues of Math, including in dialogue with Philosophers...
+
+939
+01:25:39,910 --> 01:25:47,949
+but we have arrived at notions of the limitations, of where Math can take us.
+
+940
+01:25:47,950 --> 01:25:53,210
+Ambitions of total formalism have been somewhat abandoned.
+
+941
+01:25:53,211 --> 01:25:58,113
+The known limitations coming from Logic, coming from Gödel, for instance,
+
+942
+01:25:59,761 --> 01:26:07,724
+may have destroyed the more exaggerated ambitions of the beginning of the century,
+
+943
+01:26:09,143 --> 01:26:10,463
+I mean the 20th century,
+
+944
+01:26:11,600 --> 01:26:12,640
+and are now well understood.
+
+945
+01:26:13,844 --> 01:26:19,840
+Mathematicians essentially accept the limitations of what they can work on.
+
+946
+01:26:20,728 --> 01:26:22,345
+They know these limitations.
+
+947
+01:26:22,346 --> 01:26:25,642
+But they seek to work on certain well-defined objects,
+
+948
+01:26:25,643 --> 01:26:31,380
+they have the continuous feeling of obtaining something true and permanent.
+
+949
+01:26:41,197 --> 01:26:46,482
+In simple terms, pure Mathematics is considered to be that which is investigated...
+
+950
+01:26:46,483 --> 01:26:51,231
+without the goal of achieving immediate application outside Math.
+
+951
+01:26:51,232 --> 01:26:55,647
+It may find application, and many times it does.
+
+952
+01:26:55,648 --> 01:26:57,478
+Things that initially belonged...
+
+953
+01:26:57,479 --> 01:27:06,241
+It is more a way of selecting your research objects and your intention in studying them.
+
+954
+01:27:07,412 --> 01:27:13,617
+Sometimes the type of Math is the same used in applied and pure Math,
+
+955
+01:27:13,701 --> 01:27:15,542
+sometimes the objects are the same.
+
+956
+01:27:16,075 --> 01:27:21,046
+This distinction is based on intent and this leads to some selection,
+
+957
+01:27:21,475 --> 01:27:24,323
+in that applied Math will work more on certain types of objects,
+
+958
+01:27:24,324 --> 01:27:26,185
+and pure Math on others.
+
+959
+01:27:26,186 --> 01:27:30,596
+In the end, you will potentially be using the same things.
+
+960
+01:27:31,000 --> 01:27:36,345
+If it is Math, the same tools are valid for one side or the other.
+
+961
+01:27:36,346 --> 01:27:41,454
+But there is this distinction on what you select and what goals you have:
+
+962
+01:27:41,455 --> 01:27:48,102
+Is your interest intrinsic to Math, or are you seeking direct application of it?
+
+963
+01:27:49,960 --> 01:27:51,801
+I put myself…
+
+964
+01:27:51,802 --> 01:27:57,160
+I am more interested in the 'intrinsic interest' side…
+
+965
+01:27:57,286 --> 01:28:03,015
+I sometimes work on problems directly inspired by physical models etc.,
+
+966
+01:28:03,016 --> 01:28:08,949
+but the reason I select it to work on is not its applicability,
+
+967
+01:28:08,950 --> 01:28:12,735
+but rather because the associated mathematical theory interests me,
+
+968
+01:28:12,736 --> 01:28:16,504
+due to the characteristics I mentioned, such as its richness, beauty etc.
+
+969
+01:28:55,879 --> 01:28:58,023
+At that moment…
+
+970
+01:29:00,359 --> 01:29:04,039
+When I'm reflecting on issues,
+
+971
+01:29:04,494 --> 01:29:09,713
+seeking another idea without a very well-defined plan,
+
+972
+01:29:10,107 --> 01:29:11,637
+and you're not...
+
+973
+01:29:13,527 --> 01:29:19,420
+You have some hope, but are just seeking a starting point,
+
+974
+01:29:19,455 --> 01:29:23,891
+that takes relatively little time…
+
+975
+01:29:24,358 --> 01:29:26,745
+It's like I said, I could be working on something else,
+
+976
+01:29:26,746 --> 01:29:31,994
+but back then I was working on a question I didn't have a clear path for,
+
+977
+01:29:31,995 --> 01:29:35,641
+and that occupies relatively little time.
+
+978
+01:29:35,642 --> 01:29:41,426
+Much more time is spent on mathematical work when...
+
+979
+01:29:42,468 --> 01:29:44,853
+you start with an idea you already had,
+
+980
+01:29:44,854 --> 01:29:50,346
+and trying to develop it, and use other techniques...
+
+981
+01:29:50,347 --> 01:29:57,084
+to make connections in a more predictable way.
+
+982
+01:30:01,901 --> 01:30:07,509
+This attempt to arrive more consciously at an idea...
+
+983
+01:30:07,510 --> 01:30:10,068
+without knowing where it will come from...
+
+984
+01:30:10,069 --> 01:30:12,147
+is something I spent less time on.
+
+985
+01:30:12,148 --> 01:30:15,584
+I look at it again and check if something has matured,
+
+986
+01:30:15,585 --> 01:30:19,754
+but in general you get to the conclusion you already had very quickly.
+
+987
+01:30:19,755 --> 01:30:22,530
+Then, either something appears,
+
+988
+01:30:22,531 --> 01:30:26,568
+or you realize your manipulations keep leading you back to the same place,
+
+989
+01:30:26,569 --> 01:30:30,032
+and that you're not getting any further.
+
+990
+01:30:30,033 --> 01:30:35,022
+I don't consider it very useful to keep persisting in this.
+
+991
+01:30:36,495 --> 01:30:41,359
+In this problem in particular, recently I've been ending up in the same place.
+
+992
+01:30:41,360 --> 01:30:45,776
+Even though I try small variations, they all take me to the same place.
+
+993
+01:30:45,938 --> 01:30:51,817
+When I realize this, I tend to abandon it for a bit longer.
+
+994
+01:30:51,818 --> 01:30:54,410
+But that is not a large part of my day.
+
+995
+01:30:59,648 --> 01:31:02,276
+There isn't a set rhythm…
+
+996
+01:31:02,277 --> 01:31:04,731
+Every day has its characteristics.
+
+997
+01:31:04,732 --> 01:31:10,273
+I will spare a moment among my daily tasks to think of Math,
+
+998
+01:31:10,274 --> 01:31:16,480
+but as part of my practical obligations and the like.
+
+999
+01:31:16,481 --> 01:31:19,357
+Since I don't have a lot of standing obligations…
+
+1000
+01:31:22,069 --> 01:31:29,293
+Sometimes I will arrange to speak with a student or a colleague,
+
+1001
+01:31:29,294 --> 01:31:31,852
+and that will occupy a specific part of my day.
+
+1002
+01:31:31,853 --> 01:31:36,166
+The moment I spare to work alone is when I feel more available,
+
+1003
+01:31:36,167 --> 01:31:37,167
+but that changes from day to day.
+
+1004
+01:31:37,168 --> 01:31:39,559
+I don't have fixed times in my schedule.
+
+1005
+01:31:39,560 --> 01:31:44,582
+I also collaborate a lot with people from other countries on-line,
+
+1006
+01:31:44,583 --> 01:31:49,342
+so I need to adapt my schedule to time zones etc.
+
+1007
+01:31:49,343 --> 01:31:52,879
+No need to follow a very precise routine.
+
+1008
+01:32:21,684 --> 01:32:23,231
+That changes a lot, but yes,
+
+1009
+01:32:24,047 --> 01:32:27,237
+for a while now I've had the habit of waking up late.
+
+1010
+01:32:27,911 --> 01:32:32,902
+I usually wake up at around noon or later.
+
+1011
+01:32:32,903 --> 01:32:37,496
+And… These are my hours.
+
+1012
+01:32:37,545 --> 01:32:42,434
+Since I don't have the need to wake up in the morning, I don't,
+
+1013
+01:32:42,435 --> 01:32:45,162
+but on the other hand, I go to sleep later.
+
+1014
+01:32:46,183 --> 01:32:47,659
+Other than that…
+
+1015
+01:32:47,660 --> 01:32:50,856
+I wake up and take care of a few practical things,
+
+1016
+01:32:50,857 --> 01:32:55,057
+like eating, going to the gym…
+
+1017
+01:32:55,058 --> 01:32:58,367
+I do my chores when it is most convenient.
+
+1018
+01:32:59,527 --> 01:33:04,468
+And like I said, there are the things that are more 'identifiable' as work,
+
+1019
+01:33:04,469 --> 01:33:08,495
+and in certain moments you may find yourself thinking…
+
+1020
+01:33:08,496 --> 01:33:12,686
+It has to be at a clear-headed moment…
+
+1021
+01:33:12,687 --> 01:33:20,130
+It's hard, at least for me, to say "I will book this time for abstract thinking."
+
+1022
+01:33:20,131 --> 01:33:22,941
+I may schedule to speak to colleagues for this,
+
+1023
+01:33:22,942 --> 01:33:27,654
+but when I'm alone, I will choose a moment in which I feel more serene,
+
+1024
+01:33:27,655 --> 01:33:35,225
+and without other sources of stress that can divide my attention.
+
+1025
+01:33:35,226 --> 01:33:39,013
+I wait for these moments to happen naturally.
+
+1026
+01:33:58,434 --> 01:33:59,834
+I don't like...
+
+1027
+01:33:59,835 --> 01:34:01,941
+I don't think that's necessary,
+
+1028
+01:34:01,942 --> 01:34:06,590
+but I don't like to plan very carefully how things will happens,
+
+1029
+01:34:06,591 --> 01:34:13,197
+because I end up wanting to change things at the last minute.
+
+1030
+01:34:13,198 --> 01:34:20,123
+Every plan I make may not be ideal, and I'll be tempted to change them,
+
+1031
+01:34:20,124 --> 01:34:24,574
+so I try not to plan too far in advance.
+
+1032
+01:34:26,774 --> 01:34:29,799
+I have some difficulty organizing in that sense,
+
+1033
+01:34:29,800 --> 01:34:36,175
+but fortunately my work allows me to keep doing it this way.
+
+1034
+01:34:36,176 --> 01:34:39,485
+I could do it - and many Mathematicians do it without issue -
+
+1035
+01:34:39,486 --> 01:34:42,875
+within a very well-established routine.
+
+1036
+01:34:42,876 --> 01:34:46,692
+But I feel uncomfortable with very rigid things,
+
+1037
+01:34:46,693 --> 01:34:52,605
+so this would likely have a psychological impact of making me feel restricted,
+
+1038
+01:34:52,606 --> 01:34:54,981
+and would bother me.
+
+1039
+01:34:54,982 --> 01:35:00,235
+It is not a prerequisite to do the type of discovery I do.
+
+1040
+01:35:00,236 --> 01:35:05,425
+I think it is more because of the emotional perception than anything else.
+
+1041
+01:35:18,000 --> 01:35:20,269
+I find it interesting that in Math...
+
+1042
+01:35:20,270 --> 01:35:26,857
+we are very accepting of people who can contribute however they can,
+
+1043
+01:35:26,858 --> 01:35:37,544
+and that we do not put much stock in social conventions or norms.
+
+1044
+01:35:37,545 --> 01:35:42,765
+They exist, but they do not prevent a person from doing their work.
+
+1045
+01:35:42,766 --> 01:35:49,039
+In certain professions, people who do not conform to norms,
+
+1046
+01:35:49,040 --> 01:35:53,694
+such as dress or basic behavior codes,
+
+1047
+01:35:53,695 --> 01:35:56,906
+won't have the chance to work in them.
+
+1048
+01:35:56,907 --> 01:36:01,602
+In Math, there might be people who are isolated,
+
+1049
+01:36:03,498 --> 01:36:06,892
+or who are not very proficient in talking to others,
+
+1050
+01:36:06,893 --> 01:36:09,097
+but who are contributing in many ways.
+
+1051
+01:36:09,098 --> 01:36:18,298
+In the end their work will be assessed for its content, for what it brings.
+
+1052
+01:36:18,299 --> 01:36:21,030
+Since there are no interpretations,
+
+1053
+01:36:21,031 --> 01:36:23,269
+you don't have the defend your arguments...
+
+1054
+01:36:23,270 --> 01:36:26,284
+and compare with different arguments and interpretations.
+
+1055
+01:36:26,826 --> 01:36:30,009
+Normally, in most works,
+
+1056
+01:36:30,010 --> 01:36:34,832
+you have a theory being developed,
+
+1057
+01:36:34,833 --> 01:36:42,645
+and it can be assessed despite the rhetorical skills of the person defending it.
+
+1058
+01:36:42,646 --> 01:36:44,809
+Any other person can then see it,
+
+1059
+01:36:44,810 --> 01:36:49,560
+if the material is prepared according to the usual standards,
+
+1060
+01:36:49,561 --> 01:36:56,620
+and say 'Yes, this answers the question' or not regardless of the person's personality.
+
+1061
+01:36:56,621 --> 01:37:03,933
+This is quite desirable, because it doesn't exclude people that could contribute.
+
+1062
+01:37:03,934 --> 01:37:10,499
+You don't have to be eccentric, or have difficulties interacting,
+
+1063
+01:37:11,810 --> 01:37:15,518
+or any other odd trait to do Math,
+
+1064
+01:37:15,519 --> 01:37:19,666
+but we don't exclude people in that regard.
+
+1065
+01:37:20,830 --> 01:37:22,939
+There are all sorts of people in Math.
+
+1066
+01:37:22,940 --> 01:37:28,146
+It is a stereotype to think that the rule is to have odd people,
+
+1067
+01:37:28,147 --> 01:37:30,046
+it's just that they are accepted.
+
+1068
+01:37:30,584 --> 01:37:33,486
+They are included, and often contribute,
+
+1069
+01:37:33,487 --> 01:37:37,629
+and all sorts of people can be represented.
+
+1070
+01:38:08,319 --> 01:38:12,179
+It depends on what you are investigating about the world.
+
+1071
+01:38:14,821 --> 01:38:19,933
+There is this difficulty of making predictions in certain time scales,
+
+1072
+01:38:19,934 --> 01:38:24,661
+and the effect of chaos must be recognized.
+
+1073
+01:38:24,662 --> 01:38:28,213
+On the other hand, there is great order,
+
+1074
+01:38:30,299 --> 01:38:36,121
+for instance, simply in the capacity to express physical laws in mathematical terms.
+
+1075
+01:38:36,122 --> 01:38:41,053
+It is not obvious why that is possible, even in principle.
+
+1076
+01:38:41,054 --> 01:38:46,885
+The fact that this happens allows for short-term predictability.
+
+1077
+01:38:46,886 --> 01:38:50,248
+There are simple rules that govern this behavior,
+
+1078
+01:38:50,277 --> 01:38:52,613
+This is a form of order that has no reason to exist.
+
+1079
+01:38:52,693 --> 01:38:54,494
+We take it for granted today...
+
+1080
+01:38:55,718 --> 01:39:01,182
+that certain aspects of Physics will have this type of behavior,
+
+1081
+01:39:01,622 --> 01:39:04,356
+but it is not at all obvious that it has to be that way.
+
+1082
+01:39:05,237 --> 01:39:09,759
+This ensures us the possibility of living our every-day lives...
+
+1083
+01:39:09,760 --> 01:39:14,177
+knowing that nothing completely unusual will happen from a moment to the other.
+
+1084
+01:39:14,316 --> 01:39:16,157
+There is a certain awareness of that.
+
+1085
+01:39:16,158 --> 01:39:17,504
+So it depends on the issue.
+
+1086
+01:39:17,505 --> 01:39:24,592
+You have to recognize in which situations chaos will be predominant,
+
+1087
+01:39:24,593 --> 01:39:27,289
+and in which order will prevail.
+
+1088
+01:39:27,290 --> 01:39:28,661
+You don't have to worry much about...
+
+1089
+01:39:28,662 --> 01:39:33,786
+the fact that tomorrow the Moon will be present in some way or another.
+
+1090
+01:39:33,787 --> 01:39:40,803
+Maybe full moon, maybe new, but there is not much doubt it will be there.
+
+1091
+18:42:28,083 --> 01:39:43,749
+But it is an aspect of order we incorporate.
+
+1092
+01:39:43,750 --> 01:39:47,489
+As for the weather, however,
+
+1093
+01:39:47,490 --> 01:39:49,675
+you need to be prepared for other things.
+
+1094
+01:39:50,685 --> 01:39:54,543
+Work in dynamic systems leads you to suspect the possibility that chaos exists,
+
+1095
+01:39:54,544 --> 01:39:58,914
+but it is important to appreciate that there exists a great order as well.
+
+1096
+01:39:58,915 --> 01:40:01,890
+It all depends on what you are researching.
+

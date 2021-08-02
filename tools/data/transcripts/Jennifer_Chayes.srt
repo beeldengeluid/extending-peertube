@@ -1,0 +1,2892 @@
+1
+00:00:01,00 --> 00:00:08,97
+So Jennifer thank you so much for giving us this opportunity to have a wide ranging conversation so just perhaps to
+
+2
+00:00:08,98 --> 00:00:12,8
+begin with something very simple Where are we.
+
+3
+00:00:12,8 --> 00:00:17,42
+We are in the Microsoft New England research
+
+4
+00:00:17,43 --> 00:00:24,55
+and development center which is in Cambridge Massachusetts we're right next to MIT and down the road from Harvard
+
+5
+00:00:25,03 --> 00:00:38,08
+and how did you end up here. I took a strange path here just how did you end up here. Well I took a very strange path here.
+
+6
+00:00:38,08 --> 00:00:46,00
+I actually started out as an undergraduate in biology I wanted to be a doctor.
+
+7
+00:00:46,00 --> 00:00:50,84
+And then I fell in love with physics I had to take some physics to become a biologist
+
+8
+00:00:51,13 --> 00:00:58,64
+and a doctor to get into medical school and I fell in love with physics so then I did a physics major
+
+9
+00:00:59,01 --> 00:01:05,54
+and then I decided that I really didn't want to be a doctor I wanted to be a physicist so I went to physics grad school
+
+10
+00:01:05,55 --> 00:01:13,76
+and did mathematical physics and I was you know practicing mathematical physicists for I don't know fifteen years
+
+11
+00:01:13,77 --> 00:01:22,17
+or so when at the Institute for Advanced Study Nathan Myhrvold who founded Microsoft Research and.
+
+12
+00:01:22,17 --> 00:01:30,04
+Tried to convince me to go there and start a theory group there which would bring together math physics
+
+13
+00:01:30,05 --> 00:01:35,5
+and theoretical computer science and I knew nothing about theoretical computer science
+
+14
+00:01:35,9 --> 00:01:42,7
+but I went because there was an opportunity to start an interdisciplinary lab
+
+15
+00:01:42,71 --> 00:01:52,65
+and that was irresistible to me so you know here I am twenty years later having opened this lab about ten years ago
+
+16
+00:01:52,66 --> 00:02:00,47
+and that's that's how I got here and what was your experience kind of being on the other side. You have been in academia and now you're
+
+17
+00:02:00,86 --> 00:02:03,73
+You're in industry.
+
+18
+00:02:03,73 --> 00:02:11,47
+How does the world look like from that point of view well I it first of all we have a very academic industrial lab you
+
+19
+00:02:11,48 --> 00:02:16,11
+know I've had probably one hundred fifty or two hundred post docs over the years
+
+20
+00:02:16,53 --> 00:02:24,73
+and I would say that ninety to ninety five percent of them have landed up as professors so that tells you that we are
+
+21
+00:02:25,25 --> 00:02:27,96
+we are an academic enterprise
+
+22
+00:02:28,24 --> 00:02:35,88
+but one of the things that I find really exciting is that I hear about problems in a very early stage
+
+23
+00:02:36,23 --> 00:02:45,25
+when you know it's even it's difficult to formulate them mathematically and I love translating
+
+24
+00:02:45,29 --> 00:02:52,09
+and connecting the pieces so I will hear about a problem in the context of technology
+
+25
+00:02:52,51 --> 00:02:58,46
+and I will see that there are some way to view it through the lens of mathematics or the lens of physics
+
+26
+00:02:59,16 --> 00:03:08,45
+and then you know then bring in the academic community to start looking at the problem so for me this is very exciting
+
+27
+00:03:08,68 --> 00:03:13,00
+so I must also be exciting to be kind of so close to.
+
+28
+00:03:13,00 --> 00:03:15,99
+Kind of a force that shapes kind of technology
+
+29
+00:03:16,35 --> 00:03:24,79
+and actually a world you know it's if you look at it from your own personal perspective you know that that's
+
+30
+00:03:24,8 --> 00:03:31,82
+perhaps one of the big stories of our lives that we went through these enormous transition in technology particularly
+
+31
+00:03:31,83 --> 00:03:38,48
+information technology how do you relate to that yourself well I love being so close to it
+
+32
+00:03:38,49 --> 00:03:46,99
+and I think it's actually just begun I think that machine learning in artificial intelligence are going to transform
+
+33
+00:03:47,84 --> 00:03:49,48
+our individual lives.
+
+34
+00:03:49,48 --> 00:03:57,25
+Because we will start to interact right now we have our phones we have Siri and Cortana
+
+35
+00:03:57,26 --> 00:04:00,77
+and the you know different personal assistants.
+
+36
+00:04:00,8 --> 00:04:10,1
+But I think it's going to become so much deeper than that we will have beings that really understand us that relate
+
+37
+00:04:10,44 --> 00:04:11,25
+to us
+
+38
+00:04:11,71 --> 00:04:21,31
+and we will have companions for older people which is going to become a big problem in in the world we will have companions
+
+39
+00:04:21,32 --> 00:04:30,66
+for our children and then machine learning will also transform health care it will transform.
+
+40
+00:04:30,66 --> 00:04:33,67
+environmental science which is incredibly important
+
+41
+00:04:34,08 --> 00:04:38,15
+and it will also I I believe transform the more basic sciences
+
+42
+00:04:38,16 --> 00:04:46,47
+you know I believe that cosmology for example will get transformed by machine learning because of the data that
+
+43
+00:04:46,48 --> 00:04:48,26
+we're bringing in
+
+44
+00:04:48,31 --> 00:05:00,06
+and you know even how we collect this data radio astronomers work very hard to collect data far status so that they
+
+45
+00:05:00,07 --> 00:05:05,11
+don't have to orientate transform it I was just sitting in a board meeting
+
+46
+00:05:05,12 --> 00:05:15,63
+and I asked Well has anyone tried to use some of the new machine learning techniques so that we could actually measure
+
+47
+00:05:15,64 --> 00:05:16,67
+and for you transform
+
+48
+00:05:16,68 --> 00:05:26,32
+and see if we can get enough signal from that so I think you know in all aspects of this as we develop machine learning
+
+49
+00:05:27,25 --> 00:05:31,00
+we're going to be able to.
+
+50
+00:05:31,00 --> 00:05:36,21
+Really push ahead in the basic sciences the Applied Sciences
+
+51
+00:05:36,22 --> 00:05:43,21
+and the way in which we interact with the world this is already impacting your life right now if you just look at your
+
+52
+00:05:43,22 --> 00:05:55,15
+own personal life perhaps. Do you feel that you. technology is changing that Oh absolutely I mean technology is.
+
+53
+00:05:55,15 --> 00:06:00,69
+You know we we all have our phones we get very attached to our phones in fact you see withdrawal
+
+54
+00:06:00,8 --> 00:06:10,17
+if people My husband just lost his phone last week and he was that's what he was desperate he was desperate.
+
+55
+00:06:10,17 --> 00:06:18,16
+You know your phone connects you in so many different ways it also connects me socially I am actually a user of
+
+56
+00:06:18,17 --> 00:06:18,7
+Facebook
+
+57
+00:06:18,71 --> 00:06:27,8
+and Twitter it took me a long time to adjust because I was not born into them like some younger people were for me it's
+
+58
+00:06:27,81 --> 00:06:34,2
+not my native tongue it's an acquired language for the kids who are growing up today it's their native tongue
+
+59
+00:06:34,6 --> 00:06:45,1
+but I have connected with so many people people from my past scientists so I hear about different kinds of science you
+
+60
+00:06:45,11 --> 00:06:49,33
+know from scientists who are on Facebook and you know
+
+61
+00:06:49,34 --> 00:06:58,35
+and talking about new discoveries so it's it's just it it connects us all in.
+
+62
+00:06:58,35 --> 00:06:59,64
+In a really exciting way
+
+63
+00:06:59,65 --> 00:07:09,51
+and for me especially because I love interdisciplinary work it allows me to tap into these different kinds of science
+
+64
+00:07:09,98 --> 00:07:20,18
+to think about how they might be ripe for the kinds of approaches so so for me it's really I could not imagine living
+
+65
+00:07:20,19 --> 00:07:26,86
+without information technology if you think about particularly  this kind of knowledge element you know the fact that you know knowledge is
+
+66
+00:07:26,87 --> 00:07:37,25
+now so easy. You can easily connect to it. It's so easy to collaborate it's easy for knowledge to spread.
+
+67
+00:07:37,25 --> 00:07:48,11
+You think that changes just the way. You know our research and perhaps even you know our collective kind of brain works.
+
+68
+00:07:48,11 --> 00:07:56,74
+I personally do think it changes everything I mean I am someone who in my career I've you know started out in math
+
+69
+00:07:56,75 --> 00:08:00,76
+and physics and I ventured into computer science.
+
+70
+00:08:00,98 --> 00:08:05,2
+And then ventured into economics and some social sciences
+
+71
+00:08:05,21 --> 00:08:13,35
+and ventured into computational biology there's no way that I could have done this without.
+
+72
+00:08:13,35 --> 00:08:20,98
+You know the world of knowledge the universe of knowledge at my fingertips to learn about different things to connect
+
+73
+00:08:20,99 --> 00:08:29,34
+with different people and also you know I sometimes get my best ideas when I.
+
+74
+00:08:29,34 --> 00:08:31,72
+Am hearing about different disciplines
+
+75
+00:08:32,11 --> 00:08:40,98
+and I get an intuition that I might be able to connect them to the lenses through through which I see the world you
+
+76
+00:08:40,99 --> 00:08:46,68
+know through mathematics and physics and phase transitions in in particular
+
+77
+00:08:47,46 --> 00:08:58,64
+and so for me this knowledge we are we're really accelerating with information technology.
+
+78
+00:08:58,64 --> 00:09:02,07
+The building of this fabric of knowledge
+
+79
+00:09:02,86 --> 00:09:11,32
+and we're breaking down the silos which existed. if you push that at little bit further there are clearly
+
+80
+00:09:11,32 --> 00:09:19,89
+Silos within academia and research that are being broken but if you think a little bit broader in terms of the world so to which extent are we
+
+81
+00:09:19,9 --> 00:09:23,04
+able to kind of reach everyone.
+
+82
+00:09:23,04 --> 00:09:32,11
+And that connectivity is that something that's helping so to say also to spread knowledge truly across the globe Well I
+
+83
+00:09:32,12 --> 00:09:36,94
+think one of the really exciting things is that.
+
+84
+00:09:36,94 --> 00:09:40,13
+You know with online courses
+
+85
+00:09:40,53 --> 00:09:52,56
+and with you know articles available on the archives and this kind of thing you know you can be a scientist anywhere.
+
+86
+00:09:52,56 --> 00:09:59,45
+Even in the developing world where you don't have very much but you have enough connectivity for a cell phone
+
+87
+00:10:00,00 --> 00:10:00,77
+and you.
+
+88
+00:10:00,8 --> 00:10:11,05
+Can tap into this so I think it it has allowed us as scientists to help spur the scientific endeavor in the developing
+
+89
+00:10:11,06 --> 00:10:18,1
+world you know I don't know how we would have done it otherwise you you can't build up libraries in subsaharan africa
+
+90
+00:10:18,11 --> 00:10:22,32
+Now obviously if you're starving you're not going to be doing science
+
+91
+00:10:22,33 --> 00:10:30,61
+but if you were not starving you might still have been isolated from this kind of worldwide scientific endeavor
+
+92
+00:10:30,91 --> 00:10:39,77
+and now you're not. so it's just such a powerful force in there you're very close to the center these big drivers do you see
+
+93
+00:10:39,78 --> 00:10:48,16
+it almost by definition as a force for good or are there also aspects that you worry about so. I.
+
+94
+00:10:48,16 --> 00:10:54,73
+See a lot of wonderful aspects of it I see that.
+
+95
+00:10:54,73 --> 00:11:05,74
+You know people are able to learn so much I see that you know we we also are able to spread technologies that help in
+
+96
+00:11:06,04 --> 00:11:08,45
+really important ways in terms of clean water
+
+97
+00:11:08,46 --> 00:11:15,47
+and things like that so as we train people in the various countries they they can do this but I also.
+
+98
+00:11:15,47 --> 00:11:21,14
+Think especially recently you know we've seen this spread of fake news.
+
+99
+00:11:21,14 --> 00:11:21,63
+And
+
+100
+00:11:22,53 --> 00:11:33,38
+and so I think this was a great shock I think everyone expected the Internet or the World Wide Web to be the great equalizer
+
+101
+00:11:33,71 --> 00:11:36,31
+and to spread information
+
+102
+00:11:36,86 --> 00:11:47,15
+and we realize that of course it can also spread misinformation so one of the areas that's being developed now I have
+
+103
+00:11:47,16 --> 00:11:56,72
+a group in one of my two labs that calls itself the fate group: fairness accountability transparency.
+
+104
+00:11:56,72 --> 00:12:00,77
+And ethics and it brings together people from.
+
+105
+00:12:01,15 --> 00:12:05,64
+Ethics philosophy law with machine learning
+
+106
+00:12:05,68 --> 00:12:17,00
+and information retrieval to look at whether there are ways in which we can use these technologies to guard against you
+
+107
+00:12:17,01 --> 00:12:19,71
+know the dark side of the Web
+
+108
+00:12:20,34 --> 00:12:28,62
+but if you think about other technologies in fact industrial development by itself of course costs lots of issues that
+
+109
+00:12:28,93 --> 00:12:35,75
+often then technology is again is basically our only resource to.
+
+110
+00:12:35,75 --> 00:12:41,48
+Deal with these kind of adverse effects so you think for information technology it will be something similar in the end
+
+111
+00:12:41,49 --> 00:12:48,86
+It's the next. Iteration of technology that will help to. I think that.
+
+112
+00:12:48,86 --> 00:13:02,84
+A lot of people in machine learning and AI are now devoting efforts to trying to stop this spread of misinformation.
+
+113
+00:13:02,84 --> 00:13:09,37
+And also of bias you know we have the the problem with machine learning is
+
+114
+00:13:09,41 --> 00:13:15,41
+and artificial intelligence is that you have the algorithm but you also have the data Yes
+
+115
+00:13:15,45 --> 00:13:22,76
+and the algorithm takes in the data and out put something and the data is created by human beings
+
+116
+00:13:23,25 --> 00:13:34,47
+and so if the human beings have bias then the outcome has bias if you are looking for an engineer the Web is more
+
+117
+00:13:34,48 --> 00:13:37,28
+likely to return a male name than a female name
+
+118
+00:13:38,09 --> 00:13:48,21
+and this is because it has learned from all the interactions so I have some people in one of my labs who said how can
+
+119
+00:13:48,22 --> 00:13:57,57
+we use technology to solve this problem to rebalance to rebalance so there are there's something
+
+120
+00:13:57,58 --> 00:14:00,6
+called word vectors which are used to generalize and.
+
+121
+00:14:00,8 --> 00:14:03,27
+broaden searches by all search engines
+
+122
+00:14:03,77 --> 00:14:13,51
+and those word vectors have implicit biases in them they associate things in a gender biased way in a racially biased
+
+123
+00:14:13,52 --> 00:14:24,04
+way in an economically biased way and so some of my researchers took this the gender bias and they de-biased
+
+124
+00:14:24,05 --> 00:14:29,15
+the word vectors so that you could feed that into the search engine
+
+125
+00:14:29,72 --> 00:14:34,39
+and get outputs which were not gender biased anymore you know
+
+126
+00:14:34,4 --> 00:14:42,74
+and so this is using machine learning using algorithms using mathematics to.
+
+127
+00:14:42,74 --> 00:14:49,42
+To deal with some of the problems that are caused by the technology. do you worry sometimes that that knowledge becomes
+
+128
+00:14:50,28 --> 00:14:56,25
+kind of integrated in our lives that we aren't even aware of it's what is doing for us
+
+129
+00:14:56,26 --> 00:15:04,78
+or not doing for instance you just said that young children they don't know the world without the internet.
+
+130
+00:15:04,78 --> 00:15:10,86
+But I'm not worried about it I'm I believe that.
+
+131
+00:15:10,86 --> 00:15:14,89
+They pick it up just like any other language it's almost as if
+
+132
+00:15:14,9 --> 00:15:18,54
+when language didn't exist in that well language started to exist slowly
+
+133
+00:15:18,55 --> 00:15:24,22
+but if you know if I have one set of children who are raised with one language
+
+134
+00:15:24,46 --> 00:15:28,88
+and another set who were raised with three languages.
+
+135
+00:15:28,88 --> 00:15:36,42
+In fact they might start talking a little later but they are going to see the world in in a deeper way
+
+136
+00:15:36,63 --> 00:15:44,16
+and I believe that children and even we who learn this not as our native tongue.
+
+137
+00:15:44,16 --> 00:15:47,58
+Use it to connect things
+
+138
+00:15:47,63 --> 00:15:57,31
+and to do things that were not possible in the past I think it's actually part of our evolution that we now
+
+139
+00:15:57,31 --> 00:16:00,66
+Are beginning to adjust to the ways in which.
+
+140
+00:16:01,00 --> 00:16:08,96
+Technology can enhance our lives. So you talked about how knowledge and information spreads much more easily.
+
+141
+00:16:08,96 --> 00:16:11,62
+On the other hand knowledge always was power
+
+142
+00:16:12,58 --> 00:16:20,58
+and in some sense Microsoft you can say this is certainly one of the centers of power so can you say something about
+
+143
+00:16:20,59 --> 00:16:25,83
+how how do we deal with this paradox that on the one hand information is spreading
+
+144
+00:16:25,84 --> 00:16:30,42
+but on the other hand some of the most powerful companies.
+
+145
+00:16:30,42 --> 00:16:37,81
+Use that kind of knowledge. so I think that this is a real problem that.
+
+146
+00:16:37,81 --> 00:16:40,19
+That these networks
+
+147
+00:16:40,36 --> 00:16:49,75
+and I think study networks I study them mathematically I study their applications in social networks and biology in.
+
+148
+00:16:49,75 --> 00:16:57,63
+Economics. Networks actually centralize power.
+
+149
+00:16:57,63 --> 00:17:05,16
+For the network providers networks are incredibly powerful people go on them and interact
+
+150
+00:17:05,17 --> 00:17:13,1
+and the network providers have incredible power Jaron Lanier is a wonderful wonderful author and technologist
+
+151
+00:17:13,6 --> 00:17:21,95
+and he wrote a book I believe it was. Who owns the future.
+
+152
+00:17:21,95 --> 00:17:32,02
+And it was precisely this question these networks while generating so much value for the world then take that value
+
+153
+00:17:32,03 --> 00:17:44,31
+and centralize it among a few individuals or a few companies and so he had a view that some would call a utopian view.
+
+154
+00:17:44,31 --> 00:17:53,58
+Attempting to redistribute that value to the people who participated in the network and created the value
+
+155
+00:17:53,97 --> 00:18:00,77
+and I'm not sure that he has come up with the right way to do that yet but I think it's something that society
+
+156
+00:18:00,91 --> 00:18:07,78
+needs to consider social good has been created but then its value has been centralized
+
+157
+00:18:08,29 --> 00:18:12,32
+and how do we bring it back what economic systems
+
+158
+00:18:12,33 --> 00:18:22,11
+and social systems can we engineer to take some of the value back to those who helped create it by participating in the
+
+159
+00:18:22,12 --> 00:18:26,95
+network. what I find fascinating though which of course you never really have an academic setting
+
+160
+00:18:26,96 --> 00:18:30,45
+but if you talk to R&D being done at these large companies
+
+161
+00:18:31,21 --> 00:18:37,79
+some of it is secret it's knowledge that is very held very closely.
+
+162
+00:18:37,79 --> 00:18:45,5
+And you're also in competition with others so how does that feel well I think first of all How much is there that we don't know
+
+163
+00:18:45,51 --> 00:18:55,8
+there is proprietary information kind of business information most of the people in my labs publish everything
+
+164
+00:18:55,87 --> 00:18:57,33
+openly so
+
+165
+00:18:57,34 --> 00:19:06,35
+and I think that's a requirement we have brought in a lot of people from academia who's for whom being able to share
+
+166
+00:19:06,36 --> 00:19:16,14
+knowledge is incredibly important that's how science is is done now so there is some proprietary business information
+
+167
+00:19:16,39 --> 00:19:28,14
+and that of course does feed this centralization of value there is also personally identifiable information. P.-I I.
+
+168
+00:19:28,14 --> 00:19:34,56
+Which includes both things like your search history which can reveal so much about you it's unbelievable
+
+169
+00:19:35,07 --> 00:19:43,4
+and also for example your health information there is nothing more personally identifiable than your genome you know
+
+170
+00:19:43,41 --> 00:19:53,08
+and your clinical health records are incredibly personal So there's a big question about how do we extract value for
+
+171
+00:19:53,09 --> 00:20:00,74
+individuals and for society from this data without compromising people's privacy.
+
+172
+00:20:01,07 --> 00:20:02,43
+And people's integrity
+
+173
+00:20:02,73 --> 00:20:13,11
+and I think this is one of the great challenges of the age of big data you know there are again some technological
+
+174
+00:20:13,12 --> 00:20:19,91
+mathematical solutions there's homomorphic encryption which is.
+
+175
+00:20:19,91 --> 00:20:27,27
+A mathematical construct which allows you to extract information from the data
+
+176
+00:20:27,58 --> 00:20:37,61
+but return something which doesn't reveal that information however it slows the typical calculation down by about ten
+
+177
+00:20:37,62 --> 00:20:44,46
+to the thirteenth OK That's not what you want to do. but.
+
+178
+00:20:44,46 --> 00:20:52,27
+There are certain kinds of calculations which it only slows down by ten to the sixth which might still sound like a lot
+
+179
+00:20:52,28 --> 00:20:57,38
+to you but what if I said oh you know you've done twenty three and Me
+
+180
+00:20:57,39 --> 00:21:03,15
+or some other service which you know looks at parts of your genome
+
+181
+00:21:03,39 --> 00:21:08,54
+and tells you your odds of developing diabetes or Alzheimers.
+
+182
+00:21:08,54 --> 00:21:12,37
+You probably don't want that information to be public
+
+183
+00:21:12,6 --> 00:21:22,41
+but you might want that information used in some ways if I slow down those calculations by tend to the sixth I can do ten
+
+184
+00:21:22,42 --> 00:21:30,9
+thousand of them in one minute would you be willing to wait a minute to know this information about yourself in a
+
+185
+00:21:30,91 --> 00:21:32,33
+completely private way
+
+186
+00:21:32,69 --> 00:21:39,16
+and you probably would so that is a price you want to pay that's a price you want to pay so so the question is What are the
+
+187
+00:21:39,4 --> 00:21:49,62
+what's the price we're willing to pay in time in calculation for privacy and I think that is something that
+
+188
+00:21:50,57 --> 00:21:54,67
+and then there's other forms of this there's.
+
+189
+00:21:54,67 --> 00:22:00,63
+Secure multiparty computation and other things so we're going to have to as a society or as.
+
+190
+00:22:00,97 --> 00:22:05,27
+Different societies with different ethical norms
+
+191
+00:22:05,28 --> 00:22:12,92
+and different social norms decide what are the tradeoffs we're willing to make we you know I don't think we can run
+
+192
+00:22:12,93 --> 00:22:13,16
+away
+
+193
+00:22:13,17 --> 00:22:20,07
+and say we don't want any of this technology because I think we're harming ourselves more than the technology should
+
+194
+00:22:20,08 --> 00:22:27,6
+harm us or could harm us so you know how do different societies strike that balance
+
+195
+00:22:27,61 --> 00:22:34,52
+and this is a conversation that I believe society should be having and then eventually.
+
+196
+00:22:34,52 --> 00:22:38,3
+You know there are legislatures can legislate about it
+
+197
+00:22:38,31 --> 00:22:45,5
+but we have to talk it out on a philosophical first on a technological level what is it possible to do
+
+198
+00:22:45,85 --> 00:22:52,66
+and then on a philosophical and ethical level and the best thing would be to have the philosophical
+
+199
+00:22:52,67 --> 00:23:00,46
+and ethical conversations combined with the scientific conversations about what's possible.
+
+200
+00:23:00,46 --> 00:23:03,97
+You mentioned already few times.
+
+201
+00:23:03,97 --> 00:23:11,62
+this kind of end of artificial intelligence machine learning machines getting smarter and smarter.
+
+202
+00:23:11,62 --> 00:23:20,83
+Just take that thought and push it a little bit further so what are we how will our lives be impacted by that say first think about
+
+203
+00:23:20,84 --> 00:23:22,63
+the next five years
+
+204
+00:23:22,64 --> 00:23:31,47
+but then also take a longer view. so I I think there are certain you know certain things that are going to be really
+
+205
+00:23:31,51 --> 00:23:36,85
+really improved by this technology I recall you know talking to my husband
+
+206
+00:23:36,86 --> 00:23:40,5
+and saying oh I might want to you know get a house here or there
+
+207
+00:23:40,51 --> 00:23:46,64
+and he says I Well we have to be careful because you know if you want to have this house for thirty years you know
+
+208
+00:23:46,65 --> 00:23:54,17
+maybe you'll be too old to you know do you want to drive to the you know to the store to get your eggs to
+
+209
+00:23:54,18 --> 00:24:00,74
+and I said Oh you don't have to worry about that we won't we won't be driving ourselves in ten years.
+
+210
+00:24:01,23 --> 00:24:08,57
+None of us will drive ourselves our cars will drive us so we don't have to worry about that so there are you know
+
+211
+00:24:08,58 --> 00:24:17,81
+things on a shorter time scale also just I really think a lot about elder care my parents are getting older.
+
+212
+00:24:17,81 --> 00:24:28,35
+I think there will be robots that can actually help us help our parents which will impact me because I care deeply
+
+213
+00:24:28,36 --> 00:24:38,51
+about them and I want them to have a life in which they're more independent which this technology will allow us to do.
+
+214
+00:24:38,51 --> 00:24:49,25
+I think in the long run I the things that I get really excited about in you know out ten to twenty years is the effect
+
+215
+00:24:49,29 --> 00:24:58,16
+on personalized medicine it's going to be unbelievable I mean we we have so many layers of information to bring
+
+216
+00:24:58,17 --> 00:25:04,25
+together we have the genome but we also have.
+
+217
+00:25:04,25 --> 00:25:13,6
+You know devices that sit on our wrists that very soon these devices will be good enough to measure your blood sugar
+
+218
+00:25:13,61 --> 00:25:20,35
+just through your skin from whether you're you know hemoglobin is oxygenated or
+
+219
+00:25:20,39 --> 00:25:27,03
+or not they'll be able to tell how much glucose you you have.
+
+220
+00:25:27,03 --> 00:25:28,88
+You know they can tell your gait
+
+221
+00:25:28,89 --> 00:25:34,06
+and whether as a person ages whether there's something wrong with the way in which they're walking
+
+222
+00:25:34,37 --> 00:25:43,17
+and then you start to combine that with clinical information with diagnostic tests of various sorts you know each of us
+
+223
+00:25:43,18 --> 00:25:44,9
+has.
+
+224
+00:25:44,9 --> 00:25:55,12
+Thousands of codes of diagnostic codes associated with us over our lives if we could put that information together with
+
+225
+00:25:55,32 --> 00:26:00,77
+continuously collected information and genomic information then.
+
+226
+00:26:01,48 --> 00:26:04,72
+Information that a doctor records in his
+
+227
+00:26:04,73 --> 00:26:13,12
+or her notes which will be able to access via natural language processing we will be able to increase the quality of
+
+228
+00:26:13,13 --> 00:26:16,27
+life tremendously we will be able to prolong it
+
+229
+00:26:16,28 --> 00:26:25,19
+but for me I think the most important thing is increasing the quality of life so that really excites me on an
+
+230
+00:26:25,27 --> 00:26:29,92
+intermediate time scale. Are you worried that in the end the kind of decisions
+
+231
+00:26:29,93 --> 00:26:37,67
+and sense of the place where all this information will come together will not be the human mind right it will be in 
+
+232
+00:26:37,68 --> 00:26:38,45
+it might be in a machine
+
+233
+00:26:38,49 --> 00:26:47,83
+or it might be some combination so I am not someone who is worried about the singularity which is who's worried
+
+234
+00:26:47,84 --> 00:26:56,46
+about the machines taking over I know a lot of very good technologists are worried about this so it's not I mean it's
+
+235
+00:26:56,47 --> 00:26:58,13
+not.
+
+236
+00:26:58,13 --> 00:27:03,37
+Something that can just be dismissed but I but are you not worried about in the sense it's fine with you
+
+237
+00:27:03,41 --> 00:27:12,8
+or are you not worried in the sense you don't see it happening I see that there will be.
+
+238
+00:27:12,8 --> 00:27:25,8
+An integration of human knowledge in the human mind with these what I view is enhancements of the human mind I I am
+
+239
+00:27:25,81 --> 00:27:33,25
+not particularly worried that these will turn on us and.
+
+240
+00:27:33,25 --> 00:27:34,83
+And you know
+
+241
+00:27:34,84 --> 00:27:43,5
+and take over because I think that they are really extensions of us you know you might have worried I don't know in the
+
+242
+00:27:43,78 --> 00:27:50,66
+in the time of the first printing presses that if the masses get this knowledge from books well first it was just the
+
+243
+00:27:50,67 --> 00:27:58,04
+wealthy people who got the knowledge and then over time the masses that there would be a restructuring of society
+
+244
+00:27:58,05 --> 00:28:00,74
+and indeed there was a restructuring of society.
+
+245
+00:28:00,8 --> 00:28:11,01
+but that was because there was so much more value that we could actually improve a lot of more of society
+
+246
+00:28:11,02 --> 00:28:16,49
+and I my hope is that as we.
+
+247
+00:28:16,49 --> 00:28:20,71
+Integrate humans with computers
+
+248
+00:28:20,72 --> 00:28:29,85
+and with technology as enhancements of ourselves that again there will be a lot of value you know we still have half
+
+249
+00:28:29,86 --> 00:28:33,55
+the population on this earth which.
+
+250
+00:28:33,55 --> 00:28:37,12
+does not live as well as the developed world
+
+251
+00:28:37,54 --> 00:28:46,11
+and so we could really use value creation in this world to improve the lot of those people if you take the long view
+
+252
+00:28:46,12 --> 00:28:52,1
+and you think of the billions of years of evolution of life you know even the hundreds of thousands of years of human
+
+253
+00:28:52,16 --> 00:28:58,89
+evolution and now we are in this phase where technology is some sense. Happening.
+
+254
+00:28:58,89 --> 00:29:02,37
+You see this as some kind of a continuation of what nature's doing but then
+
+255
+00:29:02,38 --> 00:29:11,02
+at a different level at a different speed I do see this as a continuation of what nature is is doing
+
+256
+00:29:11,03 --> 00:29:16,27
+and in fact you know if you look at all of.
+
+257
+00:29:16,27 --> 00:29:21,1
+All of human evolution so far you know we started out as hunters and gatherers
+
+258
+00:29:21,54 --> 00:29:29,55
+and then we began to farm and what did we do well we harnessed other you know.
+
+259
+00:29:29,55 --> 00:29:32,65
+Other organisms for our own good you know
+
+260
+00:29:32,66 --> 00:29:41,05
+and we we interfered with their genomes not by going in there on a cellular level
+
+261
+00:29:41,06 --> 00:29:49,31
+and interfering or on a molecular level but we bred certain plants for and animals and
+
+262
+00:29:50,29 --> 00:30:00,77
+and so I see this as a natural evolution I see it as a way in which we are harnessing other kinds.
+
+263
+00:30:01,15 --> 00:30:01,71
+Of power
+
+264
+00:30:01,72 --> 00:30:11,08
+and I honestly expect that there are probably others in this universe who have already done this So you say we are kind of domesticating 
+
+265
+00:30:11,09 --> 00:30:17,28
+technology we're domesticating technology we're domesticating technology it's our creation
+
+266
+00:30:17,45 --> 00:30:31,83
+but it is also something that we domesticate you know we have we have created species honestly so and I think provided that.
+
+267
+00:30:31,83 --> 00:30:46,43
+Science as it develops and technology as it develops is. Is done in concert with ethics.
+
+268
+00:30:46,43 --> 00:30:57,46
+Then we will be fine OK So I think it's very very important that we have ethicists philosophers.
+
+269
+00:30:57,46 --> 00:31:07,22
+Legal scholars sociologists anthropologists participating in the creation of this science
+
+270
+00:31:07,23 --> 00:31:13,69
+and technology. is that a big if in the sense that you know we can kind of survive technology you know if you honestly
+
+271
+00:31:13,7 --> 00:31:22,29
+look at previous episodes not that long ago like nuclear arms etc there were some close calls very close calls so it's not
+
+272
+00:31:22,3 --> 00:31:28,39
+that it's not an obvious fact that humans are smart enough to control
+
+273
+00:31:28,4 --> 00:31:33,95
+and deal in a responsible way with technology I think it's definitely not an obvious fact
+
+274
+00:31:34,39 --> 00:31:43,3
+and I you know I don't know how much I would wager that we will be here ten thousand years from now we could destroy
+
+275
+00:31:43,31 --> 00:31:53,89
+ourselves with nuclear weapons I think we are laying the foundation to destroy ourselves with climate change so I am
+
+276
+00:31:53,9 --> 00:32:05,66
+hoping that we will wake up to some of this and we will be. Able to use technology to.
+
+277
+00:32:05,66 --> 00:32:09,86
+Help correct some of the things that we have already done
+
+278
+00:32:10,32 --> 00:32:20,81
+and help us to survive what we cannot correct. Jennifer we were talking about the kind of specific time in human evolution
+
+279
+00:32:20,82 --> 00:32:26,71
+that we are right now where kind of restarting this kind of symbiotic relationship with technology
+
+280
+00:32:26,72 --> 00:32:34,66
+and you're about to tell us this is something that reminds you of a phase transition What's a phase transition so a phase
+
+281
+00:32:34,67 --> 00:32:43,07
+transition is something that everybody experiences when water freezes going from liquid to solid
+
+282
+00:32:43,08 --> 00:32:53,7
+when water boils it's going from liquid to gas these are qualitative changes we have quantitative changes as you know
+
+283
+00:32:53,71 --> 00:33:02,6
+water goes from ninety seven to ninety eight to ninety nine degrees it hits one hundred degrees Celsius
+
+284
+00:33:02,86 --> 00:33:05,92
+and there's a qualitative change of state
+
+285
+00:33:06,62 --> 00:33:16,26
+and so phase transitions are those qualitative changes that occur at specific values of a parameter
+
+286
+00:33:16,8 --> 00:33:20,94
+and yet for me I mean I study phase transitions mathematically
+
+287
+00:33:21,2 --> 00:33:29,32
+but they're also one of the lenses through which I view the world sometimes that can be sometimes you know these lenses
+
+288
+00:33:29,33 --> 00:33:36,96
+can be made incredibly mathematically precise and other times they're only a metaphor and you know this case.
+
+289
+00:33:36,96 --> 00:33:50,29
+I see points in human behavior in in human evolution as phase transition points I see the shift from you know from
+
+290
+00:33:50,3 --> 00:34:00,77
+hunter gatherer to domestication as a qualitative shift in you know what homo sapiens.
+
+291
+00:34:00,88 --> 00:34:01,48
+Could do
+
+292
+00:34:01,77 --> 00:34:14,59
+and I do believe that we are very near another one of those cusps where we are going to be able to integrate the technology
+
+293
+00:34:15,04 --> 00:34:24,33
+and the knowledge with our own minds and with our own bodies and we're going to be able to.
+
+294
+00:34:24,33 --> 00:34:27,44
+Do things we were never able to do before
+
+295
+00:34:27,95 --> 00:34:33,67
+or that we were never able to do for the vast majority of people before and
+
+296
+00:34:34,04 --> 00:34:39,56
+and I think that you know if we're still around ten thousand years from now
+
+297
+00:34:39,77 --> 00:34:50,25
+and somebody looks at the different ages you know where we domesticated animals or the industrial revolution.
+
+298
+00:34:50,25 --> 00:34:58,2
+I think that this roughly around this time people will identify. Another.
+
+299
+00:34:58,2 --> 00:35:05,12
+Change another phase transition in which we interact with the world
+
+300
+00:35:05,13 --> 00:35:12,41
+and with each other in a different way. one of the pushing that metaphor a little bit one of the effects of phase transition
+
+301
+00:35:12,42 --> 00:35:18,34
+that certainly you get kind of connections correlations over very different kind of skills
+
+302
+00:35:18,35 --> 00:35:24,97
+and we were talking about this kind of connectivity is that would that be one of the kind of hallmarks of this kind of
+
+303
+00:35:24,98 --> 00:35:32,37
+new phase of human kind where it's no longer us as individuals but it's us together
+
+304
+00:35:32,38 --> 00:35:36,44
+and with machines do you see a role of that. I see.
+
+305
+00:35:36,44 --> 00:35:46,86
+A definite role I'm one of the so what I love about phase transitions is that local interactions create a global effect
+
+306
+00:35:46,9 --> 00:35:55,08
+yes local interactions between the water molecules lead to a change from liquid to gas as the water boils
+
+307
+00:35:56,03 --> 00:36:09,59
+and so I believe that we are and typically you see. The the. The onset or the disappearance of long range order.
+
+308
+00:36:09,59 --> 00:36:14,74
+You know when we learned to write things down.
+
+309
+00:36:14,74 --> 00:36:22,9
+We could do much more than before we were able to write things down right we couldn't have we could pass information to
+
+310
+00:36:22,91 --> 00:36:31,74
+other generations we could pass information to other generations we could have an economic system between us in which we didn't
+
+311
+00:36:31,75 --> 00:36:41,93
+just barter but you know I gave you grain today and you gave me some animal tomorrow because we could write it down
+
+312
+00:36:42,42 --> 00:36:50,53
+and our minds have the capacity to only deal with a certain number of people they say it's about one hundred fifty
+
+313
+00:36:50,54 --> 00:36:58,47
+or so deal with a certain amount of information some of us can remember more than others but there's a limit
+
+314
+00:36:58,95 --> 00:37:11,03
+and so writing things down qualitatively changed the size of the domains in which humans could interact
+
+315
+00:37:11,4 --> 00:37:21,71
+and I believe that we're at another transition now where we're going really to a global scale of interaction
+
+316
+00:37:21,75 --> 00:37:25,82
+and we've talked about global scales for years with planes
+
+317
+00:37:25,83 --> 00:37:31,85
+and economy and you know the stock market of one country connected to that of another
+
+318
+00:37:32,1 --> 00:37:42,92
+but I think this is the going to be the deep manifestation of it that our knowledge base is becoming universal is
+
+319
+00:37:42,93 --> 00:37:54,02
+becoming long range so we're seeing the onset of long range order in our knowledge. if you think about this as a force
+
+320
+00:37:54,65 --> 00:38:03,63
+is it kind of unstoppable is that somehow an autonomous development I think it is definitely unstoppable.
+
+321
+00:38:03,63 --> 00:38:09,46
+Actually there there are. There are.
+
+322
+00:38:09,46 --> 00:38:18,39
+Systems where there's kind of a driving force that then leads to a critical transition there's something in mathematics
+
+323
+00:38:18,4 --> 00:38:18,74
+that I
+
+324
+00:38:18,78 --> 00:38:24,7
+and physics that I worked on many years ago called self organized criticality So that was driving you towards a certain
+
+325
+00:38:24,71 --> 00:38:26,29
+kind of phase transition
+
+326
+00:38:26,48 --> 00:38:36,79
+but the driving force there was just you know the deposit of certain particles here there is a driving force I
+
+327
+00:38:36,8 --> 00:38:40,68
+believe in human beings to connect with each other
+
+328
+00:38:41,11 --> 00:38:50,61
+and that force is leading us towards this transition I don't think it's stoppable in any way.
+
+329
+00:38:50,61 --> 00:38:59,17
+You know no one you you know this no one is going to stop you from trying to learn more about particle physics
+
+330
+00:38:59,18 --> 00:39:03,37
+or for me trying to learn more and you know it just it's not going to happen
+
+331
+00:39:03,63 --> 00:39:15,00
+and on so many different levels on emotional levels on intellectual levels on levels of survival we are driven to
+
+332
+00:39:15,01 --> 00:39:16,93
+connect and I think
+
+333
+00:39:16,98 --> 00:39:24,38
+but these are local interactions Yes And I think that what's happening is that technology has facilitated.
+
+334
+00:39:24,38 --> 00:39:33,09
+The onset of long range order here so the title of the series is the mind of the universe.
+
+335
+00:39:33,09 --> 00:39:37,87
+And the idea is really that in some sense this connectivity is creating a mind that's going to
+
+336
+00:39:38,22 --> 00:39:45,5
+at least a global mind or something is I think you see that the kind of happening.
+
+337
+00:39:45,5 --> 00:39:53,53
+Our individual being becomes much more part of a global ensemble. I very much believe this is happening
+
+338
+00:39:53,54 --> 00:40:00,74
+and I find it so exciting Yes I believe that we are part of this global ensemble I see.
+
+339
+00:40:00,8 --> 00:40:06,88
+You know I start to work I come up with a you know theory of phase transitions for deep learning
+
+340
+00:40:06,89 --> 00:40:14,95
+and before I know it there are people in other parts of the world that I thought were disconnected I thought the their
+
+341
+00:40:14,96 --> 00:40:22,8
+research was on something different and they find they find the paper on the archives and they or they hear a talk
+
+342
+00:40:23,08 --> 00:40:26,09
+and all of a sudden we're connected we're connected we're connected
+
+343
+00:40:26,38 --> 00:40:36,46
+and it happens so much more rapidly over obviously you know world scale geographical distances
+
+344
+00:40:36,59 --> 00:40:46,18
+but also intellectual distances are shrinking you know we are we are able to connect across what previously were
+
+345
+00:40:46,19 --> 00:40:54,23
+intellectual divides so it's a world scale but also it's. Our.
+
+346
+00:40:54,23 --> 00:41:02,51
+Our knowledge is is becoming integrated at an incredible rate. Can you speak also I mean there's knowledge in terms of different
+
+347
+00:41:02,52 --> 00:41:04,35
+fields or subjects
+
+348
+00:41:04,76 --> 00:41:10,1
+but I guess there's also something like the culture from which you approach this cultures has been developed in various
+
+349
+00:41:10,11 --> 00:41:17,5
+countries now it could be gender based or various ways to look at the World.
+
+350
+00:41:17,5 --> 00:41:24,51
+Talk about what this kind of diversity means once we start connecting these various points of view because not
+
+351
+00:41:24,52 --> 00:41:27,74
+everybody has the same point of view.
+
+352
+00:41:27,74 --> 00:41:37,3
+I actually love the fact that not everybody has the same point of view in you know my career what I've done is I have
+
+353
+00:41:37,8 --> 00:41:46,98
+brought together different disciplines because I believe that the most exciting things happen at the boundaries of
+
+354
+00:41:46,99 --> 00:41:50,87
+disciplines you know you bring the insights and the lens
+
+355
+00:41:50,88 --> 00:41:59,55
+and the specific techniques of one discipline to bear on another and it it just.
+
+356
+00:42:01,36 --> 00:42:11,3
+It's accellerates the the understanding of of a different subject so so much I believe also we should have different
+
+357
+00:42:12,01 --> 00:42:13,85
+cultural backgrounds.
+
+358
+00:42:13,85 --> 00:42:19,49
+Now in fact in the different fields we really do have different cultural backgrounds a physicist views the
+
+359
+00:42:19,5 --> 00:42:22,79
+world very differently from an anthropologist
+
+360
+00:42:22,8 --> 00:42:28,39
+and I I see these these different views coming together over time
+
+361
+00:42:28,73 --> 00:42:39,3
+but you know I also have people from many different countries in my lab they have different social norms.
+
+362
+00:42:39,3 --> 00:42:49,02
+I love this because then we step back and we consider the differences in social norms in information technology.
+
+363
+00:42:49,02 --> 00:42:55,14
+There are so many questions around privacy the social norms in Germany
+
+364
+00:42:55,15 --> 00:43:00,8
+and the Netherlands are so different than in the U.S. You know we always in the U.S.
+
+365
+00:43:00,95 --> 00:43:06,41
+Err on the side of free speech and I hope we continue to do so.
+
+366
+00:43:06,41 --> 00:43:14,78
+And you know and in Germany they err on the side of privacy and so when we bring Germans
+
+367
+00:43:14,79 --> 00:43:20,87
+and Americans together we have to deal with these differences and we have to stand back
+
+368
+00:43:20,91 --> 00:43:29,18
+and try to understand how those norms formed why they formed and what are the benefits of each
+
+369
+00:43:29,19 --> 00:43:37,01
+and under what circumstances we retain which norms which is you know almost a kind of international law.
+
+370
+00:43:37,01 --> 00:43:44,72
+And then finally you know I I think gender balance is incredibly important.
+
+371
+00:43:44,72 --> 00:43:52,5
+In my labs we happen to have a lot of women some people say to me how do you get so many women
+
+372
+00:43:52,95 --> 00:43:56,55
+and I said well I guess we just scare the men away.
+
+373
+00:43:56,55 --> 00:44:05,08
+Or certain men we scare the ones who are uncomfortable with gender. You know with gender diversity away.
+
+374
+00:44:05,08 --> 00:44:13,68
+You know and I I think also women when they see a woman leader they say OK there's a there's a place for me here.
+
+375
+00:44:13,68 --> 00:44:21,47
+But I think that. These are sweeping generalizations but I think that women.
+
+376
+00:44:21,47 --> 00:44:29,88
+Sometimes tend to be more into collaboration sometimes tend to be more into taking their mathematics for example
+
+377
+00:44:29,89 --> 00:44:34,63
+or their computer science and applying it to the real world and veer
+
+378
+00:44:34,64 --> 00:44:40,59
+and as I say it's sweeping generalisations because there are many men who really care about the social implications of
+
+379
+00:44:40,6 --> 00:44:49,18
+their work but I think it just it just as you want to bring different cultures from different countries
+
+380
+00:44:49,19 --> 00:44:56,65
+and from different disciplines together I think you want to bring different genders together and different racial
+
+381
+00:44:56,66 --> 00:45:02,54
+and religious backgrounds together because it just causes you to step back
+
+382
+00:45:03,07 --> 00:45:12,14
+and see the world more broadly which is I think the way to really push science forward so you would argue this 
+
+383
+00:45:12,15 --> 00:45:14,55
+really just benefits research
+
+384
+00:45:14,56 --> 00:45:21,95
+and development by itself to have this greater diversity absolutely I feel that way I think that.
+
+385
+00:45:21,95 --> 00:45:29,71
+Just you know if you're always with the people who come from the same background.
+
+386
+00:45:29,71 --> 00:45:37,3
+You know if you just have this is they ask the kinds of questions that physicists ask which are wonderful I mean I was
+
+387
+00:45:37,63 --> 00:45:46,55
+you know raised a physicist but I love the fact that I talk to a biologist and I and I begin it
+
+388
+00:45:46,56 --> 00:45:54,22
+and it takes years actually to appreciate people think you have to learn the techniques of a different field
+
+389
+00:45:54,47 --> 00:46:00,77
+but I think you really have to learn the values of the different field and what are the kinds of questions they.
+
+390
+00:46:00,8 --> 00:46:07,35
+Ask what are the things they care about in a different field before you can have a deep
+
+391
+00:46:07,56 --> 00:46:11,15
+and incredibly impactful collaborations 
+
+392
+00:46:11,5 --> 00:46:21,77
+and in the same way having gender balance having you know nationally cultural balance allows you to broaden your view
+
+393
+00:46:22,19 --> 00:46:29,75
+and which ultimately allows you to go into something more deeply. if you just look at your own personal life story
+
+394
+00:46:29,79 --> 00:46:37,18
+and you know your professional development you seem to be very adventurous you know going into new cultures
+
+395
+00:46:37,19 --> 00:46:42,81
+or something you know how did that feel was it something you had from the very beginning.
+
+396
+00:46:42,81 --> 00:46:51,55
+You know it's it's really funny because I. How were you as a child. I thought I would be scared of things.
+
+397
+00:46:51,55 --> 00:47:00,08
+I actually am scared of things sometimes but there is this other I Somebody once told me I was counter phobic.
+
+398
+00:47:00,08 --> 00:47:07,23
+Anything that scares me I rushed towards so sometimes my initial reaction is a little bit of fear I don't understand
+
+399
+00:47:07,24 --> 00:47:16,33
+that at all you know and I think but then if I don't understand it it has power over me so I'm just going to rush in
+
+400
+00:47:16,34 --> 00:47:19,29
+and I'm going to try to understand it
+
+401
+00:47:19,3 --> 00:47:28,79
+and try to absorb it because then I can absorb that power that way of looking at the world so I land up
+
+402
+00:47:29,15 --> 00:47:35,22
+and I just got excited about it. why are you so attracted to things you don't know what's.
+
+403
+00:47:35,22 --> 00:47:46,00
+I think you see each time I also as I get older come with things that I do know now so.
+
+404
+00:47:46,00 --> 00:47:52,73
+Now when you're when you're first a graduate student you actually come with very little you know
+
+405
+00:47:52,9 --> 00:48:00,2
+and so it's really hard because you're coming to these very difficult questions and you have very few bows
+
+406
+00:48:01,21 --> 00:48:08,32
+You know you have very few ways I mean I've you you have your own mind and your own creativity and that's wonderful
+
+407
+00:48:08,88 --> 00:48:16,47
+but you have very little perspective and now as I move into different fields there's the initial fear
+
+408
+00:48:16,8 --> 00:48:23,12
+and there's the activation barrier of having to learn not only the techniques but also the values
+
+409
+00:48:23,13 --> 00:48:32,33
+and the questions of that field but then I bring my probability theory distribution perspective to it
+
+410
+00:48:32,38 --> 00:48:37,76
+or I bring my phase transition perspective so I bring all these different perspectives you have all these different arrows now
+
+411
+00:48:37,77 --> 00:48:40,05
+and I have all these different arrows
+
+412
+00:48:40,35 --> 00:48:47,31
+and all of a sudden I'm so much of a better graduate student than I was the first time around you know.
+
+413
+00:48:47,31 --> 00:48:47,59
+You know
+
+414
+00:48:47,6 --> 00:48:55,42
+and hopefully I still retain some of my creativity I think it also really allows me to retain creativity because I
+
+415
+00:48:55,43 --> 00:48:59,72
+think when you enter a new field.
+
+416
+00:48:59,72 --> 00:49:05,09
+You have to create something yourself to understand that field and
+
+417
+00:49:05,78 --> 00:49:14,67
+when you stay in a field sometimes you just hone the details of what you know which can lead to remarkable
+
+418
+00:49:14,68 --> 00:49:15,44
+breakthroughs
+
+419
+00:49:15,68 --> 00:49:24,54
+but this excitement of Oh now I understand something I didn't understand before this rush you get mixed with the fear
+
+420
+00:49:24,55 --> 00:49:28,27
+that you get as a graduate student.
+
+421
+00:49:28,27 --> 00:49:31,69
+I guess must be addictive to me because I keep doing it again
+
+422
+00:49:31,7 --> 00:49:38,73
+and again. do you kind of imagine the future do you imagine somehow what's out there in the areas that you don't
+
+423
+00:49:38,74 --> 00:49:46,41
+know. Do I imagine the future Well you know my one great sadness is that I won't be able to you know I won't be
+
+424
+00:49:46,42 --> 00:49:51,02
+here to see all of this unless I'm wrong in my religious views
+
+425
+00:49:51,03 --> 00:49:57,28
+where you solved these pesky problems in biology. Although God forbid then for
+
+426
+00:49:57,29 --> 00:50:00,77
+all the people who are on the earth. But I.
+
+427
+00:50:00,8 --> 00:50:13,46
+I do I magine the barriers in science in the different sciences being broken down much as the you know we've seen it in
+
+428
+00:50:13,5 --> 00:50:19,29
+economics we have one economic system throughout much of the world
+
+429
+00:50:19,69 --> 00:50:25,63
+and I I believe that we are going to move towards a time
+
+430
+00:50:25,64 --> 00:50:34,03
+when science is more unified So for me this is really really exciting that we can kind of re-enter a renaissance you
+
+431
+00:50:34,04 --> 00:50:39,76
+know the Renaissance had all the sciences together and then we specialized and we went apart
+
+432
+00:50:40,12 --> 00:50:46,58
+and now I believe this new knowledge base which we all share
+
+433
+00:50:47,00 --> 00:50:56,28
+and this new ability to communicate will bring us back you know to a post modern Renaissance where the sciences are
+
+434
+00:50:56,29 --> 00:51:02,07
+more united. How will life be in this
+
+435
+00:51:02,07 --> 00:51:10,9
+New Renaissance era? well I'm not sure how I mean I I hope that some of the inconveniences of life will be removed
+
+436
+00:51:10,91 --> 00:51:15,12
+you know having to drive myself somewhere when I'm tired
+
+437
+00:51:15,13 --> 00:51:22,32
+or having you know We're now stuck in between epochs where we have to sit on the phone
+
+438
+00:51:22,33 --> 00:51:29,42
+and press buttons press one press two you know hopefully that will be removed to all these pesky little things that
+
+439
+00:51:29,61 --> 00:51:38,24
+interfere on the other hand I hope that. You know we will not remove our ability to.
+
+440
+00:51:38,24 --> 00:51:44,98
+Walk by the Charles River and you know and see the boats and see the birds and
+
+441
+00:51:45,44 --> 00:51:54,21
+and feel connected to the universe in other ways I hope that we can retain the physicality which brings us great joy and
+
+442
+00:51:54,22 --> 00:52:04,46
+peace and which I think is necessary for creativity of all kinds and yet. We can remove some of the.
+
+443
+00:52:04,46 --> 00:52:16,64
+Less enjoyable aspects of physicality. What about. You said there's this incredible force that drives technology and.
+
+444
+00:52:16,64 --> 00:52:25,3
+Another element in that is just the joy of finding things out, there's this playfulness to it. yes
+
+445
+00:52:25,77 --> 00:52:29,11
+technology and science and research are serious business
+
+446
+00:52:29,12 --> 00:52:38,18
+but do you consider yourself a serious person? I always play with science I always play.
+
+447
+00:52:38,18 --> 00:52:45,01
+You know it's interesting when I was a member at the I.A.S. for the first time.
+
+448
+00:52:45,01 --> 00:52:50,05
+Enrico Bombieri asked me how it was going and I'd been there for about a month
+
+449
+00:52:50,06 --> 00:52:53,55
+and I said well I'm not having ideas
+
+450
+00:52:53,56 --> 00:53:00,17
+and he said Are you worried that your ideas aren't great enough because this happens to people
+
+451
+00:53:00,18 --> 00:53:03,39
+when they spend a year at the Institute for the first time
+
+452
+00:53:03,94 --> 00:53:12,42
+and I said Yeah maybe I am. Maybe I should just go back to playing with mathematics to just you know I don't know
+
+453
+00:53:12,43 --> 00:53:17,41
+where I'm going I'm just wondering around and I just started doing that again
+
+454
+00:53:17,42 --> 00:53:24,23
+I started playing I started saying it doesn't matter I don't have to have a great idea today you know I'm just
+
+455
+00:53:24,24 --> 00:53:34,68
+playing and it was actually during that year that I made the connection between statistical physics
+
+456
+00:53:34,92 --> 00:53:43,26
+and theoretical computer science I played I talked to people I found all these connections so I think wandering
+
+457
+00:53:43,66 --> 00:53:46,06
+and playing.
+
+458
+00:53:46,06 --> 00:53:55,11
+Are really necessary for scientists. They're serious business. they are serious business. Is that something you encourage in others
+
+459
+00:53:55,61 --> 00:54:00,77
+I very much encourage wandering in others.
+
+460
+00:54:00,8 --> 00:54:05,53
+I have many postdocs in my labs at a given time ten or fifteen of them
+
+461
+00:54:06,03 --> 00:54:21,25
+and I very much encourage them to talk across disciplines to step back that you know to play because that forms their
+
+462
+00:54:21,56 --> 00:54:24,04
+worldviews for later you know
+
+463
+00:54:24,05 --> 00:54:34,79
+and the more they play the broader their worldview so I very very much encourage this I sometimes tell people you're
+
+464
+00:54:34,84 --> 00:54:44,1
+writing too many papers you know you're not you you should relax this is a time to really figure out what kind of a
+
+465
+00:54:44,11 --> 00:54:47,62
+scientist you're going to be.
+
+466
+00:54:47,62 --> 00:54:56,47
+If you think back. we started our conversation with you as a young girl you know having certain dreams.
+
+467
+00:54:56,47 --> 00:55:04,17
+Looking back. Everything you have experienced, that you have seen happening in your own life and in society.
+
+468
+00:55:04,17 --> 00:55:11,45
+Are you surprised by that? I'm completely surprised you know I'm I'm very driven in a way I'm playful and driven
+
+469
+00:55:11,79 --> 00:55:18,68
+and so I'm always driven toward something I always have some I mean right now I really want to understand cancer
+
+470
+00:55:18,69 --> 00:55:23,79
+immunotherapy because I'm starting a project with Arnie Levine at the I.A.S.
+
+471
+00:55:23,8 --> 00:55:32,38
+I'm always driven and so I am rushing towards some goal but then I take a turn.
+
+472
+00:55:32,38 --> 00:55:35,4
+And I start going towards another goal you know
+
+473
+00:55:35,41 --> 00:55:42,92
+and so all these turns have you know have taken me on a path I never would have imagined
+
+474
+00:55:43,04 --> 00:55:47,62
+and I also try to encourage the young scientists I mentor
+
+475
+00:55:47,63 --> 00:55:55,84
+and I work with to just not to to always have great goals because I think it's important.
+
+476
+00:55:55,84 --> 00:56:00,77
+But to always be open to the opportunities you know to to.
+
+477
+00:56:01,19 --> 00:56:10,54
+Grab that brass ring that you know that might just appear because you never know where that is going to take you
+
+478
+00:56:10,8 --> 00:56:17,69
+and it's not as if you're not bringing all of it along with you you know you're bringing all that you've
+
+479
+00:56:17,7 --> 00:56:22,38
+done. Are you feeling a part of something which is much bigger than yourself in that.
+
+480
+00:56:22,58 --> 00:56:32,6
+Absolutely I'm very much feeling a part of this as I said to you earlier I believe that the world that barriers are
+
+481
+00:56:32,61 --> 00:56:41,08
+being broken down in science and I'd like it to extend even further I'd like it to extend to ethics
+
+482
+00:56:41,09 --> 00:56:48,07
+and you know law and these other areas and that's why I get very excited every day
+
+483
+00:56:48,08 --> 00:56:55,18
+when I see some other little barrier falling you know.
+
+484
+00:56:55,18 --> 00:57:01,85
+Robert Frost said you know something there is that doesn't love a wall and I do not like walls
+
+485
+00:57:01,89 --> 00:57:07,11
+I do not like walls and so I see them break down on small scales
+
+486
+00:57:07,12 --> 00:57:12,37
+and then all of a sudden there's a phase transition because there is not a wall
+
+487
+00:57:12,65 --> 00:57:20,01
+and so then a lot of people are passing between two disciplines at first only the ones who are willing to climb over
+
+488
+00:57:20,23 --> 00:57:23,97
+the part of the wall that remains do that 
+
+489
+00:57:24,01 --> 00:57:31,13
+but then it gets it gets broken down enough that you see unifications of different parts of science
+
+490
+00:57:31,35 --> 00:57:38,79
+I know it's difficult on a day to day basis but are you an optimist? Oh I'm very much an optimist I mean yes on day to day
+
+491
+00:57:38,8 --> 00:57:45,52
+you know oh my God I'll never be able to prove this or. But.
+
+492
+00:57:45,52 --> 00:57:45,86
+You know
+
+493
+00:57:45,87 --> 00:57:56,02
+on medium to long range scales I'm very much an optimist which is also why I love mentoring young people because I'm
+
+494
+00:57:56,06 --> 00:58:02,53
+optimistic about their futures as well and I feel that's a way in which. You know.
+
+495
+00:58:02,53 --> 00:58:07,71
+I can have a piece of this science that goes on. Because if you think about it
+
+496
+00:58:07,72 --> 00:58:09,62
+one of the great things is you said
+
+497
+00:58:09,63 --> 00:58:15,78
+when people start writing things down they were passing things to the next generation and then you know the knowledge that we
+
+498
+00:58:16,35 --> 00:58:19,55
+are enjoying right now is from many many generations before us
+
+499
+00:58:19,56 --> 00:58:27,32
+and do you feel you are also passing this along to the future? I feel I'm very much passing it along I mean my the grad
+
+500
+00:58:27,33 --> 00:58:28,43
+students with whom I work
+
+501
+00:58:28,44 --> 00:58:36,91
+and the post-docs are you know perhaps what I am proudest of I mean I'm proud of particular pieces of my own work but.
+
+502
+00:58:36,91 --> 00:58:44,88
+You know I probably have over a hundred well over a hundred of my ex students
+
+503
+00:58:44,89 --> 00:58:50,5
+and postdocs sitting at top universities around the world and
+
+504
+00:58:51,46 --> 00:59:00,07
+and I see an element of what they do they're approaching things in a slightly different way because of the
+
+505
+00:59:00,08 --> 00:59:02,85
+environment I helped to create for them
+
+506
+00:59:03,06 --> 00:59:09,91
+and the world view I helped to give them a little piece of so I mean that's you know.
+
+507
+00:59:09,91 --> 00:59:16,25
+That's definitely my greatest legacy. You talked about how we're forming this kind of great network.
+
+508
+00:59:16,25 --> 00:59:19,46
+This kind of global intelligence.
+
+509
+00:59:19,46 --> 00:59:26,47
+That's in space but do you also see this kind of extending in time? absolutely extending in time
+
+510
+00:59:26,48 --> 00:59:33,4
+and you know I won't be you know leading labs a hundred years from now certainly.
+
+511
+00:59:33,4 --> 00:59:38,75
+But they and their disciples will you know they are just
+
+512
+00:59:39,14 --> 00:59:45,78
+and they are going to do things that I cannot imagine which is very exciting to me
+
+513
+00:59:46,68 --> 00:59:55,68
+Undoubtly you tried so. OK Jennifer I want to go into some of the more specific technologies that are driving these
+
+514
+00:59:55,76 --> 01:00:02,53
+tremendous changes. The first thing I want to talk about is virtual reality.
+
+515
+01:00:02,53 --> 01:00:07,42
+You told us about how we're going to live in this kind of new world.
+
+516
+01:00:07,42 --> 01:00:13,33
+Probably a lot of what we will experience in that new world will not be direct experiences as we do right now
+
+517
+01:00:13,37 --> 01:00:20,61
+but probably in a virtual form so what do you see happening there. So I think that virtual reality
+
+518
+01:00:20,62 --> 01:00:33,71
+and actually augmented reality which is the projection of some virtual elements into your physical space.
+
+519
+01:00:33,71 --> 01:00:43,08
+Are just going to be wonderful I mean I think it you know it will have all kinds of applications from obviously
+
+520
+01:00:43,12 --> 01:00:50,93
+games and amusement to many people being able to travel to other countries to which they haven't been able to travel 
+
+521
+01:00:50,94 --> 01:01:00,72
+while sitting in their chairs you know to travel in the universe you know fly through the universe
+
+522
+01:01:00,73 --> 01:01:07,59
+and see various stars to very concrete things like.
+
+523
+01:01:07,59 --> 01:01:20,23
+A doctor in the United States being able to guide operations in the developing world so it you know it it will have very
+
+524
+01:01:20,32 --> 01:01:28,59
+practical applications and it will also be magical in so many ways
+
+525
+01:01:28,6 --> 01:01:33,46
+and I feel like I I get to travel all the time for my work.
+
+526
+01:01:33,46 --> 01:01:41,38
+But I feel bad for people who can't travel so many of them will have a lot of these experiences
+
+527
+01:01:41,71 --> 01:01:48,93
+and in augmented reality and virtual reality these are essentially visceral experiences.
+
+528
+01:01:48,93 --> 01:01:51,22
+Perhaps in some sense our reality is already
+
+529
+01:01:51,23 --> 01:01:58,76
+augmented right because you know our brain is processing what we see, is adding stuff to it. Absolutely I definitely
+
+530
+01:01:58,77 --> 01:02:00,77
+think that my reality is.
+
+531
+01:02:00,96 --> 01:02:04,34
+Augmented because I project. What you know
+
+532
+01:02:04,35 --> 01:02:14,25
+I project what I know I project my views I you know I see networks I see phase transitions.
+
+533
+01:02:14,25 --> 01:02:14,55
+You know
+
+534
+01:02:14,56 --> 01:02:23,54
+and so I have kind of these parallel views going on. Is there a risk that we will kind of detach from the world
+
+535
+01:02:23,55 --> 01:02:33,17
+and detach from each other. I don't think we will detach from each other I think there is.
+
+536
+01:02:33,17 --> 01:02:39,79
+That it is really inbred in us to want to connect with each other.
+
+537
+01:02:39,79 --> 01:02:51,06
+The World Wide Web started at first there was just information on the World Wide Web. What became the most popular
+
+538
+01:02:51,07 --> 01:02:57,8
+things on the World Wide Web It was social media it was connecting it was Facebook
+
+539
+01:02:57,81 --> 01:03:06,98
+and Twitter and Instagram it was not just passively interacting with some knowledge
+
+540
+01:03:06,99 --> 01:03:16,93
+or some entertainment it was interaction so I believe that we will always want to interact. We are just kind of a social animal
+
+541
+01:03:17,06 --> 01:03:20,3
+and this will be just enhancing that. yes
+
+542
+01:03:20,34 --> 01:03:29,61
+and it would take many many many millions of years for us to evolve into something other than a social
+
+543
+01:03:29,65 --> 01:03:37,06
+animal. So I believe that we will continue to remain fundamentally social.
+
+544
+01:03:38,04 --> 01:03:43,68
+One of the things that is driving all of this. We also talked about artificial intelligence and machine learning
+
+545
+01:03:43,69 --> 01:03:51,11
+and virtual reality is the sheer computing power that is.
+
+546
+01:03:51,11 --> 01:03:52,36
+Now available
+
+547
+01:03:53,11 --> 01:04:00,00
+and often this is kind of a semi secret how incredibly strong these resources are particularly in the private
+
+548
+01:04:00,01 --> 01:04:00,57
+industry.
+
+549
+01:04:01,77 --> 01:04:08,74
+But what do you see happening in computing in particular we are now in the phase where quantum computing
+
+550
+01:04:08,75 --> 01:04:09,63
+is getting closer
+
+551
+01:04:09,64 --> 01:04:18,93
+and I know Microsoft is heavily betting on that. So what will that do to us. Well you know for many years now people have
+
+552
+01:04:18,94 --> 01:04:24,2
+been worried about the end of Moore's Law You know the doubling every year and a half
+
+553
+01:04:24,54 --> 01:04:33,74
+and so we are going to need new computing paradigms I think quantum computing will be one there are different kinds of
+
+554
+01:04:33,88 --> 01:04:44,59
+quantum computers. Mike Freedman at Microsoft he's a wonderful topologist is you know looking at topological quantum
+
+555
+01:04:44,6 --> 01:04:53,42
+computing there are other kinds of chronic computing one could consider Adiabatic quantum computing which would
+
+556
+01:04:53,43 --> 01:04:57,2
+have different realizations.
+
+557
+01:04:57,2 --> 01:05:00,84
+I'm just starting to work with some people in Holland on this actually
+
+558
+01:05:00,85 --> 01:05:10,95
+on adiabatic quantum computing possibly to create hardware that learns So you know there are we need people
+
+559
+01:05:10,96 --> 01:05:14,77
+thinking about what are the next generations.
+
+560
+01:05:14,81 --> 01:05:21,72
+But try to kind of get us a feeling of the magnitude of these changes you know what will be possible what's not possible
+
+561
+01:05:21,73 --> 01:05:29,34
+right now just in terms of sheer power computational power. Well you know I think that.
+
+562
+01:05:29,34 --> 01:05:36,33
+We are going to be able to conjure up. One of the things that is really.
+
+563
+01:05:36,33 --> 01:05:39,89
+Computation intensive is image
+
+564
+01:05:39,9 --> 01:05:50,79
+and graphics OK And we spoke about virtual reality well virtual reality will not be possible without a great deal more
+
+565
+01:05:51,27 --> 01:06:00,77
+computing power so we really need many generations more of computing power for you to be.
+
+566
+01:06:00,97 --> 01:06:03,22
+Able to be in this room
+
+567
+01:06:03,23 --> 01:06:11,88
+and yet walk among the pyramids you know to interact with each other there will be things that you know where a 
+
+568
+01:06:11,89 --> 01:06:18,73
+hologram of someone else is in the room with you a little bit like Star Trek.
+
+569
+01:06:18,73 --> 01:06:27,73
+I very much hope I think everybody who travels very much hopes that virtual meetings will get much much better so that
+
+570
+01:06:27,74 --> 01:06:32,71
+we don't have to keep hopping on planes and wasting our time
+
+571
+01:06:32,72 --> 01:06:38,39
+and destroying the environment so all of these things are going to be facilitated
+
+572
+01:06:38,4 --> 01:06:45,28
+and then also you know precision medicine we want to integrate so much.
+
+573
+01:06:45,28 --> 01:06:52,6
+Your genome right now we're only looking at certain parts of the genome we're going to be able to look at so much more
+
+574
+01:06:52,61 --> 01:06:59,68
+and we're going to be able to take in the genomes of so many more individuals right now
+
+575
+01:06:59,69 --> 01:07:08,38
+in many diseases we don't yet have enough signal to be able to say anything. So you say we just kind of miss the 
+
+576
+01:07:08,39 --> 01:07:17,42
+computational power. We miss the computational power. To attack these kinds of issues right on. Absolutely there are so many
+
+577
+01:07:17,43 --> 01:07:20,11
+diseases where.
+
+578
+01:07:20,11 --> 01:07:27,69
+We don't have enough samples we don't have enough computational power on those samples to be able to get a good signal
+
+579
+01:07:28,02 --> 01:07:34,79
+and as we do that we are going to be able to .
+
+580
+01:07:34,79 --> 01:07:44,31
+To really allow people to live very productive lives with mental illness with many other conditions which we really
+
+581
+01:07:44,32 --> 01:07:52,55
+can't touch now. We are in a very primitive place our treatment of cancer is incredibly primitive we you know
+
+582
+01:07:52,56 --> 01:08:00,77
+poison the whole body most of the time in order to try to cure someone of cancer so really we're in the dark ages.
+
+583
+01:08:00,8 --> 01:08:10,17
+medically and in order to realize the promise we're going to need many more generations of computing power
+
+584
+01:08:10,33 --> 01:08:16,44
+Let's go back also to the theme of technological progress and inequality
+
+585
+01:08:16,45 --> 01:08:22,73
+or equality. So clearly in the beginning phase this is benefiting a small group
+
+586
+01:08:22,8 --> 01:08:28,53
+but you're indicating in the end you see this as kind of spreading So what will these kind of technological revolutions
+
+587
+01:08:28,54 --> 01:08:37,46
+do to the poor half of the world and also perhaps. In many countries there are.
+
+588
+01:08:37,46 --> 01:08:44,59
+Places that are so to say very close by but they're very far away in terms of the spreading of ideas
+
+589
+01:08:44,65 --> 01:08:54,53
+and technology so what what do you see changing there. so I think there are very many people in technology both you
+
+590
+01:08:54,54 --> 01:08:58,07
+know people who have made their fortunes in technology
+
+591
+01:08:58,46 --> 01:09:08,75
+and people who are currently doing technology creating technology who care deeply about inequality. I think we need to
+
+592
+01:09:08,76 --> 01:09:18,88
+get connectivity to all parts of the world and we need to get inexpensive devices to all parts of the world I think.
+
+593
+01:09:18,88 --> 01:09:28,98
+We need energy sources that will enable us to power those devices without destroying our climate so we need
+
+594
+01:09:29,57 --> 01:09:39,63
+renewable energy sources and we need nanotechnology in other areas that will really allow us to to do that.
+
+595
+01:09:39,63 --> 01:09:45,37
+We'll be able we will be able to.
+
+596
+01:09:45,37 --> 01:09:54,8
+Transmit knowledge so that to help people you know create clean sources of water to help in agriculture
+
+597
+01:09:54,81 --> 01:10:00,72
+and we can be applying machine learning to agricultural data.
+
+598
+01:10:01,14 --> 01:10:08,46
+And really improving the food sources for a lot of people in the developing world.
+
+599
+01:10:08,46 --> 01:10:15,85
+We can ultimately once we have gotten the medical and nutritional.
+
+600
+01:10:15,85 --> 01:10:24,18
+Requirements dealt with we can start to teach people in other parts of the world and hopefully.
+
+601
+01:10:24,18 --> 01:10:31,63
+Virtual meetings will be much better right now we do have online classes but I hope there will be a time
+
+602
+01:10:31,64 --> 01:10:36,37
+when you know someone from subsaharan Africa can really you know his
+
+603
+01:10:36,38 --> 01:10:45,19
+or her hologram can be in the classroom with someone at Cambridge University or Princeton University.
+
+604
+01:10:45,19 --> 01:10:52,48
+You know and we can really begin to deal with the fact that.
+
+605
+01:10:52,48 --> 01:11:00,69
+If people are not together it's hard to give them equal access. Do you feel we have the right incentives both in the
+
+606
+01:11:00,7 --> 01:11:08,57
+academic world, in government but also in the private industry to do these kinds of.
+
+607
+01:11:08,57 --> 01:11:17,7
+Right things for human development. So honestly I feel that some of the incentives are wrong OK.
+
+608
+01:11:17,7 --> 01:11:24,61
+And I think that's one of the big questions in society is you know.
+
+609
+01:11:24,61 --> 01:11:33,91
+How do we create incentives for social good or for what a game theorist would call social welfare.
+
+610
+01:11:33,91 --> 01:11:43,8
+And I think right now we have swung a little too far in the United States this is my own private view towards
+
+611
+01:11:44,68 --> 01:11:52,58
+centralization of power centralization of finances.
+
+612
+01:11:52,58 --> 01:11:59,65
+Wealth creation and you know we're hearing about it all the time and I think.
+
+613
+01:12:01,03 --> 01:12:11,42
+We're experiencing a lot of instability globally because of this so my hope is that.
+
+614
+01:12:11,42 --> 01:12:18,53
+The pendulum that seems to be swinging one way will swing back the other way towards.
+
+615
+01:12:18,53 --> 01:12:24,88
+Towards a little more regulation which would allow us to share the wealth more
+
+616
+01:12:25,23 --> 01:12:33,78
+but for this I believe it's also really important that we have social scientists interacting with scientists
+
+617
+01:12:33,79 --> 01:12:46,61
+and technologists on a fundamental level and figuring out Jaron Lanier had you know had suggested that maybe any.
+
+618
+01:12:46,61 --> 01:12:53,5
+Knowledge creation through following people in their movements on the web instead of all of the wealth of that going to a
+
+619
+01:12:53,51 --> 01:13:02,76
+centralized power some fraction of it should trickle back to the people who help to create the data that powers these
+
+620
+01:13:02,77 --> 01:13:10,4
+great advances so you know I'm not sure whether that's the answer but I believe that we will have technologists
+
+621
+01:13:10,41 --> 01:13:17,62
+and economists and anthropologists and ethicists looking at these questions
+
+622
+01:13:18,49 --> 01:13:25,58
+when the world becomes sufficiently unhappy with how far the pendulum has swung. So in some sense fundamentally you feel
+
+623
+01:13:25,59 --> 01:13:34,6
+that we kind of control our destiny in that respect by doing the right things. I think that we.
+
+624
+01:13:34,6 --> 01:13:43,77
+You know that that human beings learn and I don't think anybody is comfortable with the instability now 
+
+625
+01:13:44,06 --> 01:13:52,58
+and so in learning to decrease the variance and to decrease the instability.
+
+626
+01:13:52,58 --> 01:13:57,12
+We're going to swing a little bit back towards equality
+
+627
+01:13:57,46 --> 01:14:04,46
+and then you know we'll probably swing back again because we are. We're a dynamical system.
+
+628
+01:14:04,46 --> 01:14:09,76
+Coming back to that. I don't dare to say the word phase transition because all the technology will collapse
+
+629
+01:14:09,77 --> 01:14:16,19
+but let's briefly go back to your own.
+
+630
+01:14:16,19 --> 01:14:24,77
+Earlier life where you were much more focused on your original I would say kind of academic love in mathematical
+
+631
+01:14:24,78 --> 01:14:31,13
+physics so can you just tell us a little bit how did you start out in science and what did you exactly study
+
+632
+01:14:31,14 --> 01:14:38,46
+and what did you do. so in my early career I studied phase transitions.
+
+633
+01:14:38,46 --> 01:14:47,67
+In what are called disordered systems systems with some noise in them there were realizations of this
+
+634
+01:14:47,68 --> 01:14:57,06
+in laboratories and some nice materials have special properties because of the noise.
+
+635
+01:14:57,06 --> 01:15:05,96
+What was interesting is that although this was certainly not the reason that I went to Microsoft I went to found
+
+636
+01:15:05,97 --> 01:15:13,81
+interdisciplinary groups because they were willing to support me on that but when the Internet started to take off
+
+637
+01:15:14,18 --> 01:15:23,46
+and the World Wide Web started to take off I saw many of the same structures in these self organized
+
+638
+01:15:23,5 --> 01:15:31,1
+but very noisy networks and so it really there was.
+
+639
+01:15:31,1 --> 01:15:35,47
+The mathematical models I could take
+
+640
+01:15:35,78 --> 01:15:46,57
+and I could look at these huge networks that we were creating So it was very much you know it was this lens through
+
+641
+01:15:46,58 --> 01:15:53,43
+which I viewed phase transitions I mean I found inequalities on critical exponents
+
+642
+01:15:53,44 --> 01:16:00,58
+and various various esoteric things in these systems I studied.
+
+643
+01:16:00,88 --> 01:16:09,13
+But then I could go over to these other systems and see the same structures I think as scientists
+
+644
+01:16:09,39 --> 01:16:14,21
+when we're young we learn that we put on certain lenses
+
+645
+01:16:14,22 --> 01:16:22,65
+and no matter how we try those are always the first eyes with which we view any new problem
+
+646
+01:16:22,9 --> 01:16:30,63
+and what got me so excited about technology is that occasionally they were very good eyes through which to view 
+
+647
+01:16:30,64 --> 01:16:35,74
+You could see things that others couldn't see that others couldn't see yes.
+
+648
+01:16:35,74 --> 01:16:41,87
+That's terrific. perhaps you know just wrapping up a little bit I want just to circle back to kind of the
+
+649
+01:16:41,88 --> 01:16:47,5
+big picture and you know with all the lovely things we have seen happening in terms of technology
+
+650
+01:16:47,51 --> 01:16:54,96
+and just come back to looking to the future so if you kind of close your eyes
+
+651
+01:16:54,97 --> 01:16:59,46
+and you envision this world of tomorrow.
+
+652
+01:16:59,46 --> 01:17:00,94
+Tell us just what comes up
+
+653
+01:17:00,95 --> 01:17:09,42
+what bubbles up what do you see in this in this dream. so one of the things for me that would be very exciting I have
+
+654
+01:17:09,43 --> 01:17:17,85
+collaborators all over the world and I love to see them and I think they like to see me and.
+
+655
+01:17:17,85 --> 01:17:25,1
+It is just so frustrating because we have to carve time out of our schedules and we have to get on planes
+
+656
+01:17:25,11 --> 01:17:29,18
+and you know get jetlag.
+
+657
+01:17:29,18 --> 01:17:39,11
+And I really believe that at some point in the not too distant future I'm going to be able to be sitting in a room with
+
+658
+01:17:39,12 --> 01:17:47,27
+you but you're not going to be here Or I'm going to be able to be standing at a you know blackboard with you and writing
+
+659
+01:17:47,28 --> 01:17:50,08
+and we're both going to write and we're going to see each other's stuff
+
+660
+01:17:50,26 --> 01:17:56,56
+and we can have somebody from yet another place interacting with us so for me as a scientist
+
+661
+01:17:57,49 --> 01:18:04,51
+when I get an idea being able to connect with anyone in the. World at any time essentially.
+
+662
+01:18:04,51 --> 01:18:11,68
+Is something that I'm really looking forward to and you know for others who do their own thing who are artists
+
+663
+01:18:11,69 --> 01:18:21,23
+or who are musicians you know can they you know can you have a string quartet with four people in different countries
+
+664
+01:18:21,96 --> 01:18:32,45
+you know wouldn't that be lovely. So where where it's not a degraded a terribly degraded form of reality
+
+665
+01:18:32,78 --> 01:18:35,07
+so for me.
+
+666
+01:18:35,07 --> 01:18:39,48
+You know this technology moves towards greater connection for me
+
+667
+01:18:39,49 --> 01:18:47,77
+a scientific connection for others it will be artistic or you know your family is in Holland wouldn't you love to be
+
+668
+01:18:47,78 --> 01:18:58,14
+able to sit down and have a dinner with them when you're sitting in Princeton you know. So you see this.
+
+669
+01:18:58,14 --> 01:19:05,51
+If you then take the long view and you see human beings how they started probably living you know with just a handful.
+
+670
+01:19:05,51 --> 01:19:14,25
+of very small isolated groups and we grow and now we have this incredibly complicated world getting closer to each
+
+671
+01:19:14,26 --> 01:19:19,7
+other in some sense connecting more so we will have.
+
+672
+01:19:19,7 --> 01:19:23,49
+Some transition to a phase where basically everybody is in contact with everybody as much as you want
+
+673
+01:19:23,5 --> 01:19:34,75
+You think that will happen? I think it will be. It will be sparse in the sense OK so a sparse graph is one in which.
+
+674
+01:19:34,75 --> 01:19:40,7
+You're not connected to a positive fraction of everybody else in the graph I don't think I'm going to have a billion
+
+675
+01:19:41,21 --> 01:19:42,95
+people with whom I'm interacting
+
+676
+01:19:43,01 --> 01:19:53,83
+but they can be anywhere that distances are just going to shrink so physical distances are going to shrink intellectual
+
+677
+01:19:53,89 --> 01:20:00,77
+distances are going to shrink and so we will have. A much more 
+
+678
+01:20:00,8 --> 01:20:03,54
+unified connected world
+
+679
+01:20:03,55 --> 01:20:10,2
+and I think you know all of us strive whether you're you know a particle physicist actually striving for what you call
+
+680
+01:20:10,21 --> 01:20:20,16
+grand unification or you know whether you are someone like me who wants to see certain aspects of physics and biology.
+
+681
+01:20:20,16 --> 01:20:23,44
+Connected to each other.
+
+682
+01:20:23,44 --> 01:20:30,2
+You know I think we all strive for that and that the technology will allow us to do that
+
+683
+01:20:30,21 --> 01:20:38,27
+and we're seeing some of the intellectual connections before the physical connections but virtual reality I think
+
+684
+01:20:38,5 --> 01:20:48,21
+when it's done right when you can really read someone else's emotions and you can. You can relate to them.
+
+685
+01:20:48,21 --> 01:20:57,94
+Will allow us to also break down those you know barriers of distance. I'm not sure about the rest of the universe I mean
+
+686
+01:20:58,04 --> 01:21:05,85
+I believe there are other I truly believe there are other sentient beings in the universe.
+
+687
+01:21:05,85 --> 01:21:15,98
+So Also it would be very nice I think if we could connect with them without having to travel long distances. You feel we
+
+688
+01:21:16,22 --> 01:21:22,99
+first have to connect with ourselves in order to make that next step? Yes I do actually
+
+689
+01:21:23,36 --> 01:21:28,82
+and you know I don't know we are probably limited by the speed of light but.
+
+690
+01:21:28,82 --> 01:21:41,01
+But you know I actually believe that within a distance that we can see there are other sentient beings you know that I
+
+691
+01:21:41,02 --> 01:21:50,26
+can see in my lifetime. Do you see us pursuing that exploring the universe in the end. I hope so. Will we do it
+
+692
+01:21:50,26 --> 01:21:57,42
+As physical beings or will we do it through our technology. I think we'll do it through our technology I think we have
+
+693
+01:21:58,07 --> 01:22:00,76
+inherent limitations as 
+
+694
+01:22:00,88 --> 01:22:01,7
+Physical beings
+
+695
+01:22:01,76 --> 01:22:16,55
+and what this technology is going to do is free us from the physical limitations so that our almost unlimited drive to
+
+696
+01:22:16,56 --> 01:22:17,55
+understand
+
+697
+01:22:17,59 --> 01:22:26,35
+and to connect can truly be unleashed. If you then look at the timeline of human beings spending a few billion years
+
+698
+01:22:26,36 --> 01:22:30,04
+on Planet Earth Life as we know it.
+
+699
+01:22:30,04 --> 01:22:36,79
+But then at some point we'll be spreading across the universe is that what you see happening? I think we might especially
+
+700
+01:22:36,8 --> 01:22:42,09
+if we ruin the earth which is a distinct possibility.
+
+701
+01:22:42,09 --> 01:22:42,55
+But
+
+702
+01:22:43,34 --> 01:22:51,78
+but I also believe that maybe we'll connect with other parts of the universe without actually physically going there so
+
+703
+01:22:52,12 --> 01:22:57,49
+which might be easier I mean you know right now we're physically going just to the other side of the earth
+
+704
+01:22:57,86 --> 01:23:06,37
+and you know last month I went to Europe three times from the US and it just.
+
+705
+01:23:06,37 --> 01:23:14,72
+It's too much right it's too much and I certainly you know wouldn't want to try to leave our solar system.
+
+706
+01:23:14,72 --> 01:23:20,89
+One of the big frustrations in life is that you can't unify with 
+
+707
+01:23:20,9 --> 01:23:22,52
+another person.
+
+708
+01:23:22,52 --> 01:23:30,91
+But somehow you are sketching a future where science and technology will allow us to do so. I believe so
+
+709
+01:23:30,92 --> 01:23:36,38
+you know in my own personal life I have tried to do that. you know my husband and I work together
+
+710
+01:23:37,04 --> 01:23:45,12
+and we write papers together we do research we run labs together so I do try to do this because I like to do many many
+
+711
+01:23:45,13 --> 01:23:45,63
+things
+
+712
+01:23:45,64 --> 01:23:51,22
+and I also like to be connected with people which means for my husband we must work together because we're going to
+
+713
+01:23:51,23 --> 01:23:57,22
+spend too much time working and you know wouldn't it be nice if not quite to that extent
+
+714
+01:23:57,23 --> 01:24:00,77
+but connection is possible because I believe.
+
+715
+01:24:01,28 --> 01:24:07,55
+That scientifically you know very very often the whole is greater than the sum of the parts
+
+716
+01:24:07,99 --> 01:24:14,55
+and so we need to break down both the intellectual barriers and the physical barriers
+
+717
+01:24:14,56 --> 01:24:23,61
+and the part that technology has not realized for us yet are the physical barriers you know it's still I mean I know we
+
+718
+01:24:23,62 --> 01:24:29,49
+can we can have a Skype call and it's wonderful relative to not having a Skype call
+
+719
+01:24:29,58 --> 01:24:39,23
+but we still fly to see each other if we really want to work together you know and I'm really hoping that we can.
+
+720
+01:24:39,23 --> 01:24:43,98
+Feel the other person's presence and.
+
+721
+01:24:43,98 --> 01:24:50,22
+Not be inhibited by this barrier and be able to work together
+
+722
+01:24:50,23 --> 01:24:59,01
+and you know do science together. I'm so happy I flew over here to have this conversation. Thank you very much.
+
+723
+01:24:59,01 --> 01:25:02,18
+Can you imagine having this all the time. Yes. that's terrific.
+

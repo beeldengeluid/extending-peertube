@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
 import requests
+import csv
 import json
-import math
 import time
+import os
 import configapi as cfg
 
 # API vars (from configapi.py)
@@ -11,12 +12,12 @@ import configapi as cfg
 # api_url = 'https://peertube.beeldengeluid.nl/api/v1'
 # api_user = 'nisv'
 # api_pass = 'xxxxxxxxxxxx'
+# channel_id = 2
 
 api_url = cfg.api_url
 api_user = cfg.api_user
 api_pass = cfg.api_pass
-
-channel_handle = 'themindoftheuniverse'
+channel_id = cfg.channel_id
 
 # Get client
 
@@ -47,34 +48,22 @@ headers = {
 	'Authorization': token_type + ' ' + access_token
 }
 
-# Update this data
+with open('vpro_srt.csv', 'r') as csvfile:
+	csv_data = csv.reader(csvfile, delimiter='|')
+	for row in csv_data:
 
-data = {
-	'category': 15
-}
+		uuid = row[0]
+		srt = row[1]
 
-# GET videos total from channel
+		srt_exists = os.path.exists('data/transcripts/' + srt)
 
-response = requests.get(api_url + '/video-channels/' + channel_handle + '/videos?count=0')
-videos = response.json()
+		if srt_exists:
+			
+			files = {
+				'captionfile': (srt, open('data/transcripts/' + srt, 'rb'))
+			}
 
-total = videos['total']
-loops = math.ceil(total/100)
+			response = requests.put(api_url + '/videos/' + uuid + '/captions/en', headers=headers, files=files)
+			time.sleep(1)
 
-i = 0
-
-while i < loops:
-	
-	offset = i * 100
-
-	# GET videos from channel
-
-	response = requests.get(api_url + '/video-channels/' + channel_handle + '/videos?start=' + str(offset) + '&count=100&skipCount=true')
-	videos = response.json()
-
-	for video in videos['data']:
-
-		requests.put(api_url + '/videos/' + video['uuid'], headers=headers, data=data)
-		time.sleep(1)
-
-	i += 1
+			# print(response)
