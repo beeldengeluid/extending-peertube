@@ -101,7 +101,7 @@ curl -X POST  -d "client_id=<client-id>&client_secret=<client-secret>>&grant_typ
 ```
 
 
-Ingestion of subtitles is done using a call to the `captions` endpoint of the API. Subtitles are added to existing videos using a PUT HTTP request. For example, the HTTP request shown below adds a subtitle file to an existing video, using the bearer token acquired in the previous step: 
+Ingestion of subtitles is done using a call to the `captions` endpoint of the API. Subtitles are added to existing videos using a PUT HTTP request. For example, the HTTP request shown below adds a subtitle file for a specified language to an existing video, using the bearer token acquired in the previous step: 
 
 
 ```sh
