@@ -72,7 +72,7 @@ rates_limit:
     max: 3
 ```
 
-When bulk importing videos we needed to take this into account as each video import needs a separate API call. We implemented a 2 second pause between each API call in our script to be on the safe side.
+When bulk importing videos we needed to take this into account as each video import needs a separate API call. We implemented a 1 second pause between each API call in our script to be on the safe side.
 
 ### Failed imports
 
