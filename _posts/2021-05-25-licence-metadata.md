@@ -13,22 +13,23 @@ RDFa is a W3C Recommendation that adds a set of attribute-level extensions to HT
 
 To make this work we added these attributes on the existing HTML of the PeerTube video page. Below you find an excerpt of the tags the plugin extends.
 
-Example from [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
+Example from [peertube.beeldengeluid.nl](hhttps://peertube.beeldengeluid.nl/w/gCFCSfx2HidXAZ94ujUPTy):
 
 
 ```html
+
 <div class="video-info" xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="https://creativecommons.org/ns#">
 
-  <h1 class="video-info-name" property="dct:title">Journey Running on Linux with Proton 6.3-4</h1>
+  <h1 class="video-info-name" property="dct:title">Voorbereidingen voor de eerste vlucht van ruimte-vliegtuig 'Enterprise'</h1>
 
   <span class="cc-licence">
-   • <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
-       <img src="https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png">
+   • <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
+       <img src="https://licensebuttons.net/l/by-sa/4.0/80x15.png">
      </a>
   </span>
 
-  <a title="Account page" href="https://peertube.linuxrocks.online/accounts/ekianjo" rel="cc:attributionURL dct:creator">
-    <span property="cc:attributionName">ekianjo</span>
+  <a title="Account page" href="https://peertube.beeldengeluid.nl/a/nisv" rel="cc:attributionURL dct:creator">
+    <span property="cc:attributionName">By nisv</span>
   </a>
 
 </div>
