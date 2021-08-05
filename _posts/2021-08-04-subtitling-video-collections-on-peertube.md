@@ -107,3 +107,6 @@ Ingestion of subtitles is done using a call to the `captions` endpoint of the AP
 ```sh
 curl -X PUT -F "captionfile=@<-name>.srt" -H "Authorization:Bearer <token>" -H "Accept:application/json" -v https://host.name.nl/api/v1/videos/<your-video-identifier>/captions/<language-tag>
 ```
+
+
+Have a look at [this video about 'The work of the harbour cleaning service'](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) for an example of a PeerTube video that is fully subtitled using the workflow described in this post.
