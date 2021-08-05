@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtitling Video Collections on PeerTube
-category: Tools
+category: Subtitles
 comments: false
 ---
 
