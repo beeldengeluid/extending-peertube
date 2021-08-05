@@ -13,15 +13,13 @@ PeerTube is a powerful open source platform that allows institutions to quickly 
 
 Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
-</div>
-  
-  
-
 <!--more-->
 
 Creating subtitles manually involves a lot of human work, which makes it less feasible in the context of audiovisual archives with large collections. An increasingly popular alternative is to transcribe spoken audio using automatic speech recognition (ASR). As part of this project, we have explored the use of ASR transcription to generate subtitles for videos published via our PeerTube instance.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
+</div><br>
 
 This post walks through the process of generating ASR transcripts for Dutch spoken videos using Kaldi NL, converting them into the right subtitle format for PeerTube and adding them to their respective videos on the PeerTube instance.
 
