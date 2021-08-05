@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 8th licence
-category: CC plugin
+category: CC-plugin
 comments: false
 ---
 

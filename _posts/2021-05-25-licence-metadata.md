@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Licence metadata
-category: CC plugin
+category: CC-plugin
 comments: false
 ---
 

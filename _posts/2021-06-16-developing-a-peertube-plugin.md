@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing a PeerTube plugin
-category: CC plugin
+category: CC-plugin
 comments: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PeerTube video licences
-category: CC plugin
+category: CC-plugin
 comments: false
 ---
 

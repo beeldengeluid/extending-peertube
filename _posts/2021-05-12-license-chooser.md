@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Licence chooser
-category: CC plugin
+category: CC-plugin
 comments: false
 ---
 
