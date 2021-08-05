@@ -11,12 +11,13 @@ PeerTube is a powerful open source platform that allows institutions to quickly 
 * Making spoken audio accessible to viewers who aren’t native in the spoken language
 * Extracting keywords and annotations can help to find videos, based on the words mentioned within
 
-Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post
+Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
+  
+  
 
 <!--more-->
 
