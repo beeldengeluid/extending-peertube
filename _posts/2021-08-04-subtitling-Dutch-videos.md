@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subtitling Video Collections on PeerTube
+title: Subtitling Dutch videos
 category: Subtitles
 comments: false
 ---
@@ -10,6 +10,10 @@ PeerTube is a powerful open source platform that allows institutions to quickly 
 * Making spoken audio accessible to viewers who are hearing impaired
 * Making spoken audio accessible to viewers who aren’t native in the spoken language
 * Extracting keywords and annotations can help to find videos, based on the words mentioned within
+
+Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post:
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
 <!--more-->
 
@@ -107,8 +111,3 @@ Ingestion of subtitles is done using a call to the `captions` endpoint of the AP
 ```sh
 curl -X PUT -F "captionfile=@<-name>.srt" -H "Authorization:Bearer <token>" -H "Accept:application/json" -v https://host.name.nl/api/v1/videos/<your-video-identifier>/captions/<language-tag>
 ```
-
-
-Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post:
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl" frameborder="0" allowfullscreen></iframe>
