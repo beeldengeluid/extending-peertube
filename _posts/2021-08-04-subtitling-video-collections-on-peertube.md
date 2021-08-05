@@ -109,6 +109,6 @@ curl -X PUT -F "captionfile=@<-name>.srt" -H "Authorization:Bearer <token>" -H "
 ```
 
 
-Have a look at this video about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post:
+Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl) about 'The work of the harbour cleaning service' for an example of a PeerTube video that is fully subtitled using the workflow described in this post:
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl" frameborder="0" allowfullscreen></iframe>
