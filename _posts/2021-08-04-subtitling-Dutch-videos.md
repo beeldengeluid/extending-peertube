@@ -15,6 +15,11 @@ Have a look at [this video](https://peertube.beeldengeluid.nl/w/39a48fdb-c55e-46
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
+
+<div class="embed-responsive embed-responsive-16x9">
+  <iframe class="embed-responsive-item" sandbox="allow-same-origin allow-scripts allow-popups" title="Het werk van de haven-schoonmaakdienst" src="https://peertube.beeldengeluid.nl/videos/embed/39a48fdb-c55e-46e6-9ab3-e988798c9ea7?subtitle=nl&warningTitle=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <!--more-->
 
 Creating subtitles manually involves a lot of human work, which makes it less feasible in the context of audiovisual archives with large collections. An increasingly popular alternative is to transcribe spoken audio using automatic speech recognition (ASR). As part of this project, we have explored the use of ASR transcription to generate subtitles for videos published via our PeerTube instance.
