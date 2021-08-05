@@ -222,7 +222,7 @@ for (let element of video_info_date_views) {
 }
 ```
 
-An example of the resulting licence button in action on [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
+An example of the resulting licence button in action on [peertube.beeldengeluid.nl](https://peertube.beeldengeluid.nl/w/gCFCSfx2HidXAZ94ujUPTy):
 
 ![Screenshot CC licence button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
 
