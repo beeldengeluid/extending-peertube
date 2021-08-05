@@ -52,7 +52,7 @@ This will populate the output directory with a TXT file and a CTM file, containi
 
 The CTM and TXT formats are not directly supported for subtitles in PeerTube, so we will convert them to the supported SRT format.
 
-The CTM output from Kaldi NL is formatted as a list of words per timecode. As reconstructing sentences with appropriate length from this source would be non-trivial, we will work with the TXT file. The TXT file is formatted with a sentence on each line, followed by the filename, the sentence number, and the starting timecode. For example:
+The CTM output from Kaldi NL is formatted as a list of words per timecode. As reconstructing sentences with appropriate length from this source would be non-trivial, we will work with the TXT file. The TXT file is formatted with a sentence on each line, followed by the filename, the sentence number and the starting timecode, as shown in this subtitle about the port city of Rotterdam:
 
 
 ```
