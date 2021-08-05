@@ -11,6 +11,6 @@ Although we considered just putting the link on the textual representation in th
 
 We decided to use the well-known [CC licence buttons](https://licensebuttons.net/) and added this with a link next to the date & views info below the title, just fitting for the smallest viewport as in a mobile phone web browser.
 
-Example from [peertube.linuxrocks.online](https://peertube.linuxrocks.online/videos/watch/fe8a4ec1-2ee0-4d23-bed5-14e3b8921ec1):
+Example from [peertube.beeldengeluid.nl](https://peertube.beeldengeluid.nl/w/gCFCSfx2HidXAZ94ujUPTy):
 
 ![Screenshot CC licence button](/extending-peertube/screenshots/screenshot_cc_linkbutton.png)
