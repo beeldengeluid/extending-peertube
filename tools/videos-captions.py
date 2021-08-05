@@ -48,7 +48,7 @@ headers = {
 	'Authorization': token_type + ' ' + access_token
 }
 
-with open('vpro_srt.csv', 'r') as csvfile:
+with open('data/vpro_srt.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
 

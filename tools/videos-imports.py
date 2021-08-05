@@ -66,16 +66,14 @@ licence_links = {
 	'https://creativecommons.org/publicdomain/mark/1.0/': '8' 
 }
 
-file_delta = open('delta.csv', 'a', newline='')
+file_delta = open('data/delta.csv', 'a', newline='')
 delta_writer = csv.writer(file_delta, delimiter='|')
 
 file_rewritemap = open('rewritemap.conf', 'a')
 
-with open('openbeelden.csv', 'r') as csvfile:
+with open('data/openbeelden.csv', 'r') as csvfile:
 	csv_data = csv.reader(csvfile, delimiter='|')
 	for row in csv_data:
-
-		time.sleep(2)
 
 		# Clean data
 
@@ -163,6 +161,8 @@ with open('openbeelden.csv', 'r') as csvfile:
 			# error = response.json()
 
 			# print(json.dumps(error, indent=2))
+
+		time.sleep(1)
 
 file_rewritemap.close()
 file_delta.close()
