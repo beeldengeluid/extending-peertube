@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing PeerTube on macOS
-category: Tools
+category: CC-plugin
 comments: false
 ---
 
