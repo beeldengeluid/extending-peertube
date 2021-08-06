@@ -13,7 +13,7 @@ RDFa is a W3C Recommendation that adds a set of attribute-level extensions to HT
 
 To make this work we added these attributes on the existing HTML of the PeerTube video page. Below you find an excerpt of the tags the plugin extends.
 
-Example from [peertube.beeldengeluid.nl](hhttps://peertube.beeldengeluid.nl/w/gCFCSfx2HidXAZ94ujUPTy):
+Example from [peertube.beeldengeluid.nl](https://peertube.beeldengeluid.nl/w/gCFCSfx2HidXAZ94ujUPTy):
 
 
 ```html

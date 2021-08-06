@@ -228,7 +228,7 @@ An example of the resulting licence button in action on [peertube.beeldengeluid.
 
 ### Inserting licence metadata on video watch pages
 
-Besides displaying a licence button, we want to [add machine-readable metadata](https://beeldengeluid.github.io/extending-peertube/2021-05-25-licence-metadata), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
+Besides displaying a licence button, we want to [add machine-readable metadata](hhttps://beeldengeluid.github.io/extending-peertube/cc-plugin/2021/05/25/licence-metadata.html), so that CC licensed PeerTube videos can be found and indexed by external search engines. 
 
 We select our target elements:
 
