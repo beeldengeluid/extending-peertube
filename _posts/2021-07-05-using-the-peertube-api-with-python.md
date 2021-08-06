@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using the PeerTube API with Python
-category: Tools
+category: Migration
 comments: false
 ---
 
