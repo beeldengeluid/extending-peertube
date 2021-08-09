@@ -11,7 +11,7 @@ To upload or import a video with the API to your PeerTube instance, it only requ
 * a title for the video (between 3 and 120 characters)
 * a channel ID that will contain the video (number 1 or higher)
 
-There are a lot of other optional data fields you can set and in this post we will show how we imported videos in bulk with their metadata.
+There are a lot of other optional data fields you can set and in this article we will show how we imported videos in bulk with their metadata.
 
 <!--more-->
 
