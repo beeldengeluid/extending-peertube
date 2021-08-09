@@ -5,7 +5,7 @@ category: Migration
 comments: false
 ---
 
-After bulk importing videos into a channel you might realize that you have forgotten to set something for all videos or that you made a mistake in setting something. With the help with some Python scripting and the PeerTube API it's possible to bulk update your videos and this post shows how that can be achieved.
+After bulk importing videos into a channel you might realize that you have forgotten to set something for all videos or that you made a mistake in setting something. With the help with some Python scripting and the PeerTube API it's possible to bulk update your videos and this article shows how that can be achieved.
 
 <!--more-->
 
