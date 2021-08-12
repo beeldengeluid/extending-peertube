@@ -28,7 +28,7 @@ if response.status_code == requests.codes.ok:
 
 If you generate subtitles after upload/import, it's important to find a way to couple the video identifier with the subtitle file if you want to bulk upload your subtitle files as well. For instance, you could give your subtitle file the same name as the identifier (like 192727.srt if you use the object id as identifier). In our case we generated a small csv file to 'map' the video uuid with the subtitle file like below (first 10 records):
 
-```csv=
+```
 5a71eb42-d31d-4cf0-9a63-42319bfeb9c6|Guy_Consolmagno__ex2.srt
 0721c557-b4d9-4ef9-ad97-91d663b38125|Yuri_Oganessian__ex2.srt
 9f1b6821-a930-4653-b400-c1f517da7da6|Carolina_Cruz__br.srt
