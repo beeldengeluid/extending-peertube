@@ -81,6 +81,6 @@ RewriteEngine on
 RewriteRule "^/media/(.*)" "/videos/watch/${old2newid:$1}" [PT]
 ```
 
-Note: The RewriteMap directive may not be used in <Directory> sections or .htaccess files. You must declare the map in server or virtualhost context. You may use the map, once created, in your RewriteRule and RewriteCond directives in those scopes. You just can't **declare** it in those scopes.
+Note: The RewriteMap directive may not be used in <Directory> sections or .htaccess files. You must declare the map in server or virtualhost context. You may use the map, once created, in your RewriteRule and RewriteCond directives in those scopes. You just can't __declare__ it in those scopes.
 
 After some searching we found that you can do the same with nginx, although it's slightly more tricky to get it right. In a next article we will show how to set this up for nginx and how we integrated it in the [PeerTube architecture](https://docs.joinpeertube.org/contribute-architecture?id=technical-overview).
