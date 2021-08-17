@@ -147,4 +147,6 @@ map $old_id $new_id {
 }
 ```
 
+In our previous article on [bulk importing videos](https://beeldengeluid.github.io/extending-peertube/migration/2021/07/06/importing-videos-with-the-api.html) to a PeerTube instance with the API, you can find how and where we generated the snippet file `rewritemap.conf` with the old ids from our data in the CSV file and the new ids from the PeerTube API response on succesfull import/upload.
+
 In our next article we will show how to integrate this Nginx URL redirection setup in PeerTube (or in any other existing webserver with Nginx), by recommending where to add these Nginx configuration files.
