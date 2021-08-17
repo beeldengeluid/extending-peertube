@@ -43,7 +43,7 @@ In a configuration for Apache HTTP Server this would be implemented like:
 </VirtualHost>
 ```
 
-There are also some other ways to achieve the same and the documentation on  Redirecting and Remapping for the [Apache HTTP Server](https://httpd.apache.org/docs/2.4/rewrite/remapping.html) is extensive and of very high quality. For the nginx webserver all this can be done in a very similar matter, but it's documentation is a bit more sparse.
+There are also some other ways to achieve the same and the documentation on  Redirecting and Remapping for the [Apache HTTP Server](https://httpd.apache.org/docs/2.4/rewrite/remapping.html) is extensive and of very high quality. For the Nginx http server all this can be done in a very similar matter, but it's documentation is a bit more sparse.
 
 Adding redirects like this (by adding a Redirect directive for every page) to a webserver configuration works perfectly fine if you only want to redirect several pages, but runs into a problem with scale. 
 
@@ -83,4 +83,4 @@ RewriteRule "^/media/(.*)" "/videos/watch/${old2newid:$1}" [PT]
 
 Note: The RewriteMap directive may not be used in <Directory> sections or .htaccess files. You must declare the map in server or virtualhost context. You may use the map, once created, in your RewriteRule and RewriteCond directives in those scopes. You just can't __declare__ it in those scopes.
 
-After some searching we found that you can do the same with nginx, although it's slightly more tricky to get it right. In a next article we will show how to set this up for nginx and how we integrated it in the [PeerTube architecture](https://docs.joinpeertube.org/contribute-architecture?id=technical-overview).
+After some searching we found that you can do the same with Nginx, although it's slightly more tricky to get it right. In a next article we will show how to set this up for Nginx and how we integrated it in the [PeerTube architecture](https://docs.joinpeertube.org/contribute-architecture?id=technical-overview).
