@@ -17,6 +17,10 @@ Beeld & Geluid maintains this repository for project activities. For upstream de
 The Creative Commons plugin for PeerTube is maintained in a separate repository at 
 <https://github.com/beeldengeluid/peertube-plugin-creative-commons>
 
+## Usage
+
+In the [tools](https://github.com/beeldengeluid/extending-peertube/tree/main/tools) directory of this repository we have published our scripts, configuration files and data which we used for our project. All doumentation on their usage can be found on our project website at <https://beeldengeluid.github.io/extending-peertube/>
+
 ## Acknowledgments
 
 * [PeerTube](https://joinpeertube.org/)
