@@ -10,7 +10,9 @@ Although PeerTube is technically capable to support the distribution of large pu
 
 ## PeerTube development
 
-Beeld & Geluid wil actively maintain this repository for project activities. For upstream development we will use our fork of PeerTube at <https://github.com/beeldengeluid/PeerTube>
+Beeld & Geluid runs a self-hosted PeerTube instance at <https://peertube.beeldengeluid.nl>
+
+Beeld & Geluid maintains this repository for project activities. For upstream development we will use our fork of PeerTube at <https://github.com/beeldengeluid/PeerTube>
 
 The Creative Commons plugin for PeerTube is maintained in a separate repository at 
 <https://github.com/beeldengeluid/peertube-plugin-creative-commons>
@@ -18,7 +20,6 @@ The Creative Commons plugin for PeerTube is maintained in a separate repository 
 ## Acknowledgments
 
 * [PeerTube](https://joinpeertube.org/)
-* [PeerTube development](https://github.com/Chocobozzz/PeerTube)
 * [Framasoft](https://framasoft.org/)
 * [NLnet Foundation](https://nlnet.nl/)
 * [Beeld & Geluid](https://beeldengeluid.nl/)
