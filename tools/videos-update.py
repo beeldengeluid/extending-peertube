@@ -16,7 +16,7 @@ api_url = cfg.api_url
 api_user = cfg.api_user
 api_pass = cfg.api_pass
 
-channel_handle = 'themindoftheuniverse'
+channel_handle = 'afp'
 
 # Get client
 
@@ -50,7 +50,7 @@ headers = {
 # Update this data
 
 data = {
-	'category': 15
+	'downloadEnabled': 'True'
 }
 
 # GET videos total from channel
