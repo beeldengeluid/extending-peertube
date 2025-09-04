@@ -7,3 +7,6 @@ CLIENT_SECRET: ""
 USERNAME: "somename"
 PASSWORD: "someword"
 PEERTUBE_CHANNEL: "somechannel"
+FLASK:
+  APP_HOST: "0.0.0.0"
+  APP_PORT: 8888

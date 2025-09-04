@@ -2,11 +2,13 @@ from flask import Flask, render_template
 from flask import request, Response
 import requests
 import json
+from config import cfg
 
 app = Flask(__name__)
-# init the config
-# TODO: put flask settings in config.yml
-app.config.from_object("settings.Config")
+
+app.config.update(
+    APP_HOST=cfg["FLASK"]["APP_HOST"], APP_PORT=cfg["FLASK"]["APP_PORT"], DEBUG=True
+)
 
 
 @app.route("/")
