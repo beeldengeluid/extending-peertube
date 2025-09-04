@@ -1,0 +1,12 @@
+LOG_LEVEL: "INFO"  # Levels: DEBUG - INFO - WARNING - ERROR - CRITICAL
+USERNAME: "willem"
+PASSWORD: "W1ll3m@Peertube"
+# PEERTUBE_CHANNEL: "willem_channel"
+PEERTUBE_CHANNEL: "vpro_channel"
+
+# Franks config
+
+# PROD_USERNAME: "ihc"
+# PROD_PASSWORD: "7VgS%bq9O7xAE3AO"
+# PROD_VIDEO: "https://peertube.beeldengeluid.nl/w/pt34fjVBax5dzF5z5fcGvz"
+# PROD_VIDEO_PASSW: "onslandpeertube"

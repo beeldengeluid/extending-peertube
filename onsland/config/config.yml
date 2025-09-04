@@ -1,0 +1,9 @@
+LOG_LEVEL: "INFO"  # Levels: DEBUG - INFO - WARNING - ERROR - CRITICAL
+PEERTUBE_URL: "https://peertube.beeldengeluid.nl"
+PEERTUBE_PROD_URL: "https://peertube.beeldengeluid.nl"
+PEERTUBE_TEST_URL: "https://blofeld.beeldengeluid.nl"
+CLIENT_ID: ""
+CLIENT_SECRET: ""
+USERNAME: "somename"
+PASSWORD: "someword"
+PEERTUBE_CHANNEL: "somechannel"
