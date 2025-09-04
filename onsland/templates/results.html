@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <h1>{% block title %}Resultaten uit het termennetwerk{% endblock %}</h1>
+{% endblock %}
+
+{% block contentplaatsen %}
+<h2>Resultaten voor zoeken op '{{ term }}'</h2>
+    {% for resultset in plaatsen.data.terms %}
+        <div>
+            <h4>{{ resultset.label[0] }} <small>{{ resultset.terms|length }} results found</small></h4>
+        </div>
+        <div class="card-group">
+            {% for term in resultset.terms %}
+                {% if loop.index <= 5 %}
+                    <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        {% for pl in term.prefLabel %}
+                            <h5 class="card-title">{{ term.prefLabel[0] }}</h5>
+                        {% endfor %}
+                        {% for al in term.altLabel %}
+                            <h6 class="card-subtitle mb-2 text-muted">{{ al }}</h6>
+                        {% endfor %}
+                    <a href="{{ term.uri }}" class="card-link">{{ term.uri }}</a>
+                    </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+{% endblock %}
+
+
+{% block contentpersonen %}
+<h2>Resultaten voor zoeken op '{{ term }}'</h2>
+    {% for resultset in personen.data.terms %}
+        <div>
+            <h4>{{ resultset.label[0] }} <small>{{ resultset.terms|length }} results found</small></h4>
+        </div>
+        <div class="card-group">
+            {% for term in resultset.terms %}
+                {% if loop.index <= 5 %}
+                    <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        {% for pl in term.prefLabel %}
+                            <h5 class="card-title">{{ term.prefLabel[0] }}</h5>
+                        {% endfor %}
+                        {% for al in term.altLabel %}
+                            <h6 class="card-subtitle mb-2 text-muted">{{ al }}</h6>
+                        {% endfor %}
+                    <a href="{{ term.uri }}" class="card-link">{{ term.uri }}</a>
+                    </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+{% endblock %}
+
+{% block contentonderwerpen %}
+<h2>Resultaten voor zoeken op '{{ term }}'</h2>
+    {% for resultset in onderwerpen.data.terms %}
+        <div>
+            <h4>{{ resultset.label[0] }} <small>{{ resultset.terms|length }} results found</small></h4>
+        </div>
+        <div class="card-group">
+            {% for term in resultset.terms %}
+                {% if loop.index <= 5 %}
+                    <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        {% for pl in term.prefLabel %}
+                            <h5 class="card-title">{{ term.prefLabel[0] }}</h5>
+                        {% endfor %}
+                        {% for al in term.altLabel %}
+                            <h6 class="card-subtitle mb-2 text-muted">{{ al }}</h6>
+                        {% endfor %}
+                    <a href="{{ term.uri }}" class="card-link">{{ term.uri }}</a>
+                    </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+{% endblock %}
+
