@@ -5,4 +5,4 @@ tools/harvest.php
 
 _site
 *.pyc
-
+.vscode/*
