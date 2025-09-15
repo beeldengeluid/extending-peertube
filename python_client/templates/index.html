@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <h1>{% block title %}Videos in Peertube channel{% endblock %}</h1>
+{% endblock %}
+
+{% block listvideos %}
+<!-- <h2>Overzicht van video&quot;s in Peertube channel</h2> -->
+  {% for video in all_videos %}
+    <div class="card-group">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 id="card_title_{{video.id}}" class="card-title">{{video.name}} [{{video.privacy.label}}]</h5>
+            <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+            <video id="video_{{video.id}}" width="850" height="480" autoplay controls></video>
+            <script>
+              // # "Video password header, video file token query parameter and bearer token are all missing",
+              // TODO: how is it that they are missin when this is the URL:hlshttps://blofeld.beeldengeluid.nl/static/streaming-playlists/hls/private/9c97c691-70d0-4f03-a377-c486bad0392d/26fc3baa-ce38-492a-b604-98dfa6daf699-master.m3u8?videoFileToken=909e45c3-096f-485f-94b8-eff197f5fa37&reinjectVideoFileToken=1
+            if(Hls.isSupported())
+            {
+                var video = document.getElementById('video_{{video.id}}');
+                var titel = document.getElementById('card_title_{{video.id}}');
+                titel.append(' HLS')
+                var hls = new Hls();
+                hls.loadSource('{{video.static_video_url|e}}');
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED,function()
+                {
+                    video.play();
+                });
+            }
+            else if (video.canPlayType('application/vnd.apple.mpegurl'))
+            {
+                var video = document.getElementById('video_{{video.id}}');
+                video.src = '{{video.static_video_url|e}}';
+                video.addEventListener('canplay',function()
+                {
+                    video.play();
+                });
+            }
+            </script>
+            <!-- <iframe title="MUZIEKFESTIVAL" width="560" height="315" src="https://blofeld.beeldengeluid.nl/videos/embed/6f6tUsPmnmHFvCue3FaLAY" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe> -->
+            <!-- <a class="link-light" title="&lt;{{video.name}}&gt;" href="{{video.url}}" target="_blank">{{video.name}}</a> -->
+          </div>
+        </div>
+    </div>
+  {% endfor %}
+{% endblock %}
